@@ -1,0 +1,101 @@
+Label,Type,CLO_C,CLO_M,CL_C,CL_M,UBERON_C,UBERON_M,BTO_C,BTO_M
+ovary adult pool1,A,-,-,-,-,ovary,ovary,ovary,ovary
+Fetal_Kidney,A,-,-,kidney cell,-,kidney,metanephric renal vesicle,kidney,kidney
+Arteries_C,A,-,-,-,-,artery,artery,artery,artery
+VentricleRight,A,-,-,cardiocyte,-,heart right ventricle,heart right ventricle,right ventricle,right ventricle
+small_intestine_1,A,-,-,epithelial cell of small intestine,-,small intestine,small intestine,small intestine,small intestine
+UCSD_Aorta,A,-,-,-,-,aorta,aorta,aorta,aorta
+BA10,A,-,-,neural cell,-,brain,frontal lobe,prefrontal cortex,prefrontal cortex
+Pancreas,A,-,-,-,-,pancreas,pancreas,pancreas,pancreas
+stomach_3y,A,-,-,-,-,stomach,stomach,stomach,stomach
+small_intestine_2,A,-,-,epithelial cell of small intestine,-,small intestine,small intestine,small intestine,small intestine
+Lateral temporal lobe_17T_Young,A,-,-,neural cell,-,temporal lobe,temporal lobe,temporal lobe,temporal lobe
+pancreas,A,-,-,-,-,pancreas,pancreas,pancreas,pancreas
+BJ/ET,CL,BJ cell,immortal human foreskin-derived fibroblast cell line cell,foreskin fibroblast,foreskin fibroblast,prepuce of penis,prepuce of penis,BJ cell,BJ cell
+PATU8988S_GFP_DOX,CL,PA-TU-8988S cell,PA-TU-8988S cell,epithelial cell of pancreas,epithelial cell of pancreas,pancreas,pancreas,Patu-8988 cell,Patu-8988 cell
+MKN28,CL,MKN28 cell,MKN28 cell,epithelial cell of stomach,epithelial cell of stomach,stomach,stomach,MKN-28 cell,MKN-28 cell
+H1 hESC-derived neural progenitor cells_Smad_72hr,CL,human embryonic stem cell line cell,human embryonic stem cell line cell,neural progenitor cell,neural progenitor cell,embryo,central nervous system,embryonic stem cell line,embryonic stem cell line
+TTC549_Doxycycline,CL,-,-,-,-,liver,-,-,-
+LREX,CL,-,-,epithelial cell of prostate,lymphangioblast,prostate gland,-,-,LX-2 cell
+TSU-1621-MT_adult_acute_myeloid_leukemia_ATRA,CL,-,-,myeloid cell,myeloid cell,blood,hematopoietic tissue,-,-
+TGBC2TKB,CL,THP-1 cell,-,epithelial cell,gallbladder glandular cell,gallbladder,gallbladder,-,GBC-SD cell
+GICAN,CL,GI-CA-N cell,GM09947 cell,neuroblast (sensu Vertebrata),-,nervous system,-,-,-
+GM23338,CL,-,-,pluripotent stem cell,B-lymphoblast,skin epidermis,venous blood,B-lymphoblast cell line,B-lymphoblast cell line
+FL8,CL,-,FL 62891 cell,B cell,flask cell,lymph node,-,FL cell,FL cell
+WI-38,CL,WI-38 cell,immortal human lung-derived fibroblast cell line cell,fibroblast of lung,-,lung,lung,WI-38 cell,lung fibroblast cell line
+H441,CL,NCI-H441 cell,NCI-H441 cell,club cell,obsolete epithelial cell of alveolus of lung,lung,lung epithelium,NCI-H441 cell,NCI-H441 cell
+adenocarcinoma cell line:IM95m,CL,-,MSN09-4 cell,epithelial cell of stomach,epithelial cell of stomach,stomach,-,IM-95 cell,IM-95 cell
+Y79,CL,Y79 cell,-,retinoblast,retinoblast,retina,retina,Y-79 cell,Y-79 cell
+T3M4 wt,CL,RCB1021 cell,TM4 cell,epithelial cell of pancreas,epithelial cell of pancreas,pancreas,pancreas,T3M4 cell,TM-4 cell
+DUCaP_prostate_carcinoma,CL,-,-,epithelial cell of prostate,epithelial cell of prostate,prostate gland,prostate gland,-,RAMOS-EHRB cell
+gm19238,CL,GM19238 cell,GM19239 cell,B cell,B-lymphoblast,blood,blood,B-lymphoblastoid cell line,B-lymphoblastoid cell line
+B-CPAP,CL,B-CPAP cell,B-CPAP cell,epithelial cell of thyroid gland,epithelial cell of thyroid gland,thyroid gland,thyroid gland,B-CPAP cell,B-CPAP cell
+WA01_H1_human_embryonic_stem_cells_EMB,CL,-,-,embryonic stem cell,embryonic stem cell,embryo,embryo,WA-01 cell,WA-01 cell
+CRC107_colorectal_cancer_metastatic_stem_cells,CL,-,-,stem cell,stem cell,colon,colorectum,-,-
+MT4H1,CL,MT4 cell,MT4 cell,hematopoietic cell,"activated CD4-positive, alpha-beta T cell, human",blood,blood,MT-4 cell,MT-4 cell
+MIC,CL,-,-,bone cell,-,bone tissue,-,-,-
+NT2-D1_embryonic_carcinoma,CL,NT2-D1 cell,-,pluripotent stem cell,germ cell,testis,testis,NT2/D1 cell,NT2/D1 cell
+Human Podocyte Cell Line AB8/13,CL,-,-,kidney epithelial cell,kidney epithelial cell,glomerular capsule,renal glomerulus,podocyte,podocyte
+D341_6,CL,D341 Med cell,DA01341 cell,neural cell,-,cerebellum,-,-,-
+THP1_DMSO_noPMA,CL,THP-1 cell,THP-1 cell,monocyte,monocyte,blood,blood,THP-1 cell,THP-1 cell
+BG01V,CL,hES BG01V cell,human embryonic stem cell line cell,embryonic stem cell,embryonic stem cell,embryo,inner cell mass,embryonic stem cell line,embryonic stem cell line
+SUIT2_MTV,CL,SUIT-2 cell,HepG2-AhR-luc,epithelial cell of exocrine pancreas,epithelial cell of exocrine pancreas,exocrine pancreas,exocrine pancreas,SUIT-2 cell,SUIT-2 cell
+MCF7_Invasive_ductal_breast_carcinoma_TAM,CL,MCF7 cell,MCF7 cell,mammary gland epithelial cell,mammary gland epithelial cell,breast,mammary gland,MCF-7 cell,MCF-7 cell
+RPMI 2650,CL,RPMI-2650 cell,-,squamous epithelial cell,squamous epithelial cell,nasal septum,nasal septum,RPMI-2650 cell,RPMI-2650 cell
+MCF7_Invasive_ductal_breast_carcinoma_DEX,CL,MCF7 cell,-,mammary gland epithelial cell,mammary gland epithelial cell,breast,mammary gland,MCF-7 cell,breast adenocarcinoma cell line
+OCI-LY3_diffuse_large_B-cell_lymphoma,CL,-,OCI-M1 cell,B cell,lymphocyte of B lineage,bone marrow,lymph node,-,-
+KYSE180,CL,KYSE-180 cell,KYSE-150 cell,squamous epithelial cell,squamous epithelial cell,esophagus,esophagus,-,-
+SU-DHL-2,CL,-,-,B cell,B cell,blood,lymph node,SU-DHL-2 cell,diffuse large B-cell lymphoma cell line
+mdamb175vii,CL,MDA-MB-175-VII cell,MDA-MB-175-VII cell,mammary gland epithelial cell,mammary gland epithelial cell,breast,mammary gland,MDA-MB-175-VII cell,MDA-MB-175-VII cell
+glioblastoma cell line:T98G,CL,T98G cell,-,fibroblast,malignant cell,brain,brain,T-98G cell,T-98 cell
+AG10803,CL,AG10803 cell,AG10803 cell,skin fibroblast,-,abdominal cavity,-,-,-
+TTC1240_SMARCB1_K364del,CL,-,-,kidney cell,-,kidney,-,-,TT2 ES cell
+Tet21N_neuroblastoma,CL,immortal neuroblast cell line cell,immortal neuroblast cell line cell,neuroblast (sensu Vertebrata),malignant cell,nervous system,nervous system,Tet21N cell,Tet21N cell
+RWPE1_prostate_epithelial_cells,CL,RWPE-1 cell,RWPE-1 cell,epithelial cell of prostate,epithelial cell of prostate,prostate gland,prostate gland,RWPE-1 cell,RWPE-1 cell
+OCI-AML-3,CL,OCI-AML3 cell,OCI-AML3 cell,myeloid cell,myeloid cell,blood,hematopoietic system,OCI-AML3 cell,acute myeloid leukemia cell line
+HuH-6,CL,RCB1367 cell,immortal human liver-derived cell line cell,hepatocyte,hepatocyte,liver,liver,HuH-6 cell,hepatoblastoma cell line
+SK-N-BE2,CL,SK-N-BE(2) cell,SK-N-BE(2) cell,neuroblast (sensu Vertebrata),neuroblast (sensu Vertebrata),nervous system,adrenal medulla,SK-N-BE(2) cell,neuroblastoma cell line
+TTC-1240_Rhabdoid_tumor_of_the_kidney,CL,-,-,kidney cell,malignant cell,kidney,kidney,-,TTA-1 cell
+Ly4,CL,-,LA-4 cell,B cell,-,blood,-,-,EL-4 cell
+CyT49_HE,CL,-,A498 cell,embryonic stem cell,embryonic stem cell,embryo,-,-,-
+ATN-1,CL,RCB1440 cell,AT-1 cell,T cell,-,blood,-,-,AT1ABR cell
+HK-2,CL,HK-2 cell,HK-2 cell,epithelial cell of proximal tubule,epithelial cell of proximal tubule,proximal tubule,proximal tubule,HK-2 cell,HK-2 cell
+MDA-MB-157,CL,MDA-MB-157 cell,MDA-MB-157 cell,mammary gland epithelial cell,mammary gland epithelial cell,breast,mammary gland,MDA-MB-157 cell,MDA-MB-157 cell
+Adrenocortical_adrenal_3,CT,-,-,cortical cell of adrenal gland,cortical cell of adrenal gland,adrenal gland,adrenal gland,adrenocortical cell,adrenocortical cell
+M0_CB,CT,-,-,macrophage,macrophage,blood,umbilical cord blood,macrophage,macrophage
+Acinar_pancreas,CT,-,-,pancreatic acinar cell,pancreatic acinar cell,pancreas,pancreas,pancreatic acinar cell,pancreatic acinar cell
+Tumor_3_BCC,CT,-,-,neoplastic cell,basal cell of epidermis,-,skin epidermis,-,basal cell carcinoma cell
+Club-D,CT,-,-,club cell,club cell,lung,terminal bronchiole epithelium,Clara cell,Clara cell
+B lymphoblastoid Cell,CT,-,-,B-lymphoblast,immature B cell,blood,secondary nodular lymphoid tissue,B-lymphoblastoid cell,B-lymphoblastoid cell line
+Astrocyte_Oligo_1,CT,-,-,glial cell,astrocyte,brain,central nervous system,-,neuron-oligodendrocyte coculture
+Primary T cells from?peripheral?blood,CT,-,-,T cell,lymphocyte,blood,blood,T-lymphocyte,T-lymphocyte
+primaryhepatocyte-gw4064,CT,-,-,hepatocyte,hepatocyte,liver,liver,hepatocyte,hepatocyte
+Schwann_heart,CT,-,-,Schwann cell,Schwann cell,heart,cardiac muscle tissue,Schwann cell,Schwann cell
+umbilical cord Fibroblast,CT,-,-,fibroblast,fibroblast,umbilical cord,umbilical cord,umbilical cord cell line,umbilical cord cell line
+Myeloid_placenta,CT,-,-,myeloid cell,macrophage dendritic cell progenitor,placenta,placenta,myeloid cell line,-
+PBMC_Rep1-CD34,CT,-,-,peripheral blood mononuclear cell,"CD34-positive, CD38-negative hematopoietic stem cell",blood,blood,-,culture condition:CD34+ cell
+Human Bronchial Epithelial Cell,CT,-,-,bronchial epithelial cell,bronchial epithelial cell,bronchus,bronchus,bronchial epithelial cell,bronchial epithelial cell
+NHEK-Epidermal Keratinocyte Primary Cells,CT,-,-,keratinocyte,keratinocyte,skin epidermis,skin epidermis,NHEK cell,keratinocyte
+Lens Epithelial Cells donor1,CT,-,-,lens epithelial cell,lens epithelial cell,epithelium of lens,lens of camera-type eye,human lens epithelial cell line,human lens epithelial cell line
+EPC_VB,CT,-,-,adult endothelial progenitor cell,adult endothelial progenitor cell,bone marrow,venous blood,endothelial progenitor cell,endothelial progenitor cell
+Matrix_Fibrob_1_G,CT,-,-,fibroblast,fibroblast,connective tissue,connective tissue,fibroblast,fibroblast
+non-tamoxifen_EC2,CT,-,-,epithelial cell of uterus,epithelial cell of uterus,endometrium,blood vessel endothelium,endothelial cell,endothelial cell
+Fibroblast - Gingival donor1,CT,-,-,fibroblast,fibroblast,gingiva,gingiva,gingival fibroblast,gingival fibroblast
+naive_B_VB,CT,-,-,naive B cell,naive B cell,blood,-,-,-
+CD4+ cell_UNTREATED,CT,-,-,CD4-positive helper T cell,CD4-positive helper T cell,immune system,venous blood,helper T-lymphocyte,helper T-lymphocyte
+AT1_B,CT,-,-,pulmonary alveolar type 1 cell,pulmonary alveolar type 1 cell,alveolus of lung,alveolus of lung,alveolar cell type I,alveolar cell type I
+Tracheal Epithelial Cells donor1,CT,-,-,tracheal epithelial cell,tracheal epithelial cell,trachea,trachea,trachea,trachea
+peripheral_blood_mononuclear_cells,CT,-,-,peripheral blood mononuclear cell,peripheral blood mononuclear cell,blood,blood,peripheral blood mononuclear cell,peripheral blood mononuclear cell
+CD8_T_cells,CT,-,-,"CD8-positive, alpha-beta T cell","CD8-positive, alpha-beta T cell",immune system,T cell domain,cytotoxic T-lymphocyte,cytotoxic T-lymphocyte
+normal_lung_fibroblasts,CT,-,-,fibroblast of lung,fibroblast of lung,lung,lung,lung fibroblast,lung fibroblast
+Treg2_t-infiltrating,CT,-,-,regulatory T cell,"CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell",immune system,tissue,regulatory T-lymphocyte,T2 cell
+GBM22,CT,GBM cell,-,glial cell,glioblast,brain,central nervous system,glioblastoma cell,glioblastoma cell
+Primary natural killer cells (from PB),CT,-,-,natural killer cell,natural killer cell,blood,blood,natural killer cell,natural killer cell
+ES derived primitive cardiomyocite_day15,CT,-,-,cardiac muscle myoblast,cardiac muscle myoblast,heart,cardiac muscle tissue,cardiomyocyte cell line,cardiomyocyte cell line
+Macrophage - monocyte derived donor3,CT,-,-,macrophage,macrophage,blood,blood,macrophage,macrophage
+Foreskin Keratinocyte Primary Cells skin02,CT,-,-,foreskin keratinocyte,-,prepuce of penis,prepuce of penis,foreskin keratinocyte cell line,foreskin keratinocyte cell line
+MPAL4_T1_1,CT,-,-,hematopoietic cell,CD117-positive common myeloid progenitor OR CD217-positive common lymphoid progenitor,blood,bone marrow,acute lymphoblastic leukemia cell,acute lymphoblastic leukemia cell
+Osteoblast Primary Cells,CT,-,-,osteoblast,osteoblast,bone tissue,bone tissue,osteoblast,osteoblast
+Hair Follicle Dermal Papilla Cells donor3,CT,-,-,hair follicle dermal papilla cell,hair follicle dermal papilla cell,hair follicle,dermal papilla,hair follicle dermal papilla cell,hair follicle dermal papilla cell
+Intestinal_epithelial_2,CT,-,-,intestinal epithelial cell,intestinal epithelial cell,intestinal epithelium,intestinal epithelium,intestinal cell line,intestinal cell line
+Ciliary Epithelial Cells donor1,CT,-,-,ciliated epithelial cell,ciliated epithelial cell,ciliated epithelium,ciliated epithelium,nonpigmented ciliary epithelial cell,nonpigmented ciliary epithelial cell

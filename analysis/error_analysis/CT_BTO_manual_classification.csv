@@ -1,0 +1,39 @@
+Sample_ID,Label,Type,BTO_C,BTO_M,User_Classification
+S003,Schwann_heart,CT,Schwann cell,Schwann cell,No Error
+S004,Tracheal Epithelial Cells donor1,CT,trachea,trachea,No Error
+S008,CD8_T_cells,CT,cytotoxic T-lymphocyte,cytotoxic T-lymphocyte,No Error
+S014,CD4+ cell_UNTREATED,CT,helper T-lymphocyte,helper T-lymphocyte,No Error
+S019,naive_B_VB,CT,-,-,No Error
+S020,Fibroblast - Gingival donor1,CT,gingival fibroblast,gingival fibroblast,No Error
+S022,Osteoblast Primary Cells,CT,osteoblast,osteoblast,No Error
+S023,Club-D,CT,Clara cell,Clara cell,No Error
+S027,Intestinal_epithelial_2,CT,intestinal cell line,intestinal cell line,No Error
+S028,PBMC_Rep1-CD34,CT,-,culture condition:CD34+ cell,A
+S030,Foreskin Keratinocyte Primary Cells skin02,CT,foreskin keratinocyte cell line,foreskin keratinocyte cell line,No Error
+S032,AT1_B,CT,alveolar cell type I,alveolar cell type I,No Error
+S035,Lens Epithelial Cells donor1,CT,human lens epithelial cell line,human lens epithelial cell line,No Error
+S040,Matrix_Fibrob_1_G,CT,fibroblast,fibroblast,No Error
+S043,Tumor_3_BCC,CT,-,basal cell carcinoma cell,
+S045,Astrocyte_Oligo_1,CT,-,neuron-oligodendrocyte coculture,A
+S052,Adrenocortical_adrenal_3,CT,adrenocortical cell,adrenocortical cell,No Error
+S057,EPC_VB,CT,endothelial progenitor cell,endothelial progenitor cell,No Error
+S059,NHEK-Epidermal Keratinocyte Primary Cells,CT,NHEK cell,keratinocyte,
+S061,Primary natural killer cells (from PB),CT,natural killer cell,natural killer cell,No Error
+S062,umbilical cord Fibroblast,CT,umbilical cord cell line,umbilical cord cell line,No Error
+S063,Ciliary Epithelial Cells donor1,CT,nonpigmented ciliary epithelial cell,nonpigmented ciliary epithelial cell,No Error
+S064,Hair Follicle Dermal Papilla Cells donor3,CT,hair follicle dermal papilla cell,hair follicle dermal papilla cell,No Error
+S065,non-tamoxifen_EC2,CT,endothelial cell,endothelial cell,No Error
+S069,normal_lung_fibroblasts,CT,lung fibroblast,lung fibroblast,No Error
+S070,MPAL4_T1_1,CT,acute lymphoblastic leukemia cell,acute lymphoblastic leukemia cell,No Error
+S072,B lymphoblastoid Cell,CT,B-lymphoblastoid cell,B-lymphoblastoid cell line,A
+S075,M0_CB,CT,macrophage,macrophage,No Error
+S076,Human Bronchial Epithelial Cell,CT,bronchial epithelial cell,bronchial epithelial cell,No Error
+S077,Acinar_pancreas,CT,pancreatic acinar cell,pancreatic acinar cell,No Error
+S081,GBM22,CT,glioblastoma cell,glioblastoma cell,No Error
+S086,Myeloid_placenta,CT,myeloid cell line,-,A
+S089,Macrophage - monocyte derived donor3,CT,macrophage,macrophage,No Error
+S090,ES derived primitive cardiomyocite_day15,CT,cardiomyocyte cell line,cardiomyocyte cell line,No Error
+S092,Primary T cells from?peripheral?blood,CT,T-lymphocyte,T-lymphocyte,No Error
+,,,,,No Error: 31
+,,,,,A: 4
+,,,,,

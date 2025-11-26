@@ -1,0 +1,101 @@
+Label	Type	CLO	CL	UBERON	BTO
+ovary adult pool1	A	-	-	1	1
+Fetal_Kidney	A	-	-	0	1
+Arteries_C	A	-	-	1	1
+VentricleRight	A	- 	-	1	1
+small_intestine_1	A	-	-	1	1
+UCSD_Aorta	A	-	-	1	1
+BA10	A	-	-	1	1
+Pancreas	A	-	-	9	5
+stomach_3y	A	-	-	1	1
+small_intestine_2	A	-	-	1	1
+Lateral temporal lobe_17T_Young	A	-	-	2	1
+pancreas	A	-	-	1	1
+BJ/ET	CL	1	1	8	1
+PATU8988S_GFP_DOX	CL	0	1	1	1
+MKN28	CL	1	1	1	1
+H1 hESC-derived neural progenitor cells_Smad_72hr	CL	1	1	1	1
+TTC549_Doxycycline	CL	0	0	0	0
+LREX	CL	0	0	0	0
+TSU-1621-MT_adult_acute_myeloid_leukemia_ATRA	CL	0	1	1	0
+TGBC2TKB	CL	0	1	1	0
+GICAN	CL	0	0	0	0
+GM23338	CL	0	1	5	1
+FL8	CL	3	0	0	4
+WI-38	CL	1	1	4	1
+H441	CL	1	1	1	1
+adenocarcinoma cell line:IM95m	CL	0	1	1	2
+Y79	CL	0	2	4	2
+T3M4 wt	CL	0	1	1	1
+DUCaP_prostate_carcinoma	CL	0	1	4	0
+gm19238	CL	7	1	8	1
+B-CPAP	CL	1	1	1	1
+WA01_H1_human_embryonic_stem_cells_EMB	CL	0	2	1	1
+CRC107_colorectal_cancer_metastatic_stem_cells	CL	0	5	1	1
+MT4H1	CL	1	3	1	1
+MIC	CL	0	0	0	0
+NT2-D1_embryonic_carcinoma	CL	1	7	1	1
+Human Podocyte Cell Line AB8/13	CL	0	1	1	0
+D341_6	CL	0	1	1	0
+THP1_DMSO_noPMA	CL	1	5	7	1
+BG01V	CL	0	2	2	0
+SUIT2_MTV	CL	1	1	1	1
+MCF7_Invasive_ductal_breast_carcinoma_TAM	CL	1	1	1	1
+RPMI 2650	CL	1	1	1	1
+MCF7_Invasive_ductal_breast_carcinoma_DEX	CL	2	1	1	1
+OCI-LY3_diffuse_large_B-cell_lymphoma	CL	0	1	2	0
+KYSE180	CL	0	2	1	0
+SU-DHL-2	CL	0	1	2	1
+mdamb175vii	CL	1	2	1	1
+glioblastoma cell line:T98G	CL	0	1	1	1
+AG10803	CL	0	1	1	1
+TTC1240_SMARCB1_K364del	CL	0	1	0	0
+Tet21N_neuroblastoma	CL	0	1	1	1
+RWPE1_prostate_epithelial_cells	CL	1	1	1	1
+OCI-AML-3	CL	1	3	1	1
+HuH-6	CL	0	2	1	1
+SK-N-BE2	CL	3	5	1	10
+TTC-1240_Rhabdoid_tumor_of_the_kidney	CL	0	1	1	0
+Ly4	CL	0	0	0	0
+CyT49_HE	CL	0	1	0	0
+ATN-1	CL	0	0	0	0
+HK-2	CL	4	1	1	1
+MDA-MB-157	CL	1	1	1	1
+Adrenocortical_adrenal_3	CT	-	1	1	2
+M0_CB	CT	-	5	1	5
+Acinar_pancreas	CT	-	1	2	1
+Tumor_3_BCC	CT	-	1	1	1
+Club-D	CT	-	1	3	1
+B lymphoblastoid Cell	CT	-	2	1	1
+Astrocyte_Oligo_1	CT	-	4	1	1
+Primary T cells from?peripheral?blood	CT	-	1	6	1
+primaryhepatocyte-gw4064	CT	-	1	1	1
+Schwann_heart	CT	-	1	1	1
+umbilical cord Fibroblast	CT	-	3	1	6
+Myeloid_placenta	CT	-	2	1	1
+PBMC_Rep1-CD34	CT	-	2	6	1
+Human Bronchial Epithelial Cell	CT	-	1	1	1
+NHEK-Epidermal Keratinocyte Primary Cells	CT	-	1	1	1
+Lens Epithelial Cells donor1	CT	-	1	1	1
+EPC_VB	CT	-	1	1	1
+Matrix_Fibrob_1_G	CT	-	1	2	1
+non-tamoxifen_EC2	CT	-	1	1	1
+Fibroblast - Gingival donor1	CT	-	1	1	1
+naive_B_VB	CT	-	1	0	0
+CD4+ cell_UNTREATED	CT	-	1	0	1
+AT1_B	CT	-	1	1	1
+Tracheal Epithelial Cells donor1	CT	-	1	1	1
+peripheral_blood_mononuclear_cells	CT	-	1	4	1
+CD8_T_cells	CT	-	1	0	1
+normal_lung_fibroblasts	CT	-	1	2	1
+Treg2_t-infiltrating	CT	-	2	0	0
+GBM22	CT	-	1	1	1
+Primary natural killer cells (from PB)	CT	-	1	5	1
+ES derived primitive cardiomyocite_day15	CT	-	2	1	1
+Macrophage - monocyte derived donor3	CT	-	2	0	0
+Foreskin Keratinocyte Primary Cells skin02	CT	-	1	1	1
+MPAL4_T1_1	CT	-	0	1	0
+Osteoblast Primary Cells	CT	-	1	2	1
+Hair Follicle Dermal Papilla Cells donor3	CT	-	1	1	1
+Intestinal_epithelial_2	CT	-	1	1	1
+Ciliary Epithelial Cells donor1	CT	-	1	1	2

@@ -1,0 +1,2082 @@
+{
+    "Crypt2": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "-",
+        "crypt of Lieberkuhn of colon",
+        "crypt of Lieberkuhn of small intestine",
+        "-",
+        "crypt"
+    ],
+    "muscle-of-leg": [
+        "-",
+        "-",
+        "striated muscle cell",
+        "-",
+        "muscle of leg",
+        "musculature of lower limb",
+        "leg muscle",
+        "leg muscle"
+    ],
+    "lung right lower lobe adult donor1": [
+        "-",
+        "-",
+        "epithelial cell of lung",
+        "-",
+        "lower lobe of right lung",
+        "lower lobe of right lung",
+        "-",
+        "lung"
+    ],
+    "left ventricle_DCM_LV1009": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "Brain Germinal Matrix": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "germinal neuroepithelium",
+        "-",
+        "embryonic brain"
+    ],
+    "paracentral gyrus adult pool1": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "paracentral gyrus",
+        "paracentral gyrus",
+        "paracentral lobule",
+        "paracentral lobule"
+    ],
+    "body-of-pancreas": [
+        "-",
+        "-",
+        "epithelial cell of pancreas",
+        "-",
+        "body of pancreas",
+        "body of pancreas",
+        "-",
+        "pancreas"
+    ],
+    "Esophagus": [
+        "-",
+        "-",
+        "epithelial cell of esophagus",
+        "-",
+        "esophagus",
+        "esophagus",
+        "esophagus",
+        "esophagus"
+    ],
+    "Fetal intestine large": [
+        "-",
+        "-",
+        "epithelial cell of large intestine",
+        "-",
+        "large intestine",
+        "large intestine",
+        "large intestine",
+        "large intestine"
+    ],
+    "ovary adult pool1": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "ovary",
+        "ovary",
+        "ovary",
+        "ovary"
+    ],
+    "Brain_Substantia_Nigra": [
+        "-",
+        "-",
+        "neuron of the substantia nigra",
+        "-",
+        "substantia nigra",
+        "substantia nigra pars reticulata",
+        "substantia nigra",
+        "substantia nigra"
+    ],
+    "Whole blood (ribopure) donor090612 donation2": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "-",
+        "blood",
+        "blood",
+        "-",
+        "peripheral blood"
+    ],
+    "retina": [
+        "-",
+        "-",
+        "retinal cell",
+        "-",
+        "retina",
+        "retina",
+        "retina",
+        "neural retina"
+    ],
+    "Brain_Putamen_basal_ganglia": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "basal ganglion",
+        "basal ganglion",
+        "-",
+        "caudate putamen"
+    ],
+    "muscle_of_leg": [
+        "-",
+        "-",
+        "striated muscle cell",
+        "-",
+        "muscle of leg",
+        "muscle of leg",
+        "-",
+        "leg muscle"
+    ],
+    "Fetal_Kidney": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "metanephric renal vesicle",
+        "kidney",
+        "kidney"
+    ],
+    "hippocampus - adult donor10196": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "hippocampal formation",
+        "hippocampus",
+        "hippocampus"
+    ],
+    "colon fetal donor1": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "-",
+        "colon",
+        "large intestine",
+        "colon",
+        "large intestine"
+    ],
+    "Arteries_C": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "artery",
+        "artery",
+        "artery",
+        "artery"
+    ],
+    "left ventricle 3y": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "spleen": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "spleen",
+        "spleen",
+        "spleen",
+        "spleen"
+    ],
+    "Caudate_nucleus": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "caudate nucleus",
+        "caudate nucleus",
+        "caudate nucleus",
+        "caudate nucleus"
+    ],
+    "Esophagus Squamous Epithelium": [
+        "-",
+        "-",
+        "squamous epithelial cell",
+        "-",
+        "esophagus squamous epithelium",
+        "esophagus squamous epithelium",
+        "esophageal squamous epithelium",
+        "esophageal squamous epithelium"
+    ],
+    "Fetal_Muscle_Trunk": [
+        "-",
+        "-",
+        "muscle cell",
+        "-",
+        "skeletal muscle of trunk",
+        "skeletal muscle of trunk",
+        "-",
+        "skeletal muscle"
+    ],
+    "Skin_Sun_Exposed_Lower_leg": [
+        "-",
+        "-",
+        "epithelial cell",
+        "-",
+        "skin epidermis",
+        "lower leg skin",
+        "-",
+        "lower epidermis"
+    ],
+    "epididymis adult": [
+        "-",
+        "-",
+        "duct epithelial cell",
+        "-",
+        "epididymis",
+        "epididymis",
+        "epididymis",
+        "epididymis"
+    ],
+    "left ventricle_DCM_LV1433": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "Fetal liver": [
+        "-",
+        "-",
+        "hepatocyte",
+        "-",
+        "liver",
+        "liver",
+        "liver",
+        "liver"
+    ],
+    "retina adult pool1": [
+        "-",
+        "-",
+        "retinal cell",
+        "-",
+        "retina",
+        "retina",
+        "retina",
+        "retina"
+    ],
+    "Fetal Brain Male": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "brain",
+        "brain",
+        "brain"
+    ],
+    "VentricleRight": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart right ventricle",
+        "heart right ventricle",
+        "right ventricle",
+        "right ventricle"
+    ],
+    "Kidney_cortex": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "cortex of kidney",
+        "cortex of kidney",
+        "renal cortex",
+        "renal cortex"
+    ],
+    "Hilar lymph node": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "lymph node",
+        "lymph node",
+        "-",
+        "lymph node"
+    ],
+    "liver": [
+        "-",
+        "-",
+        "hepatocyte",
+        "-",
+        "liver",
+        "liver",
+        "liver",
+        "liver"
+    ],
+    "spleen adult pool1": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "spleen",
+        "spleen",
+        "spleen",
+        "spleen"
+    ],
+    "Vagina": [
+        "-",
+        "-",
+        "vagina squamous cell",
+        "-",
+        "vagina",
+        "vagina",
+        "-",
+        "vaginal mucosa"
+    ],
+    "gastrocnemius medialis_54y": [
+        "-",
+        "-",
+        "muscle cell",
+        "-",
+        "gastrocnemius medialis",
+        "gastrocnemius medialis",
+        "gastrocnemius",
+        "head muscle"
+    ],
+    "Rectal Mucosa Donor 31": [
+        "-",
+        "-",
+        "epithelial cell of large intestine",
+        "-",
+        "mucosa of rectum",
+        "mucosa of rectum",
+        "-",
+        "colorectal mucosa"
+    ],
+    "coronary_artery": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "coronary artery",
+        "coronary artery",
+        "coronary artery",
+        "coronary artery"
+    ],
+    "Fetal Intestine": [
+        "-",
+        "-",
+        "intestinal epithelial cell",
+        "-",
+        "intestine",
+        "intestine",
+        "intestine",
+        "intestine"
+    ],
+    "Intestine_Unknown.8_intestine": [
+        "-",
+        "-",
+        "intestinal epithelial cell",
+        "-",
+        "intestine",
+        "intestine",
+        "intestine",
+        "intestine"
+    ],
+    "Fetal Stomach": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "stomach",
+        "stomach",
+        "-",
+        "stomach"
+    ],
+    "pancreatic-islets-F": [
+        "-",
+        "-",
+        "pancreatic endocrine cell",
+        "-",
+        "islet of Langerhans",
+        "islet of Langerhans",
+        "pancreatic islet",
+        "pancreatic islet"
+    ],
+    "duodenum fetal donor1 tech_rep2": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "duodenum",
+        "duodenum",
+        "duodenum",
+        "duodenum"
+    ],
+    "Fetal_heart": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart",
+        "embryonic cardiovascular system",
+        "heart",
+        "heart"
+    ],
+    "BA40_brodmann_area_40": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "Brodmann (1909) area 40",
+        "-",
+        "-",
+        "cerebral gyrus"
+    ],
+    "Colon smooth muscle": [
+        "-",
+        "-",
+        "smooth muscle cell of colon",
+        "-",
+        "large intestine smooth muscle",
+        "large intestine smooth muscle",
+        "-",
+        "colon muscle"
+    ],
+    "UCSD_Right_Atrium": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "right cardiac atrium",
+        "right cardiac atrium",
+        "right atrium",
+        "right atrium"
+    ],
+    "thymus": [
+        "-",
+        "-",
+        "epithelial cell of thymus",
+        "-",
+        "thymus",
+        "thymus",
+        "thymus",
+        "thymus"
+    ],
+    "parietal lobe fetal donor1": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "parietal lobe",
+        "parietal lobe",
+        "parietal lobe",
+        "parietal lobe"
+    ],
+    "heart adult diseased post-infarction donor1": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart",
+        "myocardium",
+        "-",
+        "myocardium"
+    ],
+    "left ventricle_LV1558": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "kidney-cortex": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "cortex of kidney",
+        "cortex of kidney",
+        "renal cortex",
+        "renal cortex"
+    ],
+    "left_ventricle": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "Lateral temporal lobe_6T_AD": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "temporal lobe",
+        "temporal lobe",
+        "temporal lobe",
+        "temporal lobe"
+    ],
+    "Whole blood (ribopure) donor090612 donation1": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "-",
+        "blood",
+        "blood",
+        "-",
+        "blood"
+    ],
+    "testis adult pool2": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "testis",
+        "testis",
+        "testis",
+        "testis"
+    ],
+    "Pancreas_Unknown.1_pancreas": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreas"
+    ],
+    "embryonic heart_CS22": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "heart",
+        "embryonic cardiovascular system",
+        "-",
+        "heart"
+    ],
+    "psoas muscle": [
+        "-",
+        "-",
+        "striated muscle cell",
+        "-",
+        "psoas muscle",
+        "psoas muscle",
+        "psoas",
+        "iliopsoas muscle"
+    ],
+    "Placenta_Amnion": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "placenta",
+        "placenta",
+        "-",
+        "amnion epithelial cell"
+    ],
+    "BA40": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "Brodmann (1909) area 40",
+        "-",
+        "-",
+        "cerebral gyrus"
+    ],
+    "Stomach Smooth Muscle": [
+        "-",
+        "-",
+        "smooth muscle cell",
+        "-",
+        "stomach smooth muscle",
+        "stomach smooth muscle",
+        "stomach smooth muscle",
+        "stomach smooth muscle"
+    ],
+    "caudate nucleus - adult donor10196": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "caudate nucleus",
+        "caudate nucleus",
+        "caudate nucleus",
+        "caudate nucleus"
+    ],
+    "adrenal gland 54y": [
+        "-",
+        "-",
+        "glandular secretory epithelial cell",
+        "-",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland"
+    ],
+    "left ventricle_DCM_LV1262": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "Uterus": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "-",
+        "uterus",
+        "uterus",
+        "uterus",
+        "uterus"
+    ],
+    "left ventricle_LV1215": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "submaxillary gland adult": [
+        "-",
+        "-",
+        "secretory cell",
+        "-",
+        "submandibular gland",
+        "submandibular gland",
+        "submandibular gland",
+        "submandibular gland"
+    ],
+    "medulla oblongata adult pool1": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "medulla oblongata",
+        "medulla oblongata",
+        "medulla oblongata",
+        "medulla oblongata"
+    ],
+    "left ventricle_DCM_LV1072": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "blood vessels": [
+        "-",
+        "-",
+        "endothelial cell",
+        "-",
+        "blood vessel",
+        "blood vessel",
+        "blood vessel",
+        "blood vessel"
+    ],
+    "hN34_organoid": [
+        "-",
+        "-",
+        "epithelial cell of pancreas",
+        "-",
+        "pancreas",
+        "neural tissue",
+        "-",
+        "cerebral organ"
+    ],
+    "small_intestine_1": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "Rectal_Mucosa.Donor_31": [
+        "-",
+        "-",
+        "epithelial cell of large intestine",
+        "-",
+        "mucosa of rectum",
+        "mucosa of rectum",
+        "-",
+        "colorectal mucosa"
+    ],
+    "spinal cord - adult donor10196": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "spinal cord",
+        "spinal cord",
+        "spinal cord",
+        "spinal cord"
+    ],
+    "Fetal intestine small": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "Brain_Germinal_Matrix": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "germinal neuroepithelium",
+        "-",
+        "embryonic brain"
+    ],
+    "nucleus accumbens adult pool1": [
+        "-",
+        "-",
+        "neuron",
+        "-",
+        "nucleus accumbens",
+        "nucleus accumbens",
+        "nucleus accumbens",
+        "nucleus accumbens"
+    ],
+    "fetal-kidney-16w": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "metanephric renal pelvis",
+        "kidney",
+        "kidney"
+    ],
+    "left ventricle_LV1294": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "breast_epithelium": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "-",
+        "breast epithelium",
+        "breast epithelium",
+        "breast epithelium",
+        "breast epithelium"
+    ],
+    "locus coeruleus - adult donor10196": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "locus ceruleus",
+        "brainstem nucleus",
+        "locus ceruleus",
+        "locus ceruleus"
+    ],
+    "body_of_pancreas": [
+        "-",
+        "-",
+        "epithelial cell of pancreas",
+        "-",
+        "body of pancreas",
+        "body of pancreas",
+        "-",
+        "pancreas"
+    ],
+    "Crypt5": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "-",
+        "crypt of Lieberkuhn of colon",
+        "crypt of Lieberkuhn of small intestine",
+        "-",
+        "crypt"
+    ],
+    "Brain Anterior Caudate": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "caudate nucleus",
+        "matrix part of head of caudate nucleus",
+        "caudate nucleus",
+        "caudate nucleus"
+    ],
+    "cartilage": [
+        "-",
+        "-",
+        "chondrocyte",
+        "-",
+        "cartilage tissue",
+        "cartilage tissue",
+        "cartilage",
+        "cartilage"
+    ],
+    "pancreas 30y": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreas"
+    ],
+    "Fetal_spinal_cord": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "spinal cord",
+        "spinal cord",
+        "spinal cord",
+        "spinal cord"
+    ],
+    "left ventricle_DCM_LV1300": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "pleural-effusion": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural fluid",
+        "pleural fluid"
+    ],
+    "Fetal_intestine": [
+        "-",
+        "-",
+        "intestinal epithelial cell",
+        "-",
+        "intestine",
+        "small intestine",
+        "intestine",
+        "intestine"
+    ],
+    "esophagus-muscularis-mucosa": [
+        "-",
+        "-",
+        "smooth muscle cell of the esophagus",
+        "-",
+        "esophagus muscularis mucosa",
+        "lower esophagus muscularis mucosa",
+        "-",
+        "muscularis mucosa"
+    ],
+    "Brain": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "brain",
+        "brain",
+        "brain"
+    ],
+    "Fetal_small_intestine": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "Fetal Muscle Trunk": [
+        "-",
+        "-",
+        "muscle cell",
+        "-",
+        "skeletal muscle of trunk",
+        "skeletal muscle of trunk",
+        "-",
+        "skeletal muscle"
+    ],
+    "UCSD_Aorta": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "aorta",
+        "aorta",
+        "aorta",
+        "aorta"
+    ],
+    "Lateral temporal lobe_15T_Young": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "temporal lobe",
+        "temporal lobe",
+        "temporal lobe",
+        "temporal lobe"
+    ],
+    "Stomach_Mucosa": [
+        "-",
+        "-",
+        "mucous cell of stomach",
+        "-",
+        "mucosa of stomach",
+        "mucosa of stomach",
+        "-",
+        "gastric mucosa"
+    ],
+    "aorta adult pool1": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "aorta",
+        "aorta",
+        "aorta",
+        "aorta"
+    ],
+    "BA10": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "frontal lobe",
+        "-",
+        "prefrontal cortex"
+    ],
+    "Kidney_Unknown.14_kidney": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "kidney",
+        "kidney",
+        "kidney"
+    ],
+    "Fetal_Spinal_Cord": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "spinal cord",
+        "spinal cord",
+        "spinal cord",
+        "spinal cord"
+    ],
+    "parietal lobe adult donor10252": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "parietal lobe",
+        "parietal lobe",
+        "parietal lobe",
+        "parietal lobe"
+    ],
+    "Brain Hippocampus Middle 150": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "hippocampal formation",
+        "hippocampal formation",
+        "hippocampus",
+        "hippocampus"
+    ],
+    "Crypt3": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "-",
+        "crypt of Lieberkuhn of colon",
+        "crypt of Lieberkuhn of small intestine",
+        "-",
+        "crypt"
+    ],
+    "Left_Ventricle": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "thymus_2": [
+        "-",
+        "-",
+        "epithelial cell of thymus",
+        "-",
+        "thymus",
+        "thymus",
+        "thymus",
+        "thymus"
+    ],
+    "Duodenum_Smooth_Muscle": [
+        "-",
+        "-",
+        "smooth muscle fiber of duodenum",
+        "-",
+        "muscle layer of duodenum",
+        "muscle layer of duodenum",
+        "-",
+        "duodenum"
+    ],
+    "Testis": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "testis",
+        "testis sex cord",
+        "testis",
+        "male reproductive gland"
+    ],
+    "somite": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "somite",
+        "entire embryonic mesenchyme",
+        "somite",
+        "embryonic structure"
+    ],
+    "Circle of Willis_60y": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "circle of Willis",
+        "cerebral artery",
+        "-",
+        "cerebral artery"
+    ],
+    "subcutaneous_adipose_tissue": [
+        "-",
+        "-",
+        "adipocyte",
+        "-",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue"
+    ],
+    "Adrenal Gland": [
+        "-",
+        "-",
+        "glandular secretory epithelial cell",
+        "-",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland"
+    ],
+    "Duodenum Mucosa": [
+        "-",
+        "-",
+        "duodenum secretory cell",
+        "-",
+        "duodenal mucosa",
+        "duodenal mucosa",
+        "duodenal mucosa",
+        "duodenal mucosa"
+    ],
+    "Transverse Colon": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "transverse colon",
+        "transverse colon",
+        "colon transversum",
+        "large intestine"
+    ],
+    "brain adult pool1": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "brain",
+        "brain",
+        "brain"
+    ],
+    "kidney fetal pool1": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "kidney rudiment",
+        "kidney",
+        "kidney"
+    ],
+    "germinal matrix": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "lateral ventricle subependymal layer",
+        "-",
+        "ventricular zone"
+    ],
+    "heart_left_ventricle": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "leg_muscle": [
+        "-",
+        "-",
+        "striated muscle cell",
+        "-",
+        "muscle of leg",
+        "muscle of leg",
+        "leg muscle",
+        "leg muscle"
+    ],
+    "Thymus": [
+        "-",
+        "-",
+        "epithelial cell of thymus",
+        "-",
+        "thymus",
+        "thymus",
+        "thymus",
+        "thymus"
+    ],
+    "Esophagus_Mucosa": [
+        "-",
+        "-",
+        "epithelial cell of esophagus",
+        "-",
+        "esophagus mucosa",
+        "esophagus mucosa",
+        "esophageal mucosa",
+        "esophageal mucosa"
+    ],
+    "patient-derived_pleaural_effusion": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "pleural effusion",
+        "pleural effusion",
+        "-",
+        "pleural cavity"
+    ],
+    "Fetal_Adrenal_Gland": [
+        "-",
+        "-",
+        "glandular secretory epithelial cell",
+        "-",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland"
+    ],
+    "tibial_artery": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "tibial artery",
+        "tibial artery",
+        "-",
+        "tibialis anterior"
+    ],
+    "SkeletalMuscle": [
+        "-",
+        "-",
+        "cell of skeletal muscle",
+        "-",
+        "skeletal muscle tissue",
+        "skeletal muscle tissue",
+        "skeletal muscle",
+        "skeletal muscle"
+    ],
+    "Brain_Substantia_nigra": [
+        "-",
+        "-",
+        "neuron of the substantia nigra",
+        "-",
+        "substantia nigra",
+        "substantia nigra pars reticulata",
+        "substantia nigra",
+        "substantia nigra"
+    ],
+    "Bladder": [
+        "-",
+        "-",
+        "bladder cell",
+        "-",
+        "urinary bladder",
+        "urinary bladder",
+        "bladder",
+        "bladder"
+    ],
+    "pancreas_37y": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreas"
+    ],
+    "BI_Brain_Anterior_Caudate": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "caudate nucleus",
+        "caudate nucleus",
+        "caudate nucleus",
+        "caudate nucleus"
+    ],
+    "Skeletal_muscle": [
+        "-",
+        "-",
+        "cell of skeletal muscle",
+        "-",
+        "skeletal muscle tissue",
+        "skeletal muscle tissue",
+        "skeletal muscle",
+        "skeletal muscle"
+    ],
+    "adrenal gland_37y": [
+        "-",
+        "-",
+        "glandular secretory epithelial cell",
+        "-",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland"
+    ],
+    "Fetal_Intestine_Large": [
+        "-",
+        "-",
+        "epithelial cell of large intestine",
+        "-",
+        "large intestine",
+        "large intestine",
+        "large intestine",
+        "large intestine"
+    ],
+    "spleen 34y": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "spleen",
+        "spleen",
+        "spleen",
+        "spleen"
+    ],
+    "Pancreas": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreas"
+    ],
+    "colon": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "-",
+        "colon",
+        "large intestine",
+        "colon",
+        "large intestine"
+    ],
+    "optic nerve donor1": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "root of optic nerve",
+        "root of optic nerve",
+        "optic nerve",
+        "optic nerve"
+    ],
+    "CytoTrophob_3": [
+        "-",
+        "-",
+        "stem cell",
+        "-",
+        "cytotrophoblast",
+        "placenta",
+        "cytotrophoblast",
+        "chorionic epithelium"
+    ],
+    "fetal heart_PCW17_12570": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart",
+        "heart",
+        "heart",
+        "heart"
+    ],
+    "insula adult pool1": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "insula",
+        "insula",
+        "-",
+        "insular cortex"
+    ],
+    "Fetal_eye": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "eye",
+        "eye primordium",
+        "eye",
+        "fetus"
+    ],
+    "Aorta": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "aorta",
+        "aorta",
+        "aorta",
+        "aorta"
+    ],
+    "prostate adult pool1": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "prostate gland",
+        "prostate gland",
+        "-",
+        "prostate gland"
+    ],
+    "UCSD_Small_Intestine": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "cerebral meninges adult": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "forebrain meninges",
+        "forebrain meninges",
+        "-",
+        "-"
+    ],
+    "Fetal_Intestine_Small": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "pancreas_54y": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreas"
+    ],
+    "stomach_3y": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "stomach",
+        "stomach",
+        "stomach",
+        "stomach"
+    ],
+    "Pituitary": [
+        "-",
+        "-",
+        "endocrine cell",
+        "-",
+        "pituitary gland",
+        "pituitary gland",
+        "-",
+        "pituitary gland cell line"
+    ],
+    "transverse colon": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "transverse colon",
+        "transverse colon",
+        "colon transversum",
+        "colon transversum"
+    ],
+    "Brain Cingulate Gyrus": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "cingulate gyrus",
+        "cingulate gyrus",
+        "cingulate gyrus",
+        "cingulate gyrus"
+    ],
+    "endometrium": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "-",
+        "endometrium",
+        "endometrium",
+        "uterine endometrium",
+        "uterine endometrium"
+    ],
+    "limb": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "limb",
+        "musculature of limb",
+        "limb",
+        "limb"
+    ],
+    "Brain hippocampus middle": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "hippocampal formation",
+        "hippocampal formation",
+        "hippocampus",
+        "hippocampus"
+    ],
+    "UCSD_Ovary": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "ovary",
+        "ovary",
+        "ovary",
+        "ovary"
+    ],
+    "Skeletal_Muscle_Male": [
+        "-",
+        "-",
+        "cell of skeletal muscle",
+        "-",
+        "skeletal muscle tissue",
+        "skeletal muscle tissue",
+        "-",
+        "skeletal muscle"
+    ],
+    "psoas-muscle_3y": [
+        "-",
+        "-",
+        "striated muscle cell",
+        "-",
+        "psoas muscle",
+        "psoas muscle",
+        "psoas",
+        "iliopsoas muscle"
+    ],
+    "Artery_Tibial": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "tibial artery",
+        "tibial artery",
+        "-",
+        "artery"
+    ],
+    "Fetal_stomach": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "stomach",
+        "stomach",
+        "stomach",
+        "stomach"
+    ],
+    "Brain_Inferior_Temporal_Lobe": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "inferior temporal gyrus",
+        "inferior temporal gyrus",
+        "inferior temporal gyrus",
+        "inferior temporal gyrus"
+    ],
+    "small_intestine_2": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "Unknown.6_eye": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "eye",
+        "eye",
+        "eye",
+        "eye"
+    ],
+    "thalamus adult donor10252": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "",
+        "ventral thalamus",
+        "thalamus",
+        "thalamus"
+    ],
+    "Brain_Cingulate_Gyrus": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "cingulate gyrus",
+        "cingulate gyrus",
+        "cingulate gyrus",
+        "cingulate gyrus"
+    ],
+    "appendix adult": [
+        "-",
+        "-",
+        "epithelial cell of appendix",
+        "-",
+        "vermiform appendix",
+        "vermiform appendix",
+        "vermiform appendix",
+        "vermiform appendix"
+    ],
+    "Lateral temporal lobe_17T_Young": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "temporal lobe",
+        "temporal lobe",
+        "temporal lobe",
+        "temporal lobe"
+    ],
+    "colon adult donor1": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "-",
+        "colon",
+        "large intestine",
+        "colon",
+        "large intestine"
+    ],
+    "small intestine_2": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "Left_Ventricle_adult": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "Artery_Coronary": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "coronary artery",
+        "coronary artery",
+        "coronary artery",
+        "coronary artery"
+    ],
+    "pancreas": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreas"
+    ],
+    "Circle of Willis_54y": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "circle of Willis",
+        "cerebral artery",
+        "-",
+        "cerebral artery"
+    ],
+    "left ventricle_LV1200": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "left ventricle_DCM_LV1033": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "transverse colon_54y": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "transverse colon",
+        "transverse colon",
+        "colon transversum",
+        "colon transversum"
+    ],
+    "forebrain": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "forebrain",
+        "telencephalon",
+        "forebrain",
+        "telencephalon"
+    ],
+    "Fetal adrenal gland": [
+        "-",
+        "-",
+        "glandular secretory epithelial cell",
+        "-",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland"
+    ],
+    "UCSD_Lung": [
+        "-",
+        "-",
+        "epithelial cell of lung",
+        "-",
+        "lung",
+        "lung",
+        "lung",
+        "lung"
+    ],
+    "heart adult pool1": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart",
+        "cardiac muscle tissue",
+        "-",
+        "myocardium"
+    ],
+    "embryonic-kidney": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "embryo",
+        "metanephric renal vesicle",
+        "embryonic kidney cell line",
+        "embryonic kidney cell line"
+    ],
+    "small intestine fetal donor1": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "small intestine 30y": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "lung_3y": [
+        "-",
+        "-",
+        "epithelial cell of lung",
+        "-",
+        "lung",
+        "lung",
+        "lung",
+        "lung"
+    ],
+    "hippocampus": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "dentate gyrus of hippocampal formation",
+        "hippocampus",
+        "hippocampus"
+    ],
+    "ductus deferens adult": [
+        "-",
+        "-",
+        "duct epithelial cell",
+        "-",
+        "vas deferens",
+        "muscular coat of vas deferens",
+        "vas deferens",
+        "vas deferens"
+    ],
+    "stomach_30y": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "stomach",
+        "stomach",
+        "stomach",
+        "stomach"
+    ],
+    "brain-prefrontal-cortex": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "prefrontal cortex",
+        "prefrontal cortex",
+        "prefrontal cortex",
+        "prefrontal cortex"
+    ],
+    "left ventricle_DCM_LV1290": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "Adrenal_Gland": [
+        "-",
+        "-",
+        "glandular secretory epithelial cell",
+        "-",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland"
+    ],
+    "Left_ventricle": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "large intestine": [
+        "-",
+        "-",
+        "epithelial cell of large intestine",
+        "-",
+        "large intestine",
+        "large intestine",
+        "large intestine",
+        "large intestine"
+    ],
+    "cerebellum - adult donor10196": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "cerebellum",
+        "cerebellum",
+        "cerebellum",
+        "cerebellum"
+    ],
+    "spinal cord fetal donor1": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "spinal cord",
+        "spinal cord",
+        "spinal cord",
+        "spinal cord"
+    ],
+    "Pancreatic islets": [
+        "-",
+        "-",
+        "pancreatic endocrine cell",
+        "-",
+        "islet of Langerhans",
+        "islet of Langerhans",
+        "pancreatic islet",
+        "pancreatic islet"
+    ],
+    "brain_1": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "brain",
+        "brain",
+        "brain"
+    ],
+    "medial frontal gyrus - adult donor10196": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "middle frontal gyrus",
+        "frontal lobe",
+        "middle frontal gyrus",
+        "middle frontal gyrus"
+    ],
+    "Brain angular gyrus": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "angular gyrus",
+        "-",
+        "-",
+        "-"
+    ],
+    "right ventricle 3y": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart right ventricle",
+        "heart right ventricle",
+        "right ventricle",
+        "right ventricle"
+    ],
+    "adipose-tissue": [
+        "-",
+        "-",
+        "adipocyte",
+        "-",
+        "adipose tissue",
+        "adipose tissue",
+        "adipose tissue",
+        "adipose tissue"
+    ],
+    "bladder adult pool1": [
+        "-",
+        "-",
+        "bladder cell",
+        "-",
+        "urinary bladder",
+        "urinary bladder",
+        "bladder",
+        "bladder"
+    ],
+    "ascending_aorta": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "ascending aorta",
+        "ascending aorta",
+        "-",
+        "aorta thoracica"
+    ],
+    "Rectal_Smooth_Muscle": [
+        "-",
+        "-",
+        "enteric smooth muscle cell",
+        "-",
+        "rectum smooth muscle tissue",
+        "rectum smooth muscle tissue",
+        "-",
+        "smooth muscle"
+    ],
+    "left ventricle": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart left ventricle",
+        "heart left ventricle",
+        "left ventricle",
+        "left ventricle"
+    ],
+    "hT85_organoid": [
+        "-",
+        "-",
+        "epithelial cell of pancreas",
+        "-",
+        "pancreas",
+        "-",
+        "-",
+        "-"
+    ],
+    "Colon_Crypt_3": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "-",
+        "crypt of Lieberkuhn of colon",
+        "crypt of Lieberkuhn of colon",
+        "-",
+        "colonic mucosa"
+    ],
+    "Glomerulus": [
+        "-",
+        "-",
+        "glomerular cell",
+        "-",
+        "renal glomerulus",
+        "renal glomerulus",
+        "renal glomerulus",
+        "renal glomerulus"
+    ],
+    "Brain Substantia Nigra": [
+        "-",
+        "-",
+        "neuron of the substantia nigra",
+        "-",
+        "substantia nigra",
+        "substantia nigra",
+        "substantia nigra",
+        "substantia nigra"
+    ]
+}

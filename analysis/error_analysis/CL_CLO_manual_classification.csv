@@ -1,0 +1,51 @@
+Sample_ID,Label,Type,CLO_C,CLO_M,User_Classification
+S001,SU-DHL-2,CL,-,-,No Error
+S002,WI-38,CL,WI-38 cell,immortal human lung-derived fibroblast cell line cell,No Error
+S005,MCF7_Invasive_ductal_breast_carcinoma_TAM,CL,MCF7 cell,MCF7 cell,No Error
+S006,FL8,CL,-,FL 62891 cell,I
+S007,LREX,CL,-,-,No Error
+S009,RWPE1_prostate_epithelial_cells,CL,RWPE-1 cell,RWPE-1 cell,No Error
+S010,RPMI 2650,CL,RPMI-2650 cell,-,A
+S012,Ly4,CL,-,LA-4 cell,A
+S015,Tet21N_neuroblastoma,CL,immortal neuroblast cell line cell,immortal neuroblast cell line cell,No Error
+S016,SK-N-BE2,CL,SK-N-BE(2) cell,SK-N-BE(2) cell,No Error
+S017,ATN-1,CL,RCB1440 cell,AT-1 cell,A
+S018,HK-2,CL,HK-2 cell,HK-2 cell,No Error
+S021,Y79,CL,Y79 cell,-,A
+S024,TSU-1621-MT_adult_acute_myeloid_leukemia_ATRA,CL,-,-,No Error
+S025,TGBC2TKB,CL,THP-1 cell,-,I
+S026,Human Podocyte Cell Line AB8/13,CL,-,-,No Error
+S029,SUIT2_MTV,CL,SUIT-2 cell,HepG2-AhR-luc,A
+S031,CRC107_colorectal_cancer_metastatic_stem_cells,CL,-,-,No Error
+S033,OCI-AML-3,CL,OCI-AML3 cell,OCI-AML3 cell,No Error
+S034,NT2-D1_embryonic_carcinoma,CL,NT2-D1 cell,-,A
+S036,KYSE180,CL,KYSE-180 cell,KYSE-150 cell,A
+S037,CyT49_HE,CL,-,A498 cell,A
+S038,glioblastoma cell line:T98G,CL,T98G cell,-,A
+S039,D341_6,CL,D341 Med cell,DA01341 cell,I
+S041,WA01_H1_human_embryonic_stem_cells_EMB,CL,-,-,No Error
+S042,BG01V,CL,hES BG01V cell,human embryonic stem cell line cell,No Error
+S044,H1 hESC-derived neural progenitor cells_Smad_72hr,CL,human embryonic stem cell line cell,human embryonic stem cell line cell,No Error
+S046,OCI-LY3_diffuse_large_B-cell_lymphoma,CL,-,OCI-M1 cell,A
+S047,THP1_DMSO_noPMA,CL,THP-1 cell,THP-1 cell,No Error
+S048,MIC,CL,-,-,No Error
+S049,adenocarcinoma cell line:IM95m,CL,-,MSN09-4 cell,A
+S050,MT4H1,CL,MT4 cell,MT4 cell,No Error
+S051,GICAN,CL,GI-CA-N cell,GM09947 cell,I
+S053,gm19238,CL,GM19238 cell,GM19239 cell,A
+S055,GM23338,CL,-,-,No Error
+S060,HuH-6,CL,RCB1367 cell,immortal human liver-derived cell line cell,A
+S068,BJ/ET,CL,BJ cell,immortal human foreskin-derived fibroblast cell line cell,A
+S073,MCF7_Invasive_ductal_breast_carcinoma_DEX,CL,MCF7 cell,-,A
+S078,MDA-MB-157,CL,MDA-MB-157 cell,MDA-MB-157 cell,No Error
+S079,TTC549_Doxycycline,CL,-,-,No Error
+S080,PATU8988S_GFP_DOX,CL,PA-TU-8988S cell,PA-TU-8988S cell,No Error
+S082,MKN28,CL,MKN28 cell,MKN28 cell,No Error
+S083,B-CPAP,CL,B-CPAP cell,B-CPAP cell,No Error
+S084,TTC-1240_Rhabdoid_tumor_of_the_kidney,CL,-,-,No Error
+S088,DUCaP_prostate_carcinoma,CL,-,-,No Error
+S091,mdamb175vii,CL,MDA-MB-175-VII cell,MDA-MB-175-VII cell,No Error
+,,,,,No Error: 27
+,,,,,A: 15
+,,,,,I: 4
+,,,,,

@@ -1,0 +1,122 @@
+{
+    "ovary adult pool1": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "ovary",
+        "ovary",
+        "ovary",
+        "ovary"
+    ],
+    "Fetal_Kidney": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "metanephric renal pelvis",
+        "kidney",
+        "kidney"
+    ],
+    "Arteries_C": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "artery",
+        "artery",
+        "artery",
+        "artery"
+    ],
+    "VentricleRight": [
+        "-",
+        "-",
+        "cardiocyte",
+        "-",
+        "heart right ventricle",
+        "heart right ventricle",
+        "right ventricle",
+        "right ventricle"
+    ],
+    "small_intestine_1": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "UCSD_Aorta": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "aorta",
+        "aorta",
+        "aorta",
+        "aorta"
+    ],
+    "BA10": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "brain",
+        "prefrontal cortex",
+        "-",
+        "prefrontal cortex"
+    ],
+    "Pancreas": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreas"
+    ],
+    "stomach_3y": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "stomach",
+        "stomach",
+        "stomach",
+        "stomach"
+    ],
+    "small_intestine_2": [
+        "-",
+        "-",
+        "epithelial cell of small intestine",
+        "-",
+        "small intestine",
+        "small intestine",
+        "small intestine",
+        "small intestine"
+    ],
+    "Lateral temporal lobe_17T_Young": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "temporal lobe",
+        "temporal lobe",
+        "temporal lobe",
+        "temporal lobe"
+    ],
+    "pancreas": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreas"
+    ]
+}

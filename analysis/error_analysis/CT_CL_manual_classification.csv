@@ -1,0 +1,40 @@
+Sample_ID,Label,Type,CL_C,CL_M,User_Classification
+S003,Schwann_heart,CT,Schwann cell,Schwann cell,No Error
+S004,Tracheal Epithelial Cells donor1,CT,tracheal epithelial cell,tracheal epithelial cell,No Error
+S008,CD8_T_cells,CT,"CD8-positive, alpha-beta T cell","CD8-positive, alpha-beta T cell",No Error
+S014,CD4+ cell_UNTREATED,CT,CD4-positive helper T cell,CD4-positive helper T cell,No Error
+S019,naive_B_VB,CT,naive B cell,naive B cell,No Error
+S020,Fibroblast - Gingival donor1,CT,fibroblast,fibroblast,No Error
+S022,Osteoblast Primary Cells,CT,osteoblast,osteoblast,No Error
+S023,Club-D,CT,club cell,club cell,No Error
+S027,Intestinal_epithelial_2,CT,intestinal epithelial cell,intestinal epithelial cell,No Error
+S028,PBMC_Rep1-CD34,CT,peripheral blood mononuclear cell,"CD34-positive, CD38-negative hematopoietic stem cell",A
+S030,Foreskin Keratinocyte Primary Cells skin02,CT,foreskin keratinocyte,-,No Error
+S032,AT1_B,CT,pulmonary alveolar type 1 cell,pulmonary alveolar type 1 cell,No Error
+S035,Lens Epithelial Cells donor1,CT,lens epithelial cell,lens epithelial cell,No Error
+S040,Matrix_Fibrob_1_G,CT,fibroblast,fibroblast,No Error
+S043,Tumor_3_BCC,CT,neoplastic cell,basal cell of epidermis,No Error
+S045,Astrocyte_Oligo_1,CT,glial cell,astrocyte,No Error
+S052,Adrenocortical_adrenal_3,CT,cortical cell of adrenal gland,cortical cell of adrenal gland,No Error
+S057,EPC_VB,CT,adult endothelial progenitor cell,adult endothelial progenitor cell,No Error
+S059,NHEK-Epidermal Keratinocyte Primary Cells,CT,keratinocyte,keratinocyte,No Error
+S061,Primary natural killer cells (from PB),CT,natural killer cell,natural killer cell,No Error
+S062,umbilical cord Fibroblast,CT,fibroblast,fibroblast,No Error
+S063,Ciliary Epithelial Cells donor1,CT,ciliated epithelial cell,ciliated epithelial cell,No Error
+S064,Hair Follicle Dermal Papilla Cells donor3,CT,hair follicle dermal papilla cell,hair follicle dermal papilla cell,No Error
+S065,non-tamoxifen_EC2,CT,epithelial cell of uterus,epithelial cell of uterus,No Error
+S069,normal_lung_fibroblasts,CT,fibroblast of lung,fibroblast of lung,No Error
+S070,MPAL4_T1_1,CT,hematopoietic cell,CD117-positive common myeloid progenitor OR CD217-positive common lymphoid progenitor,A
+S072,B lymphoblastoid Cell,CT,B-lymphoblast,immature B cell,A
+S075,M0_CB,CT,macrophage,macrophage,No Error
+S076,Human Bronchial Epithelial Cell,CT,bronchial epithelial cell,bronchial epithelial cell,No Error
+S077,Acinar_pancreas,CT,pancreatic acinar cell,pancreatic acinar cell,No Error
+S081,GBM22,CT,glial cell,glioblast,No Error
+S086,Myeloid_placenta,CT,myeloid cell,macrophage dendritic cell progenitor,I
+S089,Macrophage - monocyte derived donor3,CT,macrophage,macrophage,No Error
+S090,ES derived primitive cardiomyocite_day15,CT,cardiac muscle myoblast,cardiac muscle myoblast,No Error
+S092,Primary T cells from?peripheral?blood,CT,T cell,lymphocyte,No Error
+,,,,,No Error: 31
+,,,,,
+,,,,,A: 2
+,,,,,I: 1

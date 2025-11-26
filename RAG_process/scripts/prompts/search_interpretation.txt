@@ -1,0 +1,51 @@
+### **Task:**
+
+Given a biological label (`Label`) and its associated concept type (`Concept Type`), identify what the label represents. Then, based on that interpretation, **infer the corresponding cell line, cell type** and **anatomical structure**. Use the provided descriptions and concept type to guide your reasoning.
+
+---
+
+### **Input:**
+
+* **Label:** {label}
+
+  > Always refers to biological samples.
+* **Concept Type:** {concept_type}
+
+  > Possible values:
+
+  * `CL` = Cell Line
+  * `CT` = Cell Type
+  * `A`  = Anatomical Structure
+
+---
+
+### **Output Format:**
+
+Respond with **only a JSON object** in the following format:
+
+  "Label": "<Label>",
+  "Interpretation": "<Interpretation>",
+  "Cell Line": "<Cell Line>",
+  "Cell Type": "<Cell Type>",
+  "Anatomical Structure": "<Anatomical Structure>"
+
+* If the label **cannot be interpreted**, use:
+
+  "Label": "<Label>",
+  "Interpretation": "-",
+  "Cell Line": "-",
+  "Cell Type": "-",
+  "Anatomical Structure": "-"
+
+* If only part of the information can be inferred, use `"-"` where appropriate.
+
+---
+
+### **Rules:**
+
+* **Do not modify** the original label.
+* **Do not include** any explanations or comments.
+* Be as **precise and specific** as possible in each field.
+* Use widely accepted biological terms.
+
+---

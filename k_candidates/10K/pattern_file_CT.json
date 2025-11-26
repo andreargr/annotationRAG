@@ -1,0 +1,382 @@
+{
+    "Adrenocortical_adrenal_3": [
+        "-",
+        "-",
+        "cortical cell of adrenal gland",
+        "cortical cell of adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenocortical cell",
+        "adrenocortical cell"
+    ],
+    "M0_CB": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "umbilical cord blood",
+        "-",
+        "macrophage"
+    ],
+    "Acinar_pancreas": [
+        "-",
+        "-",
+        "pancreatic acinar cell",
+        "pancreatic acinar cell",
+        "pancreas",
+        "pancreas",
+        "pancreatic acinar cell",
+        "pancreatic acinar cell"
+    ],
+    "Tumor_3_BCC": [
+        "-",
+        "-",
+        "neoplastic cell",
+        "basal cell",
+        "-",
+        "skin epidermis",
+        "-",
+        "basal cell carcinoma cell"
+    ],
+    "Club-D": [
+        "-",
+        "-",
+        "club cell",
+        "lung secretory cell",
+        "lung",
+        "terminal bronchiole",
+        "-",
+        "bronchial epithelial cell"
+    ],
+    "B lymphoblastoid Cell": [
+        "-",
+        "-",
+        "B-lymphoblast",
+        "B-lymphoblast",
+        "blood",
+        "lymphoid system",
+        "B-lymphoblastoid cell",
+        "B-lymphoblastoid cell"
+    ],
+    "Astrocyte_Oligo_1": [
+        "-",
+        "-",
+        "glial cell",
+        "-",
+        "brain",
+        "neural tissue",
+        "-",
+        "astroglial cell"
+    ],
+    "Primary T cells from?peripheral?blood": [
+        "-",
+        "-",
+        "T cell",
+        "lymphocyte",
+        "blood",
+        "blood",
+        "-",
+        "T-lymphocyte"
+    ],
+    "primaryhepatocyte-gw4064": [
+        "-",
+        "-",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "hepatocyte",
+        "hepatocyte"
+    ],
+    "Schwann_heart": [
+        "-",
+        "-",
+        "Schwann cell",
+        "Schwann cell",
+        "heart",
+        "cardiac muscle tissue",
+        "Schwann cell",
+        "Schwann cell"
+    ],
+    "umbilical cord Fibroblast": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "umbilical cord",
+        "umbilical cord",
+        "-",
+        "fibroblast"
+    ],
+    "Myeloid_placenta": [
+        "-",
+        "-",
+        "myeloid cell",
+        "Hofbauer cell",
+        "placenta",
+        "placenta",
+        "myeloid cell line",
+        "bone marrow-derived macrophage"
+    ],
+    "PBMC_Rep1-CD34": [
+        "-",
+        "-",
+        "peripheral blood mononuclear cell",
+        "CD34-positive, CD38-negative hematopoietic stem cell",
+        "blood",
+        "blood",
+        "-",
+        "culture condition:CD34+ cell"
+    ],
+    "Human Bronchial Epithelial Cell": [
+        "-",
+        "-",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell",
+        "bronchus",
+        "bronchus",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell"
+    ],
+    "NHEK-Epidermal Keratinocyte Primary Cells": [
+        "-",
+        "-",
+        "keratinocyte",
+        "keratinocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "NHEK cell",
+        "keratinocyte"
+    ],
+    "Lens Epithelial Cells donor1": [
+        "-",
+        "-",
+        "lens epithelial cell",
+        "lens epithelial cell",
+        "epithelium of lens",
+        "epithelium of lens",
+        "-",
+        "human lens epithelial cell line"
+    ],
+    "EPC_VB": [
+        "-",
+        "-",
+        "adult endothelial progenitor cell",
+        "adult endothelial progenitor cell",
+        "bone marrow",
+        "venous blood",
+        "endothelial progenitor cell",
+        "endothelial progenitor cell"
+    ],
+    "Matrix_Fibrob_1_G": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "non-tamoxifen_EC2": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "blood vessel endothelium",
+        "-",
+        "endothelial cell"
+    ],
+    "Fibroblast - Gingival donor1": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "gingiva",
+        "gingiva",
+        "gingival fibroblast",
+        "gingival fibroblast"
+    ],
+    "naive_B_VB": [
+        "-",
+        "-",
+        "naive B cell",
+        "naive B cell",
+        "blood",
+        "-",
+        "-",
+        "-"
+    ],
+    "CD4+ cell_UNTREATED": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "-",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "AT1_B": [
+        "-",
+        "-",
+        "pulmonary alveolar type 1 cell",
+        "pulmonary alveolar type 1 cell",
+        "alveolus of lung",
+        "alveolus of lung",
+        "alveolar cell type I",
+        "alveolar cell type I"
+    ],
+    "Tracheal Epithelial Cells donor1": [
+        "-",
+        "-",
+        "tracheal epithelial cell",
+        "tracheal epithelial cell",
+        "trachea",
+        "trachea",
+        "trachea",
+        "trachea"
+    ],
+    "peripheral_blood_mononuclear_cells": [
+        "-",
+        "-",
+        "peripheral blood mononuclear cell",
+        "peripheral blood mononuclear cell",
+        "blood",
+        "blood",
+        "peripheral blood mononuclear cell",
+        "peripheral blood mononuclear cell"
+    ],
+    "CD8_T_cells": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "immune system",
+        "T cell domain",
+        "cytotoxic T-lymphocyte",
+        "cytotoxic T-lymphocyte"
+    ],
+    "normal_lung_fibroblasts": [
+        "-",
+        "-",
+        "fibroblast of lung",
+        "fibroblast of lung",
+        "lung",
+        "lung",
+        "lung fibroblast",
+        "lung fibroblast"
+    ],
+    "Treg2_t-infiltrating": [
+        "-",
+        "-",
+        "regulatory T cell",
+        "CD4-positive, CD25-positive, alpha-beta regulatory T cell",
+        "immune system",
+        "tissue",
+        "regulatory T-lymphocyte",
+        "-"
+    ],
+    "GBM22": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "-",
+        "brain",
+        "cerebral hemisphere",
+        "-",
+        "glioblastoma multiforme cell line"
+    ],
+    "Primary natural killer cells (from PB)": [
+        "-",
+        "-",
+        "natural killer cell",
+        "natural killer cell",
+        "blood",
+        "blood",
+        "natural killer cell",
+        "natural killer cell"
+    ],
+    "ES derived primitive cardiomyocite_day15": [
+        "-",
+        "-",
+        "cardiac muscle myoblast",
+        "cardiac muscle myoblast",
+        "heart",
+        "myocardium",
+        "cardiomyocyte cell line",
+        "cardiomyocyte cell line"
+    ],
+    "Macrophage - monocyte derived donor3": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "blood vasculature",
+        "macrophage",
+        "macrophage"
+    ],
+    "Foreskin Keratinocyte Primary Cells skin02": [
+        "-",
+        "-",
+        "foreskin keratinocyte",
+        "foreskin keratinocyte",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin keratinocyte cell line",
+        "foreskin keratinocyte cell line"
+    ],
+    "MPAL4_T1_1": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "common myeloid progenitor",
+        "blood",
+        "bone marrow",
+        "-",
+        "B-cell acute lymphoblastic leukemia cell"
+    ],
+    "Osteoblast Primary Cells": [
+        "-",
+        "-",
+        "osteoblast",
+        "osteoblast",
+        "bone tissue",
+        "supraneural bone",
+        "osteoblast",
+        "osteoblast"
+    ],
+    "Hair Follicle Dermal Papilla Cells donor3": [
+        "-",
+        "-",
+        "hair follicle dermal papilla cell",
+        "hair follicle dermal papilla cell",
+        "hair follicle",
+        "dermal papilla",
+        "hair follicle dermal papilla cell",
+        "hair follicle dermal papilla cell"
+    ],
+    "Intestinal_epithelial_2": [
+        "-",
+        "-",
+        "intestinal epithelial cell",
+        "intestinal epithelial cell",
+        "intestinal epithelium",
+        "intestinal epithelium",
+        "intestinal cell line",
+        "intestinal cell line"
+    ],
+    "Ciliary Epithelial Cells donor1": [
+        "-",
+        "-",
+        "ciliated epithelial cell",
+        "ciliated epithelial cell",
+        "ciliated epithelium",
+        "ciliated epithelium",
+        "-",
+        "nonpigmented ciliary epithelial cell"
+    ]
+}

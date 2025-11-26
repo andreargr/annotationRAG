@@ -1,0 +1,51 @@
+Sample_ID,Label,Type,BTO_C,BTO_M,User_Classification
+S001,SU-DHL-2,CL,SU-DHL-2 cell,diffuse large B-cell lymphoma cell line,No Error
+S002,WI-38,CL,WI-38 cell,lung fibroblast cell line,No Error
+S005,MCF7_Invasive_ductal_breast_carcinoma_TAM,CL,MCF-7 cell,MCF-7 cell,No Error
+S006,FL8,CL,FL cell,FL cell,No Error
+S007,LREX,CL,-,LX-2 cell,I
+S009,RWPE1_prostate_epithelial_cells,CL,RWPE-1 cell,RWPE-1 cell,No Error
+S010,RPMI 2650,CL,RPMI-2650 cell,RPMI-2650 cell,No Error
+S012,Ly4,CL,-,EL-4 cell,A
+S015,Tet21N_neuroblastoma,CL,Tet21N cell,Tet21N cell,No Error
+S016,SK-N-BE2,CL,SK-N-BE(2) cell,neuroblastoma cell line,No Error
+S017,ATN-1,CL,-,AT1ABR cell,I
+S018,HK-2,CL,HK-2 cell,HK-2 cell,No Error
+S021,Y79,CL,Y-79 cell,Y-79 cell,No Error
+S024,TSU-1621-MT_adult_acute_myeloid_leukemia_ATRA,CL,-,-,No Error
+S025,TGBC2TKB,CL,-,GBC-SD cell,I
+S026,Human Podocyte Cell Line AB8/13,CL,podocyte,podocyte,No Error
+S029,SUIT2_MTV,CL,SUIT-2 cell,SUIT-2 cell,No Error
+S031,CRC107_colorectal_cancer_metastatic_stem_cells,CL,-,-,No Error
+S033,OCI-AML-3,CL,OCI-AML3 cell,acute myeloid leukemia cell line,No Error
+S034,NT2-D1_embryonic_carcinoma,CL,NT2/D1 cell,NT2/D1 cell,No Error
+S036,KYSE180,CL,-,-,No Error
+S037,CyT49_HE,CL,-,-,No Error
+S038,glioblastoma cell line:T98G,CL,T-98G cell,T-98 cell,No Error
+S039,D341_6,CL,-,-,No Error
+S041,WA01_H1_human_embryonic_stem_cells_EMB,CL,WA-01 cell,WA-01 cell,No Error
+S042,BG01V,CL,embryonic stem cell line,embryonic stem cell line,No Error
+S044,H1 hESC-derived neural progenitor cells_Smad_72hr,CL,embryonic stem cell line,embryonic stem cell line,No Error
+S046,OCI-LY3_diffuse_large_B-cell_lymphoma,CL,-,-,No Error
+S047,THP1_DMSO_noPMA,CL,THP-1 cell,THP-1 cell,No Error
+S048,MIC,CL,-,-,No Error
+S049,adenocarcinoma cell line:IM95m,CL,IM-95 cell,IM-95 cell,No Error
+S050,MT4H1,CL,MT-4 cell,MT-4 cell,No Error
+S051,GICAN,CL,-,-,No Error
+S053,gm19238,CL,B-lymphoblastoid cell line,B-lymphoblastoid cell line,No Error
+S055,GM23338,CL,B-lymphoblast cell line,B-lymphoblast cell line,No Error
+S060,HuH-6,CL,HuH-6 cell,hepatoblastoma cell line,No Error
+S068,BJ/ET,CL,BJ cell,BJ cell,No Error
+S073,MCF7_Invasive_ductal_breast_carcinoma_DEX,CL,MCF-7 cell,breast adenocarcinoma cell line,No Error
+S078,MDA-MB-157,CL,MDA-MB-157 cell,MDA-MB-157 cell,No Error
+S079,TTC549_Doxycycline,CL,-,-,No Error
+S080,PATU8988S_GFP_DOX,CL,Patu-8988 cell,Patu-8988 cell,No Error
+S082,MKN28,CL,MKN-28 cell,MKN-28 cell,No Error
+S083,B-CPAP,CL,B-CPAP cell,B-CPAP cell,No Error
+S084,TTC-1240_Rhabdoid_tumor_of_the_kidney,CL,-,TTA-1 cell,A
+S088,DUCaP_prostate_carcinoma,CL,-,RAMOS-EHRB cell,A
+S091,mdamb175vii,CL,MDA-MB-175-VII cell,MDA-MB-175-VII cell,No Error
+,,,,,No Error: 40
+,,,,,
+,,,,,I: 3
+,,,,,A: 3

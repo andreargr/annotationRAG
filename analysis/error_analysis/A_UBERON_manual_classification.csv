@@ -1,0 +1,14 @@
+Sample_ID,Label,Type,UBERON_C,UBERON_M,User_Classification
+S011,small_intestine_1,A,small intestine,small intestine,No Error
+S013,Arteries_C,A,artery,artery,No Error
+S054,Pancreas,A,pancreas,pancreas,No Error
+S056,ovary adult pool1,A,ovary,ovary,No Error
+S058,pancreas,A,pancreas,pancreas,No Error
+S066,stomach_3y,A,stomach,stomach,No Error
+S067,UCSD_Aorta,A,aorta,aorta,No Error
+S071,small_intestine_2,A,small intestine,small intestine,No Error
+S074,BA10,A,brain,frontal lobe,A
+S085,Lateral temporal lobe_17T_Young,A,temporal lobe,temporal lobe,No Error
+S087,Fetal_Kidney,A,kidney,metanephric renal vesicle,A
+,,,,,No Error: 9
+,,,,,A: 2

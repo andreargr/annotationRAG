@@ -1,0 +1,40 @@
+Sample_ID,Label,Type,UBERON_C,UBERON_M,User_Classification
+S003,Schwann_heart,CT,heart,cardiac muscle tissue,A
+S004,Tracheal Epithelial Cells donor1,CT,trachea,trachea,No Error
+S008,CD8_T_cells,CT,immune system,T cell domain,A
+S014,CD4+ cell_UNTREATED,CT,immune system,venous blood,I
+S019,naive_B_VB,CT,blood,-,I
+S020,Fibroblast - Gingival donor1,CT,gingiva,gingiva,No Error
+S022,Osteoblast Primary Cells,CT,bone tissue,bone tissue,No Error
+S023,Club-D,CT,lung,terminal bronchiole epithelium,No Error
+S027,Intestinal_epithelial_2,CT,intestinal epithelium,intestinal epithelium,No Error
+S028,PBMC_Rep1-CD34,CT,blood,blood,No Error
+S030,Foreskin Keratinocyte Primary Cells skin02,CT,prepuce of penis,prepuce of penis,No Error
+S032,AT1_B,CT,alveolus of lung,alveolus of lung,No Error
+S035,Lens Epithelial Cells donor1,CT,epithelium of lens,lens of camera-type eye,A
+S040,Matrix_Fibrob_1_G,CT,connective tissue,connective tissue,No Error
+S043,Tumor_3_BCC,CT,-,skin epidermis,No Error
+S045,Astrocyte_Oligo_1,CT,brain,central nervous system,No Error
+S052,Adrenocortical_adrenal_3,CT,adrenal gland,adrenal gland,No Error
+S057,EPC_VB,CT,bone marrow,venous blood,No Error
+S059,NHEK-Epidermal Keratinocyte Primary Cells,CT,skin epidermis,skin epidermis,No Error
+S061,Primary natural killer cells (from PB),CT,blood,blood,No Error
+S062,umbilical cord Fibroblast,CT,umbilical cord,umbilical cord,No Error
+S063,Ciliary Epithelial Cells donor1,CT,ciliated epithelium,ciliated epithelium,No Error
+S064,Hair Follicle Dermal Papilla Cells donor3,CT,hair follicle,dermal papilla,No Error
+S065,non-tamoxifen_EC2,CT,endometrium,blood vessel endothelium,I
+S069,normal_lung_fibroblasts,CT,lung,lung,No Error
+S070,MPAL4_T1_1,CT,blood,bone marrow,No Error
+S072,B lymphoblastoid Cell,CT,blood,secondary nodular lymphoid tissue,A
+S075,M0_CB,CT,blood,umbilical cord blood,No Error
+S076,Human Bronchial Epithelial Cell,CT,bronchus,bronchus,No Error
+S077,Acinar_pancreas,CT,pancreas,pancreas,No Error
+S081,GBM22,CT,brain,central nervous system,
+S086,Myeloid_placenta,CT,placenta,placenta,No Error
+S089,Macrophage - monocyte derived donor3,CT,blood,blood,No Error
+S090,ES derived primitive cardiomyocite_day15,CT,heart,cardiac muscle tissue,No Error
+S092,Primary T cells from?peripheral?blood,CT,blood,blood,No Error
+,,,,,No Error: 28
+,,,,,
+,,,,,A: 4
+,,,,,I: 3

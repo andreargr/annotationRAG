@@ -1,0 +1,51 @@
+Sample_ID,Label,Type,CL_C,CL_M,User_Classification
+S001,SU-DHL-2,CL,B cell,B cell,No Error
+S002,WI-38,CL,fibroblast of lung,-,A
+S005,MCF7_Invasive_ductal_breast_carcinoma_TAM,CL,mammary gland epithelial cell,mammary gland epithelial cell,No Error
+S006,FL8,CL,B cell,flask cell,I
+S007,LREX,CL,epithelial cell of prostate,lymphangioblast,I
+S009,RWPE1_prostate_epithelial_cells,CL,epithelial cell of prostate,epithelial cell of prostate,No Error
+S010,RPMI 2650,CL,squamous epithelial cell,squamous epithelial cell,No Error
+S012,Ly4,CL,B cell,-,A
+S015,Tet21N_neuroblastoma,CL,neuroblast (sensu Vertebrata),malignant cell,A
+S016,SK-N-BE2,CL,neuroblast (sensu Vertebrata),neuroblast (sensu Vertebrata),No Error
+S017,ATN-1,CL,T cell,-,I
+S018,HK-2,CL,epithelial cell of proximal tubule,epithelial cell of proximal tubule,No Error
+S021,Y79,CL,retinoblast,retinoblast,No Error
+S024,TSU-1621-MT_adult_acute_myeloid_leukemia_ATRA,CL,myeloid cell,myeloid cell,No Error
+S025,TGBC2TKB,CL,epithelial cell,gallbladder glandular cell,I
+S026,Human Podocyte Cell Line AB8/13,CL,kidney epithelial cell,kidney epithelial cell,No Error
+S029,SUIT2_MTV,CL,epithelial cell of exocrine pancreas,epithelial cell of exocrine pancreas,No Error
+S031,CRC107_colorectal_cancer_metastatic_stem_cells,CL,stem cell,stem cell,No Error
+S033,OCI-AML-3,CL,myeloid cell,myeloid cell,No Error
+S034,NT2-D1_embryonic_carcinoma,CL,pluripotent stem cell,germ cell,No Error
+S036,KYSE180,CL,squamous epithelial cell,squamous epithelial cell,No Error
+S037,CyT49_HE,CL,embryonic stem cell,embryonic stem cell,No Error
+S038,glioblastoma cell line:T98G,CL,fibroblast,malignant cell,A
+S039,D341_6,CL,neural cell,-,I
+S041,WA01_H1_human_embryonic_stem_cells_EMB,CL,embryonic stem cell,embryonic stem cell,No Error
+S042,BG01V,CL,embryonic stem cell,embryonic stem cell,No Error
+S044,H1 hESC-derived neural progenitor cells_Smad_72hr,CL,neural progenitor cell,neural progenitor cell,No Error
+S046,OCI-LY3_diffuse_large_B-cell_lymphoma,CL,B cell,lymphocyte of B lineage,No Error
+S047,THP1_DMSO_noPMA,CL,monocyte,monocyte,No Error
+S048,MIC,CL,bone cell,-,I
+S049,adenocarcinoma cell line:IM95m,CL,epithelial cell of stomach,epithelial cell of stomach,No Error
+S050,MT4H1,CL,hematopoietic cell,"activated CD4-positive, alpha-beta T cell, human",I
+S051,GICAN,CL,neuroblast (sensu Vertebrata),-,I
+S053,gm19238,CL,B cell,B-lymphoblast,No Error
+S055,GM23338,CL,pluripotent stem cell,B-lymphoblast,No Error
+S060,HuH-6,CL,hepatocyte,hepatocyte,No Error
+S068,BJ/ET,CL,foreskin fibroblast,foreskin fibroblast,No Error
+S073,MCF7_Invasive_ductal_breast_carcinoma_DEX,CL,mammary gland epithelial cell,mammary gland epithelial cell,No Error
+S078,MDA-MB-157,CL,mammary gland epithelial cell,mammary gland epithelial cell,No Error
+S079,TTC549_Doxycycline,CL,-,-,No Error
+S080,PATU8988S_GFP_DOX,CL,epithelial cell of pancreas,epithelial cell of pancreas,No Error
+S082,MKN28,CL,epithelial cell of stomach,epithelial cell of stomach,No Error
+S083,B-CPAP,CL,epithelial cell of thyroid gland,epithelial cell of thyroid gland,No Error
+S084,TTC-1240_Rhabdoid_tumor_of_the_kidney,CL,kidney cell,malignant cell,I
+S088,DUCaP_prostate_carcinoma,CL,epithelial cell of prostate,epithelial cell of prostate,No Error
+S091,mdamb175vii,CL,mammary gland epithelial cell,mammary gland epithelial cell,No Error
+,,,,,No Error: 33
+,,,,,I: 9
+,,,,,A: 4
+,,,,,

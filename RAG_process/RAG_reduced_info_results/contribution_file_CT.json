@@ -1,0 +1,6962 @@
+{
+    "Glioblastoma neurosphere cell_HF-3035": [
+        "-",
+        "-",
+        "glial cell",
+        "glioblast (sensu Vertebrata)",
+        "central nervous system",
+        "central nervous system",
+        "glioblastoma cell line",
+        "glioma stem cell"
+    ],
+    "Stromal_heart_2": [
+        "-",
+        "-",
+        "stromal cell",
+        "fibroblast of cardiac tissue",
+        "heart",
+        "cardiac muscle tissue",
+        "mesenchymal stromal cell",
+        "mesenchymal stromal cell"
+    ],
+    "foreskin-keratinocyte-calcium5.5day": [
+        "-",
+        "-",
+        "foreskin keratinocyte",
+        "-",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin keratinocyte cell line",
+        "foreskin keratinocyte cell line"
+    ],
+    "PAEP_MECOM_pos_placenta": [
+        "-",
+        "-",
+        "placental villous trophoblast",
+        "placental villous trophoblast",
+        "placenta",
+        "placenta",
+        "trophoblast",
+        "trophoblast"
+    ],
+    "GMP_Frozen_BM1077": [
+        "-",
+        "-",
+        "granulocyte monocyte progenitor cell",
+        "granulocyte monocyte progenitor cell",
+        "bone marrow",
+        "bone marrow",
+        "bone marrow cell",
+        "bone marrow cell"
+    ],
+    "Chondrocyte - re diff donor2": [
+        "-",
+        "-",
+        "chondrocyte",
+        "chondrocyte",
+        "cartilage tissue",
+        "cartilage tissue",
+        "chondrocyte",
+        "chondrocyte"
+    ],
+    "GBM07": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "astrocyte",
+        "brain",
+        "central nervous system",
+        "glioblastoma cell",
+        "glioblastoma cell"
+    ],
+    "MPAL1_T2_4": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "blastemal cell",
+        "blood",
+        "hematopoietic tissue",
+        "acute undifferentiated leukemia cell",
+        "acute undifferentiated leukemia cell"
+    ],
+    "Myeloid_liver_0": [
+        "-",
+        "-",
+        "myeloid cell",
+        "Kupffer cell",
+        "liver",
+        "liver",
+        "myeloid cell line",
+        "Kupffer cell"
+    ],
+    "750T": [
+        "-",
+        "-",
+        "kidney cell",
+        "neoplastic cell",
+        "kidney",
+        "-",
+        "-",
+        "carcinoma cell"
+    ],
+    "CluB_D": [
+        "-",
+        "-",
+        "club cell",
+        "fraction D precursor B cell",
+        "lung",
+        "-",
+        "-",
+        "-"
+    ],
+    "Astro_Oligodendro_cerebrum_2": [
+        "-",
+        "-",
+        "glial cell",
+        "astrocyte",
+        "brain",
+        "obsolete cerebrum",
+        "astrocyte",
+        "astrocyte"
+    ],
+    "Macrophages_GM-CSF_72h": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "-",
+        "macrophage",
+        "bone marrow-derived macrophage"
+    ],
+    "Th2": [
+        "-",
+        "-",
+        "T-helper 2 cell",
+        "T-helper 2 cell",
+        "immune system",
+        "lymphoid tissue",
+        "Th2 cell",
+        "Th2 cell"
+    ],
+    "Glioblastoma neurosphere cell_HF-3016": [
+        "-",
+        "-",
+        "glial cell",
+        "-",
+        "central nervous system",
+        "neural tube derived brain",
+        "glioblastoma cell line",
+        "glioma stem cell"
+    ],
+    "NHEK-Epidermal_Keratinocytes": [
+        "-",
+        "-",
+        "keratinocyte",
+        "keratinocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "NHEK cell",
+        "keratinocyte"
+    ],
+    "Ik6pre-BALL+TET-emptyvector": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "precursor B cell",
+        "blood",
+        "bone marrow",
+        "pre-B acute lymphoblastic leukemia cell",
+        "pre-B acute lymphoblastic leukemia cell"
+    ],
+    "NH-A astrocyte": [
+        "-",
+        "-",
+        "astrocyte",
+        "astrocyte",
+        "central nervous system",
+        "central nervous system",
+        "astrocyte",
+        "astrocyte"
+    ],
+    "Renal Proximal Tubular Epithelial Cell donor2": [
+        "-",
+        "-",
+        "epithelial cell of proximal tubule",
+        "epithelial cell of proximal tubule",
+        "proximal tubular epithelium",
+        "proximal tubular epithelium",
+        "renal proximal tubule epithelial cell",
+        "renal proximal tubule epithelial cell"
+    ],
+    "cervical-cancer_KDM5C": [
+        "-",
+        "-",
+        "epithelial cell of cervix",
+        "epithelial cell of cervix",
+        "uterine cervix",
+        "uterine cervix",
+        "cervical carcinoma cell",
+        "cervical carcinoma cell"
+    ],
+    "Bone_Marrow_Derived_Mesenchymal_Stem_Cell_Cultured_Cells": [
+        "-",
+        "-",
+        "mesenchymal stem cell of the bone marrow",
+        "mesenchymal stem cell of the bone marrow",
+        "bone marrow",
+        "bone marrow",
+        "bone marrow stem cell",
+        "bone marrow stem cell"
+    ],
+    "ILC1": [
+        "-",
+        "-",
+        "group 1 innate lymphoid cell",
+        "group 1 innate lymphoid cell",
+        "immune system",
+        "-",
+        "-",
+        "MSK-Leuk1 cell"
+    ],
+    "Naive_Treg": [
+        "-",
+        "-",
+        "naive regulatory T cell",
+        "naive regulatory T cell",
+        "thymus",
+        "secondary nodular lymphoid tissue",
+        "-",
+        "-"
+    ],
+    "Lung cancer-derived Cell Lines": [
+        "-",
+        "-",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung epithelium",
+        "lung cancer cell line",
+        "lung cancer cell line"
+    ],
+    "CD8-positive, alpha-beta T cell": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "immune system",
+        "T cell domain",
+        "cytotoxic T-lymphocyte",
+        "cytotoxic T-lymphocyte"
+    ],
+    "MPNST007_PRC2 WT": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "nerve",
+        "nerve",
+        "malignant peripheral nerve sheath cancer cell",
+        "malignant peripheral nerve sheath cancer cell"
+    ],
+    "Excitatory_neur_cerebrum_6": [
+        "-",
+        "-",
+        "neuron",
+        "glutamatergic neuron",
+        "brain",
+        "-",
+        "cerebral cortical neuron",
+        "cerebral cortical neuron"
+    ],
+    "Club-A": [
+        "-",
+        "-",
+        "club cell",
+        "lung secretory cell",
+        "lung",
+        "epithelium of respiratory bronchiole",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell"
+    ],
+    "fibroblast_of_pulmonary_artery": [
+        "-",
+        "-",
+        "fibroblast of pulmonary artery",
+        "fibroblast of pulmonary artery",
+        "pulmonary artery",
+        "pulmonary artery",
+        "lung fibroblast",
+        "lung fibroblast"
+    ],
+    "GMP_BM1214": [
+        "-",
+        "-",
+        "granulocyte monocyte progenitor cell",
+        "granulocyte monocyte progenitor cell",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "Glioblastoma Cell Lines": [
+        "-",
+        "-",
+        "glial cell",
+        "glioblast",
+        "central nervous system",
+        "cerebral hemisphere",
+        "glioblastoma cell line",
+        "glioblastoma cell line"
+    ],
+    "CD4_TH1_DMSO": [
+        "-",
+        "-",
+        "T-helper 1 cell",
+        "T-helper 1 cell",
+        "immune system",
+        "-",
+        "Th1 cell",
+        "Th1 cell"
+    ],
+    "Fibroblast - skin spinal muscular atrophy donor2": [
+        "-",
+        "-",
+        "skin fibroblast",
+        "skin fibroblast",
+        "skin epidermis",
+        "skin epidermis",
+        "skin fibroblast",
+        "skin fibroblast"
+    ],
+    "Neural Crest Cells": [
+        "-",
+        "-",
+        "neural crest cell",
+        "neural crest cell",
+        "neural crest",
+        "neural crest",
+        "neural crest cell",
+        "neural crest cell"
+    ],
+    "Endothelial Cells - Lymphatic donor1": [
+        "-",
+        "-",
+        "endothelial cell of lymphatic vessel",
+        "endothelial cell of lymphatic vessel",
+        "lymphatic vessel",
+        "lymphatic vessel",
+        "lymphatic endothelial cell",
+        "lymphatic endothelial cell"
+    ],
+    "Stromal_placenta_4": [
+        "-",
+        "-",
+        "stromal cell",
+        "stromal cell",
+        "placenta",
+        "placenta",
+        "mesenchymal stromal cell",
+        "mesenchymal stromal cell"
+    ],
+    "Syn_vil_cytoTrophobs_placenta_1": [
+        "-",
+        "-",
+        "stem cell",
+        "placental villous trophoblast",
+        "placenta",
+        "placenta",
+        "villous cytotrophoblast",
+        "villous cytotrophoblast"
+    ],
+    "Fibrob_BCC": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "embryonic skin basal layer",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "induced pluripotent stem cell derived Neuronal progenitor cell": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "nervous system",
+        "nervous system",
+        "-",
+        "NPA cell"
+    ],
+    "Endothelial Cells - Aortic donor3": [
+        "-",
+        "-",
+        "aortic endothelial cell",
+        "aortic endothelial cell",
+        "aorta",
+        "aorta",
+        "aortic endothelial cell",
+        "aortic endothelial cell"
+    ],
+    "Th17-IL-10- Day 5": [
+        "-",
+        "-",
+        "T-helper 17 cell",
+        "T-helper 17 cell",
+        "immune system",
+        "-",
+        "Th17 cell",
+        "Th17 cell"
+    ],
+    "adult CD4+CD25hiCD127lo regulatory T cells": [
+        "-",
+        "-",
+        "regulatory T cell",
+        "CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell",
+        "immune system",
+        "T cell domain",
+        "-",
+        "-"
+    ],
+    "thymocyte": [
+        "-",
+        "-",
+        "thymocyte",
+        "thymocyte",
+        "thymus",
+        "thymus",
+        "thymocyte",
+        "thymocyte"
+    ],
+    "DIPGIV": [
+        "-",
+        "-",
+        "glial cell",
+        "glial cell",
+        "brain",
+        "brain",
+        "glioma cell",
+        "glioma cell"
+    ],
+    "Pro-B": [
+        "-",
+        "-",
+        "pro-B cell",
+        "pro-B cell",
+        "bone marrow",
+        "bone marrow",
+        "pro-B-lymphocyte",
+        "pro-B-lymphocyte"
+    ],
+    "dermal_fibroblasts": [
+        "-",
+        "-",
+        "fibroblast of dermis",
+        "fibroblast of dermis",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "Endothelial Cells - Umbilical vein donor3": [
+        "-",
+        "-",
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical vein",
+        "umbilical vein",
+        "umbilical vein endothelial cell",
+        "umbilical vein endothelial cell"
+    ],
+    "MM001_Primary_Melanoma": [
+        "-",
+        "-",
+        "melanocyte",
+        "melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "melanoma cell",
+        "melanoma cell"
+    ],
+    "GBM35": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "glioblast",
+        "brain",
+        "neural tissue",
+        "glioblastoma multiforme cell",
+        "glioblastoma multiforme cell"
+    ],
+    "Myeloid_liver_3": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "liver",
+        "liver",
+        "myeloid cell line",
+        "myeloid cell line"
+    ],
+    "Inhib_neur_cerebrum_2": [
+        "-",
+        "-",
+        "neuron",
+        "GABAergic interneuron",
+        "brain",
+        "telencephalon",
+        "-",
+        "-"
+    ],
+    "fetal_prostate_fibroblasts": [
+        "-",
+        "-",
+        "fibroblast of connective tissue of prostate",
+        "fibroblast of connective tissue of prostate",
+        "connective tissue of prostate gland",
+        "connective tissue of prostate gland",
+        "-",
+        "-"
+    ],
+    "Primary haematopoietic stem cells (HSCs)": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell",
+        "bone marrow",
+        "bone marrow",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell"
+    ],
+    "EM CD4+ ab T (PB)": [
+        "-",
+        "-",
+        "CD4-positive, alpha-beta T cell",
+        "CD4-positive, alpha-beta T cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "Adrenocortical_adrenal_3": [
+        "-",
+        "-",
+        "cortical cell of adrenal gland",
+        "cortical cell of adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenocortical cell",
+        "adrenocortical cell"
+    ],
+    "Myeloid_adrenal": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid dendritic cell, human",
+        "adrenal gland",
+        "adrenal gland",
+        "myeloid cell line",
+        "bone marrow-derived macrophage"
+    ],
+    "Endothelial Cells - Vein donor2": [
+        "-",
+        "-",
+        "vein endothelial cell",
+        "endothelial cell of venule",
+        "vein",
+        "venous blood vessel",
+        "venous endothelial cell",
+        "venous endothelial cell"
+    ],
+    "Bone marrow derived hMSC_d0": [
+        "-",
+        "-",
+        "mesenchymal stem cell of the bone marrow",
+        "mesenchymal stem cell of the bone marrow",
+        "bone marrow",
+        "bone marrow",
+        "bone marrow stromal stem cell",
+        "bone marrow stromal stem cell"
+    ],
+    "SGBS": [
+        "-",
+        "-",
+        "stromal cell",
+        "-",
+        "adipose tissue",
+        "adipose tissue",
+        "-",
+        "adipocyte cell line"
+    ],
+    "Crc Cell": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "malignant cell",
+        "colorectum",
+        "colorectum",
+        "colorectal cancer cell",
+        "colorectal cancer cell"
+    ],
+    "Renal Glomerular Endothelial Cells donor2": [
+        "-",
+        "-",
+        "glomerular endothelial cell",
+        "glomerular endothelial cell",
+        "glomerular capillary",
+        "glomerular capillary",
+        "glomerular endothelial cell",
+        "glomerular endothelial cell"
+    ],
+    "round spermatids": [
+        "-",
+        "-",
+        "spermatid",
+        "spermatid",
+        "testis",
+        "testis",
+        "spermatid",
+        "spermatid"
+    ],
+    "Smooth Muscle Cells - Umbilical Artery donor3": [
+        "-",
+        "-",
+        "smooth muscle cell of the umbilical artery",
+        "smooth muscle cell of the umbilical artery",
+        "umbilical smooth muscle",
+        "umbilical smooth muscle",
+        "vascular smooth muscle cell",
+        "vascular smooth muscle cell"
+    ],
+    "LTED_breast_cancer": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "mammary gland",
+        "breast cancer cell line",
+        "breast cancer cell line"
+    ],
+    "Foreskin melanocyte": [
+        "-",
+        "-",
+        "foreskin melanocyte",
+        "foreskin melanocyte",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin melanocyte cell line",
+        "foreskin melanocyte cell line"
+    ],
+    "MyoFibrob_B": [
+        "-",
+        "-",
+        "myofibroblast cell",
+        "myofibroblast cell",
+        "connective tissue",
+        "collagenous dermal stroma",
+        "myofibroblast",
+        "myofibroblast"
+    ],
+    "primary-glioblastoma": [
+        "-",
+        "-",
+        "glial cell",
+        "glioblast",
+        "central nervous system",
+        "cerebral hemisphere",
+        "glioblastoma cell line",
+        "glioblastoma cell line"
+    ],
+    "Capillary_1_E": [
+        "-",
+        "-",
+        "capillary endothelial cell",
+        "capillary endothelial cell",
+        "endothelium of capillary",
+        "endothelium of capillary",
+        "capillary endothelial cell",
+        "capillary endothelial cell"
+    ],
+    "FX52 iPSCs dC-T": [
+        "-",
+        "-",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "pluripotent stem cell",
+        "pluripotent stem cell"
+    ],
+    "LCL_lymphoblastoid_cell_line_ETOH": [
+        "-",
+        "-",
+        "lymphoblast",
+        "lymphocyte of B lineage, CD19-positive",
+        "blood",
+        "blood",
+        "lymphoblastoid cell line",
+        "lymphoblastoid cell line"
+    ],
+    "Human Embryos": [
+        "-",
+        "-",
+        "embryonic cell (metazoa)",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "embryo",
+        "embryo"
+    ],
+    "Peripheral_Blood_Mononuclear_Primary_Cells": [
+        "-",
+        "-",
+        "peripheral blood mononuclear cell",
+        "peripheral blood mononuclear cell",
+        "blood",
+        "blood",
+        "peripheral blood mononuclear cell",
+        "peripheral blood mononuclear cell"
+    ],
+    "Syn_vil_cytoTrophobs_1": [
+        "-",
+        "-",
+        "stem cell",
+        "mononuclear cytotrophoblast cell",
+        "placenta",
+        "chorionic villus",
+        "villous cytotrophoblast",
+        "villous cytotrophoblast"
+    ],
+    "bipolar neuron": [
+        "-",
+        "-",
+        "bipolar neuron",
+        "bipolar neuron",
+        "nervous system",
+        "olfactory epithelium",
+        "-",
+        "olfactory receptor neuron"
+    ],
+    "B_B": [
+        "-",
+        "-",
+        "B cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "-",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "Vascular_endothelial_spleen": [
+        "-",
+        "-",
+        "splenic endothelial cell",
+        "splenic endothelial cell",
+        "spleen",
+        "spleen",
+        "vascular endothelial cell",
+        "vascular endothelial cell"
+    ],
+    "Neurons donor2": [
+        "-",
+        "-",
+        "neuron",
+        "neuron",
+        "nervous system",
+        "neural tissue",
+        "neuron",
+        "neuron"
+    ],
+    "HEMn": [
+        "-",
+        "-",
+        "epidermal melanocyte",
+        "epidermal melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "melanocyte",
+        "melanocyte"
+    ],
+    "M0_CB": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "umbilical cord blood",
+        "macrophage",
+        "macrophage"
+    ],
+    "CD34_cells_ERYTH_BIO": [
+        "-",
+        "-",
+        "erythroid lineage cell",
+        "CD34-positive, GlyA-negative erythroid progenitor cell",
+        "bone marrow",
+        "-",
+        "erythroid cell",
+        "erythroid cell"
+    ],
+    "CD8 Naive 8pool": [
+        "-",
+        "-",
+        "naive thymus-derived CD8-positive, alpha-beta T cell",
+        "naive thymus-derived CD8-positive, alpha-beta T cell",
+        "thymus",
+        "venous blood",
+        "-",
+        "-"
+    ],
+    "Vascular Endothelial Cell": [
+        "-",
+        "-",
+        "endothelial cell of vascular tree",
+        "endothelial cell of vascular tree",
+        "endothelium",
+        "endothelium",
+        "vascular endothelial cell",
+        "vascular endothelial cell"
+    ],
+    "Mesothelial Cells donor1": [
+        "-",
+        "-",
+        "mesothelial cell",
+        "mesothelial cell",
+        "serous cavity",
+        "serous cavity",
+        "mesothelioma cell",
+        "mesothelioma cell"
+    ],
+    "Monocyte_2": [
+        "-",
+        "-",
+        "monocyte",
+        "monocyte",
+        "blood",
+        "circulatory system",
+        "monocyte",
+        "monocyte"
+    ],
+    "Preadipocyte - subcutaneous donor2": [
+        "-",
+        "-",
+        "preadipocyte",
+        "preadipocyte",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue",
+        "preadipocyte",
+        "preadipocyte"
+    ],
+    "GBM": [
+        "-",
+        "-",
+        "glial cell",
+        "glioblast",
+        "central nervous system",
+        "central nervous system",
+        "glioblastoma multiforme cell",
+        "glioblastoma multiforme cell"
+    ],
+    "Pre-B": [
+        "-",
+        "-",
+        "precursor B cell",
+        "pre-B-II cell",
+        "bone marrow",
+        "bone marrow",
+        "pre-B-lymphocyte",
+        "pre-B-lymphocyte"
+    ],
+    "Induced Pluripotent Stem Cells": [
+        "induced pluripotent stem cell line cell",
+        "-",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "hiPSC cell",
+        "pluripotent stem cell"
+    ],
+    "Lens Epithelial Cells donor3": [
+        "-",
+        "-",
+        "lens epithelial cell",
+        "lens epithelial cell",
+        "epithelium of lens",
+        "epithelium of lens",
+        "human lens epithelial cell line",
+        "human lens epithelial cell line"
+    ],
+    "Im-GCT-3504_G34W": [
+        "-",
+        "-",
+        "-",
+        "neoplastic cell",
+        "bone tissue",
+        "distal epiphysis of femur",
+        "-",
+        "giant cell tumor cell line"
+    ],
+    "CD8_Naive_Primary_Cells": [
+        "-",
+        "-",
+        "naive thymus-derived CD8-positive, alpha-beta T cell",
+        "naive thymus-derived CD8-positive, alpha-beta T cell",
+        "thymus",
+        "blood plasma",
+        "naive T-lymphocyte",
+        "naive T-lymphocyte"
+    ],
+    "MPAL5_T1": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "obsolete T lymphoblast",
+        "blood",
+        "bone marrow",
+        "T-cell acute lymphoblastic leukemia cell",
+        "T-cell acute lymphoblastic leukemia cell"
+    ],
+    "CD14+ monocytes - treated with IFN + N-hexane donor2": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "Fibroblast - Cardiac donor3": [
+        "-",
+        "-",
+        "fibroblast of cardiac tissue",
+        "fibroblast of cardiac tissue",
+        "heart",
+        "heart",
+        "cardiofibroblast",
+        "cardiofibroblast"
+    ],
+    "CD19donorA": [
+        "-",
+        "-",
+        "B cell, CD19-positive",
+        "B cell, CD19-positive",
+        "blood",
+        "blood",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "CD4-pos": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "-",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "CD3": [
+        "-",
+        "-",
+        "mature T cell",
+        "lymphocyte",
+        "immune system",
+        "lymphoid tissue",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "High-grade serous ovarian cancer": [
+        "-",
+        "-",
+        "ovarian surface epithelial cell",
+        "ovarian surface epithelial cell",
+        "ovary",
+        "ovary",
+        "ovarian serous carcinoma cell",
+        "ovarian serous carcinoma cell"
+    ],
+    "hepatocyte": [
+        "-",
+        "-",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "hepatocyte",
+        "hepatocyte"
+    ],
+    "tamoxifen_EC5": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "blood vessel endothelium",
+        "endothelial cell",
+        "endothelial cell"
+    ],
+    "HBE": [
+        "-",
+        "-",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell",
+        "bronchus",
+        "bronchus",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell"
+    ],
+    "Pancreatic_tumor_associated_fibroblasts_B009B_untreated": [
+        "-",
+        "-",
+        "pancreatic stellate cell",
+        "fibroblast",
+        "pancreas",
+        "pancreas",
+        "-",
+        "fibroblast"
+    ],
+    "Normal Human Astrocyte": [
+        "-",
+        "-",
+        "astrocyte",
+        "astrocyte",
+        "central nervous system",
+        "neural tissue",
+        "astrocyte",
+        "astrocyte"
+    ],
+    "Endothelial Cells - Microvascular donor1": [
+        "-",
+        "-",
+        "microvascular endothelial cell",
+        "microvascular endothelial cell",
+        "microvascular endothelium",
+        "microvascular endothelium",
+        "microvascular endothelial cell",
+        "microvascular endothelial cell"
+    ],
+    "Skeletal Muscle Cells donor5": [
+        "-",
+        "-",
+        "cell of skeletal muscle",
+        "cell of skeletal muscle",
+        "skeletal muscle tissue",
+        "skeletal muscle tissue",
+        "skeletal muscle cell",
+        "skeletal muscle cell"
+    ],
+    "EX_cerebrum_7": [
+        "-",
+        "-",
+        "neuron",
+        "glutamatergic neuron",
+        "brain",
+        "-",
+        "neuron",
+        "neuron"
+    ],
+    "Pericytes donor2": [
+        "-",
+        "-",
+        "pericyte",
+        "pericyte",
+        "connective tissue",
+        "microvascular endothelium",
+        "pericyte",
+        "pericyte"
+    ],
+    "Endothelial Cells - Thoracic donor1": [
+        "-",
+        "-",
+        "endothelial cell",
+        "endothelial cell",
+        "endothelium",
+        "obsolete region of thorax",
+        "endothelial cell",
+        "endothelial cell"
+    ],
+    "Antigen_presenting_thymus": [
+        "-",
+        "-",
+        "thymic conventional dendritic cell",
+        "thymic conventional dendritic cell",
+        "thymus",
+        "thymus",
+        "thymic dendritic cell",
+        "thymic dendritic cell"
+    ],
+    "Acinar_pancreas": [
+        "-",
+        "-",
+        "pancreatic acinar cell",
+        "pancreatic acinar cell",
+        "pancreas",
+        "pancreas",
+        "pancreatic acinar cell",
+        "pancreatic acinar cell"
+    ],
+    "CNCC": [
+        "-",
+        "-",
+        "neural crest cell",
+        "neural crest cell",
+        "cranial neural crest",
+        "cranial neural crest",
+        "neural crest cell",
+        "neural crest cell"
+    ],
+    "Sympathoblasts_adrenal": [
+        "-",
+        "-",
+        "pluripotent stem cell",
+        "neural crest derived neuroblast",
+        "embryo",
+        "adrenal medulla",
+        "-",
+        "neural crest cell"
+    ],
+    "Thymocytes_thymus_0": [
+        "-",
+        "-",
+        "thymocyte",
+        "thymocyte",
+        "thymus",
+        "thymus",
+        "thymocyte",
+        "thymocyte"
+    ],
+    "Medulloblastoma Cell Lines": [
+        "-",
+        "-",
+        "neural cell",
+        "cerebellar granule cell",
+        "cerebellum",
+        "cerebellum",
+        "medulloblastoma cell line",
+        "medulloblastoma cell line"
+    ],
+    "CD4+ T Cells donor1": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "venous blood",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "Vascular_endothelial_adrenal": [
+        "-",
+        "-",
+        "endothelial cell of vascular tree",
+        "endothelial cell of vascular tree",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenal gland"
+    ],
+    "pulmonary arterial smooth muscle cells_PAH2_sictrl": [
+        "-",
+        "-",
+        "smooth muscle cell of the pulmonary artery",
+        "smooth muscle cell of the pulmonary artery",
+        "artery smooth muscle tissue",
+        "artery smooth muscle tissue",
+        "pulmonary artery smooth muscle cell",
+        "pulmonary artery smooth muscle cell"
+    ],
+    "Club-C": [
+        "-",
+        "-",
+        "club cell",
+        "lung secretory cell",
+        "lung",
+        "terminal bronchiole epithelium",
+        "secretory cell",
+        "secretory cell"
+    ],
+    "GMP_BM0828": [
+        "-",
+        "-",
+        "granulocyte monocyte progenitor cell",
+        "granulocyte monocyte progenitor cell",
+        "bone marrow",
+        "bone marrow",
+        "bone marrow-derived macrophage",
+        "bone marrow-derived macrophage"
+    ],
+    "PB1022_mono_singles": [
+        "-",
+        "-",
+        "monocyte",
+        "monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "Hindbrain derived neural stem cells_NS13_H3.3K27M_WT": [
+        "-",
+        "-",
+        "neural stem cell",
+        "neural stem cell",
+        "hindbrain",
+        "hindbrain",
+        "neural stem cell",
+        "neural stem cell"
+    ],
+    "Smooth Muscle Cells - Umbilical Artery donor1": [
+        "-",
+        "-",
+        "smooth muscle cell of the umbilical artery",
+        "smooth muscle cell of the umbilical artery",
+        "umbilical smooth muscle",
+        "umbilical smooth muscle",
+        "vascular smooth muscle cell",
+        "vascular smooth muscle cell"
+    ],
+    "HCASMC_Human_coronary_artery_smooth_muscle_cells": [
+        "-",
+        "-",
+        "smooth muscle cell of the coronary artery",
+        "smooth muscle cell of the coronary artery",
+        "artery smooth muscle tissue",
+        "artery smooth muscle tissue",
+        "coronary artery smooth muscle cell",
+        "coronary artery smooth muscle cell"
+    ],
+    "Fibroblast - Gingival donor2": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "gingiva",
+        "gingiva",
+        "gingival fibroblast",
+        "gingival fibroblast"
+    ],
+    "Fibroblast - Dermal donor3": [
+        "-",
+        "-",
+        "fibroblast of dermis",
+        "fibroblast of dermis",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "CD8 Memory 7pool": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta memory T cell",
+        "CD8-positive, alpha-beta memory T cell",
+        "immune system",
+        "-",
+        "-",
+        "-"
+    ],
+    "CD14+ monocyte (PB)": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "NK_cells_G": [
+        "-",
+        "-",
+        "natural killer cell",
+        "natural killer cell",
+        "immune system",
+        "venous blood",
+        "natural killer cell",
+        "natural killer cell"
+    ],
+    "Matrix_Fibrob_2_E": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "-",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "Peripheral Blood Mononuclear Cells donor1": [
+        "-",
+        "-",
+        "peripheral blood mononuclear cell",
+        "peripheral blood mononuclear cell",
+        "blood",
+        "blood",
+        "peripheral blood mononuclear cell",
+        "peripheral blood mononuclear cell"
+    ],
+    "myotube originated from skeletal muscle myoblast": [
+        "-",
+        "-",
+        "myotube",
+        "myotube",
+        "muscle structure",
+        "muscle structure",
+        "skeletal muscle cell",
+        "skeletal muscle cell"
+    ],
+    "Nucleus Pulposus Cell donor3": [
+        "-",
+        "-",
+        "chondrocyte",
+        "nucleus pulposus cell of intervertebral disc",
+        "nucleus pulposus",
+        "nucleus pulposus",
+        "HNPC cell",
+        "nucleus pulposus cell line"
+    ],
+    "MEP-CD34": [
+        "-",
+        "-",
+        "megakaryocyte-erythroid progenitor cell",
+        "megakaryocyte-erythroid progenitor cell",
+        "bone marrow",
+        "hematopoietic tissue",
+        "erythroid progenitor cell",
+        "erythroid progenitor cell"
+    ],
+    "Tumor_3_BCC": [
+        "-",
+        "-",
+        "neoplastic cell",
+        "basal cell of epidermis",
+        "-",
+        "skin epidermis",
+        "-",
+        "basal cell carcinoma cell"
+    ],
+    "B_C": [
+        "-",
+        "-",
+        "B cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "lymphomyeloid tissue",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "Stromal_lung_8": [
+        "-",
+        "-",
+        "stromal cell",
+        "-",
+        "lung",
+        "lung",
+        "mesenchymal stromal cell",
+        "mesenchymal stromal cell"
+    ],
+    "Club-D": [
+        "-",
+        "-",
+        "club cell",
+        "club cell",
+        "lung",
+        "terminal bronchiole epithelium",
+        "Clara cell",
+        "Clara cell"
+    ],
+    "Goblet_stomach": [
+        "-",
+        "-",
+        "gastric goblet cell",
+        "gastric goblet cell",
+        "stomach",
+        "stomach",
+        "goblet cell",
+        "goblet cell"
+    ],
+    "Smooth Muscle Cells - Internal Thoracic Artery donor3": [
+        "-",
+        "-",
+        "smooth muscle cell of the internal thoracic artery",
+        "smooth muscle cell of the internal thoracic artery",
+        "thoracic aorta smooth muscle tissue",
+        "thoracic aorta smooth muscle tissue",
+        "vascular smooth muscle cell",
+        "vascular smooth muscle cell"
+    ],
+    "umbilical-cord-derived-mesenchymal-stem-cells_SGA_cycle_0": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "umbilical cord",
+        "umbilical cord",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "Granule_n_cerebellum": [
+        "-",
+        "-",
+        "cerebellar granule cell",
+        "cerebellar granule cell",
+        "cerebellum",
+        "cerebellum",
+        "cerebellar granule cell",
+        "cerebellar granule cell"
+    ],
+    "Prostate Epithelial Cells donor2": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "prostate cancer cell line",
+        "prostate cancer cell line"
+    ],
+    "mesenchymal precursor cell - ovarian cancer metastasis donor4": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "ovary",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "hepatocellular-carcinoma-cell": [
+        "-",
+        "-",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "hepatoma cell",
+        "hepatoma cell"
+    ],
+    "Bronchial Epithelial Cell donor6": [
+        "-",
+        "-",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell",
+        "bronchus",
+        "bronchus",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell"
+    ],
+    "NK_1_BCC": [
+        "-",
+        "-",
+        "natural killer cell",
+        "natural killer cell",
+        "immune system",
+        "stratum basale of epidermis",
+        "natural killer cell",
+        "natural killer cell"
+    ],
+    "neuron-progenitor": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "nervous system",
+        "-",
+        "-",
+        "neural stem cell"
+    ],
+    "STAD": [
+        "-",
+        "-",
+        "glandular epithelial cell of stomach",
+        "glandular epithelial cell of stomach",
+        "stomach",
+        "stomach",
+        "gastric adenocarcinoma cell",
+        "gastric adenocarcinoma cell line"
+    ],
+    "Human Monocytes/Macrophages": [
+        "-",
+        "-",
+        "macrophage",
+        "monocyte",
+        "blood",
+        "-",
+        "macrophage",
+        "macrophage"
+    ],
+    "Cardiac progenitor cells": [
+        "-",
+        "-",
+        "muscle precursor cell",
+        "muscle precursor cell",
+        "heart",
+        "embryonic cardiovascular system",
+        "-",
+        "-"
+    ],
+    "Th2_t-infiltrating": [
+        "-",
+        "-",
+        "T-helper 2 cell",
+        "T-helper 2 cell",
+        "immune system",
+        "tissue",
+        "Th2 cell",
+        "Th2 cell"
+    ],
+    "ILC3": [
+        "-",
+        "-",
+        "group 3 innate lymphoid cell",
+        "group 3 innate lymphoid cell",
+        "immune system",
+        "lamina propria of small intestine",
+        "lymphoid cell",
+        "lymphoid cell"
+    ],
+    "Preadipocyte - omental donor3": [
+        "-",
+        "-",
+        "preadipocyte",
+        "preadipocyte",
+        "omental fat pad",
+        "visceral abdominal adipose tissue",
+        "preadipocyte",
+        "preadipocyte"
+    ],
+    "MPAL4_T1_4": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "blastemal cell",
+        "blood",
+        "hematopoietic tissue",
+        "acute undifferentiated leukemia cell",
+        "acute undifferentiated leukemia cell"
+    ],
+    "CD14_Mono": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "IIDP/donor790": [
+        "-",
+        "-",
+        "pancreatic endocrine cell",
+        "pancreatic endocrine cell",
+        "endoderm",
+        "islet of Langerhans",
+        "pancreatic islet cell",
+        "pancreatic islet cell"
+    ],
+    "BI_CD8_Memory_7pool": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta memory T cell",
+        "CD8-positive, alpha-beta memory T cell, CD45RO-positive",
+        "immune system",
+        "blood",
+        "memory T-lymphocyte",
+        "memory T-lymphocyte"
+    ],
+    "Adipocyte - subcutaneous donor2": [
+        "-",
+        "-",
+        "subcutaneous adipocyte",
+        "subcutaneous adipocyte",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue",
+        "-",
+        "white adipocyte"
+    ],
+    "trophoblast__SynT": [
+        "-",
+        "-",
+        "trophoblast cell",
+        "trophoblast cell",
+        "trophoblast",
+        "placenta",
+        "trophoblast",
+        "trophoblast"
+    ],
+    "Smooth Muscle Cells - Esophageal donor1": [
+        "-",
+        "-",
+        "smooth muscle cell",
+        "smooth muscle cell",
+        "smooth muscle of esophagus",
+        "smooth muscle of esophagus",
+        "smooth muscle cell",
+        "smooth muscle cell"
+    ],
+    "primary-monocyte": [
+        "-",
+        "-",
+        "monocyte",
+        "monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "Bone_marrow_derived_macrophage": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "bone marrow",
+        "bone marrow",
+        "macrophage",
+        "macrophage"
+    ],
+    "Myeloid_placenta_2": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "placenta",
+        "placenta",
+        "myeloid cell line",
+        "myeloid cell line"
+    ],
+    "pDC": [
+        "-",
+        "-",
+        "plasmacytoid dendritic cell",
+        "plasmacytoid dendritic cell",
+        "blood",
+        "lymphomyeloid tissue",
+        "plasmacytoid dendritic cell",
+        "plasmacytoid dendritic cell"
+    ],
+    "MLS 1765-92": [
+        "-",
+        "-",
+        "adipocyte",
+        "-",
+        "adipose tissue",
+        "-",
+        "-",
+        "-"
+    ],
+    "B lymphoblastoid Cell": [
+        "-",
+        "-",
+        "B-lymphoblast",
+        "immature B cell",
+        "blood",
+        "secondary nodular lymphoid tissue",
+        "B-lymphoblastoid cell",
+        "B-lymphoblastoid cell line"
+    ],
+    "astrocyte_of_the_spinal_cord": [
+        "-",
+        "-",
+        "astrocyte of the spinal cord",
+        "astrocyte of the spinal cord",
+        "spinal cord",
+        "spinal cord",
+        "astrocyte",
+        "astrocyte"
+    ],
+    "hMGLs_WT": [
+        "-",
+        "-",
+        "glial cell",
+        "glial cell",
+        "brain",
+        "central nervous system",
+        "glial cell",
+        "microglia"
+    ],
+    "Hair Follicle Dermal Papilla Cells donor2": [
+        "-",
+        "-",
+        "hair follicle dermal papilla cell",
+        "hair follicle dermal papilla cell",
+        "hair follicle",
+        "dermal papilla",
+        "hair follicle dermal papilla cell",
+        "hair follicle dermal papilla cell"
+    ],
+    "CHLA-10": [
+        "-",
+        "-",
+        "bone cell",
+        "-",
+        "bone tissue",
+        "adrenal medulla",
+        "neuroblastoma cell line",
+        "neuroblastoma cell line"
+    ],
+    "CD4+CD25+CD45RA- memory regulatory T cells expanded donor3": [
+        "-",
+        "-",
+        "memory regulatory T cell",
+        "memory regulatory T cell",
+        "immune system",
+        "lymph node T cell domain",
+        "-",
+        "-"
+    ],
+    "Chondrocyte - re diff donor3": [
+        "-",
+        "-",
+        "chondrocyte",
+        "chondrocyte",
+        "cartilage tissue",
+        "cartilage tissue",
+        "chondrocyte",
+        "chondrocyte"
+    ],
+    "CD8+ T Cells donor2": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "immune system",
+        "venous blood",
+        "cytotoxic T-lymphocyte",
+        "cytotoxic T-lymphocyte"
+    ],
+    "CD4_ab_T_Th": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "-",
+        "helper T-lymphocyte",
+        "culture condition:CD4+ cell"
+    ],
+    "Smooth Muscle Cells - Tracheal donor1": [
+        "-",
+        "-",
+        "tracheobronchial smooth muscle cell",
+        "tracheobronchial smooth muscle cell",
+        "smooth muscle of trachea",
+        "smooth muscle of trachea",
+        "tracheal smooth muscle cell",
+        "tracheal smooth muscle cell"
+    ],
+    "Gingival epithelial cells donor3 (GEA15)": [
+        "-",
+        "-",
+        "gingival epithelial cell",
+        "gingival epithelial cell",
+        "gingival epithelium",
+        "gingival epithelium",
+        "oral epithelial cell",
+        "oral epithelial cell"
+    ],
+    "Astrocyte_Oligo_1": [
+        "-",
+        "-",
+        "glial cell",
+        "astrocyte",
+        "brain",
+        "central nervous system",
+        "-",
+        "neuron-oligodendrocyte coculture"
+    ],
+    "primordial-germ-cell-like-cell": [
+        "-",
+        "-",
+        "primordial germ cell",
+        "primordial germ cell",
+        "gonad",
+        "gonad",
+        "-",
+        "embryonic germ cell"
+    ],
+    "Excitatory_neur_cerebrum_7": [
+        "-",
+        "-",
+        "neuron",
+        "glutamatergic neuron",
+        "brain",
+        "-",
+        "-",
+        "pyramidal neuron"
+    ],
+    "Stromal_intestine_3": [
+        "-",
+        "-",
+        "stromal cell",
+        "stromal cell of lamina propria of small intestine",
+        "intestine",
+        "intestine",
+        "stromal cell",
+        "stromal cell"
+    ],
+    "Synoviocyte donor2": [
+        "-",
+        "-",
+        "synovial cell",
+        "fibroblast",
+        "synovial bursa",
+        "synovial bursa",
+        "synoviocyte",
+        "fibroblast-like synoviocyte"
+    ],
+    "neutrophils": [
+        "-",
+        "-",
+        "neutrophil",
+        "neutrophil",
+        "blood",
+        "blood",
+        "neutrophil",
+        "neutrophil"
+    ],
+    "HMEC_human_mammary_epithelial_cells": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "mammary gland",
+        "mammary epithelial cell",
+        "mammary epithelial cell"
+    ],
+    "T_cell_C": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "T cell domain",
+        "T-lymphocyte",
+        "T1 cell"
+    ],
+    "Day6 Plasmablast CD23- memory B cell": [
+        "-",
+        "-",
+        "plasmablast",
+        "CD86-positive plasmablast",
+        "immune system",
+        "-",
+        "plasma cell",
+        "plasma cell"
+    ],
+    "Pre_B_healthy": [
+        "-",
+        "-",
+        "precursor B cell",
+        "precursor B cell",
+        "bone marrow",
+        "bone marrow",
+        "pre-B-lymphocyte",
+        "pre-B-lymphocyte"
+    ],
+    "Ciliated_cells_C": [
+        "-",
+        "-",
+        "ciliated cell",
+        "multiciliated epithelial cell",
+        "lung",
+        "epithelium of bronchus",
+        "-",
+        "nonpigmented ciliary epithelial cell"
+    ],
+    "Myeloid_heart": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "heart",
+        "cardiac muscle tissue",
+        "myeloid cell line",
+        "bone marrow-derived macrophage"
+    ],
+    "neutrophils_US": [
+        "-",
+        "-",
+        "neutrophil",
+        "neutrophil",
+        "blood",
+        "blood",
+        "neutrophil",
+        "neutrophil"
+    ],
+    "breast_tumour_metastasis": [
+        "-",
+        "-",
+        "luminal epithelial cell of mammary gland",
+        "luminal epithelial cell of mammary gland",
+        "breast",
+        "mammary gland",
+        "breast cancer cell",
+        "mammary ductal carcinoma cell"
+    ],
+    "SGBS_adipocyte": [
+        "-",
+        "-",
+        "adipocyte",
+        "white adipocyte",
+        "adipose tissue",
+        "adipose tissue",
+        "-",
+        "white adipocyte"
+    ],
+    "HUES64 derived CD184+ endoderm": [
+        "-",
+        "-",
+        "endodermal cell",
+        "endodermal cell",
+        "endoderm",
+        "endoderm",
+        "endoderm",
+        "endoderm"
+    ],
+    "primary-prostate-cancer": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "prostate cancer cell line",
+        "prostate cancer cell line"
+    ],
+    "Matrix_Fibrob_2_F": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "migratory langerhans cells donor1": [
+        "-",
+        "-",
+        "Langerhans cell",
+        "Langerhans cell",
+        "islet of Langerhans",
+        "skin epidermis",
+        "Langerhans cell",
+        "Langerhans cell"
+    ],
+    "lower_leg_skin": [
+        "-",
+        "-",
+        "epithelial cell",
+        "-",
+        "lower leg skin",
+        "lower leg skin",
+        "-",
+        "keratinocyte"
+    ],
+    "GBM34": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "glioblast",
+        "brain",
+        "cingulum of brain",
+        "glioblastoma multiforme cancer stem cell",
+        "glioblastoma multiforme cancer stem cell"
+    ],
+    "NHEK-epidermal keratinocyte": [
+        "-",
+        "-",
+        "keratinocyte",
+        "-",
+        "skin epidermis",
+        "skin epidermis",
+        "NHEK cell",
+        "keratinocyte"
+    ],
+    "CRC_myeloid_1": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "colorectum",
+        "myeloid cell line",
+        "myeloid cell line"
+    ],
+    "Foreskin Fibroblast Primary Cells skin02": [
+        "-",
+        "-",
+        "foreskin fibroblast",
+        "foreskin fibroblast",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin fibroblast cell line",
+        "foreskin fibroblast cell line"
+    ],
+    "Lymphoid_intestine_0": [
+        "-",
+        "-",
+        "lymphocyte",
+        "lymphocyte",
+        "intestine",
+        "small intestine Peyer's patch",
+        "lymphoid cell",
+        "lymphoid cell"
+    ],
+    "Th17-IL-10+ Day 0": [
+        "-",
+        "-",
+        "T-helper 17 cell",
+        "T-helper 17 cell",
+        "immune system",
+        "-",
+        "Th17 cell",
+        "Th17 cell"
+    ],
+    "CD34": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "CD34-positive, CD38-negative hematopoietic stem cell",
+        "bone marrow",
+        "bone marrow",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell"
+    ],
+    "Thymic_epithelial_thymus": [
+        "-",
+        "-",
+        "epithelial cell of thymus",
+        "epithelial cell of thymus",
+        "thymus",
+        "thymus",
+        "thymic cortical epithelial cell",
+        "thymic cortical epithelial cell"
+    ],
+    "BI_Adipose_Nuclei": [
+        "-",
+        "-",
+        "adipocyte",
+        "adipocyte",
+        "adipose tissue",
+        "adipose tissue",
+        "adipocyte",
+        "adipocyte"
+    ],
+    "Primary T cells from cord blood": [
+        "-",
+        "-",
+        "T cell",
+        "activated CD4-positive, alpha-beta T cell, human",
+        "umbilical cord blood",
+        "umbilical cord blood",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "CD14-positive-monocyte": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "effector memory CD4+ alpha-beta T cell": [
+        "-",
+        "-",
+        "effector memory CD4-positive, alpha-beta T cell",
+        "effector memory CD4-positive, alpha-beta T cell",
+        "immune system",
+        "T cell domain",
+        "memory T-lymphocyte",
+        "memory T-lymphocyte"
+    ],
+    "Mesothelial_intestine": [
+        "-",
+        "-",
+        "mesothelial cell",
+        "mesothelial cell of small intestine",
+        "intestine",
+        "intestine",
+        "-",
+        "-"
+    ],
+    "monocyte-derived dendritic cells_R848_1h": [
+        "-",
+        "-",
+        "dendritic cell",
+        "dendritic cell",
+        "immune system",
+        "blood",
+        "dendritic cell",
+        "dendritic cell"
+    ],
+    "CD14+ monocytes - treated with Cryptococcus donor3": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "Primary T cells from?peripheral?blood": [
+        "-",
+        "-",
+        "T cell",
+        "lymphocyte",
+        "blood",
+        "blood",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "primaryhepatocyte-gw4064": [
+        "-",
+        "-",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "hepatocyte",
+        "hepatocyte"
+    ],
+    "surface_ectoderm_cells": [
+        "-",
+        "-",
+        "surface ectodermal cell",
+        "surface ectodermal cell",
+        "ectoderm",
+        "ectoderm",
+        "ectoderm",
+        "ectoderm"
+    ],
+    "RPE1-anaphase/telophase": [
+        "-",
+        "-",
+        "retinal pigment epithelial cell",
+        "retinal pigment epithelial cell",
+        "retina",
+        "retina",
+        "retinal pigment epithelium cell",
+        "retinal pigment epithelium cell"
+    ],
+    "Plasma_B_BCC": [
+        "-",
+        "-",
+        "plasma cell",
+        "antibody secreting cell",
+        "immune system",
+        "stratum basale of epidermis",
+        "plasma cell",
+        "B-lymphocyte"
+    ],
+    "Hair Follicle Dermal Papilla Cells donor1": [
+        "-",
+        "-",
+        "hair follicle dermal papilla cell",
+        "hair follicle dermal papilla cell",
+        "hair follicle",
+        "dermal papilla",
+        "hair follicle dermal papilla cell",
+        "hair follicle dermal papilla cell"
+    ],
+    "endometrioid_adenocarcinoma": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "endometrium",
+        "uterine adenocarcinoma cell",
+        "uterine adenocarcinoma cell"
+    ],
+    "bipolar_spindle_neuron": [
+        "-",
+        "-",
+        "bipolar neuron",
+        "von Economo neuron",
+        "nervous system",
+        "anterior cingulate cortex",
+        "-",
+        "medium spiny neuron"
+    ],
+    "Epidermal-Stem-Cells_shCTRL": [
+        "-",
+        "-",
+        "stem cell of epidermis",
+        "stem cell of epidermis",
+        "skin epidermis",
+        "skin epidermis",
+        "epidermal stem cell",
+        "epidermal stem cell"
+    ],
+    "Schwann_heart": [
+        "-",
+        "-",
+        "Schwann cell",
+        "Schwann cell",
+        "heart",
+        "cardiac muscle tissue",
+        "Schwann cell",
+        "Schwann cell"
+    ],
+    "Nucleus Pulposus Cell donor1": [
+        "-",
+        "-",
+        "chondrocyte",
+        "nucleus pulposus cell of intervertebral disc",
+        "nucleus pulposus",
+        "nucleus pulposus",
+        "HNPC cell",
+        "nucleus pulposus cell line"
+    ],
+    "neural-cell": [
+        "-",
+        "-",
+        "neural cell",
+        "neural cell",
+        "nervous system",
+        "nervous system",
+        "-",
+        "neuron"
+    ],
+    "Placental Epithelial Cells donor1": [
+        "-",
+        "-",
+        "placental epithelial cell",
+        "chorionic trophoblast cell",
+        "placenta",
+        "placenta",
+        "-",
+        "trophoblast stem cell"
+    ],
+    "foreskin_keratinocyte": [
+        "-",
+        "-",
+        "foreskin keratinocyte",
+        "foreskin keratinocyte",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin keratinocyte cell line",
+        "foreskin keratinocyte cell line"
+    ],
+    "CD8_H9RET": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "immune system",
+        "-",
+        "cytotoxic T-lymphocyte",
+        "cytotoxic T-lymphocyte"
+    ],
+    "Neutrophils donor1": [
+        "-",
+        "-",
+        "neutrophil",
+        "neutrophil",
+        "blood",
+        "blood",
+        "neutrophil",
+        "neutrophil"
+    ],
+    "CD8_ab_T_CB": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "blood",
+        "umbilical cord blood",
+        "cytotoxic T-lymphocyte",
+        "culture condition:CD8+ cell"
+    ],
+    "Megakaryo_liver": [
+        "-",
+        "-",
+        "megakaryocyte",
+        "megakaryocyte",
+        "liver",
+        "liver",
+        "megakaryocyte",
+        "megakaryocyte"
+    ],
+    "CMP CD4+_3": [
+        "-",
+        "-",
+        "T cell",
+        "common myeloid progenitor, CD34-positive",
+        "blood",
+        "bone marrow",
+        "-",
+        "myeloid progenitor cell"
+    ],
+    "Human Embryonic Kidney Cell": [
+        "-",
+        "-",
+        "kidney cell",
+        "kidney cell",
+        "embryo",
+        "kidney rudiment",
+        "embryonic kidney cell line",
+        "embryonic kidney cell line"
+    ],
+    "umbilical cord Fibroblast": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "umbilical cord",
+        "umbilical cord",
+        "umbilical cord cell line",
+        "umbilical cord cell line"
+    ],
+    "CD4+CD25+CD45RA- memory regulatory T cells donor3": [
+        "-",
+        "-",
+        "memory regulatory T cell",
+        "memory regulatory T cell",
+        "immune system",
+        "T cell domain",
+        "memory T-lymphocyte",
+        "memory T-lymphocyte"
+    ],
+    "Skeletal Muscle Myoblast": [
+        "-",
+        "-",
+        "myoblast",
+        "myoblast",
+        "skeletal muscle tissue",
+        "skeletal muscle tissue",
+        "skeletal muscle cell",
+        "skeletal muscle cell"
+    ],
+    "Adrenocortical_adrenal_8": [
+        "-",
+        "-",
+        "cortical cell of adrenal gland",
+        "cortical cell of adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenocortical cell",
+        "adrenocortical cell"
+    ],
+    "NPC_1": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "nervous system",
+        "nervous system",
+        "-",
+        "neural stem cell"
+    ],
+    "NPC_2": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "nervous system",
+        "nervous system",
+        "-",
+        "neural stem cell"
+    ],
+    "epithelial": [
+        "-",
+        "-",
+        "epithelial cell",
+        "epithelial cell",
+        "epithelium",
+        "epithelium",
+        "epithelial cell",
+        "epithelial cell"
+    ],
+    "CRC_myeloid_2": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "colorectal mucosa",
+        "myeloid cell line",
+        "myeloid cell line"
+    ],
+    "RPTEC": [
+        "-",
+        "-",
+        "epithelial cell of proximal tubule",
+        "epithelial cell of proximal tubule",
+        "proximal tubule",
+        "proximal tubule",
+        "renal proximal tubule epithelial cell",
+        "renal proximal tubule epithelial cell"
+    ],
+    "CMP_BMP": [
+        "-",
+        "-",
+        "common myeloid progenitor",
+        "common myeloid progenitor, CD34-positive",
+        "bone marrow",
+        "hematopoietic tissue",
+        "myeloid progenitor cell",
+        "myeloid progenitor cell"
+    ],
+    "foreskin-keratinocyte-calcium2.5day": [
+        "-",
+        "-",
+        "foreskin keratinocyte",
+        "-",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin keratinocyte cell line",
+        "foreskin keratinocyte cell line"
+    ],
+    "ESC": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "inner cell mass",
+        "embryonic stem cell",
+        "embryonic stem cell"
+    ],
+    "Stromal_muscle": [
+        "-",
+        "-",
+        "stromal cell",
+        "skeletal muscle fibroblast",
+        "muscle structure",
+        "muscle structure",
+        "mesenchymal stromal cell",
+        "mesenchymal stromal cell"
+    ],
+    "Stromal_stomach": [
+        "-",
+        "-",
+        "stromal cell",
+        "myofibroblast cell",
+        "stomach",
+        "stomach",
+        "mesenchymal stromal cell",
+        "mesenchymal stromal cell"
+    ],
+    "mammary_epithelial_cells": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "mammary gland",
+        "mammary epithelial cell",
+        "mammary epithelial cell"
+    ],
+    "M0_VB": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "-",
+        "macrophage",
+        "macrophage"
+    ],
+    "Myeloid_placenta": [
+        "-",
+        "-",
+        "myeloid cell",
+        "macrophage dendritic cell progenitor",
+        "placenta",
+        "placenta",
+        "myeloid cell line",
+        "-"
+    ],
+    "Monocyte_1": [
+        "-",
+        "-",
+        "monocyte",
+        "monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "GMP1low_LS_BM1137": [
+        "-",
+        "-",
+        "granulocyte monocyte progenitor cell",
+        "granulocyte monocyte progenitor cell",
+        "bone marrow",
+        "bone marrow",
+        "myeloid progenitor cell",
+        "myeloid progenitor cell"
+    ],
+    "adult_dermal_fibroblasts": [
+        "-",
+        "-",
+        "fibroblast of dermis",
+        "fibroblast of dermis",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "CD8donorC": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "immune system",
+        "-",
+        "cytotoxic T-lymphocyte",
+        "cytotoxic T-lymphocyte"
+    ],
+    "Inhibitory_neur_cerebrum_0": [
+        "-",
+        "-",
+        "neuron",
+        "GABAergic interneuron",
+        "brain",
+        "obsolete cerebrum",
+        "-",
+        "-"
+    ],
+    "MPAL2_T1_2": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "-",
+        "blood",
+        "hematopoietic tissue",
+        "acute undifferentiated leukemia cell",
+        "acute undifferentiated leukemia cell"
+    ],
+    "Mast cell donor4": [
+        "-",
+        "-",
+        "mast cell",
+        "mast cell",
+        "immune system",
+        "-",
+        "mast cell",
+        "mast cell"
+    ],
+    "CD4-positive helper T cell": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "T cell domain",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "Endothelial Cells - Umbilical vein donor1": [
+        "-",
+        "-",
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical vein",
+        "umbilical vein",
+        "umbilical vein endothelial cell",
+        "umbilical vein endothelial cell"
+    ],
+    "Penis_Foreskin_Fibroblast_Primary_Cells_skin01": [
+        "-",
+        "-",
+        "foreskin fibroblast",
+        "foreskin fibroblast",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin fibroblast cell line",
+        "foreskin fibroblast cell line"
+    ],
+    "MPAL1_T1_2": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "CD117-positive common myeloid progenitor OR CD217-positive common lymphoid progenitor",
+        "blood",
+        "bone marrow",
+        "acute undifferentiated leukemia cell",
+        "acute undifferentiated leukemia cell"
+    ],
+    "subcutaneous adipocytes": [
+        "-",
+        "-",
+        "subcutaneous adipocyte",
+        "white adipocyte",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue",
+        "-",
+        "white adipocyte"
+    ],
+    "CD4+ CD7- cells_CTCL1043": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "skin of abdomen",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "Esophageal Epithelial Cells donor1": [
+        "-",
+        "-",
+        "epithelial cell of esophagus",
+        "epithelial cell of esophagus",
+        "esophagus",
+        "esophagus",
+        "esophageal epithelial cell",
+        "esophageal epithelial cell"
+    ],
+    "CD34 Erythroid cells_Don002": [
+        "-",
+        "-",
+        "erythroid lineage cell",
+        "erythroid lineage cell",
+        "bone marrow",
+        "bone marrow",
+        "erythroid cell",
+        "erythroid cell"
+    ],
+    "Adipocyte - subcutaneous donor3": [
+        "-",
+        "-",
+        "subcutaneous adipocyte",
+        "subcutaneous adipocyte",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue"
+    ],
+    "tamoxifen_EC9": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "blood vessel endothelium",
+        "endothelial cell",
+        "endothelial cell"
+    ],
+    "human_cardiac_fibroblasts-adult_atrial": [
+        "-",
+        "-",
+        "fibroblast of cardiac tissue",
+        "fibroblast of cardiac tissue",
+        "heart",
+        "cardiac atrium",
+        "cardiofibroblast",
+        "cardiofibroblast"
+    ],
+    "Matrix_Fibrob_2_A": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "Induced-regulatory-T-cells_DMSO": [
+        "-",
+        "-",
+        "induced T-regulatory cell",
+        "induced T-regulatory cell",
+        "immune system",
+        "T cell domain",
+        "regulatory T-lymphocyte",
+        "regulatory T-lymphocyte"
+    ],
+    "Macrophages_C": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "-",
+        "macrophage",
+        "macrophage"
+    ],
+    "Parathyroid_adenoma": [
+        "-",
+        "-",
+        "parathyroid glandular cell",
+        "parathyroid glandular cell",
+        "parathyroid gland",
+        "parathyroid gland",
+        "parathyroid hormone secreting cell",
+        "parathyroid hormone secreting cell"
+    ],
+    "Red\u00a0blood\u00a0cells": [
+        "-",
+        "-",
+        "erythrocyte",
+        "erythrocyte",
+        "blood",
+        "circulatory system",
+        "erythrocyte",
+        "erythrocyte"
+    ],
+    "Pericytes_E": [
+        "-",
+        "-",
+        "pericyte",
+        "pericyte",
+        "connective tissue",
+        "microcirculatory vessel",
+        "pericyte",
+        "pericyte"
+    ],
+    "GBM29": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "-",
+        "brain",
+        "central nervous system",
+        "glioblastoma cell",
+        "glioblastoma cell"
+    ],
+    "Club-F": [
+        "-",
+        "-",
+        "club cell",
+        "lung secretory cell",
+        "lung",
+        "epithelium of respiratory bronchiole",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell"
+    ],
+    "p7-CLL-patient_CD74": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "lymphocyte of B lineage, CD19-positive",
+        "blood",
+        "blood",
+        "B-cell chronic lymphocytic leukemia cell",
+        "B-cell chronic lymphocytic leukemia cell"
+    ],
+    "Im-GCT-3504_G34W-repair_WT_4C7": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "bone tissue",
+        "bone tissue",
+        "-",
+        "giant cell tumor cell line"
+    ],
+    "Bone Marrow Derived Cultured Mesenchymal Stem Cells": [
+        "-",
+        "-",
+        "mesenchymal stem cell of the bone marrow",
+        "mesenchymal stem cell of the bone marrow",
+        "bone marrow",
+        "bone marrow",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "Megakaryo_adrenal": [
+        "-",
+        "-",
+        "megakaryocyte",
+        "megakaryocyte",
+        "adrenal gland",
+        "adrenal gland",
+        "megakaryocyte",
+        "megakaryocyte"
+    ],
+    "Chondrocyte - de diff donor1": [
+        "-",
+        "-",
+        "chondrocyte",
+        "chondrocyte",
+        "cartilage tissue",
+        "cartilage tissue",
+        "chondrocyte",
+        "chondrocyte"
+    ],
+    "aortic_adventitial_fibroblasts": [
+        "-",
+        "-",
+        "fibroblast of the aortic adventitia",
+        "fibroblast of the aortic adventitia",
+        "tunica adventitia of artery",
+        "tunica adventitia of artery",
+        "aortic adventitial fibroblast",
+        "aortic adventitial fibroblast"
+    ],
+    "Endothelial Cells - Aortic donor0": [
+        "-",
+        "-",
+        "aortic endothelial cell",
+        "aortic endothelial cell",
+        "aorta",
+        "aorta",
+        "aortic endothelial cell",
+        "aortic endothelial cell"
+    ],
+    "Penis_Foreskin_Keratinocyte_Primary_Cells_skin02": [
+        "-",
+        "-",
+        "foreskin keratinocyte",
+        "foreskin keratinocyte",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin keratinocyte cell line",
+        "foreskin keratinocyte cell line"
+    ],
+    "NH-A_Astrocytes": [
+        "-",
+        "-",
+        "astrocyte",
+        "astrocyte",
+        "central nervous system",
+        "central nervous system",
+        "astrocyte",
+        "astrocyte"
+    ],
+    "CD8_EM_healthy": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "immune system",
+        "blood",
+        "cytotoxic T-lymphocyte",
+        "-"
+    ],
+    "CD34_bone_marrow_cell-derived_erythroid_progenitors": [
+        "-",
+        "-",
+        "erythroid progenitor cell",
+        "erythroid progenitor cell",
+        "bone marrow",
+        "bone marrow",
+        "erythroid progenitor cell",
+        "erythroid progenitor cell"
+    ],
+    "prostate_cancer": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "prostate gland cancer cell",
+        "prostate adenocarcinoma cell line"
+    ],
+    "acute myeloid leukemia": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "bone marrow",
+        "acute myeloid leukemia cell",
+        "acute myeloid leukemia cell"
+    ],
+    "GBM03": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "-",
+        "brain",
+        "brain",
+        "glioblastoma multiforme cell line",
+        "glioblastoma multiforme cell line"
+    ],
+    "hMSC": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "bone marrow",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "PBMC_Rep1-CD34": [
+        "-",
+        "-",
+        "peripheral blood mononuclear cell",
+        "CD34-positive, CD38-negative hematopoietic stem cell",
+        "blood",
+        "blood",
+        "-",
+        "culture condition:CD34+ cell"
+    ],
+    "Th17-IL-10- Day 0": [
+        "-",
+        "-",
+        "T-helper 17 cell",
+        "T-helper 17 cell",
+        "immune system",
+        "-",
+        "Th17 cell",
+        "Th17 cell"
+    ],
+    "BI_CD4p_CD25-_Il17p_PMAstim_Th17": [
+        "-",
+        "-",
+        "T-helper 17 cell",
+        "T-helper 17 cell",
+        "immune system",
+        "-",
+        "Th17 cell",
+        "Th17 cell"
+    ],
+    "MEP": [
+        "-",
+        "-",
+        "megakaryocyte-erythroid progenitor cell",
+        "megakaryocyte-erythroid progenitor cell",
+        "bone marrow",
+        "hematopoietic tissue",
+        "erythroid progenitor cell",
+        "erythroid progenitor cell"
+    ],
+    "CD8+ T Cells donor1": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "immune system",
+        "blood",
+        "cytotoxic T-lymphocyte",
+        "cytotoxic T-lymphocyte"
+    ],
+    "Astrocyte - cerebellum donor1": [
+        "-",
+        "-",
+        "astrocyte of the cerebellum",
+        "astrocyte of the cerebellum",
+        "cerebellum",
+        "cerebellum",
+        "astrocyte",
+        "astrocyte"
+    ],
+    "Fibroblast - Dermal donor4": [
+        "-",
+        "-",
+        "fibroblast of dermis",
+        "fibroblast of dermis",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "Human Bronchial Epithelial Cell": [
+        "-",
+        "-",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell",
+        "bronchus",
+        "bronchus",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell"
+    ],
+    "Human CD34+ Hematopoietic Stem/Progenitor Cell": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "CD34-positive, CD38-negative multipotent progenitor cell",
+        "bone marrow",
+        "bone marrow",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell"
+    ],
+    "iPS derived pancreatic precursor cells_Lane2": [
+        "-",
+        "-",
+        "precursor cell",
+        "precursor cell",
+        "pancreas",
+        "pancreas",
+        "-",
+        "pancreatic PP cell"
+    ],
+    "NHEK-Epidermal Keratinocyte Primary Cells": [
+        "-",
+        "-",
+        "keratinocyte",
+        "keratinocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "NHEK cell",
+        "keratinocyte"
+    ],
+    "Hindbrain derived neural stem cells_NS19_H3.3K27M": [
+        "-",
+        "-",
+        "neural stem cell",
+        "neural stem cell",
+        "hindbrain",
+        "hindbrain",
+        "neural stem cell",
+        "neural stem cell line"
+    ],
+    "iPS_derived_pancreatic_precursor_cells": [
+        "-",
+        "-",
+        "precursor cell",
+        "precursor cell",
+        "pancreas primordium",
+        "pancreas primordium",
+        "-",
+        "-"
+    ],
+    "Smooth_muscle_placenta": [
+        "-",
+        "-",
+        "smooth muscle cell of placenta",
+        "smooth muscle cell of placenta",
+        "placenta",
+        "placenta",
+        "smooth muscle cell",
+        "smooth muscle cell"
+    ],
+    "Fibroblast - Aortic Adventitial donor3": [
+        "-",
+        "-",
+        "fibroblast of the aortic adventitia",
+        "fibroblast of the aortic adventitia",
+        "tunica adventitia of artery",
+        "aorta",
+        "aortic adventitial fibroblast",
+        "aortic adventitial fibroblast"
+    ],
+    "Endothelial Cells - Artery donor1": [
+        "-",
+        "-",
+        "endothelial cell of artery",
+        "endothelial cell of artery",
+        "artery",
+        "artery",
+        "arterial endothelial cell",
+        "arterial endothelial cell"
+    ],
+    "foreskin_keratinocyte_2": [
+        "-",
+        "-",
+        "foreskin keratinocyte",
+        "-",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin keratinocyte cell line",
+        "foreskin keratinocyte cell line"
+    ],
+    "visceral adipocytes": [
+        "-",
+        "-",
+        "adipocyte",
+        "adipocyte",
+        "visceral fat",
+        "visceral fat",
+        "adipocyte",
+        "adipocyte"
+    ],
+    "P286_Primary_DLBCL": [
+        "-",
+        "-",
+        "B cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "lymph node",
+        "diffuse large B-cell lymphoma cell",
+        "diffuse large B-cell lymphoma cell"
+    ],
+    "HTBE_H3N2_12h": [
+        "-",
+        "-",
+        "epithelial cell of tracheobronchial tree",
+        "epithelial cell of tracheobronchial tree",
+        "tracheobronchial tree",
+        "tracheobronchial tree",
+        "tracheobronchial epithelial cell",
+        "tracheobronchial epithelial cell"
+    ],
+    "RPE": [
+        "-",
+        "-",
+        "retinal pigment epithelial cell",
+        "retinal pigment epithelial cell",
+        "retina",
+        "retina",
+        "retinal pigment epithelium cell",
+        "retinal pigment epithelium cell"
+    ],
+    "NHDF-Ad_Adult_Dermal_Fibroblasts": [
+        "-",
+        "-",
+        "skin fibroblast",
+        "-",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "NKC": [
+        "-",
+        "-",
+        "natural killer cell",
+        "natural killer cell",
+        "immune system",
+        "venous blood",
+        "natural killer cell",
+        "natural killer cell"
+    ],
+    "T-cell": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "lymphoid tissue",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "Stromal_heart_3": [
+        "-",
+        "-",
+        "stromal cell",
+        "fibroblast of cardiac tissue",
+        "heart",
+        "heart",
+        "mesenchymal stromal cell",
+        "mesenchymal stromal cell"
+    ],
+    "Lens Epithelial Cells donor1": [
+        "-",
+        "-",
+        "lens epithelial cell",
+        "lens epithelial cell",
+        "epithelium of lens",
+        "lens of camera-type eye",
+        "human lens epithelial cell line",
+        "human lens epithelial cell line"
+    ],
+    "hNPCs_K755R/+": [
+        "-",
+        "-",
+        "chondrocyte",
+        "neural progenitor cell",
+        "nucleus pulposus",
+        "central nervous system",
+        "HNPC cell",
+        "neural stem cell"
+    ],
+    "CD36+": [
+        "-",
+        "-",
+        "erythroid progenitor cell",
+        "-",
+        "bone marrow",
+        "-",
+        "-",
+        "-"
+    ],
+    "CD4+CD25-CD45RA+ naive conventional T cells donor1": [
+        "-",
+        "-",
+        "naive T cell",
+        "naive T cell",
+        "thymus",
+        "venous blood",
+        "-",
+        "-"
+    ],
+    "Horizontal_Amacrine_eye": [
+        "-",
+        "-",
+        "amacrine cell",
+        "amacrine cell",
+        "retina",
+        "retina",
+        "amacrine cell",
+        "horizontal cell"
+    ],
+    "immature langerhans cells donor1": [
+        "-",
+        "-",
+        "Langerhans cell",
+        "Langerhans cell",
+        "immune system",
+        "skin epidermis",
+        "Langerhans cell",
+        "Langerhans cell"
+    ],
+    "CD34 Erythroid cells_Don003": [
+        "-",
+        "-",
+        "erythroid lineage cell",
+        "CD34-positive, GlyA-negative erythroid progenitor cell",
+        "bone marrow",
+        "bone marrow",
+        "erythroid cell",
+        "erythroid cell"
+    ],
+    "cDC_healthy": [
+        "-",
+        "-",
+        "dendritic cell",
+        "dendritic cell",
+        "immune system",
+        "-",
+        "dendritic cell",
+        "dendritic cell"
+    ],
+    "Day6 Plasmablast CD23- memory B cell_G9A-Inhibited": [
+        "-",
+        "-",
+        "plasmablast",
+        "CD86-positive plasmablast",
+        "immune system",
+        "-",
+        "plasma cell",
+        "plasma cell"
+    ],
+    "Fibroblast cells": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "mesenchymal precursor cell - bone marrow donor3": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "bone marrow",
+        "bone marrow",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "Matrix_Fibrob_1_B": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "Undifferentiated Pleomorphic Sarcoma": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "connective tissue",
+        "connective tissue",
+        "pleomorphic adenoma cell",
+        "pleomorphic adenoma cell"
+    ],
+    "EPC_VB": [
+        "-",
+        "-",
+        "adult endothelial progenitor cell",
+        "adult endothelial progenitor cell",
+        "bone marrow",
+        "venous blood",
+        "endothelial progenitor cell",
+        "endothelial progenitor cell"
+    ],
+    "UMUC1_sonic_pSIN-puro_EV": [
+        "-",
+        "-",
+        "bladder cell",
+        "bladder cell",
+        "urinary bladder",
+        "urinary bladder",
+        "UM-UC-1 cell",
+        "urinary bladder transitional cell carcinoma cell line"
+    ],
+    "CD4+ ab T": [
+        "-",
+        "-",
+        "CD4-positive, alpha-beta T cell",
+        "CD4-positive, alpha-beta T cell",
+        "immune system",
+        "-",
+        "-",
+        "culture condition:CD4+ cell"
+    ],
+    "ASC": [
+        "-",
+        "-",
+        "adipocyte",
+        "adipocyte",
+        "adipose tissue",
+        "adipose tissue",
+        "adipocyte",
+        "adipocyte"
+    ],
+    "MSC_VB": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "blood",
+        "vertebra",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "tamoxifen_EC11": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "blood vessel endothelium",
+        "-",
+        "arterial endothelial cell"
+    ],
+    "hNPCs_R1159Q/+": [
+        "-",
+        "-",
+        "chondrocyte",
+        "neural progenitor cell",
+        "nucleus pulposus",
+        "central nervous system",
+        "HNPC cell",
+        "neural stem cell"
+    ],
+    "Ciliated_cells_D": [
+        "-",
+        "-",
+        "ciliated cell",
+        "multiciliated epithelial cell",
+        "lung",
+        "ciliated epithelium",
+        "-",
+        "epithelial cell"
+    ],
+    "EX_cerebrum_3": [
+        "-",
+        "-",
+        "neuron",
+        "cerebral cortex glial cell",
+        "brain",
+        "obsolete cerebrum",
+        "astroglial cell",
+        "astroglial cell"
+    ],
+    "Corneal Epithelial Cells donor1": [
+        "-",
+        "-",
+        "corneal epithelial cell",
+        "corneal epithelial cell",
+        "cornea",
+        "cornea",
+        "corneal epithelial cell",
+        "corneal epithelial cell"
+    ],
+    "Stromal_lung_5": [
+        "-",
+        "-",
+        "stromal cell",
+        "stromal cell",
+        "lung",
+        "lung",
+        "stromal cell",
+        "stromal cell"
+    ],
+    "Primary T CD8+ memory cells from peripheral blood": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta memory T cell",
+        "CD8-positive, alpha-beta memory T cell",
+        "blood",
+        "blood",
+        "memory T-lymphocyte",
+        "memory T-lymphocyte"
+    ],
+    "NK_cells_F": [
+        "-",
+        "-",
+        "natural killer cell",
+        "natural killer cell",
+        "immune system",
+        "venous blood",
+        "natural killer cell",
+        "natural killer cell"
+    ],
+    "CD4+ cells_CTCL1145": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "skin of body",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "Monocytes-CD14+_RO01746": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "Stromal_lung_1": [
+        "-",
+        "-",
+        "stromal cell",
+        "stromal cell",
+        "lung",
+        "lung",
+        "stromal cell",
+        "stromal cell"
+    ],
+    "NK_cells_J": [
+        "-",
+        "-",
+        "natural killer cell",
+        "natural killer cell",
+        "immune system",
+        "cell group",
+        "natural killer cell",
+        "natural killer cell"
+    ],
+    "lymphocyte": [
+        "-",
+        "-",
+        "lymphocyte",
+        "lymphocyte",
+        "blood",
+        "lymphatic part of lymphoid system",
+        "lymphocyte",
+        "lymphocyte"
+    ],
+    "CD4+ T Cells donor2": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "T cell domain",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "Erythrob_adrenal": [
+        "-",
+        "-",
+        "erythroblast",
+        "erythroblast",
+        "adrenal gland",
+        "adrenal gland",
+        "erythroblast",
+        "erythroblast"
+    ],
+    "HUES64_derived_CD184+": [
+        "-",
+        "-",
+        "endodermal cell",
+        "endodermal cell",
+        "endoderm",
+        "endoderm",
+        "endoderm",
+        "endoderm"
+    ],
+    "GSC": [
+        "-",
+        "-",
+        "neural stem cell",
+        "neural stem cell",
+        "central nervous system",
+        "central nervous system",
+        "GSC cell line",
+        "glioblastoma multiforme cancer stem cell"
+    ],
+    "HSC_liver": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "hepatic stellate cell",
+        "liver",
+        "liver",
+        "hematopoietic stem cell",
+        "hepatic stellate cell"
+    ],
+    "Im-GCT-4072_G34W-repair_WT_A4": [
+        "-",
+        "-",
+        "-",
+        "neoplastic cell",
+        "bone tissue",
+        "bone tissue of epiphysis",
+        "-",
+        "giant cell tumor cell line"
+    ],
+    "non-tamoxifen_EC5": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "endothelium",
+        "endothelial cell",
+        "endothelial cell"
+    ],
+    "Tfh_BCC": [
+        "-",
+        "-",
+        "T follicular helper cell",
+        "T follicular helper cell",
+        "lymph node",
+        "skin epithelium",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "Hepatocyte donor2": [
+        "-",
+        "-",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "hepatocyte",
+        "hepatocyte"
+    ],
+    "Urothelial Cells donor1": [
+        "-",
+        "-",
+        "urothelial cell",
+        "urothelial cell",
+        "urinary bladder",
+        "urinary bladder",
+        "uroepithelial cell",
+        "uroepithelial cell"
+    ],
+    "Mallassez-derived cells donor3": [
+        "-",
+        "-",
+        "epithelial cell of Malassez",
+        "epithelial cell of Malassez",
+        "periodontal ligament",
+        "periodontal ligament",
+        "epithelial cell",
+        "epithelial cell"
+    ],
+    "Syn_vil_cytoTrophobs_placenta_0": [
+        "-",
+        "-",
+        "stem cell",
+        "placental villous trophoblast",
+        "placenta",
+        "placenta",
+        "villous syncytiotrophoblast",
+        "villous syncytiotrophoblast"
+    ],
+    "Stromal_lung_3": [
+        "-",
+        "-",
+        "stromal cell",
+        "stromal cell",
+        "lung",
+        "lung",
+        "-",
+        "lung fibroblast"
+    ],
+    "Matrix_Fibrob_2_B": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "Primary hematopoietic stem cells": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell",
+        "bone marrow",
+        "hematopoietic tissue",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell"
+    ],
+    "Skeletal muscle cells differentiated into Myotubes - multinucleated donor1": [
+        "-",
+        "-",
+        "myotube",
+        "myotube",
+        "muscle structure",
+        "muscle structure",
+        "skeletal muscle cell",
+        "skeletal muscle cell"
+    ],
+    "tamoxifen_EC8": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "endothelium",
+        "endothelial cell",
+        "endothelial cell"
+    ],
+    "Central_Memo_CD8_T": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta memory T cell",
+        "CD8-positive, alpha-beta memory T cell",
+        "immune system",
+        "-",
+        "-",
+        "-"
+    ],
+    "Matrix_Fibrob_1_G": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "MM011_Primary_Melanoma": [
+        "-",
+        "-",
+        "melanocyte",
+        "melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "melanoma cell",
+        "melanoma cell"
+    ],
+    "endometrial_stromal_cells": [
+        "-",
+        "-",
+        "stromal cell of endometrium",
+        "stromal cell of endometrium",
+        "endometrium",
+        "endometrium",
+        "endometrial stromal cell",
+        "endometrial stromal cell"
+    ],
+    "Epithelial_intestine_2": [
+        "-",
+        "-",
+        "intestinal epithelial cell",
+        "intestinal epithelial cell",
+        "intestine",
+        "intestine",
+        "intestinal epithelial cell",
+        "intestinal epithelial cell"
+    ],
+    "hASC_preadipocytes": [
+        "-",
+        "-",
+        "preadipocyte",
+        "preadipocyte",
+        "connective tissue",
+        "adipose tissue",
+        "preadipocyte",
+        "adipose-derived stromal cell"
+    ],
+    "keratinocytes_Mi2KD": [
+        "-",
+        "-",
+        "keratinocyte",
+        "keratinocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "keratinocyte",
+        "keratinocyte"
+    ],
+    "Memory_CD4_T_t": [
+        "-",
+        "-",
+        "CD4-positive, alpha-beta memory T cell",
+        "CD4-positive, alpha-beta memory T cell",
+        "immune system",
+        "-",
+        "-",
+        "culture condition:CD4+ cell"
+    ],
+    "FiPSC": [
+        "-",
+        "-",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "connective tissue",
+        "pluripotent stem cell",
+        "pluripotent stem cell"
+    ],
+    "epithelial_cell_of_proximal_tubule": [
+        "-",
+        "-",
+        "epithelial cell of proximal tubule",
+        "epithelial cell of proximal tubule",
+        "proximal tubule",
+        "proximal tubule",
+        "renal proximal tubule epithelial cell",
+        "renal proximal tubule epithelial cell"
+    ],
+    "CD14+ monocyte derived endothelial progenitor cells donor1": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "endothelial progenitor cell"
+    ],
+    "GBM32": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "malignant cell",
+        "brain",
+        "central nervous system",
+        "glioma cell",
+        "glioma cell"
+    ],
+    "Stromal_muscle_2": [
+        "-",
+        "-",
+        "stromal cell",
+        "fibro/adipogenic progenitor cell",
+        "muscle structure",
+        "muscle structure",
+        "-",
+        "fibro-adipogenic progenitor cell"
+    ],
+    "Monocyte": [
+        "-",
+        "-",
+        "monocyte",
+        "CD14-positive, CD16-negative classical monocyte",
+        "blood",
+        "bone marrow",
+        "monocyte",
+        "monocyte"
+    ],
+    "CD16_Mono": [
+        "-",
+        "-",
+        "CD14-positive, CD16-positive monocyte",
+        "CD14-low, CD16-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "Treg": [
+        "-",
+        "-",
+        "regulatory T cell",
+        "regulatory T cell",
+        "immune system",
+        "immune system",
+        "regulatory T-lymphocyte",
+        "regulatory T-lymphocyte"
+    ],
+    "Capillary_2_E": [
+        "-",
+        "-",
+        "capillary endothelial cell",
+        "capillary endothelial cell",
+        "endothelium of capillary",
+        "endothelium of capillary",
+        "capillary endothelial cell",
+        "capillary endothelial cell"
+    ],
+    "Astrocytes": [
+        "-",
+        "-",
+        "astrocyte",
+        "astrocyte",
+        "central nervous system",
+        "central nervous system",
+        "astrocyte",
+        "astrocyte"
+    ],
+    "MPAL2_T2_2": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "hematopoietic multipotent progenitor cell",
+        "blood",
+        "bone marrow",
+        "acute undifferentiated leukemia cell",
+        "acute undifferentiated leukemia cell"
+    ],
+    "Vascular_endo_adrenal": [
+        "-",
+        "-",
+        "endothelial cell of vascular tree",
+        "endothelial cell of vascular tree",
+        "adrenal gland",
+        "adrenal gland",
+        "vascular endothelial cell",
+        "vascular endothelial cell"
+    ],
+    "AT1_A": [
+        "-",
+        "-",
+        "pulmonary alveolar type 1 cell",
+        "pulmonary alveolar type 1 cell",
+        "alveolus of lung",
+        "alveolus of lung",
+        "alveolar cell type I",
+        "alveolar cell type I"
+    ],
+    "PBMC": [
+        "-",
+        "-",
+        "peripheral blood mononuclear cell",
+        "peripheral blood mononuclear cell",
+        "blood",
+        "blood",
+        "peripheral blood mononuclear cell",
+        "peripheral blood mononuclear cell"
+    ],
+    "hMADS-3": [
+        "-",
+        "-",
+        "multi fate stem cell",
+        "multi fate stem cell",
+        "adipose tissue",
+        "adipose tissue",
+        "adipose-derived stem cell",
+        "adipose-derived stem cell"
+    ],
+    "HTBE_H1N1_18h": [
+        "-",
+        "-",
+        "epithelial cell of tracheobronchial tree",
+        "epithelial cell of tracheobronchial tree",
+        "tracheobronchial tree",
+        "tracheobronchial tree",
+        "tracheobronchial epithelial cell",
+        "tracheobronchial epithelial cell"
+    ],
+    "leukophereses_p217": [
+        "-",
+        "-",
+        "leukocyte",
+        "peripheral blood mononuclear cell",
+        "blood",
+        "blood",
+        "leukocyte",
+        "peripheral blood mononuclear cell"
+    ],
+    "breast cancer FA": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "mammary gland",
+        "mammary ductal carcinoma cell",
+        "mammary ductal carcinoma cell"
+    ],
+    "neutrophil_VB": [
+        "-",
+        "-",
+        "neutrophil",
+        "neutrophil",
+        "blood",
+        "blood",
+        "neutrophil",
+        "neutrophil"
+    ],
+    "Smooth Muscle Cells - Subclavian Artery donor2": [
+        "-",
+        "-",
+        "smooth muscle cell of the subclavian artery",
+        "smooth muscle cell of the subclavian artery",
+        "artery smooth muscle tissue",
+        "artery smooth muscle tissue",
+        "vascular smooth muscle cell",
+        "vascular smooth muscle cell"
+    ],
+    "NHEK_siGRHL3": [
+        "-",
+        "-",
+        "keratinocyte",
+        "keratinocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "NHEK cell",
+        "keratinocyte"
+    ],
+    "GBM12": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "glioblast",
+        "brain",
+        "central nervous system",
+        "glioblastoma multiforme cell line",
+        "glioblastoma multiforme cell line"
+    ],
+    "CD14+ monocytes - treated with lipopolysaccharide donor2": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "GBM15": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "glioblast",
+        "brain",
+        "cerebral hemisphere",
+        "glioblastoma cell",
+        "glioblastoma cell"
+    ],
+    "GBM09": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "malignant cell",
+        "brain",
+        "central nervous system",
+        "glioblastoma multiforme cell line",
+        "glioblastoma multiforme cell line"
+    ],
+    "CD19_Primary": [
+        "-",
+        "-",
+        "B cell, CD19-positive",
+        "B cell, CD19-positive",
+        "blood",
+        "blood vasculature",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "CD19+ B Cells donor3": [
+        "-",
+        "-",
+        "B cell, CD19-positive",
+        "B cell, CD19-positive",
+        "blood",
+        "blood",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "Gastrointestinal stromal tumor": [
+        "-",
+        "-",
+        "neural cell",
+        "neural cell",
+        "digestive tract",
+        "digestive tract",
+        "gastrointestinal stromal tumor cell",
+        "interstitial cell of Cajal"
+    ],
+    "non-tamoxifen_EC2": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "blood vessel endothelium",
+        "endothelial cell",
+        "endothelial cell"
+    ],
+    "Fibroblast - Gingival donor1": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "gingiva",
+        "gingiva",
+        "gingival fibroblast",
+        "gingival fibroblast"
+    ],
+    "umbilical-cord-derived-mesenchymal-stem-cells_Control_cycle_0": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "umbilical cord",
+        "umbilical cord",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "osteoblasts": [
+        "-",
+        "-",
+        "osteoblast",
+        "osteoblast",
+        "bone tissue",
+        "bone tissue",
+        "osteoblast",
+        "osteoblast"
+    ],
+    "CD14_monocyte_PB": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "salivary acinar cells donor2": [
+        "-",
+        "-",
+        "acinar cell of salivary gland",
+        "acinar cell of salivary gland",
+        "saliva-secreting gland",
+        "saliva-secreting gland",
+        "salivary gland cell line",
+        "salivary gland cell line"
+    ],
+    "HGPS fibroblast_LMNA_AG11498": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "-",
+        "dermal fibroblast"
+    ],
+    "Primary HSCs G-CSF-mobilized female": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "CD34-positive, CD38-negative hematopoietic stem cell",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "culture condition:CD34+ cell"
+    ],
+    "leukophereses_p456": [
+        "-",
+        "-",
+        "leukocyte",
+        "peripheral blood mononuclear cell",
+        "blood",
+        "blood",
+        "leukocyte",
+        "peripheral blood mononuclear cell"
+    ],
+    "CiPSC": [
+        "-",
+        "-",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "pluripotent stem cell",
+        "pluripotent stem cell"
+    ],
+    "CD14+ monocytes - mock treated donor1": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "neutrophil (CB)": [
+        "-",
+        "-",
+        "neutrophil",
+        "neutrophil",
+        "blood",
+        "umbilical cord blood",
+        "neutrophil",
+        "neutrophil"
+    ],
+    "Myoblast donor1": [
+        "-",
+        "-",
+        "myoblast",
+        "myoblast",
+        "muscle structure",
+        "muscle structure",
+        "myoblast",
+        "L-6 myoblast cell"
+    ],
+    "Vascular_endo_eye": [
+        "-",
+        "-",
+        "endothelial cell of vascular tree",
+        "endothelial cell of vascular tree",
+        "eye",
+        "vasculature of eye",
+        "vascular endothelial cell",
+        "vascular endothelial cell"
+    ],
+    "Lymphatic_endothelial_heart": [
+        "-",
+        "-",
+        "endothelial cell of lymphatic vessel",
+        "endothelial cell of lymphatic vessel",
+        "breast",
+        "lymph heart",
+        "lymphatic endothelial cell",
+        "lymphatic endothelial cell"
+    ],
+    "breast-cancer": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "mammary gland",
+        "breast cancer cell",
+        "mammary ductal carcinoma cell"
+    ],
+    "B-cell": [
+        "-",
+        "-",
+        "B cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "B cell domain",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "Endothelial Cells (ECs)": [
+        "-",
+        "-",
+        "endothelial cell",
+        "endothelial cell",
+        "endothelium",
+        "endothelium",
+        "endothelial cell",
+        "endothelial cell"
+    ],
+    "MLPS_T2": [
+        "-",
+        "-",
+        "adipocyte",
+        "-",
+        "adipose tissue",
+        "adipose tissue",
+        "-",
+        "myxoliposarcoma cell"
+    ],
+    "Foreskin Melanocyte Primary Cells skin03": [
+        "-",
+        "-",
+        "foreskin melanocyte",
+        "foreskin melanocyte",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin melanocyte cell line",
+        "foreskin melanocyte cell line"
+    ],
+    "Pancreatic cancer cells_THZ1": [
+        "-",
+        "-",
+        "epithelial cell of pancreas",
+        "epithelial cell of pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreatic cancer cell",
+        "pancreatic ductal adenocarcinoma cell line"
+    ],
+    "MPAL2_T1_3": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "hematopoietic multipotent progenitor cell",
+        "blood",
+        "hematopoietic tissue",
+        "acute undifferentiated leukemia cell",
+        "acute undifferentiated leukemia cell"
+    ],
+    "M1_VB": [
+        "-",
+        "-",
+        "macrophage",
+        "elicited macrophage",
+        "blood",
+        "-",
+        "M1 macrophage",
+        "M1 macrophage"
+    ],
+    "CD4+_CD25-_IL17-_PMA-Ionomycin_stimulated_MACS_purified_Th_Primary_Cells": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "-",
+        "Th1 cell",
+        "Th17 cell"
+    ],
+    "primary-dermal-fibroblasts": [
+        "-",
+        "-",
+        "skin fibroblast",
+        "skin fibroblast",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "mammary_epithelial_cell": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "mammary gland",
+        "mammary epithelial cell line",
+        "mammary epithelial cell line"
+    ],
+    "Natural Killer Cells donor2": [
+        "-",
+        "-",
+        "natural killer cell",
+        "natural killer cell",
+        "immune system",
+        "venous blood",
+        "natural killer cell",
+        "natural killer cell"
+    ],
+    "SGBS_Simpson_Golabi_Behmel_syndrome_type_1_adipocytes": [
+        "-",
+        "-",
+        "stromal cell",
+        "adipocyte",
+        "adipose tissue",
+        "adipose tissue",
+        "-",
+        "adipocyte"
+    ],
+    "HASMC": [
+        "-",
+        "-",
+        "aortic smooth muscle cell",
+        "aortic smooth muscle cell",
+        "aorta smooth muscle tissue",
+        "aorta smooth muscle tissue",
+        "aortic smooth muscle cell",
+        "aortic smooth muscle cell"
+    ],
+    "CD14+ monocytes - treated with Salmonella donor1": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "CD34_adult": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "CD34-positive, CD38-negative hematopoietic stem cell",
+        "bone marrow",
+        "bone marrow",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell"
+    ],
+    "CD4_T-cells": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "lymphoid tissue",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "Keratinocytes": [
+        "-",
+        "-",
+        "keratinocyte",
+        "keratinocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "keratinocyte",
+        "keratinocyte"
+    ],
+    "naive_B_VB": [
+        "-",
+        "-",
+        "naive B cell",
+        "naive B cell",
+        "blood",
+        "-",
+        "-",
+        "-"
+    ],
+    "Dermal fibroblast": [
+        "-",
+        "-",
+        "fibroblast of dermis",
+        "fibroblast of dermis",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "metastatic_prostate_cancer_tissue": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "prostate epithelium cell line",
+        "prostate epithelium cell line"
+    ],
+    "CMP_LS_BM1214": [
+        "-",
+        "-",
+        "common myeloid progenitor",
+        "common myeloid progenitor",
+        "bone marrow",
+        "bone marrow",
+        "myeloid progenitor cell",
+        "myeloid progenitor cell"
+    ],
+    "Osteoblast - differentiated donor1": [
+        "-",
+        "-",
+        "osteoblast",
+        "osteoblast",
+        "bone tissue",
+        "bone tissue",
+        "osteoblast",
+        "osteoblast cell line"
+    ],
+    "Breast vHMEC mammary epithelial": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "mammary gland",
+        "mammary epithelial cell",
+        "mammary epithelial cell"
+    ],
+    "HDFhuman_dermal_fibroblasts_DMSO": [
+        "-",
+        "-",
+        "skin fibroblast",
+        "skin fibroblast",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "CM CD4+ ab T (VB)": [
+        "-",
+        "-",
+        "CD4-positive, alpha-beta T cell",
+        "CD4-positive, alpha-beta T cell",
+        "blood",
+        "blood",
+        "-",
+        "culture condition:CD4+ cell"
+    ],
+    "HSMMtube": [
+        "-",
+        "-",
+        "myotube",
+        "myotube",
+        "muscle structure",
+        "muscle structure",
+        "-",
+        "skeletal muscle cell"
+    ],
+    "Prostate Epithelial Cells donor3": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "prostate cancer cell line",
+        "prostate cancer cell line"
+    ],
+    "visceral adipose_CS_H507": [
+        "-",
+        "-",
+        "adipocyte",
+        "white adipocyte",
+        "visceral fat",
+        "visceral fat",
+        "-",
+        "white adipocyte"
+    ],
+    "Primary T regulatory cells (from PB)": [
+        "-",
+        "-",
+        "regulatory T cell",
+        "regulatory T cell",
+        "blood",
+        "blood",
+        "regulatory T-lymphocyte",
+        "-"
+    ],
+    "pancreatic cancer cells": [
+        "-",
+        "-",
+        "epithelial cell of pancreas",
+        "epithelial cell of pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreatic cancer cell",
+        "pancreatic ductal adenocarcinoma cell line"
+    ],
+    "CD4+ cell_UNTREATED": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "venous blood",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "Macrophages_D": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "-",
+        "macrophage",
+        "macrophage"
+    ],
+    "retinal_pigment_epithelial_cell": [
+        "-",
+        "-",
+        "retinal pigment epithelial cell",
+        "retinal pigment epithelial cell",
+        "retina",
+        "retina",
+        "retinal pigment epithelium cell",
+        "retinal pigment epithelium cell"
+    ],
+    "Ovarian Cancer Cell": [
+        "human ovarian cancer cell line cell",
+        "-",
+        "ovarian surface epithelial cell",
+        "ovarian surface epithelial cell",
+        "ovary",
+        "ovary",
+        "ovary cancer cell",
+        "ovary cancer cell"
+    ],
+    "keratinocytes": [
+        "-",
+        "-",
+        "keratinocyte",
+        "keratinocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "keratinocyte",
+        "keratinocyte"
+    ],
+    "SCC": [
+        "-",
+        "-",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "squamous epithelium",
+        "squamous epithelium",
+        "squamous cell carcinoma cell line",
+        "squamous cell carcinoma cell line"
+    ],
+    "SARC": [
+        "-",
+        "-",
+        "connective tissue cell",
+        "malignant cell",
+        "connective tissue",
+        "connective tissue",
+        "sarcoma cell",
+        "sarcoma cell"
+    ],
+    "NHA": [
+        "-",
+        "-",
+        "astrocyte",
+        "astrocyte",
+        "central nervous system",
+        "cerebral cortex",
+        "astrocyte",
+        "astrocyte"
+    ],
+    "Macrophages_G": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "-",
+        "macrophage",
+        "macrophage"
+    ],
+    "fibroblast": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "HGEP": [
+        "-",
+        "-",
+        "progenitor cell",
+        "gingival epithelial cell",
+        "gingival epithelium",
+        "gingival epithelium",
+        "oral epithelial cell",
+        "oral epithelial cell"
+    ],
+    "breast_tumor_GOODOUTCOME": [
+        "-",
+        "-",
+        "-",
+        "luminal epithelial cell of mammary gland",
+        "breast",
+        "mammary gland",
+        "breast cancer cell",
+        "breast cancer cell"
+    ],
+    "podocyte_CTL": [
+        "-",
+        "-",
+        "podocyte",
+        "podocyte",
+        "kidney",
+        "renal glomerulus",
+        "podocyte",
+        "podocyte"
+    ],
+    "AT1_B": [
+        "-",
+        "-",
+        "pulmonary alveolar type 1 cell",
+        "pulmonary alveolar type 1 cell",
+        "alveolus of lung",
+        "alveolus of lung",
+        "alveolar cell type I",
+        "alveolar cell type I"
+    ],
+    "Astro_cerebrum": [
+        "-",
+        "-",
+        "astrocyte",
+        "astrocyte",
+        "brain",
+        "obsolete cerebrum",
+        "astrocyte",
+        "astrocyte"
+    ],
+    "macrophages_IFNG": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "-",
+        "macrophage",
+        "M1 macrophage"
+    ],
+    "CluB_A": [
+        "-",
+        "-",
+        "club cell",
+        "B-1 B cell",
+        "lung",
+        "-",
+        "-",
+        "-"
+    ],
+    "Smooth Muscle Cells - Prostate donor1": [
+        "-",
+        "-",
+        "smooth muscle cell of prostate",
+        "smooth muscle cell of prostate",
+        "prostate gland smooth muscle",
+        "prostate gland smooth muscle",
+        "prostate gland smooth muscle",
+        "prostate gland smooth muscle"
+    ],
+    "MM087_Primary_Melanoma": [
+        "-",
+        "-",
+        "melanocyte",
+        "melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "melanoma cell",
+        "melanoma cell"
+    ],
+    "immature langerhans cells donor2": [
+        "-",
+        "-",
+        "Langerhans cell",
+        "Langerhans cell",
+        "immune system",
+        "skin epidermis",
+        "Langerhans cell",
+        "immature cell"
+    ],
+    "Tracheal Epithelial Cells donor1": [
+        "-",
+        "-",
+        "tracheal epithelial cell",
+        "tracheal epithelial cell",
+        "trachea",
+        "trachea",
+        "trachea",
+        "trachea"
+    ],
+    "AT1_G": [
+        "-",
+        "-",
+        "pulmonary alveolar type 1 cell",
+        "pulmonary alveolar type 1 cell",
+        "alveolus of lung",
+        "alveolus of lung",
+        "alveolar cell type I",
+        "alveolar cell type I"
+    ],
+    "MDM": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "blood",
+        "macrophage",
+        "macrophage"
+    ],
+    "Acute Myeloid Leukemia Cell": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "bone marrow",
+        "acute myeloid leukemia cell",
+        "acute myeloid leukemia cell"
+    ],
+    "peripheral_blood_mononuclear_cells": [
+        "-",
+        "-",
+        "peripheral blood mononuclear cell",
+        "peripheral blood mononuclear cell",
+        "blood",
+        "blood",
+        "peripheral blood mononuclear cell",
+        "peripheral blood mononuclear cell"
+    ],
+    "Primary monocytes from?peripheral?blood": [
+        "-",
+        "-",
+        "monocyte",
+        "monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "CD8_T_cells": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "immune system",
+        "T cell domain",
+        "cytotoxic T-lymphocyte",
+        "cytotoxic T-lymphocyte"
+    ],
+    "MPAL2_T1_4": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "myeloid lineage restricted progenitor cell",
+        "blood",
+        "bone marrow",
+        "myeloid leukemia cell",
+        "myeloid leukemia cell"
+    ],
+    "HDFhuman_dermal_fibroblasts": [
+        "-",
+        "-",
+        "skin fibroblast",
+        "skin fibroblast",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "HEE_human_epididymis_epithelial_cells": [
+        "-",
+        "-",
+        "epithelial cell",
+        "epithelial cell",
+        "epididymis epithelium",
+        "epididymis epithelium",
+        "epithelial cell",
+        "epithelial cell"
+    ],
+    "BI_CD4p_CD225int_CD127p_Tmem": [
+        "-",
+        "-",
+        "memory T cell",
+        "CD4-positive, alpha-beta memory T cell, CD45RO-positive",
+        "immune system",
+        "-",
+        "memory T-lymphocyte",
+        "memory T-lymphocyte"
+    ],
+    "CD8_Effector": [
+        "-",
+        "-",
+        "effector CD8-positive, alpha-beta T cell",
+        "effector CD8-positive, alpha-beta T cell",
+        "immune system",
+        "-",
+        "-",
+        "culture condition:CD8+ cell"
+    ],
+    "Primary T helper naive cells from?peripheral?blood": [
+        "-",
+        "-",
+        "naive T cell",
+        "naive T cell",
+        "blood",
+        "blood",
+        "naive T-lymphocyte",
+        "culture condition:CD4+ cell"
+    ],
+    "Megakaryocyte": [
+        "-",
+        "-",
+        "megakaryocyte",
+        "megakaryocyte",
+        "bone marrow",
+        "hematopoietic tissue",
+        "megakaryocyte",
+        "megakaryocyte"
+    ],
+    "foreskin keratinocyte_2": [
+        "-",
+        "-",
+        "foreskin keratinocyte",
+        "foreskin keratinocyte",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin keratinocyte cell line",
+        "foreskin keratinocyte cell line"
+    ],
+    "Adipose_Derived_Mesenchymal_Stem_Cell_Cultured_Cells": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "mesenchyme",
+        "adipose tissue",
+        "adipose-derived stem cell",
+        "adipose-derived stem cell"
+    ],
+    "Cardiomyo_6": [
+        "-",
+        "-",
+        "cardiocyte",
+        "cardiocyte",
+        "heart",
+        "myocardium",
+        "cardiomyocyte cell line",
+        "cardiomyocyte cell line"
+    ],
+    "normal_lung_fibroblasts": [
+        "-",
+        "-",
+        "fibroblast of lung",
+        "fibroblast of lung",
+        "lung",
+        "lung",
+        "lung fibroblast",
+        "lung fibroblast"
+    ],
+    "CD14+CD16+ Monocytes donor3": [
+        "-",
+        "-",
+        "CD14-positive, CD16-positive monocyte",
+        "CD14-positive, CD16-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "Olfactory epithelial cells donor2": [
+        "-",
+        "-",
+        "olfactory epithelial cell",
+        "olfactory epithelial cell",
+        "olfactory organ",
+        "olfactory organ",
+        "olfactory epithelium",
+        "olfactory epithelium"
+    ],
+    "CD14+ monocytes - treated with Trehalose dimycolate (TDM) donor2": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "leukemia": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "malignant cell",
+        "blood",
+        "bone marrow",
+        "leukemia cell",
+        "leukemia cell"
+    ],
+    "CD4 Naive Primary 8pool": [
+        "-",
+        "-",
+        "naive thymus-derived CD4-positive, alpha-beta T cell",
+        "naive thymus-derived CD4-positive, alpha-beta T cell",
+        "thymus",
+        "venous blood",
+        "naive T-lymphocyte",
+        "naive T-lymphocyte"
+    ],
+    "Human Primordial Germ Cell": [
+        "-",
+        "-",
+        "primordial germ cell",
+        "primordial germ cell",
+        "gonad",
+        "gonad",
+        "germ cell",
+        "germ cell"
+    ],
+    "primary_erythroblasts": [
+        "-",
+        "-",
+        "erythroblast",
+        "erythroblast",
+        "bone marrow",
+        "hematopoietic tissue",
+        "erythroblast",
+        "erythroblast"
+    ],
+    "lung_fibroblasts": [
+        "-",
+        "-",
+        "fibroblast of lung",
+        "fibroblast of lung",
+        "lung",
+        "lung",
+        "lung fibroblast",
+        "lung fibroblast"
+    ],
+    "ES derived mesoderm_day2": [
+        "-",
+        "-",
+        "mesodermal cell",
+        "mesodermal cell",
+        "mesoderm",
+        "lateral mesenchyme derived from mesoderm",
+        "-",
+        "mesenchymal stem cell"
+    ],
+    "CHLA-25": [
+        "-",
+        "-",
+        "bone cell",
+        "-",
+        "bone tissue",
+        "-",
+        "-",
+        "-"
+    ],
+    "Smooth Muscle Cells - Brachiocephalic donor3": [
+        "-",
+        "-",
+        "smooth muscle cell of the brachiocephalic vasculature",
+        "smooth muscle cell of the brachiocephalic vasculature",
+        "brachiocephalic muscle",
+        "brachiocephalic muscle",
+        "vascular smooth muscle cell",
+        "vascular smooth muscle cell"
+    ],
+    "Primary T helper 17 cells PMA-I stimulated": [
+        "-",
+        "-",
+        "T-helper 17 cell",
+        "T-helper 17 cell",
+        "immune system",
+        "lymph node T cell domain",
+        "Th17 cell",
+        "Th17 cell"
+    ],
+    "melanocytes_BRAFV600E": [
+        "-",
+        "-",
+        "melanocyte",
+        "melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "melanocyte",
+        "melanocyte"
+    ],
+    "Pericytes_C": [
+        "-",
+        "-",
+        "pericyte",
+        "pericyte",
+        "connective tissue",
+        "microcirculatory vessel",
+        "pericyte",
+        "pericyte"
+    ],
+    "Foreskin keratinocyte": [
+        "-",
+        "-",
+        "foreskin keratinocyte",
+        "foreskin keratinocyte",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin keratinocyte cell line",
+        "foreskin keratinocyte cell line"
+    ],
+    "CD14+ monocytes - mock treated donor3": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "Smooth Muscle Cells - Brain Vascular donor1": [
+        "-",
+        "-",
+        "smooth muscle cell of the brain vasculature",
+        "smooth muscle cell of the brain vasculature",
+        "vasculature of brain",
+        "cerebral blood vessel",
+        "vascular smooth muscle cell",
+        "vascular smooth muscle cell"
+    ],
+    "Muscle_Satellite_Cultured_Cells": [
+        "-",
+        "-",
+        "skeletal muscle satellite cell",
+        "skeletal muscle satellite cell",
+        "skeletal muscle tissue",
+        "skeletal muscle tissue",
+        "skeletal muscle satellite cell",
+        "skeletal muscle satellite cell"
+    ],
+    "eosinophil (VB)": [
+        "-",
+        "-",
+        "eosinophil",
+        "eosinophil",
+        "blood",
+        "bone marrow",
+        "eosinophil",
+        "eosinophil"
+    ],
+    "CD4_TH1": [
+        "-",
+        "-",
+        "T-helper 1 cell",
+        "T-helper 1 cell",
+        "immune system",
+        "-",
+        "Th1 cell",
+        "Th1 cell"
+    ],
+    "Matrix_Fibrob_1_C": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "leukophereses_p411": [
+        "-",
+        "-",
+        "leukocyte",
+        "peripheral blood mononuclear cell",
+        "blood",
+        "blood",
+        "leukocyte",
+        "peripheral blood mononuclear cell"
+    ],
+    "CD34_Progenitors_R2": [
+        "-",
+        "-",
+        "erythroid progenitor cell",
+        "CD34-positive, CD38-negative hematopoietic stem cell",
+        "bone marrow",
+        "-",
+        "erythroid progenitor cell",
+        "culture condition:CD34+ cell"
+    ],
+    "T_cell_B": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "T cell domain",
+        "T-lymphocyte",
+        "T1 cell"
+    ],
+    "primary-epidermal-keratinocyte": [
+        "-",
+        "-",
+        "keratinocyte",
+        "-",
+        "skin epidermis",
+        "skin epidermis",
+        "keratinocyte",
+        "keratinocyte"
+    ],
+    "ES-derived progenitors Pancreatic Progenitors 1 WT": [
+        "-",
+        "-",
+        "progenitor cell of endocrine pancreas",
+        "progenitor cell of endocrine pancreas",
+        "pancreas",
+        "pancreas",
+        "-",
+        "pancreatic PP cell"
+    ],
+    "Astrocyte - cerebral cortex donor3": [
+        "-",
+        "-",
+        "astrocyte of the cerebral cortex",
+        "astrocyte of the cerebral cortex",
+        "cerebral cortex",
+        "cerebral cortex",
+        "astrocyte",
+        "astrocyte"
+    ],
+    "Fibroblast - skin dystrophia myotonica donor2": [
+        "-",
+        "-",
+        "skin fibroblast",
+        "skin fibroblast",
+        "skin epidermis",
+        "skin epidermis",
+        "skin fibroblast",
+        "skin fibroblast"
+    ],
+    "hNSC": [
+        "-",
+        "-",
+        "neural stem cell",
+        "neural stem cell",
+        "nervous system",
+        "nervous system",
+        "neural stem cell",
+        "neural stem cell"
+    ],
+    "Osteobl": [
+        "-",
+        "-",
+        "osteoblast",
+        "osteoblast",
+        "bone tissue",
+        "bone tissue",
+        "osteoblast",
+        "osteoblast"
+    ],
+    "CLP_1_healthy": [
+        "-",
+        "-",
+        "common lymphoid progenitor",
+        "common lymphoid progenitor",
+        "bone marrow",
+        "hematopoietic tissue",
+        "lymphoid progenitor cell",
+        "lymphoid progenitor cell"
+    ],
+    "mesenchymal precursor cell - cardiac donor4": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "heart",
+        "cardiac muscle tissue",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "Syn_vil_cytoTrophobs_5": [
+        "-",
+        "-",
+        "stem cell",
+        "placental villous trophoblast",
+        "placenta",
+        "placenta",
+        "villous syncytiotrophoblast",
+        "villous syncytiotrophoblast"
+    ],
+    "ccRCC": [
+        "-",
+        "-",
+        "kidney cell",
+        "kidney proximal convoluted tubule epithelial cell",
+        "kidney",
+        "proximal tubular epithelium",
+        "clear cell adenocarcinoma cell",
+        "renal proximal tubule cell"
+    ],
+    "NHEK_M": [
+        "-",
+        "-",
+        "keratinocyte",
+        "keratinocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "NHEK cell",
+        "foreskin keratinocyte cell line"
+    ],
+    "neuroepithelial_stem_cell": [
+        "-",
+        "-",
+        "neuroepithelial stem cell",
+        "neuroepithelial stem cell",
+        "nervous system",
+        "developing neuroepithelium",
+        "neuroepithelial cell",
+        "neural stem cell"
+    ],
+    "Synoviocyte donor3": [
+        "-",
+        "-",
+        "synovial cell",
+        "type A synovial cell",
+        "synovial bursa",
+        "synovial bursa",
+        "synoviocyte",
+        "fibroblast-like synoviocyte"
+    ],
+    "PAAD": [
+        "-",
+        "-",
+        "pancreatic ductal cell",
+        "pancreatic ductal cell",
+        "pancreatic duct",
+        "pancreatic duct",
+        "pancreatic ductal adenocarcinoma cell",
+        "pancreatic ductal adenocarcinoma cell"
+    ],
+    "MPP_frozen_BM0828": [
+        "-",
+        "-",
+        "hematopoietic multipotent progenitor cell",
+        "hematopoietic multipotent progenitor cell",
+        "bone marrow",
+        "bone marrow",
+        "myeloid progenitor cell",
+        "myeloid progenitor cell"
+    ],
+    "Ciliated_cells_B": [
+        "-",
+        "-",
+        "ciliated cell",
+        "ciliated epithelial cell",
+        "lung",
+        "ciliary epithelium",
+        "epithelial cell",
+        "epithelial cell"
+    ],
+    "epidermal_keratinocytes": [
+        "-",
+        "-",
+        "keratinocyte",
+        "-",
+        "skin epidermis",
+        "skin epidermis",
+        "keratinocyte",
+        "keratinocyte"
+    ],
+    "Mesenchymal Stem Cell Derived Chondrocyte Cultured Cells": [
+        "-",
+        "-",
+        "chondrocyte",
+        "chondrocyte",
+        "cartilage tissue",
+        "cartilage tissue",
+        "chondrocyte",
+        "chondrocyte cell line"
+    ],
+    "CD14+ monocytes - treated with B-glucan donor1": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "CD4+_CD25-_Th_Primary_Cells": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "venous blood",
+        "Th1 cell",
+        "culture condition:CD4+ cell"
+    ],
+    "fibroblast_384": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "-",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "meningioma_4": [
+        "-",
+        "-",
+        "arachnoid barrier cell",
+        "meningothelial cell",
+        "forebrain meninges",
+        "forebrain meninges",
+        "meningioma cell",
+        "meningioma cell"
+    ],
+    "HAEC": [
+        "-",
+        "-",
+        "aortic endothelial cell",
+        "aortic endothelial cell",
+        "aorta endothelium",
+        "aorta endothelium",
+        "human aortic endothelial cell",
+        "human aortic endothelial cell"
+    ],
+    "FL CD34+CD38-/lowCD90+ HSPC": [
+        "-",
+        "-",
+        "hematopoietic multipotent progenitor cell",
+        "CD34-positive, CD38-negative hematopoietic stem cell",
+        "bone marrow",
+        "liver",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell"
+    ],
+    "Adipose_Nuclei": [
+        "-",
+        "-",
+        "adipocyte",
+        "white adipocyte",
+        "adipose tissue",
+        "adipose tissue",
+        "adipocyte",
+        "adipocyte"
+    ],
+    "Treg2_t-infiltrating": [
+        "-",
+        "-",
+        "regulatory T cell",
+        "CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell",
+        "immune system",
+        "tissue",
+        "regulatory T-lymphocyte",
+        "T2 cell"
+    ],
+    "icn12": [
+        "-",
+        "-",
+        "precursor B cell",
+        "CD115-positive monocyte OR common dendritic progenitor",
+        "bone marrow",
+        "-",
+        "-",
+        "SN-12C cell"
+    ],
+    "HPV+ HNSCC_SCC-090": [
+        "-",
+        "-",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "head or neck skin",
+        "pharyngeal tonsil",
+        "squamous cell carcinoma cell line",
+        "squamous cell carcinoma cell line"
+    ],
+    "RPE1-interphase": [
+        "-",
+        "-",
+        "retinal pigment epithelial cell",
+        "retinal pigment epithelial cell",
+        "retina",
+        "retina",
+        "retinal pigment epithelium cell",
+        "retinal pigment epithelium cell line"
+    ],
+    "Club_D": [
+        "-",
+        "-",
+        "club cell",
+        "club cell",
+        "lung",
+        "terminal bronchiole epithelium",
+        "Clara cell",
+        "Clara cell"
+    ],
+    "CD14+ monocytes - treated with Candida donor2": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "Dendritic Cells - monocyte immature derived donor1 tech_rep2": [
+        "-",
+        "-",
+        "dendritic cell",
+        "dendritic cell",
+        "immune system",
+        "venous blood",
+        "dendritic cell",
+        "dendritic cell"
+    ],
+    "GBM22": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "glioblast",
+        "brain",
+        "central nervous system",
+        "glioblastoma cell",
+        "glioblastoma cell"
+    ],
+    "tamoxifen_EC1": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "endothelium",
+        "endothelial cell",
+        "endothelial cell"
+    ],
+    "Ciliated_cells_A": [
+        "-",
+        "-",
+        "ciliated cell",
+        "multiciliated epithelial cell",
+        "lung",
+        "tracheobronchial epithelium",
+        "nonpigmented ciliary epithelial cell",
+        "nonpigmented ciliary epithelial cell"
+    ],
+    "chorionic membrane cells donor3": [
+        "-",
+        "-",
+        "-",
+        "chorionic trophoblast cell",
+        "chorion membrane",
+        "chorion membrane",
+        "chorionic epithelium",
+        "chorionic epithelium"
+    ],
+    "H9-derived_neuroectoderm_cells": [
+        "-",
+        "-",
+        "neural cell",
+        "neural cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "T_cell_D": [
+        "-",
+        "-",
+        "T cell",
+        "lymphocyte",
+        "blood",
+        "T cell domain",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "HUES64 derived CD56+ mesoderm": [
+        "-",
+        "-",
+        "mesodermal cell",
+        "mesodermal cell",
+        "mesoderm",
+        "germ layer",
+        "-",
+        "culture condition:CD56+ cell"
+    ],
+    "MPAL4_T1_3": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "-",
+        "blood",
+        "bone marrow",
+        "myeloid leukemia cell",
+        "myeloid leukemia cell"
+    ],
+    "CD4_M_1_healthy": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "venous blood",
+        "Th1 cell",
+        "helper T-lymphocyte"
+    ],
+    "mesenchymal-stem-cell": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "mesenchyme",
+        "mesenchyme of umbilical cord",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "ES-derived progenitors_DE FOXA2 -/-": [
+        "-",
+        "-",
+        "progenitor cell",
+        "endodermal cell",
+        "-",
+        "definitive endoderm",
+        "-",
+        "endoderm"
+    ],
+    "Mast cell donor2": [
+        "-",
+        "-",
+        "mast cell",
+        "mast cell",
+        "immune system",
+        "-",
+        "mast cell",
+        "mast cell"
+    ],
+    "Adipocyte - perirenal donor1": [
+        "-",
+        "-",
+        "perirenal adipocyte",
+        "white adipocyte",
+        "perirenal fat",
+        "adipose tissue of abdominal region",
+        "-",
+        "white adipocyte"
+    ],
+    "B (PB)": [
+        "-",
+        "-",
+        "B cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "blood",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "Primary natural killer cells (from PB)": [
+        "-",
+        "-",
+        "natural killer cell",
+        "natural killer cell",
+        "blood",
+        "blood",
+        "natural killer cell",
+        "natural killer cell"
+    ],
+    "CD4+ cells_CTCL1181": [
+        "-",
+        "-",
+        "CD4-positive helper T cell",
+        "CD4-positive helper T cell",
+        "immune system",
+        "skin of body",
+        "helper T-lymphocyte",
+        "helper T-lymphocyte"
+    ],
+    "ES derived primitive cardiomyocite_day15": [
+        "-",
+        "-",
+        "cardiac muscle myoblast",
+        "cardiac muscle myoblast",
+        "heart",
+        "cardiac muscle tissue",
+        "cardiomyocyte cell line",
+        "cardiomyocyte cell line"
+    ],
+    "CD8-positive-alpha-beta-T-cell": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "immune system",
+        "T cell domain",
+        "cytotoxic T-lymphocyte",
+        "cytotoxic T-lymphocyte"
+    ],
+    "Vascular_endothelial_heart": [
+        "-",
+        "-",
+        "cardiac endothelial cell",
+        "cardiac endothelial cell",
+        "heart",
+        "heart",
+        "-",
+        "cardiac microvascular endothelial cell"
+    ],
+    "HUAEC_WT": [
+        "-",
+        "-",
+        "umbilical artery endothelial cell",
+        "umbilical artery endothelial cell",
+        "umbilical artery endothelium",
+        "umbilical artery endothelium",
+        "umbilical artery endothelial cell",
+        "umbilical artery endothelial cell"
+    ],
+    "Astro_Oligodendro_cerebrum_4": [
+        "-",
+        "-",
+        "glial cell",
+        "astrocyte",
+        "brain",
+        "-",
+        "-",
+        "neuron-oligodendrocyte coculture"
+    ],
+    "tamoxifen_EC7": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "blood vessel endothelium",
+        "endothelial cell",
+        "endothelial cell"
+    ],
+    "meningioma_6": [
+        "-",
+        "-",
+        "arachnoid barrier cell",
+        "meningothelial cell",
+        "forebrain meninges",
+        "arachnoid mater",
+        "meningioma cell",
+        "meningioma cell"
+    ],
+    "Skin Fibroblast_Nutlin3A": [
+        "-",
+        "-",
+        "skin fibroblast",
+        "skin fibroblast",
+        "dermis",
+        "dermis",
+        "skin fibroblast",
+        "skin fibroblast"
+    ],
+    "naive B (VB)": [
+        "-",
+        "-",
+        "naive B cell",
+        "naive B cell",
+        "blood",
+        "blood",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "AML11": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "bone marrow",
+        "myeloblast",
+        "myeloblast"
+    ],
+    "normal_epidermal_keratinocytes": [
+        "-",
+        "-",
+        "keratinocyte",
+        "keratinocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "keratinocyte",
+        "keratinocyte"
+    ],
+    "Endothelial Cells - Vein donor1": [
+        "-",
+        "-",
+        "vein endothelial cell",
+        "endothelial cell of venule",
+        "vein",
+        "venous blood vessel",
+        "venous endothelial cell",
+        "venous endothelial cell"
+    ],
+    "HSPC-derived late erythroid precursors": [
+        "-",
+        "-",
+        "erythroid progenitor cell",
+        "erythroid progenitor cell",
+        "bone marrow",
+        "hematopoietic tissue",
+        "erythroid progenitor cell",
+        "erythroid progenitor cell"
+    ],
+    "LSEC": [
+        "-",
+        "-",
+        "endothelial cell of hepatic sinusoid",
+        "endothelial cell of hepatic sinusoid",
+        "liver",
+        "hepatic sinusoid",
+        "liver sinusoidal endothelial cell",
+        "liver sinusoidal endothelial cell"
+    ],
+    "melanoma": [
+        "-",
+        "-",
+        "melanocyte",
+        "melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "melanoma cell",
+        "melanoma cell"
+    ],
+    "CD4p CD25- CD45RAp Naive": [
+        "-",
+        "-",
+        "naive T cell",
+        "CD4-positive helper T cell",
+        "thymus",
+        "-",
+        "-",
+        "-"
+    ],
+    "Trabecular Meshwork Cells donor1": [
+        "-",
+        "-",
+        "trabecular meshwork cell",
+        "trabecular meshwork cell",
+        "eye trabecular meshwork",
+        "eye trabecular meshwork",
+        "-",
+        "-"
+    ],
+    "PDAC_SHCTR": [
+        "-",
+        "-",
+        "epithelial cell of pancreas",
+        "epithelial cell of pancreas",
+        "pancreas",
+        "pancreas",
+        "pancreatic ductal adenocarcinoma cell",
+        "pancreatic ductal adenocarcinoma cell line"
+    ],
+    "primary-B-cell": [
+        "-",
+        "-",
+        "B cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "spleen primary B follicle",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "Olfactory epithelial cells donor1": [
+        "-",
+        "-",
+        "olfactory epithelial cell",
+        "olfactory epithelial cell",
+        "olfactory organ",
+        "olfactory organ",
+        "-",
+        "olfactory ensheathing cell"
+    ],
+    "hMSCs": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "bone marrow",
+        "mesenchyme of umbilical cord",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "Inhibitory_neur_cerebrum_2": [
+        "-",
+        "-",
+        "neuron",
+        "GABAergic interneuron",
+        "brain",
+        "obsolete cerebrum",
+        "-",
+        "-"
+    ],
+    "Th17-cells": [
+        "-",
+        "-",
+        "T-helper 17 cell",
+        "T-helper 17 cell",
+        "immune system",
+        "mucosa-associated lymphoid tissue",
+        "Th17 cell",
+        "Th17 cell"
+    ],
+    "PRAD": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "prostate adenocarcinoma cell",
+        "prostate adenocarcinoma cell"
+    ],
+    "monocyte": [
+        "-",
+        "-",
+        "monocyte",
+        "monocyte",
+        "blood",
+        "bone marrow",
+        "monocyte",
+        "mononuclear phagocyte"
+    ],
+    "monocyte_VB": [
+        "-",
+        "-",
+        "monocyte",
+        "monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "CD14_INFG_LPS": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "GBM10": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "malignant cell",
+        "brain",
+        "cerebral hemisphere",
+        "glioblastoma cell",
+        "glioblastoma cell"
+    ],
+    "Macrophage - monocyte derived donor3": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "blood",
+        "macrophage",
+        "macrophage"
+    ],
+    "B_cell_blood": [
+        "-",
+        "-",
+        "B cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "blood",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "Foreskin Keratinocyte Primary Cells skin02": [
+        "-",
+        "-",
+        "foreskin keratinocyte",
+        "-",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin keratinocyte cell line",
+        "foreskin keratinocyte cell line"
+    ],
+    "Cheek Cell": [
+        "-",
+        "-",
+        "buccal mucosa cell",
+        "buccal mucosa cell",
+        "buccal mucosa",
+        "buccal mucosa",
+        "buccal epithelial cell",
+        "buccal epithelial cell"
+    ],
+    "endometrium cancer_DSG": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "endometrium",
+        "uterine endometrial cancer cell",
+        "uterine endometrial cancer cell"
+    ],
+    "Cardiac Progenitor Cell": [
+        "-",
+        "-",
+        "progenitor cell",
+        "progenitor cell",
+        "heart",
+        "heart",
+        "-",
+        "-"
+    ],
+    "mesenchymal stem cell": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "mesenchyme",
+        "mesenchyme of umbilical cord",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "iPSC-derived_cardiomyocytes": [
+        "-",
+        "-",
+        "cardiocyte",
+        "cardiocyte",
+        "heart",
+        "myocardium",
+        "cardiomyocyte cell line",
+        "cardiomyocyte cell line"
+    ],
+    "primary_breast_cancer": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "mammary gland",
+        "breast cancer cell",
+        "breast cancer cell"
+    ],
+    "GBM38": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "stem cell",
+        "brain",
+        "-",
+        "glioblastoma cell",
+        "glioblastoma cell"
+    ],
+    "CD14_Primary_Cells": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "ENS_neur_intestine": [
+        "-",
+        "-",
+        "neuron",
+        "enteric neuron",
+        "intestine",
+        "enteric nervous system",
+        "enteric neuron",
+        "enteric neuron"
+    ],
+    "750N": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "hormion",
+        "-",
+        "8505C cell"
+    ],
+    "purified primary alveolar epithelial type 2 cells": [
+        "-",
+        "-",
+        "pulmonary alveolar type 2 cell",
+        "pulmonary alveolar type 2 cell",
+        "alveolus of lung",
+        "alveolus of lung",
+        "alveolar cell type II",
+        "alveolar cell type II"
+    ],
+    "mesenchymal precursor cell - ovarian cancer right ovary donor3 (SOC-57-02)": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "ovary",
+        "ovary",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "acute_promyelocytic_leukemia_blasts": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "hematopoietic tissue",
+        "acute promyelocytic leukemia cell",
+        "acute promyelocytic leukemia cell"
+    ],
+    "Lymphoid_intestine_1": [
+        "-",
+        "-",
+        "lymphocyte",
+        "lymphocyte",
+        "intestine",
+        "intestine",
+        "lymphoid cell",
+        "lymphoid cell"
+    ],
+    "MPAL5_R1_1": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "hematopoietic cell",
+        "blood",
+        "bone marrow",
+        "acute undifferentiated leukemia cell",
+        "acute undifferentiated leukemia cell"
+    ],
+    "Pt22_leukemia cell_THZ1": [
+        "-",
+        "-",
+        "leukocyte",
+        "-",
+        "blood",
+        "hematopoietic tissue",
+        "leukemia cell",
+        "leukemia cell"
+    ],
+    "Inhib_neur_cerebrum_3": [
+        "-",
+        "-",
+        "neuron",
+        "GABAergic interneuron",
+        "brain",
+        "obsolete cerebrum",
+        "neuron",
+        "neuron"
+    ],
+    "Myoblast donor2": [
+        "-",
+        "-",
+        "myoblast",
+        "myoblast",
+        "muscle structure",
+        "muscle structure",
+        "myoblast",
+        "L-6 myoblast cell"
+    ],
+    "breast_mrnahist": [
+        "-",
+        "-",
+        "luminal epithelial cell of mammary gland",
+        "luminal epithelial cell of mammary gland",
+        "breast",
+        "mammary gland",
+        "breast cancer cell",
+        "mammary epithelial cell"
+    ],
+    "mesenchymal precursor cell - adipose donor2": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "adipose tissue",
+        "adipose tissue",
+        "mesenchymal stem cell",
+        "adipose-derived stromal cell"
+    ],
+    "Embryonic Blood Cells": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "primitive erythroid lineage cell",
+        "blood",
+        "visceral yolk sac",
+        "erythroid progenitor cell",
+        "erythroid progenitor cell"
+    ],
+    "Memory_CD4_T": [
+        "-",
+        "-",
+        "CD4-positive, alpha-beta memory T cell",
+        "CD4-positive, alpha-beta memory T cell, CD45RO-positive",
+        "immune system",
+        "lymphocyte domain",
+        "-",
+        "-"
+    ],
+    "normal plasma cell": [
+        "-",
+        "-",
+        "plasma cell",
+        "lymphocyte of B lineage, CD19-positive",
+        "immune system",
+        "-",
+        "plasma cell",
+        "B-lymphocyte"
+    ],
+    "ENS_neur_stomach": [
+        "-",
+        "-",
+        "neuron",
+        "enteric neuron",
+        "stomach",
+        "stomach",
+        "enteric neuron",
+        "enteric neuron"
+    ],
+    "meningioma_1": [
+        "-",
+        "-",
+        "arachnoid barrier cell",
+        "meningothelial cell",
+        "forebrain meninges",
+        "forebrain meninges",
+        "meningioma cell",
+        "meningioma cell"
+    ],
+    "Peripheral blood": [
+        "-",
+        "-",
+        "blood cell",
+        "blood cell",
+        "blood",
+        "blood",
+        "peripheral blood cell",
+        "peripheral blood cell"
+    ],
+    "MPAL4_T1_1": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "CD117-positive common myeloid progenitor OR CD217-positive common lymphoid progenitor",
+        "blood",
+        "bone marrow",
+        "acute lymphoblastic leukemia cell",
+        "acute lymphoblastic leukemia cell"
+    ],
+    "Mantle Cell Lymphoma (MCL)": [
+        "-",
+        "-",
+        "B cell",
+        "-",
+        "blood",
+        "lymph node",
+        "mantle cell lymphoma cell",
+        "mantle cell lymphoma cell"
+    ],
+    "CD133+": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "-",
+        "bone marrow",
+        "-",
+        "-",
+        "-"
+    ],
+    "rhabdomyosarcoma": [
+        "-",
+        "-",
+        "muscle cell",
+        "malignant cell",
+        "muscle structure",
+        "muscle structure",
+        "rhabdomyosarcoma cell",
+        "rhabdomyosarcoma cell"
+    ],
+    "human_villous_mesenchymal_fibroblast_cells": [
+        "-",
+        "-",
+        "fibroblast of villous mesenchyme",
+        "fibroblast of villous mesenchyme",
+        "mesenchyme",
+        "placental villous stroma",
+        "-",
+        "mesenchymal stromal cell"
+    ],
+    "CD8+ T Cells donor3": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "immune system",
+        "T cell domain",
+        "cytotoxic T-lymphocyte",
+        "cytotoxic T-lymphocyte"
+    ],
+    "MyoFibrob_E": [
+        "-",
+        "-",
+        "myofibroblast cell",
+        "myofibroblast cell",
+        "connective tissue",
+        "connective tissue",
+        "myofibroblast",
+        "myofibroblast"
+    ],
+    "Fibroblast - Dermal donor5": [
+        "-",
+        "-",
+        "fibroblast of dermis",
+        "fibroblast of dermis",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "peripheral blood monocyte-derived SC cells": [
+        "-",
+        "-",
+        "monocyte",
+        "Schwann cell",
+        "blood",
+        "blood",
+        "monocyte",
+        "Schwann cell"
+    ],
+    "Th1_t-infiltrating": [
+        "-",
+        "-",
+        "T-helper 1 cell",
+        "T-helper 1 cell",
+        "immune system",
+        "tissue",
+        "Th1 cell",
+        "helper T-lymphocyte"
+    ],
+    "MM074_Primary_Melanoma": [
+        "-",
+        "-",
+        "melanocyte",
+        "melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "melanoma cell",
+        "melanoma cell"
+    ],
+    "Osteoblast Primary Cells": [
+        "-",
+        "-",
+        "osteoblast",
+        "osteoblast",
+        "bone tissue",
+        "bone tissue",
+        "osteoblast",
+        "osteoblast"
+    ],
+    "BI_CD4p_CD25-_CD45ROp_Memory": [
+        "-",
+        "-",
+        "CD4-positive, alpha-beta memory T cell, CD45RO-positive",
+        "central memory CD4-positive, alpha-beta T cell",
+        "immune system",
+        "-",
+        "-",
+        "-"
+    ],
+    "Mesenchymal Stem Cells - hepatic donor2": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "liver",
+        "liver",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "CD14-positive_monocyte": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "monocyte-derived dendritic cells_0h": [
+        "-",
+        "-",
+        "dendritic cell",
+        "dendritic cell",
+        "immune system",
+        "venous blood",
+        "dendritic cell",
+        "dendritic cell"
+    ],
+    "pro_B": [
+        "-",
+        "-",
+        "pro-B cell",
+        "pro-B cell",
+        "bone marrow",
+        "bone marrow",
+        "pro-B-lymphocyte",
+        "pro-B-lymphocyte"
+    ],
+    "Foreskin_keratinocyte": [
+        "-",
+        "-",
+        "foreskin keratinocyte",
+        "foreskin keratinocyte",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin keratinocyte cell line",
+        "foreskin keratinocyte cell line"
+    ],
+    "Capillary_1_G": [
+        "-",
+        "-",
+        "capillary endothelial cell",
+        "capillary endothelial cell",
+        "endothelium of capillary",
+        "endothelium of capillary",
+        "capillary endothelial cell",
+        "capillary endothelial cell"
+    ],
+    "BI_CD4_Memory_Primary_7pool": [
+        "-",
+        "-",
+        "CD4-positive, alpha-beta memory T cell",
+        "CD4-positive, alpha-beta memory T cell",
+        "immune system",
+        "venous blood",
+        "memory T-lymphocyte",
+        "memory T-lymphocyte"
+    ],
+    "lymphoblast": [
+        "-",
+        "-",
+        "lymphoblast",
+        "lymphoblast",
+        "blood",
+        "bone marrow",
+        "lymphoblast",
+        "-"
+    ],
+    "CD14+ monocytes - treated with Cryptococcus donor1": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "foreskin_melanocyte_2": [
+        "-",
+        "-",
+        "foreskin melanocyte",
+        "foreskin melanocyte",
+        "prepuce of penis",
+        "prepuce of penis",
+        "foreskin melanocyte cell line",
+        "foreskin melanocyte cell line"
+    ],
+    "HBEC_2": [
+        "-",
+        "-",
+        "obsolete epithelial cell of alveolus of lung",
+        "bronchial epithelial cell",
+        "alveolus of lung",
+        "epithelium of bronchus",
+        "bronchial epithelial cell",
+        "bronchial epithelial cell"
+    ],
+    "dermal_fibroblast": [
+        "-",
+        "-",
+        "fibroblast of dermis",
+        "fibroblast of dermis",
+        "dermis",
+        "dermis",
+        "dermal fibroblast",
+        "dermal fibroblast"
+    ],
+    "mesenchymal precursor cell - ovarian cancer left ovary donor3": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "ovary",
+        "ovary",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "aortic valve interstitial cells": [
+        "-",
+        "-",
+        "valve interstitial cell",
+        "valve interstitial cell",
+        "aortic valve",
+        "aortic valve",
+        "-",
+        "aortic smooth muscle cell"
+    ],
+    "PK-LCLs": [
+        "-",
+        "-",
+        "lymphoblast",
+        "lymphoblast",
+        "blood",
+        "blood",
+        "B-lymphoblastoid cell",
+        "B-lymphoblastoid cell"
+    ],
+    "CD34_cells_DMSO": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "CD34-positive, CD38-negative multipotent progenitor cell",
+        "bone marrow",
+        "cell group",
+        "hematopoietic stem cell",
+        "culture condition:CD34+ cell"
+    ],
+    "pulmonary arterial smooth muscle cells_PAH1_sictrl": [
+        "-",
+        "-",
+        "smooth muscle cell of the pulmonary artery",
+        "smooth muscle cell of the pulmonary artery",
+        "artery smooth muscle tissue",
+        "artery smooth muscle tissue",
+        "pulmonary artery smooth muscle cell",
+        "pulmonary artery smooth muscle cell"
+    ],
+    "neural_progenitors": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "nervous system",
+        "ventricular zone",
+        "neural stem cell",
+        "neural stem cell"
+    ],
+    "MDP": [
+        "-",
+        "-",
+        "macrophage dendritic cell progenitor",
+        "CD115-positive monocyte OR common dendritic progenitor",
+        "bone marrow",
+        "hematopoietic tissue",
+        "-",
+        "-"
+    ],
+    "Purified AT2 cells": [
+        "-",
+        "-",
+        "pulmonary alveolar type 2 cell",
+        "pulmonary alveolar type 2 cell",
+        "alveolus of lung",
+        "alveolus of lung",
+        "alveolar cell type II",
+        "alveolar cell type II"
+    ],
+    "amniotic membrane cells donor2": [
+        "-",
+        "-",
+        "epithelial cell of amnion",
+        "epithelial cell of amnion",
+        "amnion",
+        "fetal membrane",
+        "human amniotic epithelial cell",
+        "human amniotic epithelial cell"
+    ],
+    "Capillary_2_C": [
+        "-",
+        "-",
+        "capillary endothelial cell",
+        "capillary endothelial cell",
+        "endothelium of capillary",
+        "endothelium of capillary",
+        "capillary endothelial cell",
+        "capillary endothelial cell"
+    ],
+    "CD4+CD25-CD45RA- memory conventional T cells donor3": [
+        "-",
+        "-",
+        "memory T cell",
+        "memory T cell",
+        "immune system",
+        "blood plasma",
+        "-",
+        "-"
+    ],
+    "Parietal_and_chief_stomach": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "stomach",
+        "stomach",
+        "gastric epithelial cell",
+        "gastric epithelial cell"
+    ],
+    "CD34_cells_ACY957": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "CD34-positive, CD38-negative multipotent progenitor cell",
+        "bone marrow",
+        "bone marrow",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell"
+    ],
+    "T Cell": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "thymus lymphoid tissue",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "LMPP_frozen_BM0828": [
+        "-",
+        "-",
+        "early lymphoid progenitor",
+        "early lymphoid progenitor",
+        "bone marrow",
+        "bone marrow",
+        "lymphoid progenitor cell",
+        "lymphoid progenitor cell"
+    ],
+    "Hair Follicle Dermal Papilla Cells donor3": [
+        "-",
+        "-",
+        "hair follicle dermal papilla cell",
+        "hair follicle dermal papilla cell",
+        "hair follicle",
+        "dermal papilla",
+        "hair follicle dermal papilla cell",
+        "hair follicle dermal papilla cell"
+    ],
+    "AT2_D": [
+        "-",
+        "-",
+        "pulmonary alveolar type 2 cell",
+        "pulmonary alveolar type 2 cell",
+        "alveolus of lung",
+        "alveolus of lung",
+        "alveolar cell type II",
+        "alveolar cell type II"
+    ],
+    "CD20": [
+        "-",
+        "-",
+        "lymphocyte of B lineage",
+        "mature B cell",
+        "blood",
+        "lymphoid tissue",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "Lymphoid_placenta": [
+        "-",
+        "-",
+        "lymphocyte",
+        "-",
+        "placenta",
+        "placenta",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "hTERT_KD": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "experimentally modified cell in vitro",
+        "endometrium",
+        "-",
+        "-",
+        "hTERT-HPNE cell"
+    ],
+    "dopaminergic-neuron": [
+        "-",
+        "-",
+        "dopaminergic neuron",
+        "dopaminergic neuron",
+        "nervous system",
+        "midbrain tegmentum",
+        "dopaminergic neuron",
+        "dopaminergic neuron"
+    ],
+    "mid-neurogenesis-radial-glial-cells": [
+        "-",
+        "-",
+        "glial cell",
+        "glial cell",
+        "nervous system",
+        "layer of developing cerebral cortex",
+        "glial cell",
+        "glial cell"
+    ],
+    "mesenchymal precursor cell - adipose donor3": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "adipose tissue",
+        "adipose tissue",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "Matrix_Fibrob_2_J": [
+        "-",
+        "-",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "retinoblastoma_xenograft": [
+        "-",
+        "-",
+        "retinal cell",
+        "retinal cell",
+        "retina",
+        "retina",
+        "retinoblastoma cell",
+        "retinoblastoma cell"
+    ],
+    "B Cell": [
+        "-",
+        "-",
+        "B cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "lymphoid tissue",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "Ciliated_epithelial_lung": [
+        "-",
+        "-",
+        "lung multiciliated epithelial cell",
+        "lung multiciliated epithelial cell",
+        "lung",
+        "lung epithelium",
+        "respiratory epithelium cell",
+        "respiratory epithelium cell"
+    ],
+    "MPAL1_T1_4": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "-",
+        "blood",
+        "bone marrow",
+        "acute undifferentiated leukemia cell",
+        "acute undifferentiated leukemia cell"
+    ],
+    "Intestinal_epithelial_2": [
+        "-",
+        "-",
+        "intestinal epithelial cell",
+        "intestinal epithelial cell",
+        "intestinal epithelium",
+        "intestinal epithelium",
+        "intestinal cell line",
+        "intestinal cell line"
+    ],
+    "GBM17": [
+        "GBM cell",
+        "-",
+        "glial cell",
+        "-",
+        "brain",
+        "lobe of cerebral hemisphere",
+        "glioblastoma cell",
+        "glioblastoma cell"
+    ],
+    "Mesenchymal stem cells - adipose donor0": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "adipose tissue",
+        "adipose tissue",
+        "mesenchymal stem cell",
+        "adipose-derived stromal cell"
+    ],
+    "CD34_cells_FETAL": [
+        "-",
+        "-",
+        "hematopoietic stem cell",
+        "CD34-positive, CD38-negative multipotent progenitor cell",
+        "bone marrow",
+        "hematopoietic tissue",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell"
+    ],
+    "EM CD8+ ab T (VB)": [
+        "-",
+        "-",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "blood",
+        "-",
+        "memory T-lymphocyte",
+        "memory T-lymphocyte"
+    ],
+    "colorectal-cancer": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colorectum",
+        "colorectum",
+        "colorectal cancer cell",
+        "colorectal adenocarcinoma cell line"
+    ],
+    "HSMM cell derived Skeletal Muscle Myotubes Cells": [
+        "-",
+        "-",
+        "myotube",
+        "myotube",
+        "muscle structure",
+        "muscle structure",
+        "skeletal muscle cell",
+        "skeletal muscle cell"
+    ],
+    "Lymphoid_Myeloid_muscle": [
+        "-",
+        "-",
+        "-",
+        "lymphocyte",
+        "muscle structure",
+        "muscle structure",
+        "-",
+        "-"
+    ],
+    "LCL_lymphoblastoid_cell_line": [
+        "-",
+        "-",
+        "lymphoblast",
+        "lymphoblast",
+        "blood",
+        "-",
+        "lymphoblastoid cell line",
+        "B-lymphocyte cell line"
+    ],
+    "HSPC": [
+        "-",
+        "-",
+        "hematopoietic multipotent progenitor cell",
+        "hematopoietic stem cell",
+        "bone marrow",
+        "bone marrow",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell"
+    ],
+    "Ciliary Epithelial Cells donor1": [
+        "-",
+        "-",
+        "ciliated epithelial cell",
+        "ciliated epithelial cell",
+        "ciliated epithelium",
+        "ciliated epithelium",
+        "nonpigmented ciliary epithelial cell",
+        "nonpigmented ciliary epithelial cell"
+    ],
+    "Adrenoc_5": [
+        "-",
+        "-",
+        "cortical cell of adrenal gland",
+        "cortical cell of adrenal gland",
+        "adrenal gland",
+        "adrenal gland",
+        "adrenocortical cell",
+        "adrenocortical cell"
+    ],
+    "Megakaryo_spleen": [
+        "-",
+        "-",
+        "megakaryocyte",
+        "megakaryocyte",
+        "spleen",
+        "spleen",
+        "megakaryocyte",
+        "megakaryocyte"
+    ],
+    "Vascular_endo_spleen": [
+        "-",
+        "-",
+        "splenic endothelial cell",
+        "splenic endothelial cell",
+        "spleen",
+        "spleen",
+        "vascular endothelial cell",
+        "vascular endothelial cell"
+    ],
+    "HMLER": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "mammary gland",
+        "HMLER cell",
+        "mammary epithelial cell line"
+    ],
+    "Stromal_placenta_1": [
+        "-",
+        "-",
+        "stromal cell",
+        "stromal cell",
+        "placenta",
+        "placenta",
+        "mesenchymal stromal cell",
+        "mesenchymal stromal cell"
+    ],
+    "GMP2mid_LS_BM1137": [
+        "-",
+        "-",
+        "granulocyte monocyte progenitor cell",
+        "granulocyte monocyte progenitor cell",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "thymocytes": [
+        "-",
+        "-",
+        "thymocyte",
+        "thymocyte",
+        "thymus",
+        "thymus",
+        "thymocyte",
+        "thymocyte"
+    ],
+    "JD-LCLs": [
+        "-",
+        "-",
+        "lymphocyte",
+        "lymphocyte",
+        "blood",
+        "lymphomyeloid tissue",
+        "B-lymphoblastoid cell line",
+        "B-lymphoblastoid cell line"
+    ],
+    "Multipotent Cord Blood Unrestricted Somatic Stem Cells donor2": [
+        "-",
+        "-",
+        "somatic stem cell",
+        "-",
+        "umbilical cord",
+        "umbilical cord",
+        "cord blood stem cell",
+        "cord blood stem cell"
+    ],
+    "Fibroblast - Pulmonary Artery donor1": [
+        "-",
+        "-",
+        "fibroblast of pulmonary artery",
+        "fibroblast of pulmonary artery",
+        "pulmonary artery",
+        "pulmonary artery",
+        "lung fibroblast",
+        "lung fibroblast"
+    ],
+    "Endothelial Cells - Umbilical vein donor2": [
+        "-",
+        "-",
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical vein",
+        "umbilical vein",
+        "umbilical vein endothelial cell",
+        "umbilical vein endothelial cell line"
+    ],
+    "CD19_Primary_Cells_Peripheral_UW": [
+        "-",
+        "-",
+        "B cell, CD19-positive",
+        "B cell, CD19-positive",
+        "blood",
+        "blood",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "brain_microvascular_endothelial_cell": [
+        "-",
+        "-",
+        "brain microvascular endothelial cell",
+        "brain microvascular endothelial cell",
+        "microvascular endothelium",
+        "cerebral blood vessel",
+        "brain microvascular endothelial cell",
+        "brain microvascular endothelial cell"
+    ],
+    "CD14_LPS": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "monocyte",
+        "monocyte"
+    ],
+    "CD19+_CD10+_CD44low_CXCR4+_B_cells": [
+        "-",
+        "-",
+        "B cell, CD19-positive",
+        "B cell, CD19-positive",
+        "blood",
+        "B cell domain",
+        "-",
+        "culture condition:CD19+ cell"
+    ],
+    "mesenchymal precursor cell - adipose donor1": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "adipose tissue",
+        "adipose tissue",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "Erythrob_heart": [
+        "-",
+        "-",
+        "erythroblast",
+        "erythroblast",
+        "heart",
+        "myocardium",
+        "erythroblast",
+        "erythroblast"
+    ],
+    "HSCe_71y_CD34+,CD38-,Lineage-": [
+        "-",
+        "-",
+        "CD34-positive, CD38-negative hematopoietic stem cell",
+        "CD34-positive, CD38-negative hematopoietic stem cell",
+        "bone marrow",
+        "bone marrow",
+        "hematopoietic stem cell",
+        "hematopoietic stem cell"
+    ],
+    "Capillary_1_I": [
+        "-",
+        "-",
+        "capillary endothelial cell",
+        "capillary endothelial cell",
+        "endothelium of capillary",
+        "endothelium of capillary",
+        "capillary endothelial cell",
+        "capillary endothelial cell"
+    ],
+    "Syn_vil_cytoTrophobs_4": [
+        "-",
+        "-",
+        "stem cell",
+        "placental villous trophoblast",
+        "placenta",
+        "chorionic villus",
+        "villous cytotrophoblast",
+        "villous cytotrophoblast"
+    ],
+    "Fibroblast - Choroid Plexus donor1": [
+        "-",
+        "-",
+        "fibroblast of choroid plexus",
+        "fibroblast of choroid plexus",
+        "choroid plexus",
+        "choroid plexus",
+        "fibroblast",
+        "fibroblast"
+    ]
+}

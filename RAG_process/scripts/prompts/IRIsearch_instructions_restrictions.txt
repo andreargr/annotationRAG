@@ -1,0 +1,99 @@
+**Task:**
+
+For the label below, find the most appropriate identifier from the candidate identifiers provided.
+The model should choose the identifier that best matches the label meaning, even if it is not an exact match.
+If multiple candidates are possible, prefer the one that is most specific and closest in meaning to the label.
+To avoid ambiguity, detailed descriptions of each candidate and the label context are provided.
+If there is any ambiguity or uncertainty, respond with -.
+
+---
+
+**Input:**
+
+* **Label:** {label}
+
+  > Always refers to biological samples: cell lines, cell types, or anatomical structures.
+
+* **Label Context:** {label_context}
+
+  > Additional information about the label.
+
+* **Candidate Identifiers:** {candidates}
+
+  > Follow the structure: `PREFIX_########` (e.g., `CLO_0001234`)
+
+* **Candidate Identifiers description:** {candidate_descriptions}
+
+---
+
+**Output Format:**
+Respond with **only one line** in the following format:
+
+* If a suitable identifier is found:
+
+  PREFIX_########
+
+* If no suitable identifier is found:
+
+  -
+
+---
+
+**Rules:**
+
+1. **Do not modify the label.**
+2. **Return only one identifier.**
+3. **Prefer the most specific and direct match to the label.**
+4. If no exact match exists for codes, return -.
+5. Return the closest label, less specific but still appropriate candidate if no exact match exists.
+6. **The identifier must strictly follow the format: `PREFIX_########`.**
+7. **Do not include any explanations or comments.**
+
+---
+**Examples:**
+
+**Example 1:**
+
+* **Label:** heart
+* **Label Context:** anatomical structure
+* **Candidate Identifiers:**
+
+  * UBERON_0000948: heart
+  * UBERON_0007100: primary circulatory organ
+  * UBERON_0015228: circulatory organ
+* **Candidate Identifiers description:** standard ontology terms
+
+**Output:**
+UBERON_0000948
+
+---
+
+**Example 2:**
+
+* **Label:** stomach
+* **Label Context:** digestive system organ
+* **Candidate Identifiers:**
+
+  * UBERON_0002106: digestive organ
+  * UBERON_0000945: alimentary system organ
+* **Candidate Identifiers description:** standard ontology terms
+
+**Output:**
+UBERON_0002106
+
+---
+
+**Example 3:**
+
+* **Label:** dragon cell
+* **Label Context:** fictional example, not biological
+* **Candidate Identifiers:**
+
+  * CLO_0000234: fibroblast
+  * CLO_0005678: epithelial cell
+* **Candidate Identifiers description:** cell lines
+
+**Output:**
+-
+
+---
