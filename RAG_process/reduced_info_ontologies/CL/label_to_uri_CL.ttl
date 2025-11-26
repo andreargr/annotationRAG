@@ -1,0 +1,2921 @@
+cell : <CL_0000000>
+primary cultured cell : <CL_0000001>
+obsolete immortal cell line cell : <CL_0000002>
+obsolete native cell : <CL_0000003>
+obsolete cell by organism : <CL_0000004>
+fibroblast neural crest derived : <CL_0000005>
+neuronal receptor cell : <CL_0000006>
+early embryonic cell (metazoa) : <CL_0000007>
+migratory cranial neural crest cell : <CL_0000008>
+obsolete fusiform initial : <CL_0000009>
+cultured cell : <CL_0000010>
+migratory trunk neural crest cell : <CL_0000011>
+obsolete cell by class : <CL_0000012>
+obsolete dentine secreting cell : <CL_0000013>
+germ line stem cell : <CL_0000014>
+male germ cell : <CL_0000015>
+male germ line stem cell : <CL_0000016>
+spermatocyte : <CL_0000017>
+spermatid : <CL_0000018>
+sperm : <CL_0000019>
+spermatogonium : <CL_0000020>
+female germ cell : <CL_0000021>
+female germ line stem cell : <CL_0000022>
+oocyte : <CL_0000023>
+oogonial cell : <CL_0000024>
+egg cell : <CL_0000025>
+invertebrate nurse cell : <CL_0000026>
+smooth muscle cell neural crest derived : <CL_0000027>
+CNS neuron (sensu Nematoda and Protostomia) : <CL_0000028>
+neural crest derived neuron : <CL_0000029>
+glioblast : <CL_0000030>
+neuroblast (sensu Vertebrata) : <CL_0000031>
+neuroplacodal cell : <CL_0000032>
+apocrine cell : <CL_0000033>
+stem cell : <CL_0000034>
+single fate stem cell : <CL_0000035>
+epithelial fate stem cell : <CL_0000036>
+hematopoietic stem cell : <CL_0000037>
+erythroid progenitor cell : <CL_0000038>
+germ line cell : <CL_0000039>
+monoblast : <CL_0000040>
+mature eosinophil : <CL_0000041>
+neutrophilic myeloblast : <CL_0000042>
+mature basophil : <CL_0000043>
+obsolete thymus processed stem cell : <CL_0000045>
+obsolete bursa processed stem cell : <CL_0000046>
+neural stem cell : <CL_0000047>
+multi fate stem cell : <CL_0000048>
+common myeloid progenitor : <CL_0000049>
+megakaryocyte-erythroid progenitor cell : <CL_0000050>
+common lymphoid progenitor : <CL_0000051>
+totipotent stem cell : <CL_0000052>
+bone matrix secreting cell : <CL_0000054>
+non-terminally differentiated cell : <CL_0000055>
+myoblast : <CL_0000056>
+fibroblast : <CL_0000057>
+chondroblast : <CL_0000058>
+ameloblast : <CL_0000059>
+odontoblast : <CL_0000060>
+cementoblast : <CL_0000061>
+osteoblast : <CL_0000062>
+obsolete cell by histology : <CL_0000063>
+ciliated cell : <CL_0000064>
+ependymal cell : <CL_0000065>
+epithelial cell : <CL_0000066>
+ciliated epithelial cell : <CL_0000067>
+duct epithelial cell : <CL_0000068>
+branched duct epithelial cell : <CL_0000069>
+obsolete epithelial cell of gland : <CL_0000070>
+blood vessel endothelial cell : <CL_0000071>
+non-branched duct epithelial cell : <CL_0000072>
+obsolete barrier epithelial cell : <CL_0000073>
+obsolete epithem cell : <CL_0000074>
+columnar/cuboidal epithelial cell : <CL_0000075>
+squamous epithelial cell : <CL_0000076>
+mesothelial cell : <CL_0000077>
+peridermal cell : <CL_0000078>
+stratified epithelial cell : <CL_0000079>
+circulating cell : <CL_0000080>
+blood cell : <CL_0000081>
+epithelial cell of lung : <CL_0000082>
+epithelial cell of pancreas : <CL_0000083>
+T cell : <CL_0000084>
+obsolete germ line stem cell (sensu Vertebrata) : <CL_0000085>
+obsolete germ line stem cell (sensu Nematoda and Protostomia) : <CL_0000086>
+obsolete male germ line stem cell (sensu Nematoda and Protostomia) : <CL_0000087>
+obsolete female germ line stem cell (sensu Nematoda and Protostomia) : <CL_0000088>
+obsolete male germ line stem cell (sensu Vertebrata) : <CL_0000089>
+obsolete female germ line stem cell (sensu Vertebrata) : <CL_0000090>
+Kupffer cell : <CL_0000091>
+osteoclast : <CL_0000092>
+obsolete osteochondroclast : <CL_0000093>
+granulocyte : <CL_0000094>
+neuron associated cell : <CL_0000095>
+mature neutrophil : <CL_0000096>
+mast cell : <CL_0000097>
+sensory epithelial cell : <CL_0000098>
+interneuron : <CL_0000099>
+motor neuron : <CL_0000100>
+sensory neuron : <CL_0000101>
+polymodal neuron : <CL_0000102>
+bipolar neuron : <CL_0000103>
+multipolar neuron : <CL_0000104>
+pseudounipolar neuron : <CL_0000105>
+unipolar neuron : <CL_0000106>
+autonomic neuron : <CL_0000107>
+cholinergic neuron : <CL_0000108>
+adrenergic neuron : <CL_0000109>
+peptidergic neuron : <CL_0000110>
+obsolete peripheral neuron : <CL_0000111>
+columnar neuron : <CL_0000112>
+mononuclear phagocyte : <CL_0000113>
+surface ectodermal cell : <CL_0000114>
+endothelial cell : <CL_0000115>
+pioneer neuron : <CL_0000116>
+CNS neuron (sensu Vertebrata) : <CL_0000117>
+basket cell : <CL_0000118>
+cerebellar Golgi cell : <CL_0000119>
+granule cell : <CL_0000120>
+Purkinje cell : <CL_0000121>
+stellate neuron : <CL_0000122>
+neuron associated cell (sensu Vertebrata) : <CL_0000123>
+obsolete glial cell (sensu Nematoda and Protostomia) : <CL_0000124>
+glial cell : <CL_0000125>
+macroglial cell : <CL_0000126>
+astrocyte : <CL_0000127>
+oligodendrocyte : <CL_0000128>
+microglial cell : <CL_0000129>
+neuron associated cell (sensu Nematoda and Protostomia) : <CL_0000130>
+gut endothelial cell : <CL_0000131>
+corneal endothelial cell : <CL_0000132>
+neurectodermal cell : <CL_0000133>
+mesenchymal stem cell : <CL_0000134>
+fibrocyte : <CL_0000135>
+adipocyte : <CL_0000136>
+osteocyte : <CL_0000137>
+chondrocyte : <CL_0000138>
+odontocyte : <CL_0000140>
+cementocyte : <CL_0000141>
+hyalocyte : <CL_0000142>
+guidepost cell : <CL_0000143>
+obsolete cell by function : <CL_0000144>
+professional antigen presenting cell : <CL_0000145>
+simple columnar epithelial cell : <CL_0000146>
+pigment cell : <CL_0000147>
+melanocyte : <CL_0000148>
+visual pigment cell : <CL_0000149>
+glandular epithelial cell : <CL_0000150>
+secretory cell : <CL_0000151>
+exocrine cell : <CL_0000152>
+glycosaminoglycan secreting cell : <CL_0000153>
+protein secreting cell : <CL_0000154>
+peptic cell : <CL_0000155>
+obsolete antibody secreting cell : <CL_0000156>
+surfactant secreting cell : <CL_0000157>
+club cell : <CL_0000158>
+seromucus secreting cell : <CL_0000159>
+goblet cell : <CL_0000160>
+obsolete acid secreting cell : <CL_0000161>
+parietal cell : <CL_0000162>
+endocrine cell : <CL_0000163>
+enteroendocrine cell : <CL_0000164>
+neuroendocrine cell : <CL_0000165>
+chromaffin cell : <CL_0000166>
+peptide hormone secreting cell : <CL_0000167>
+insulin secreting cell : <CL_0000168>
+type B pancreatic cell : <CL_0000169>
+glucagon secreting cell : <CL_0000170>
+pancreatic A cell : <CL_0000171>
+somatostatin secreting cell : <CL_0000172>
+pancreatic D cell : <CL_0000173>
+steroid hormone secreting cell : <CL_0000174>
+luteal cell : <CL_0000175>
+ecdysteroid secreting cell : <CL_0000176>
+testosterone secreting cell : <CL_0000177>
+Leydig cell : <CL_0000178>
+progesterone secreting cell : <CL_0000179>
+estradiol secreting cell : <CL_0000180>
+obsolete metabolising cell : <CL_0000181>
+hepatocyte : <CL_0000182>
+contractile cell : <CL_0000183>
+myoepithelial cell : <CL_0000185>
+myofibroblast cell : <CL_0000186>
+muscle cell : <CL_0000187>
+cell of skeletal muscle : <CL_0000188>
+slow muscle cell : <CL_0000189>
+fast muscle cell : <CL_0000190>
+smooth muscle cell : <CL_0000192>
+cardiac muscle cell (sensu Arthopoda) : <CL_0000193>
+obsolete nodal cardiac cell : <CL_0000194>
+obsolete Purkinje fiber : <CL_0000195>
+insect flight muscle cell : <CL_0000196>
+sensory receptor cell : <CL_0000197>
+pain receptor cell : <CL_0000198>
+mechanoreceptor cell : <CL_0000199>
+touch receptor cell : <CL_0000200>
+auditory hair cell : <CL_0000202>
+gravity sensitive cell : <CL_0000203>
+acceleration receptive cell : <CL_0000204>
+thermoreceptor cell : <CL_0000205>
+chemoreceptor cell : <CL_0000206>
+olfactory receptor cell : <CL_0000207>
+pH receptor cell : <CL_0000208>
+taste receptor cell : <CL_0000209>
+photoreceptor cell : <CL_0000210>
+electrically active cell : <CL_0000211>
+absorptive cell : <CL_0000212>
+lining cell : <CL_0000213>
+synovial cell : <CL_0000214>
+barrier cell : <CL_0000215>
+Sertoli cell : <CL_0000216>
+insulating cell : <CL_0000217>
+myelinating Schwann cell : <CL_0000218>
+motile cell : <CL_0000219>
+obsolete cell by lineage : <CL_0000220>
+ectodermal cell : <CL_0000221>
+mesodermal cell : <CL_0000222>
+endodermal cell : <CL_0000223>
+obsolete cell by nuclear number : <CL_0000224>
+anucleate cell : <CL_0000225>
+single nucleate cell : <CL_0000226>
+binucleate cell : <CL_0000227>
+multinucleate cell : <CL_0000228>
+obsolete lymphoblast : <CL_0000229>
+obsolete T lymphoblast : <CL_0000230>
+obsolete B lymphoblast : <CL_0000231>
+erythrocyte : <CL_0000232>
+platelet : <CL_0000233>
+phagocyte : <CL_0000234>
+macrophage : <CL_0000235>
+B cell : <CL_0000236>
+keratinizing barrier epithelial cell : <CL_0000237>
+non keratinizing barrier epithelial cell : <CL_0000238>
+brush border epithelial cell : <CL_0000239>
+stratified squamous epithelial cell : <CL_0000240>
+stratified cuboidal epithelial cell : <CL_0000241>
+Merkel cell : <CL_0000242>
+obsolete glial cell (sensu Vertebrata) : <CL_0000243>
+transitional epithelial cell : <CL_0000244>
+obsolete passage cell : <CL_0000245>
+Mauthner neuron : <CL_0000246>
+Rohon-Beard neuron : <CL_0000247>
+obsolete microsporocyte : <CL_0000248>
+hatching gland cell : <CL_0000249>
+obsolete megaspore : <CL_0000250>
+extramedullary cell : <CL_0000251>
+obsolete microspore : <CL_0000252>
+eurydendroid cell : <CL_0000253>
+obsolete egg cell : <CL_0000254>
+eukaryotic cell : <CL_0000255>
+uric acid accumulating cell : <CL_0000256>
+Eumycetozoan cell : <CL_0000257>
+obsolete fiber tracheid : <CL_0000258>
+obsolete aggregate cell : <CL_0000259>
+obsolete mucilage cell : <CL_0000260>
+obsolete anterior cell : <CL_0000261>
+obsolete guard mother cell : <CL_0000262>
+obsolete vegetative cell (sensu Mycetozoa) : <CL_0000263>
+obsolete phloem initial : <CL_0000264>
+obsolete anterior like cell : <CL_0000265>
+obsolete meristemoid : <CL_0000266>
+obsolete prespore cell : <CL_0000267>
+obsolete sieve element : <CL_0000268>
+obsolete prestalk cell : <CL_0000269>
+obsolete subsidiary cell : <CL_0000270>
+obsolete prestalk A cell : <CL_0000271>
+obsolete cambial initial : <CL_0000272>
+obsolete prestalk AB cell : <CL_0000273>
+obsolete prestalk B cell : <CL_0000275>
+obsolete sclerenchyma cell : <CL_0000276>
+obsolete prestalk I cell : <CL_0000277>
+obsolete central cell : <CL_0000278>
+obsolete prestalk 0 cell : <CL_0000279>
+obsolete generative cell : <CL_0000280>
+obsolete pstAB/ALC : <CL_0000281>
+obsolete trichome : <CL_0000282>
+obsolete pstO/ALC : <CL_0000283>
+obsolete companion cell : <CL_0000284>
+obsolete stalk cell : <CL_0000285>
+hyphal cell : <CL_0000286>
+eye photoreceptor cell : <CL_0000287>
+obsolete synergid : <CL_0000288>
+obsolete chemotactic amoeboid cell (sensu Mycetozoa) : <CL_0000289>
+obsolete xylem fiber cell : <CL_0000290>
+obsolete spore (sensu Mycetozoa) : <CL_0000291>
+obsolete guard cell : <CL_0000292>
+structural cell : <CL_0000293>
+obsolete sieve cell : <CL_0000294>
+somatotropin secreting cell : <CL_0000295>
+obsolete vegetative cell : <CL_0000296>
+obsolete socket cell : <CL_0000297>
+obsolete xylem element : <CL_0000298>
+obsolete trichoblast : <CL_0000299>
+gamete : <CL_0000300>
+pole cell : <CL_0000301>
+obsolete IgM B cell : <CL_0000302>
+obsolete IgG B cell : <CL_0000303>
+obsolete IgA B cell : <CL_0000304>
+obsolete IgE B cell : <CL_0000305>
+crystallin accumulating cell : <CL_0000306>
+tracheal epithelial cell : <CL_0000307>
+metal ion accumulating cell : <CL_0000308>
+copper accumulating cell : <CL_0000309>
+iron accumulating cell : <CL_0000310>
+keratin accumulating cell : <CL_0000311>
+keratinocyte : <CL_0000312>
+serous secreting cell : <CL_0000313>
+milk secreting cell : <CL_0000314>
+tear secreting cell : <CL_0000315>
+obsolete ray initial : <CL_0000316>
+sebum secreting cell : <CL_0000317>
+sweat secreting cell : <CL_0000318>
+mucus secreting cell : <CL_0000319>
+obsolete megasporocyte : <CL_0000320>
+obsolete seminal fluid secreting cell : <CL_0000321>
+pneumocyte : <CL_0000322>
+lysozyme secreting cell : <CL_0000323>
+metanephric mesenchyme stem cell : <CL_0000324>
+stuff accumulating cell : <CL_0000325>
+glycogen accumulating cell : <CL_0000326>
+extracellular matrix secreting cell : <CL_0000327>
+obsolete myelin accumulating cell : <CL_0000328>
+oxygen accumulating cell : <CL_0000329>
+obsolete collenchymal cell : <CL_0000330>
+obsolete tracheid : <CL_0000331>
+obsolete atrichoblast : <CL_0000332>
+migratory neural crest cell : <CL_0000333>
+vegetative cell (sensu Fungi) : <CL_0000334>
+mesenchyme condensation cell : <CL_0000335>
+adrenal medulla chromaffin cell : <CL_0000336>
+neuroblast (sensu Nematoda and Protostomia) : <CL_0000338>
+glioblast (sensu Vertebrata) : <CL_0000339>
+glioblast (sensu Nematoda and Protostomia) : <CL_0000340>
+pigment cell (sensu Nematoda and Protostomia) : <CL_0000341>
+pigment cell (sensu Vertebrata) : <CL_0000342>
+visual pigment cell (sensu Vertebrata) : <CL_0000343>
+obsolete non-visual cell (sensu Vertebrata) : <CL_0000344>
+dental papilla cell : <CL_0000345>
+hair follicle dermal papilla cell : <CL_0000346>
+scleral cell : <CL_0000347>
+choroidal cell of the eye : <CL_0000348>
+extraembryonic cell : <CL_0000349>
+amnioserosal cell : <CL_0000350>
+trophoblast cell : <CL_0000351>
+epiblast cell : <CL_0000352>
+blastoderm cell : <CL_0000353>
+blastemal cell : <CL_0000354>
+multi-potent skeletal muscle stem cell : <CL_0000355>
+hair matrix stem cell : <CL_0000356>
+stratified epithelial stem cell : <CL_0000357>
+sphincter associated smooth muscle cell : <CL_0000358>
+vascular associated smooth muscle cell : <CL_0000359>
+morula cell : <CL_0000360>
+gastrula cell : <CL_0000361>
+epidermal cell : <CL_0000362>
+obsolete axial cell : <CL_0000363>
+obsolete ray cell : <CL_0000364>
+animal zygote : <CL_0000365>
+obsolete sperm cell (sensu Viridiplantae) : <CL_0000366>
+sheath cell (sensu Nematoda) : <CL_0000367>
+obsolete myrosin cell : <CL_0000368>
+obsolete transfer cell : <CL_0000370>
+protoplast : <CL_0000371>
+tormogen cell : <CL_0000372>
+histoblast : <CL_0000373>
+trichogen cell : <CL_0000374>
+obsolete osteoprogenitor cell : <CL_0000375>
+humidity receptor cell : <CL_0000376>
+tracheoblast : <CL_0000377>
+supporting cell (sensu Nematoda and Protostomia) : <CL_0000378>
+sensory processing neuron : <CL_0000379>
+thecogen cell : <CL_0000380>
+obsolete neurosecretory neuron : <CL_0000381>
+scolopale cell : <CL_0000382>
+nephrogenic mesenchyme stem cell : <CL_0000383>
+ligament cell : <CL_0000384>
+prohemocyte (sensu Nematoda and Protostomia) : <CL_0000385>
+attachment cell : <CL_0000386>
+hemocyte (sensu Arthropoda) : <CL_0000387>
+tendon cell : <CL_0000388>
+socket cell (sensu Nematoda) : <CL_0000389>
+blood cell (sensu Nematoda and Protostomia) : <CL_0000390>
+obsolete podocyte (sensu Diptera) : <CL_0000391>
+crystal cell : <CL_0000392>
+electrically responsive cell : <CL_0000393>
+plasmatocyte : <CL_0000394>
+procrystal cell : <CL_0000395>
+lamellocyte : <CL_0000396>
+ganglion interneuron : <CL_0000397>
+obsolete polygonal cell : <CL_0000398>
+obsolete phloem element : <CL_0000399>
+obsolete pavement cell : <CL_0000400>
+obsolete macrophage (sensu Diptera) : <CL_0000401>
+CNS interneuron : <CL_0000402>
+electrically signaling cell : <CL_0000404>
+obsolete neuroepidermoblast : <CL_0000405>
+CNS short range interneuron : <CL_0000406>
+scolopidial ligament cell : <CL_0000407>
+male gamete : <CL_0000408>
+obsolete scolopidial sheath cell : <CL_0000409>
+CNS long range interneuron : <CL_0000410>
+Caenorhabditis hypodermal cell : <CL_0000411>
+polyploid cell : <CL_0000412>
+haploid cell : <CL_0000413>
+obsolete cell by ploidy : <CL_0000414>
+diploid cell : <CL_0000415>
+polytene cell : <CL_0000416>
+endopolyploid cell : <CL_0000417>
+arcade cell : <CL_0000418>
+seam cell : <CL_0000419>
+syncytial epithelial cell : <CL_0000420>
+coelomocyte : <CL_0000421>
+mitogenic signaling cell : <CL_0000422>
+tip cell : <CL_0000423>
+excretory cell : <CL_0000424>
+pore cell : <CL_0000425>
+obsolete scaffold cell : <CL_0000426>
+GLR cell : <CL_0000427>
+yolk cell : <CL_0000428>
+imaginal disc cell : <CL_0000429>
+xanthophore cell : <CL_0000430>
+iridophore : <CL_0000431>
+reticular cell : <CL_0000432>
+obsolete functional megaspore : <CL_0000433>
+eccrine cell : <CL_0000434>
+alkali secreting cell : <CL_0000435>
+vaginal lubricant secreting cell : <CL_0000436>
+gonadtroph : <CL_0000437>
+luteinizing hormone secreting cell : <CL_0000438>
+prolactin secreting cell : <CL_0000439>
+melanocyte stimulating hormone secreting cell : <CL_0000440>
+follicle stem cell (sensu Arthropoda) : <CL_0000441>
+follicular dendritic cell : <CL_0000442>
+calcitonin secreting cell : <CL_0000443>
+obliquely striated muscle cell : <CL_0000444>
+apoptosis fated cell : <CL_0000445>
+chief cell of parathyroid gland : <CL_0000446>
+carbohydrate secreting cell : <CL_0000447>
+white adipocyte : <CL_0000448>
+brown adipocyte : <CL_0000449>
+dendritic cell : <CL_0000451>
+thyroid hormone secreting cell : <CL_0000452>
+Langerhans cell : <CL_0000453>
+epinephrine secreting cell : <CL_0000454>
+obsolete starch sheath cell : <CL_0000455>
+mineralocorticoid secreting cell : <CL_0000456>
+biogenic amine secreting cell : <CL_0000457>
+serotonin secreting cell : <CL_0000458>
+noradrenergic cell : <CL_0000459>
+glucocorticoid secreting cell : <CL_0000460>
+adepithelial cell : <CL_0000462>
+epidermal cell (sensu Arthropoda) : <CL_0000463>
+epidermoblast : <CL_0000464>
+cardioblast (sensu Arthropoda) : <CL_0000465>
+adrenocorticotropic hormone secreting cell : <CL_0000467>
+neuroglioblast (sensu Nematoda and Protostomia) : <CL_0000468>
+ganglion mother cell : <CL_0000469>
+digestive enzyme secreting cell : <CL_0000470>
+obsolete chlorenchyma cell : <CL_0000472>
+defensive cell : <CL_0000473>
+pericardial nephrocyte : <CL_0000474>
+obsolete degenerate megaspore : <CL_0000475>
+thyrotroph : <CL_0000476>
+follicle cell of egg chamber : <CL_0000477>
+oxytocin stimulating hormone secreting cell : <CL_0000478>
+vasopressin stimulating hormone secreting cell : <CL_0000479>
+secretin stimulating hormone secreting cell : <CL_0000480>
+cholecystokin stimulating hormone secreting cell : <CL_0000481>
+juvenile hormone secreting cell : <CL_0000482>
+bombesin stimulating hormone secreting cell : <CL_0000483>
+connective tissue type mast cell : <CL_0000484>
+mucosal type mast cell : <CL_0000485>
+garland cell : <CL_0000486>
+oenocyte : <CL_0000487>
+visible light photoreceptor cell : <CL_0000488>
+scotopic photoreceptor cell : <CL_0000489>
+photopic photoreceptor cell : <CL_0000490>
+obsolete cytotoxic T cell : <CL_0000491>
+CD4-positive helper T cell : <CL_0000492>
+obsolete regulatory T cell : <CL_0000493>
+UV sensitive photoreceptor cell : <CL_0000494>
+blue sensitive photoreceptor cell : <CL_0000495>
+green sensitive photoreceptor cell : <CL_0000496>
+red sensitive photoreceptor cell : <CL_0000497>
+inhibitory interneuron : <CL_0000498>
+stromal cell : <CL_0000499>
+follicular epithelial cell : <CL_0000500>
+granulosa cell : <CL_0000501>
+type D enteroendocrine cell : <CL_0000502>
+theca cell : <CL_0000503>
+enterochromaffin-like cell : <CL_0000504>
+substance P secreting cell : <CL_0000505>
+enkephalin secreting cell : <CL_0000506>
+endorphin secreting cell : <CL_0000507>
+type G enteroendocrine cell : <CL_0000508>
+gastrin secreting cell : <CL_0000509>
+paneth cell : <CL_0000510>
+androgen binding protein secreting cell : <CL_0000511>
+paracrine cell : <CL_0000512>
+cardiac muscle myoblast : <CL_0000513>
+smooth muscle myoblast : <CL_0000514>
+skeletal muscle myoblast : <CL_0000515>
+perineuronal satellite cell : <CL_0000516>
+macrophage derived foam cell : <CL_0000517>
+phagocyte (sensu Vertebrata) : <CL_0000518>
+phagocyte (sensu Nematoda and Protostomia) : <CL_0000519>
+prokaryotic cell : <CL_0000520>
+fungal cell : <CL_0000521>
+obsolete spore : <CL_0000522>
+mononuclear cytotrophoblast cell : <CL_0000523>
+spheroplast : <CL_0000524>
+syncytiotrophoblast cell : <CL_0000525>
+afferent neuron : <CL_0000526>
+efferent neuron : <CL_0000527>
+nitrergic neuron : <CL_0000528>
+pigmented epithelial cell : <CL_0000529>
+primary neuron (sensu Teleostei) : <CL_0000530>
+primary sensory neuron (sensu Teleostei) : <CL_0000531>
+CAP motoneuron : <CL_0000532>
+primary motor neuron (sensu Teleostei) : <CL_0000533>
+primary interneuron (sensu Teleostei) : <CL_0000534>
+secondary neuron (sensu Teleostei) : <CL_0000535>
+secondary motor neuron (sensu Teleostei) : <CL_0000536>
+obsolete antipodal cell : <CL_0000537>
+obsolete epidermal initial : <CL_0000538>
+obsolete idioblast : <CL_0000539>
+neuron : <CL_0000540>
+melanoblast : <CL_0000541>
+lymphocyte : <CL_0000542>
+obsolete sieve tube member : <CL_0000543>
+slowly adapting mechanoreceptor cell : <CL_0000544>
+T-helper 1 cell : <CL_0000545>
+T-helper 2 cell : <CL_0000546>
+proerythroblast : <CL_0000547>
+obsolete animal cell : <CL_0000548>
+basophilic erythroblast : <CL_0000549>
+polychromatophilic erythroblast : <CL_0000550>
+unimodal nocireceptor : <CL_0000551>
+orthochromatic erythroblast : <CL_0000552>
+megakaryocyte progenitor cell : <CL_0000553>
+gastrin stimulating hormone secreting cell : <CL_0000554>
+neuronal brush cell : <CL_0000555>
+megakaryocyte : <CL_0000556>
+granulocyte monocyte progenitor cell : <CL_0000557>
+reticulocyte : <CL_0000558>
+promonocyte : <CL_0000559>
+band form neutrophil : <CL_0000560>
+amacrine cell : <CL_0000561>
+nucleate erythrocyte : <CL_0000562>
+endospore : <CL_0000563>
+neutrophilic promyelocyte : <CL_0000564>
+fat body cell : <CL_0000565>
+angioblastic mesenchymal cell : <CL_0000566>
+polymodal nocireceptor : <CL_0000567>
+amine precursor uptake and decarboxylation cell : <CL_0000568>
+cardiac mesenchymal cell : <CL_0000569>
+parafollicular cell : <CL_0000570>
+leucophore : <CL_0000571>
+retinal cone cell : <CL_0000573>
+erythrophore : <CL_0000574>
+corneal epithelial cell : <CL_0000575>
+monocyte : <CL_0000576>
+type EC enteroendocrine cell : <CL_0000577>
+experimentally modified cell in vitro : <CL_0000578>
+border follicle cell : <CL_0000579>
+neutrophilic myelocyte : <CL_0000580>
+peritoneal macrophage : <CL_0000581>
+neutrophilic metamyelocyte : <CL_0000582>
+alveolar macrophage : <CL_0000583>
+enterocyte : <CL_0000584>
+obsolete null cell : <CL_0000585>
+germ cell : <CL_0000586>
+cold sensing thermoreceptor cell : <CL_0000587>
+odontoclast : <CL_0000588>
+cochlear inner hair cell : <CL_0000589>
+small luteal cell : <CL_0000590>
+warmth sensing thermoreceptor cell : <CL_0000591>
+large luteal cell : <CL_0000592>
+androgen secreting cell : <CL_0000593>
+skeletal muscle satellite cell : <CL_0000594>
+enucleate erythrocyte : <CL_0000595>
+sexual spore : <CL_0000596>
+microconidium : <CL_0000597>
+pyramidal neuron : <CL_0000598>
+conidium : <CL_0000599>
+heterokaryon : <CL_0000600>
+cochlear outer hair cell : <CL_0000601>
+pressoreceptor cell : <CL_0000602>
+dikaryon : <CL_0000603>
+retinal rod cell : <CL_0000604>
+fungal asexual spore : <CL_0000605>
+macroconidium : <CL_0000606>
+ascospore : <CL_0000607>
+zygospore : <CL_0000608>
+vestibular hair cell : <CL_0000609>
+obsolete plant cell : <CL_0000610>
+eosinophil progenitor cell : <CL_0000611>
+eosinophilic myelocyte : <CL_0000612>
+basophil progenitor cell : <CL_0000613>
+basophilic myelocyte : <CL_0000614>
+basidiospore : <CL_0000615>
+obsolete sporangiospore : <CL_0000616>
+GABAergic neuron : <CL_0000617>
+sheath cell : <CL_0000618>
+supporting cell (sensu Nematoda) : <CL_0000619>
+obsolete zoospore : <CL_0000620>
+fusion competent myoblast : <CL_0000621>
+acinar cell : <CL_0000622>
+natural killer cell : <CL_0000623>
+CD4-positive, alpha-beta T cell : <CL_0000624>
+CD8-positive, alpha-beta T cell : <CL_0000625>
+olfactory granule cell : <CL_0000626>
+transporting cell : <CL_0000627>
+photosynthetic cell : <CL_0000628>
+storage cell : <CL_0000629>
+supporting cell : <CL_0000630>
+labyrinth supporting cell : <CL_0000631>
+hepatic stellate cell : <CL_0000632>
+Hensen cell : <CL_0000633>
+Claudius cell : <CL_0000634>
+Deiter's cell : <CL_0000635>
+Mueller cell : <CL_0000636>
+chromophil cell of anterior pituitary gland : <CL_0000637>
+acidophil cell of pars distalis of adenohypophysis : <CL_0000638>
+basophil cell of pars distalis of adenohypophysis : <CL_0000639>
+chromophobe cell : <CL_0000641>
+folliculostellate cell : <CL_0000642>
+Bergmann glial cell : <CL_0000644>
+pituicyte : <CL_0000645>
+basal cell : <CL_0000646>
+multinucleated giant cell : <CL_0000647>
+kidney granular cell : <CL_0000648>
+prickle cell : <CL_0000649>
+mesangial cell : <CL_0000650>
+mucous neck cell : <CL_0000651>
+pinealocyte : <CL_0000652>
+podocyte : <CL_0000653>
+primary oocyte : <CL_0000654>
+secondary oocyte : <CL_0000655>
+primary spermatocyte : <CL_0000656>
+secondary spermatocyte : <CL_0000657>
+cuticle secreting cell : <CL_0000658>
+eggshell secreting cell : <CL_0000659>
+glycocalyx secreting cell : <CL_0000660>
+distal tip cell (sensu Nematoda) : <CL_0000661>
+neuroglioblast (sensu Nematoda) : <CL_0000662>
+obsolete valve cell : <CL_0000663>
+obsolete closable valve cell : <CL_0000664>
+obsolete permanently open valve cell : <CL_0000665>
+fenestrated cell : <CL_0000666>
+collagen secreting cell : <CL_0000667>
+obsolete parenchymal cell : <CL_0000668>
+pericyte : <CL_0000669>
+primordial germ cell : <CL_0000670>
+centripetally migrating follicle cell : <CL_0000671>
+obsolete tracheary element : <CL_0000672>
+Kenyon cell : <CL_0000673>
+interfollicle cell : <CL_0000674>
+female gamete : <CL_0000675>
+cap cell : <CL_0000676>
+gut absorptive cell : <CL_0000677>
+commissural neuron : <CL_0000678>
+glutamatergic neuron : <CL_0000679>
+muscle precursor cell : <CL_0000680>
+radial glial cell : <CL_0000681>
+M cell of gut : <CL_0000682>
+ependymoglial cell : <CL_0000683>
+littoral cell of liver : <CL_0000684>
+obsolete meristematic cell : <CL_0000685>
+cerebrospinal fluid secreting cell : <CL_0000686>
+R1 photoreceptor cell : <CL_0000687>
+perijunctional fibroblast : <CL_0000688>
+myoendocrine cell : <CL_0000689>
+R2 photoreceptor cell : <CL_0000690>
+stellate interneuron : <CL_0000691>
+terminal Schwann cell : <CL_0000692>
+neurogliaform cell : <CL_0000693>
+R3 photoreceptor cell : <CL_0000694>
+Cajal-Retzius cell : <CL_0000695>
+PP cell : <CL_0000696>
+R4 photoreceptor cell : <CL_0000697>
+obsolete paraganglial cell : <CL_0000698>
+paraganglial type 1 cell : <CL_0000699>
+dopaminergic neuron : <CL_0000700>
+paraganglia type 2 cell : <CL_0000701>
+R5 photoreceptor cell : <CL_0000702>
+sustentacular cell : <CL_0000703>
+endothelial tip cell : <CL_0000704>
+R6 photoreceptor cell : <CL_0000705>
+choroid plexus epithelial cell : <CL_0000706>
+R7 photoreceptor cell : <CL_0000707>
+leptomeningeal cell : <CL_0000708>
+R8 photoreceptor cell : <CL_0000709>
+neurecto-epithelial cell : <CL_0000710>
+cumulus cell : <CL_0000711>
+stratum granulosum cell : <CL_0000712>
+corona radiata cell : <CL_0000713>
+embryonic crystal cell : <CL_0000715>
+lymph gland crystal cell : <CL_0000716>
+obsolete fusimotor neuron : <CL_0000717>
+compound eye cone cell : <CL_0000718>
+posterior cone cell (sensu Endopterygota) : <CL_0000719>
+anterior cone cell (sensu Endopterygota) : <CL_0000720>
+equatorial cone cell (sensu Endopterygota) : <CL_0000721>
+cystoblast : <CL_0000722>
+somatic stem cell : <CL_0000723>
+heterocyst : <CL_0000724>
+nitrogen fixing cell : <CL_0000725>
+chlamydospore : <CL_0000726>
+obsolete primary pigment cell : <CL_0000727>
+obsolete secondary pigment cell : <CL_0000728>
+obsolete tertiary pigment cell : <CL_0000729>
+leading edge cell : <CL_0000730>
+urothelial cell : <CL_0000731>
+amoeboid cell : <CL_0000732>
+lymph gland plasmatocyte : <CL_0000733>
+obsolete embryonic gland plasmatocyte : <CL_0000734>
+lymph gland hemocyte : <CL_0000735>
+embryonic gland hemocyte : <CL_0000736>
+striated muscle cell : <CL_0000737>
+leukocyte : <CL_0000738>
+retinal ganglion cell : <CL_0000740>
+spinal accessory motor neuron : <CL_0000741>
+periarticular chondrocyte : <CL_0000742>
+hypertrophic chondrocyte : <CL_0000743>
+columnar chondrocyte : <CL_0000744>
+retina horizontal cell : <CL_0000745>
+cardiac muscle cell : <CL_0000746>
+cyanophore : <CL_0000747>
+retinal bipolar neuron : <CL_0000748>
+ON-bipolar cell : <CL_0000749>
+OFF-bipolar cell : <CL_0000750>
+rod bipolar cell : <CL_0000751>
+cone retinal bipolar cell : <CL_0000752>
+type 1 cone bipolar cell (sensu Mus) : <CL_0000753>
+type 2 cone bipolar cell (sensu Mus) : <CL_0000754>
+type 3 cone bipolar cell (sensu Mus) : <CL_0000755>
+type 4 cone bipolar cell (sensu Mus) : <CL_0000756>
+type 5 cone bipolar cell (sensu Mus) : <CL_0000757>
+type 6 cone bipolar cell (sensu Mus) : <CL_0000758>
+type 7 cone bipolar cell (sensu Mus) : <CL_0000759>
+type 8 cone bipolar cell (sensu Mus) : <CL_0000760>
+type 9 cone bipolar cell (sensu Mus) : <CL_0000761>
+nucleated thrombocyte : <CL_0000762>
+myeloid cell : <CL_0000763>
+erythroid lineage cell : <CL_0000764>
+erythroblast : <CL_0000765>
+myeloid leukocyte : <CL_0000766>
+basophil : <CL_0000767>
+immature basophil : <CL_0000768>
+basophilic metamyelocyte : <CL_0000769>
+band form basophil : <CL_0000770>
+eosinophil : <CL_0000771>
+immature eosinophil : <CL_0000772>
+eosinophilic metamyelocyte : <CL_0000773>
+band form eosinophil : <CL_0000774>
+neutrophil : <CL_0000775>
+immature neutrophil : <CL_0000776>
+mesangial phagocyte : <CL_0000777>
+mononuclear osteoclast : <CL_0000778>
+multinuclear osteoclast : <CL_0000779>
+multinuclear odontoclast : <CL_0000780>
+mononuclear odontoclast : <CL_0000781>
+myeloid dendritic cell : <CL_0000782>
+multinucleated phagocyte : <CL_0000783>
+plasmacytoid dendritic cell : <CL_0000784>
+mature B cell : <CL_0000785>
+plasma cell : <CL_0000786>
+memory B cell : <CL_0000787>
+naive B cell : <CL_0000788>
+alpha-beta T cell : <CL_0000789>
+immature alpha-beta T cell : <CL_0000790>
+mature alpha-beta T cell : <CL_0000791>
+CD4-positive, CD25-positive, alpha-beta regulatory T cell : <CL_0000792>
+CD4-positive, alpha-beta intraepithelial T cell : <CL_0000793>
+CD8-positive, alpha-beta cytotoxic T cell : <CL_0000794>
+CD8-positive, alpha-beta regulatory T cell : <CL_0000795>
+CD8-alpha-beta-positive, alpha-beta intraepithelial T cell : <CL_0000796>
+alpha-beta intraepithelial T cell : <CL_0000797>
+gamma-delta T cell : <CL_0000798>
+immature gamma-delta T cell : <CL_0000799>
+mature gamma-delta T cell : <CL_0000800>
+gamma-delta intraepithelial T cell : <CL_0000801>
+CD8-alpha alpha positive, gamma-delta intraepithelial T cell : <CL_0000802>
+CD4-negative CD8-negative gamma-delta intraepithelial T cell : <CL_0000803>
+immature single positive thymocyte : <CL_0000805>
+DN2 thymocyte : <CL_0000806>
+DN3 thymocyte : <CL_0000807>
+DN4 thymocyte : <CL_0000808>
+double-positive, alpha-beta thymocyte : <CL_0000809>
+CD4-positive, alpha-beta thymocyte : <CL_0000810>
+CD8-positive, alpha-beta thymocyte : <CL_0000811>
+memory T cell : <CL_0000813>
+mature NK T cell : <CL_0000814>
+regulatory T cell : <CL_0000815>
+immature B cell : <CL_0000816>
+precursor B cell : <CL_0000817>
+transitional stage B cell : <CL_0000818>
+B-1 B cell : <CL_0000819>
+B-1a B cell : <CL_0000820>
+B-1b B cell : <CL_0000821>
+B-2 B cell : <CL_0000822>
+immature natural killer cell : <CL_0000823>
+mature natural killer cell : <CL_0000824>
+pro-NK cell : <CL_0000825>
+pro-B cell : <CL_0000826>
+pro-T cell : <CL_0000827>
+thromboblast : <CL_0000828>
+basophilic myeloblast : <CL_0000829>
+basophilic promyelocyte : <CL_0000830>
+mast cell progenitor : <CL_0000831>
+eosinophilic myeloblast : <CL_0000832>
+eosinophilic promyelocyte : <CL_0000833>
+neutrophil progenitor cell : <CL_0000834>
+myeloblast : <CL_0000835>
+promyelocyte : <CL_0000836>
+hematopoietic multipotent progenitor cell : <CL_0000837>
+lymphoid lineage restricted progenitor cell : <CL_0000838>
+myeloid lineage restricted progenitor cell : <CL_0000839>
+immature conventional dendritic cell : <CL_0000840>
+mature conventional dendritic cell : <CL_0000841>
+mononuclear cell : <CL_0000842>
+follicular B cell : <CL_0000843>
+germinal center B cell : <CL_0000844>
+marginal zone B cell of spleen : <CL_0000845>
+vestibular dark cell : <CL_0000846>
+ciliated olfactory receptor neuron : <CL_0000847>
+microvillous olfactory receptor neuron : <CL_0000848>
+crypt olfactory receptor neuron : <CL_0000849>
+serotonergic neuron : <CL_0000850>
+neuromast mantle cell : <CL_0000851>
+neuromast supporting cell : <CL_0000852>
+olfactory epithelial supporting cell : <CL_0000853>
+interneuromast cell : <CL_0000854>
+sensory hair cell : <CL_0000855>
+neuromast hair cell : <CL_0000856>
+slow muscle myoblast : <CL_0000857>
+fast muscle myoblast : <CL_0000858>
+classical monocyte : <CL_0000860>
+elicited macrophage : <CL_0000861>
+suppressor macrophage : <CL_0000862>
+inflammatory macrophage : <CL_0000863>
+tissue-resident macrophage : <CL_0000864>
+gastrointestinal tract (lamina propria) macrophage : <CL_0000865>
+thymic macrophage : <CL_0000866>
+secondary lymphoid organ macrophage : <CL_0000867>
+lymph node macrophage : <CL_0000868>
+tonsillar macrophage : <CL_0000869>
+Peyer's patch macrophage : <CL_0000870>
+splenic macrophage : <CL_0000871>
+splenic marginal zone macrophage : <CL_0000872>
+splenic metallophillic macrophage : <CL_0000873>
+splenic red pulp macrophage : <CL_0000874>
+non-classical monocyte : <CL_0000875>
+splenic white pulp macrophage : <CL_0000876>
+splenic tingible body macrophage : <CL_0000877>
+central nervous system macrophage : <CL_0000878>
+meningeal macrophage : <CL_0000879>
+choroid-plexus macrophage : <CL_0000880>
+perivascular macrophage : <CL_0000881>
+thymic medullary macrophage : <CL_0000882>
+thymic cortical macrophage : <CL_0000883>
+mucosa-associated lymphoid tissue macrophage : <CL_0000884>
+gut-associated lymphoid tissue macrophage : <CL_0000885>
+nasal and broncial associated lymphoid tissue macrophage : <CL_0000886>
+lymph node subcapsular sinus macrophage : <CL_0000887>
+lymph node tingible body macrophage : <CL_0000888>
+myeloid suppressor cell : <CL_0000889>
+alternatively activated macrophage : <CL_0000890>
+foam cell : <CL_0000891>
+smooth muscle cell derived foam cell : <CL_0000892>
+thymocyte : <CL_0000893>
+DN1 thymic pro-T cell : <CL_0000894>
+naive thymus-derived CD4-positive, alpha-beta T cell : <CL_0000895>
+activated CD4-positive, alpha-beta T cell : <CL_0000896>
+CD4-positive, alpha-beta memory T cell : <CL_0000897>
+naive T cell : <CL_0000898>
+T-helper 17 cell : <CL_0000899>
+naive thymus-derived CD8-positive, alpha-beta T cell : <CL_0000900>
+Tr1 cell : <CL_0000901>
+induced T-regulatory cell : <CL_0000902>
+natural T-regulatory cell : <CL_0000903>
+central memory CD4-positive, alpha-beta T cell : <CL_0000904>
+effector memory CD4-positive, alpha-beta T cell : <CL_0000905>
+activated CD8-positive, alpha-beta T cell : <CL_0000906>
+central memory CD8-positive, alpha-beta T cell : <CL_0000907>
+CD8-positive, alpha-beta cytokine secreting effector T cell : <CL_0000908>
+CD8-positive, alpha-beta memory T cell : <CL_0000909>
+cytotoxic T cell : <CL_0000910>
+effector T cell : <CL_0000911>
+helper T cell : <CL_0000912>
+effector memory CD8-positive, alpha-beta T cell : <CL_0000913>
+immature NK T cell : <CL_0000914>
+CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell : <CL_0000915>
+dendritic epidermal T cell : <CL_0000916>
+Tc1 cell : <CL_0000917>
+Tc2 cell : <CL_0000918>
+CD8-positive, CD25-positive, alpha-beta regulatory T cell : <CL_0000919>
+CD8-positive, CD28-negative, alpha-beta regulatory T cell : <CL_0000920>
+type I NK T cell : <CL_0000921>
+type II NK T cell : <CL_0000922>
+CD4-positive type I NK T cell : <CL_0000923>
+CD4-negative, CD8-negative type I NK T cell : <CL_0000924>
+activated CD4-positive type I NK T cell : <CL_0000925>
+CD4-positive type I NK T cell secreting interferon-gamma : <CL_0000926>
+CD4-positive type I NK T cell secreting interleukin-4 : <CL_0000927>
+activated CD4-negative, CD8-negative type I NK T cell : <CL_0000928>
+CD4-negative, CD8-negative type I NK T cell secreting interferon-gamma : <CL_0000929>
+CD4-negative, CD8-negative type I NK T cell secreting interleukin-4 : <CL_0000930>
+activated type II NK T cell : <CL_0000931>
+type II NK T cell secreting interferon-gamma : <CL_0000932>
+type II NK T cell secreting interleukin-4 : <CL_0000933>
+CD4-positive, alpha-beta cytotoxic T cell : <CL_0000934>
+CD4-negative, CD8-negative, alpha-beta intraepithelial T cell : <CL_0000935>
+early lymphoid progenitor : <CL_0000936>
+pre-natural killer cell : <CL_0000937>
+CD16-negative, CD56-bright natural killer cell, human : <CL_0000938>
+CD16-positive, CD56-dim natural killer cell, human : <CL_0000939>
+mucosal invariant T cell : <CL_0000940>
+thymic conventional dendritic cell : <CL_0000941>
+thymic plasmacytoid dendritic cell : <CL_0000942>
+Be1 Cell : <CL_0000943>
+Be2 cell : <CL_0000944>
+lymphocyte of B lineage : <CL_0000945>
+antibody secreting cell : <CL_0000946>
+IgE plasma cell : <CL_0000947>
+IgE memory B cell : <CL_0000948>
+IgD plasmablast : <CL_0000949>
+IgE plasmablast : <CL_0000950>
+IgE short lived plasma cell : <CL_0000951>
+preBCR-positive large pre-B-II cell : <CL_0000952>
+preBCR-negative large pre-B-II cell : <CL_0000953>
+small pre-B-II cell : <CL_0000954>
+pre-B-II cell : <CL_0000955>
+pre-B-I cell : <CL_0000956>
+large pre-B-II cell : <CL_0000957>
+T1 B cell : <CL_0000958>
+T2 B cell : <CL_0000959>
+T3 B cell : <CL_0000960>
+Bm1 B cell : <CL_0000961>
+Bm2 B cell : <CL_0000962>
+Bm3-delta B cell : <CL_0000963>
+Bm2' B cell : <CL_0000964>
+Bm3 B cell : <CL_0000965>
+Bm4 B cell : <CL_0000966>
+Bm5 B cell : <CL_0000967>
+Be cell : <CL_0000968>
+regulatory B cell : <CL_0000969>
+unswitched memory B cell : <CL_0000970>
+IgM memory B cell : <CL_0000971>
+class switched memory B cell : <CL_0000972>
+IgA memory B cell : <CL_0000973>
+long lived plasma cell : <CL_0000974>
+short lived plasma cell : <CL_0000975>
+IgA short lived plasma cell : <CL_0000976>
+IgG short lived plasma cell : <CL_0000977>
+IgM short lived plasma cell : <CL_0000978>
+IgG memory B cell : <CL_0000979>
+plasmablast : <CL_0000980>
+double negative memory B cell : <CL_0000981>
+IgG plasmablast : <CL_0000982>
+IgM plasmablast : <CL_0000983>
+IgA plasmablast : <CL_0000984>
+IgG plasma cell : <CL_0000985>
+IgM plasma cell : <CL_0000986>
+IgA plasma cell : <CL_0000987>
+hematopoietic cell : <CL_0000988>
+CD11c-low plasmacytoid dendritic cell : <CL_0000989>
+conventional dendritic cell : <CL_0000990>
+CD11c-negative plasmacytoid dendritic cell : <CL_0000991>
+immature CD11c-low plasmacytoid dendritic cell : <CL_0000992>
+mature CD11c-low plasmacytoid dendritic cell : <CL_0000993>
+immature CD11c-negative plasmacytoid dendritic cell : <CL_0000994>
+CD34-positive, CD38-positive common myeloid progenitor OR CD34-positive, CD38-positive common lymphoid progenitor : <CL_0000995>
+mature CD11c-negative plasmacytoid dendritic cell : <CL_0000996>
+immature CD8_alpha-negative CD11b-positive dendritic cell : <CL_0000997>
+CD8_alpha-negative CD11b-negative dendritic cell : <CL_0000998>
+CD4-positive CD11b-positive dendritic cell : <CL_0000999>
+CD8_alpha-positive CD11b-negative dendritic cell : <CL_0001000>
+immature CD8_alpha-negative CD11b-negative dendritic cell : <CL_0001001>
+mature CD8_alpha-negative CD11b-negative dendritic cell : <CL_0001002>
+mature CD8_alpha-negative CD11b-positive dendritic cell : <CL_0001003>
+immature CD8_alpha-positive CD11b-negative dendritic cell : <CL_0001004>
+mature CD8_alpha-positive CD11b-negative dendritic cell : <CL_0001005>
+dermal dendritic cell : <CL_0001006>
+interstitial dendritic cell : <CL_0001007>
+Kit and Sca1-positive hematopoietic stem cell : <CL_0001008>
+immature dermal dendritic cell : <CL_0001009>
+mature dermal dendritic cell : <CL_0001010>
+immature interstitial dendritic cell : <CL_0001011>
+CD7-negative lymphoid progenitor OR granulocyte monocyte progenitor : <CL_0001012>
+mature interstitial dendritic cell : <CL_0001013>
+CD1a-positive Langerhans cell : <CL_0001014>
+CD8_alpha-low Langerhans cell : <CL_0001015>
+immature CD1a-positive Langerhans cell : <CL_0001016>
+mature CD1a-positive Langerhans cell : <CL_0001017>
+immature CD8_alpha-low Langerhans cell : <CL_0001018>
+CD115-positive monocyte OR common dendritic progenitor : <CL_0001019>
+mature CD8_alpha-low Langerhans cell : <CL_0001020>
+CD34-positive, CD38-positive common lymphoid progenitor : <CL_0001021>
+CD115-positive monocyte : <CL_0001022>
+Kit-positive, CD34-positive common myeloid progenitor : <CL_0001023>
+CD34-positive, CD38-negative hematopoietic stem cell : <CL_0001024>
+Kit-positive, Sca1-positive common lymphoid progenitor : <CL_0001025>
+CD34-positive, CD38-positive common myeloid progenitor : <CL_0001026>
+CD7-negative lymphoid progenitor cell : <CL_0001027>
+CD7-positive lymphoid progenitor cell : <CL_0001028>
+common dendritic progenitor : <CL_0001029>
+CD117-positive common myeloid progenitor OR CD217-positive common lymphoid progenitor : <CL_0001030>
+cerebellar granule cell : <CL_0001031>
+cortical granule cell : <CL_0001032>
+hippocampal granule cell : <CL_0001033>
+cell in vitro : <CL_0001034>
+bone cell : <CL_0001035>
+terminally differentiated osteoblast : <CL_0001039>
+non-terminally differentiated osteoblast : <CL_0001040>
+CD8-positive, CXCR3-positive, alpha-beta regulatory T cell : <CL_0001041>
+T-helper 22 cell : <CL_0001042>
+activated CD4-positive, alpha-beta T cell, human : <CL_0001043>
+effector CD4-positive, alpha-beta T cell : <CL_0001044>
+naive CCR4-positive regulatory T cell : <CL_0001045>
+memory CCR4-positive regulatory T cell : <CL_0001046>
+CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell : <CL_0001047>
+activated CD4-positive, CD25-positive, CCR4-positive, alpha-beta regulatory T cell, human : <CL_0001048>
+activated CD8-positive, alpha-beta T cell, human : <CL_0001049>
+effector CD8-positive, alpha-beta T cell : <CL_0001050>
+CD4-positive, CXCR3-negative, CCR6-negative, alpha-beta T cell : <CL_0001051>
+CD8-positive, CXCR3-negative, CCR6-negative, alpha-beta T cell : <CL_0001052>
+IgD-negative memory B cell : <CL_0001053>
+CD14-positive monocyte : <CL_0001054>
+CD14-positive, CD16-low monocyte : <CL_0001055>
+dendritic cell, human : <CL_0001056>
+myeloid dendritic cell, human : <CL_0001057>
+plasmacytoid dendritic cell, human : <CL_0001058>
+common myeloid progenitor, CD34-positive : <CL_0001059>
+hematopoietic oligopotent progenitor cell, lineage-negative : <CL_0001060>
+abnormal cell : <CL_0001061>
+effector memory CD8-positive, alpha-beta T cell, terminally differentiated : <CL_0001062>
+neoplastic cell : <CL_0001063>
+malignant cell : <CL_0001064>
+innate lymphoid cell : <CL_0001065>
+erythroid progenitor cell, mammalian : <CL_0001066>
+group 1 innate lymphoid cell : <CL_0001067>
+ILC1 : <CL_0001068>
+group 2 innate lymphoid cell : <CL_0001069>
+beige adipocyte : <CL_0001070>
+group 3 innate lymphoid cell : <CL_0001071>
+CD34-negative, CD117-positive innate lymphoid cell, human : <CL_0001072>
+CD34-negative, CD56-positive, CD117-positive innate lymphoid cell, human : <CL_0001073>
+CD34-positive, CD56-positive, CD117-positive common innate lymphoid precursor, human : <CL_0001074>
+KLRG1-positive innate lymphoid cell, human : <CL_0001075>
+NKp46-positive innate lymphoid cell, human : <CL_0001076>
+ILC1, human : <CL_0001077>
+group 3 innate lymphoid cell, human : <CL_0001078>
+NKp44-positive group 3 innate lymphoid cell, human : <CL_0001079>
+NKp44-negative group 3 innate lymphoid cell, human : <CL_0001080>
+group 2 innate lymphoid cell, human : <CL_0001081>
+immature innate lymphoid cell : <CL_0001082>
+effector memory CD4-positive, alpha-beta T cell, terminally differentiated : <CL_0001087>
+lymphocyte of B lineage, CD19-positive : <CL_0001200>
+B cell, CD19-positive : <CL_0001201>
+CD86-positive plasmablast : <CL_0001202>
+CD8-positive, alpha-beta memory T cell, CD45RO-positive : <CL_0001203>
+CD4-positive, alpha-beta memory T cell, CD45RO-positive : <CL_0001204>
+visual pigment cell (sensu Nematoda and Protostomia) : <CL_0001658>
+Kit-positive erythroid progenitor cell : <CL_0002000>
+CD34-positive, CD38-positive granulocyte monocyte progenitor : <CL_0002001>
+Kit-positive granulocyte monocyte progenitor : <CL_0002002>
+CD34-positive, GlyA-negative erythroid progenitor cell : <CL_0002003>
+CD34-negative, GlyA-negative proerythroblast : <CL_0002004>
+CD34-positive, CD38-positive megakaryocyte erythroid progenitor cell : <CL_0002005>
+Kit-positive, CD34-negative megakaryocyte erythroid progenitor cell : <CL_0002006>
+Kit-low, CD34-positive eosinophil progenitor cell : <CL_0002007>
+CD34-positive, CD38-positive eosinophil progenitor cell : <CL_0002008>
+macrophage dendritic cell progenitor : <CL_0002009>
+pre-conventional dendritic cell : <CL_0002010>
+Kit-positive macrophage dendritic cell progenitor : <CL_0002011>
+Kit-low proerythroblast : <CL_0002012>
+GlyA-positive basophilic erythroblast : <CL_0002013>
+Kit-negative, Ly-76 high basophilic erythroblast : <CL_0002014>
+Kit-negative, Ly-76 high polychromatophilic erythroblast : <CL_0002015>
+CD71-low, GlyA-positive polychromatic erythroblast : <CL_0002016>
+Kit-negative, Ly-76 high orthochromatophilic erythroblasts : <CL_0002017>
+CD71-negative, GlyA-positive orthochromatic erythroblast : <CL_0002018>
+Ly-76 high reticulocyte : <CL_0002019>
+GlyA-positive reticulocytes : <CL_0002020>
+GlyA-positive erythrocyte : <CL_0002021>
+Ly-76 high positive erythrocyte : <CL_0002022>
+CD34-positive, CD41-positive, CD42-positive megakaryocyte progenitor cell : <CL_0002023>
+Kit-positive megakaryocyte progenitor cell : <CL_0002024>
+CD34-positive, CD41-positive, CD42-negative megakaryocyte progenitor cell : <CL_0002025>
+CD34-negative, CD41-positive, CD42-positive megakaryocyte cell : <CL_0002026>
+CD9-positive, CD41-positive megakaryocyte cell : <CL_0002027>
+basophil mast progenitor cell : <CL_0002028>
+Fc-epsilon RIalpha-low mast cell progenitor : <CL_0002029>
+Fc-epsilon RIalpha-high basophil progenitor cell : <CL_0002030>
+hematopoietic lineage restricted progenitor cell : <CL_0002031>
+hematopoietic oligopotent progenitor cell : <CL_0002032>
+short term hematopoietic stem cell : <CL_0002033>
+long term hematopoietic stem cell : <CL_0002034>
+Slamf1-negative multipotent progenitor cell : <CL_0002035>
+Slamf1-positive multipotent progenitor cell : <CL_0002036>
+CD2-positive, CD5-positive, CD44-positive alpha-beta intraepithelial T cell : <CL_0002037>
+T follicular helper cell : <CL_0002038>
+immature NK T cell stage I : <CL_0002039>
+immature NK T cell stage II : <CL_0002040>
+immature NK T cell stage III : <CL_0002041>
+immature NK T cell stage IV : <CL_0002042>
+CD34-positive, CD38-negative multipotent progenitor cell : <CL_0002043>
+Kit-positive, integrin beta7-high basophil mast progenitor cell : <CL_0002044>
+fraction A pre-pro B cell : <CL_0002045>
+early pro-B cell : <CL_0002046>
+fraction B precursor B cell : <CL_0002047>
+late pro-B cell : <CL_0002048>
+fraction C precursor B cell : <CL_0002049>
+fraction C' precursor B cell : <CL_0002050>
+CD38-high pre-BCR positive cell : <CL_0002051>
+fraction D precursor B cell : <CL_0002052>
+CD22-positive, CD38-low small pre-B cell : <CL_0002053>
+fraction E immature B cell : <CL_0002054>
+CD38-negative immature B cell : <CL_0002055>
+fraction F mature B cell : <CL_0002056>
+CD14-positive, CD16-negative classical monocyte : <CL_0002057>
+Gr1-low non-classical monocyte : <CL_0002058>
+CD8alpha-positive thymic conventional dendritic cell : <CL_0002059>
+melanophage : <CL_0002060>
+T-helper 9 cell : <CL_0002061>
+type I pneumocyte : <CL_0002062>
+type II pneumocyte : <CL_0002063>
+pancreatic acinar cell : <CL_0002064>
+Feyrter cell : <CL_0002066>
+type A enteroendocrine cell : <CL_0002067>
+Purkinje myocyte : <CL_0002068>
+type II vestibular sensory cell : <CL_0002069>
+type I vestibular sensory cell : <CL_0002070>
+enterocyte of epithelium of large intestine : <CL_0002071>
+nodal myocyte : <CL_0002072>
+transitional myocyte : <CL_0002073>
+myocardial endocrine cell : <CL_0002074>
+brush cell of trachebronchial tree : <CL_0002075>
+endo-epithelial cell : <CL_0002076>
+ecto-epithelial cell : <CL_0002077>
+meso-epithelial cell : <CL_0002078>
+pancreatic ductal cell : <CL_0002079>
+pancreatic centro-acinar cell : <CL_0002080>
+type II cell of carotid body : <CL_0002081>
+type II cell of adrenal medulla : <CL_0002082>
+type I cell of adrenal medulla : <CL_0002083>
+Boettcher cell : <CL_0002084>
+tanycyte : <CL_0002085>
+specialized cardiac myocyte : <CL_0002086>
+nongranular leukocyte : <CL_0002087>
+interstitial cell of Cajal : <CL_0002088>
+group 2 innate lymphoid cell, mouse : <CL_0002089>
+polar body : <CL_0002090>
+primary polar body : <CL_0002091>
+bone marrow cell : <CL_0002092>
+secondary polar body : <CL_0002093>
+interstitial cell of ovary : <CL_0002094>
+hilus cell of ovary : <CL_0002095>
+internodal tract myocyte : <CL_0002096>
+cortical cell of adrenal gland : <CL_0002097>
+regular cardiac myocyte : <CL_0002098>
+type I cell of adrenal cortex : <CL_0002099>
+regular interventricular cardiac myocyte : <CL_0002100>
+CD38-positive naive B cell : <CL_0002101>
+CD38-negative naive B cell : <CL_0002102>
+IgG-positive double negative memory B cell : <CL_0002103>
+IgG-negative double negative memory B cell : <CL_0002104>
+CD38-positive IgG memory B cell : <CL_0002105>
+IgD-positive CD38-positive IgG memory B cell : <CL_0002106>
+IgD-negative CD38-positive IgG memory B cell : <CL_0002107>
+CD38-negative IgG memory B cell : <CL_0002108>
+B220-positive CD38-positive naive B cell : <CL_0002109>
+B220-low CD38-positive naive B cell : <CL_0002110>
+CD38-negative unswitched memory B cell : <CL_0002111>
+B220-positive CD38-negative unswitched memory B cell : <CL_0002112>
+B220-low CD38-negative unswitched memory B cell : <CL_0002113>
+CD38-positive unswitched memory B cell : <CL_0002114>
+B220-positive CD38-positive unswitched memory B cell : <CL_0002115>
+B220-low CD38-positive unswitched memory B cell : <CL_0002116>
+IgG-negative class switched memory B cell : <CL_0002117>
+CD38-negative IgG-negative class switched memory B cell : <CL_0002118>
+CD38-positive IgG-negative class switched memory B cell : <CL_0002119>
+CD24-positive CD38-negative IgG-negative class switched memory B cell : <CL_0002120>
+CD24-negative CD38-negative IgG-negative class switched memory B cell : <CL_0002121>
+B220-positive CD38-positive IgG-negative class switched memory B cell : <CL_0002122>
+B220-low CD38-positive IgG-negative class switched memory B cell : <CL_0002123>
+CD27-positive gamma-delta T cell : <CL_0002124>
+CD27-negative gamma-delta T cell : <CL_0002125>
+CD25-positive, CD27-positive immature gamma-delta T cell : <CL_0002126>
+innate effector T cell : <CL_0002127>
+Tc17 cell : <CL_0002128>
+regular atrial cardiac myocyte : <CL_0002129>
+regular interatrial cardiac myocyte : <CL_0002130>
+regular ventricular cardiac myocyte : <CL_0002131>
+stromal cell of ovary : <CL_0002132>
+stromal cell of ovarian cortex : <CL_0002133>
+stromal cell of ovarian medulla : <CL_0002134>
+nonkeratinized cell of epidermis : <CL_0002135>
+type II cell of adrenal cortex : <CL_0002136>
+type III cell of adrenal cortex : <CL_0002137>
+endothelial cell of lymphatic vessel : <CL_0002138>
+endothelial cell of vascular tree : <CL_0002139>
+acinar cell of sebaceous gland : <CL_0002140>
+active chief cell of parathyroid gland : <CL_0002141>
+dark cell of eccrine sweat gland : <CL_0002142>
+dark chief cell of parathyroid gland : <CL_0002143>
+capillary endothelial cell : <CL_0002144>
+ciliated columnar cell of tracheobronchial tree : <CL_0002145>
+clear cell of eccrine sweat gland : <CL_0002146>
+clear chief cell of parathyroid gland : <CL_0002147>
+dental pulp cell : <CL_0002148>
+epithelial cell of uterus : <CL_0002149>
+epithelioid macrophage : <CL_0002150>
+late promyelocyte : <CL_0002151>
+columnar cell of endocervix : <CL_0002152>
+corneocyte : <CL_0002153>
+early promyelocyte : <CL_0002154>
+echinocyte : <CL_0002155>
+endosteal cell : <CL_0002157>
+external epithelial cell of tympanic membrane : <CL_0002158>
+general ecto-epithelial cell : <CL_0002159>
+basal external epithelial cell of tympanic membrane : <CL_0002160>
+superficial external epithelial cell of tympanic membrane : <CL_0002161>
+internal epithelial cell of tympanic membrane : <CL_0002162>
+internal pillar cell of cochlea : <CL_0002163>
+external pillar cell of cochlea : <CL_0002164>
+phalangeal cell : <CL_0002165>
+epithelial cell of Malassez : <CL_0002166>
+olfactory epithelial cell : <CL_0002167>
+border cell of cochlea : <CL_0002168>
+basal cell of olfactory epithelium : <CL_0002169>
+keratinized cell of the oral mucosa : <CL_0002170>
+globose cell of olfactory epithelium : <CL_0002171>
+interdental cell of cochlea : <CL_0002172>
+extraglomerular mesangial cell : <CL_0002173>
+follicular cell of ovary : <CL_0002174>
+primary follicular cell of ovary : <CL_0002175>
+secondary follicular cell of ovary : <CL_0002176>
+folliculostellate cell of pars distalis of adenohypophysis : <CL_0002177>
+epithelial cell of stomach : <CL_0002178>
+foveolar cell of stomach : <CL_0002179>
+mucous cell of stomach : <CL_0002180>
+mucous neck cell of gastric gland : <CL_0002181>
+surface mucosal cell of stomach : <CL_0002182>
+stem cell of gastric gland : <CL_0002183>
+basal proper cell of olfactory epithelium : <CL_0002184>
+basal cell of epidermis : <CL_0002187>
+glomerular endothelial cell : <CL_0002188>
+granular cell of epidermis : <CL_0002189>
+squamous cell of epidermis : <CL_0002190>
+granulocytopoietic cell : <CL_0002191>
+metamyelocyte : <CL_0002192>
+myelocyte : <CL_0002193>
+monopoietic cell : <CL_0002194>
+hepatic stem cell : <CL_0002195>
+hepatic oval stem cell : <CL_0002196>
+inactive chief cell of parathyoid gland : <CL_0002197>
+oncocyte : <CL_0002198>
+oxyphil cell of parathyroid gland : <CL_0002199>
+oxyphil cell of thyroid : <CL_0002200>
+renal beta-intercalated cell : <CL_0002201>
+epithelial cell of tracheobronchial tree : <CL_0002202>
+brush cell of epithelium proper of large intestine : <CL_0002203>
+brush cell : <CL_0002204>
+brush cell of lobular bronchiole : <CL_0002205>
+brush cell of terminal bronchiole : <CL_0002206>
+brush cell of trachea : <CL_0002207>
+brush cell of bronchus : <CL_0002208>
+intermediate epitheliocyte : <CL_0002209>
+red muscle cell : <CL_0002210>
+type I muscle cell : <CL_0002211>
+type II muscle cell : <CL_0002212>
+white muscle cell : <CL_0002213>
+type IIa muscle cell : <CL_0002214>
+type IIb muscle cell : <CL_0002215>
+intermediate muscle cell : <CL_0002216>
+intermediate trophoblast cell : <CL_0002217>
+immature dendritic epithelial T cell precursor : <CL_0002218>
+anchoring trophoblast : <CL_0002219>
+interstitial cell of pineal gland : <CL_0002220>
+keratinized squamous cell of esophagus : <CL_0002221>
+vertebrate lens cell : <CL_0002222>
+anterior lens cell : <CL_0002223>
+lens epithelial cell : <CL_0002224>
+secondary lens fiber : <CL_0002225>
+non-nucleated secondary lens fiber : <CL_0002226>
+nucleated secondary lens fiber : <CL_0002227>
+primary lens fiber : <CL_0002228>
+light chief cell of parathyroid gland : <CL_0002229>
+epithelial cell of prostate : <CL_0002231>
+epithelial cell of prostatic duct : <CL_0002232>
+epithelial cell of prostatic acinus : <CL_0002233>
+basal cell of prostatic acinus : <CL_0002234>
+luminal cell of prostatic acinus : <CL_0002235>
+basal epithelial cell of prostatic duct : <CL_0002236>
+luminal epithelial cell of prostatic duct : <CL_0002237>
+male gonocyte : <CL_0002238>
+ooblast : <CL_0002239>
+marrow fibroblast : <CL_0002240>
+pulmonary interstitial fibroblast : <CL_0002241>
+nucleate cell : <CL_0002242>
+smooth muscle cell of sphincter of pupil : <CL_0002243>
+squamous cell of ectocervix : <CL_0002244>
+obsolete null lymphocyte : <CL_0002245>
+peripheral blood stem cell : <CL_0002246>
+pleural macrophage : <CL_0002247>
+pluripotent stem cell : <CL_0002248>
+primitive cardiac myocyte : <CL_0002249>
+intestinal crypt stem cell : <CL_0002250>
+epithelial cell of alimentary canal : <CL_0002251>
+epithelial cell of esophagus : <CL_0002252>
+epithelial cell of large intestine : <CL_0002253>
+epithelial cell of small intestine : <CL_0002254>
+stromal cell of endometrium : <CL_0002255>
+supporting cell of carotid body : <CL_0002256>
+epithelial cell of thyroid gland : <CL_0002257>
+thyroid follicular cell : <CL_0002258>
+neuroepithelial stem cell : <CL_0002259>
+epithelial cell of parathyroid gland : <CL_0002260>
+endothelial cell of viscerocranial mucosa : <CL_0002261>
+endothelial cell of sinusoid : <CL_0002262>
+transitional cell of parathyroid gland : <CL_0002263>
+type A cell of stomach : <CL_0002264>
+type D cell of colon : <CL_0002265>
+type D cell of small intestine : <CL_0002266>
+type D cell of stomach : <CL_0002267>
+P/D1 enteroendocrine cell : <CL_0002268>
+vasoactive intestinal peptide secreting cell : <CL_0002269>
+type EC2 enteroendocrine cell : <CL_0002270>
+type EC1 enteroendocrine cell : <CL_0002271>
+motilin secreting cell : <CL_0002272>
+type ECL enteroendocrine cell : <CL_0002273>
+histamine secreting cell : <CL_0002274>
+pancreatic PP cell : <CL_0002275>
+obsolete PP cell of pancreatic acinus : <CL_0002276>
+type I enteroendocrine cell : <CL_0002277>
+GIP cell : <CL_0002278>
+type L enteroendocrine cell : <CL_0002279>
+type N enteroendocrine cell : <CL_0002280>
+type S enteroendocrine cell : <CL_0002281>
+type TG enteroendocrine cell : <CL_0002282>
+ecto-epithelial cell of viscerocranial mucosa : <CL_0002283>
+type X enteroendocrine cell : <CL_0002284>
+type III taste bud cell : <CL_0002285>
+type II taste cell : <CL_0002286>
+type IV taste receptor cell : <CL_0002287>
+type V taste receptor cell : <CL_0002288>
+type I taste bud cell : <CL_0002289>
+Y chromosome-bearing sperm cell : <CL_0002290>
+X chromosome-bearing sperm cell : <CL_0002291>
+type I cell of carotid body : <CL_0002292>
+epithelial cell of thymus : <CL_0002293>
+type-1 epithelial cell of thymus : <CL_0002294>
+type-6 epithelial cell of thymus : <CL_0002295>
+type-4 epithelial cell of thymus : <CL_0002296>
+type-3 epithelial cell of thymus : <CL_0002297>
+type-5 epithelial cell of thymus : <CL_0002298>
+type-2 epithelial cell of thymus : <CL_0002299>
+type-7 epithelial cell of thymus : <CL_0002300>
+type B synovial cell : <CL_0002301>
+type A synovial cell : <CL_0002302>
+pigmented ciliary epithelial cell : <CL_0002303>
+non-pigmented ciliary epithelial cell : <CL_0002304>
+epithelial cell of distal tubule : <CL_0002305>
+epithelial cell of proximal tubule : <CL_0002306>
+brush border cell of the proximal tubule : <CL_0002307>
+epithelial cell of skin gland : <CL_0002308>
+corticotroph : <CL_0002309>
+mammosomatotroph : <CL_0002310>
+mammotroph : <CL_0002311>
+somatotroph : <CL_0002312>
+endocrine-paracrine cell of prostate gland : <CL_0002313>
+external supporting cell of vestibular epithelium : <CL_0002314>
+supporting cell of cochlea : <CL_0002315>
+supporting cell of vestibular epithelium : <CL_0002316>
+external limiting cell of vestibular epithelium : <CL_0002317>
+peripheral blood mesothelial cell : <CL_0002318>
+neural cell : <CL_0002319>
+connective tissue cell : <CL_0002320>
+embryonic cell (metazoa) : <CL_0002321>
+embryonic stem cell : <CL_0002322>
+amniocyte : <CL_0002323>
+myoepithelial cell of mammary gland : <CL_0002324>
+lactocyte : <CL_0002325>
+luminal epithelial cell of mammary gland : <CL_0002326>
+mammary gland epithelial cell : <CL_0002327>
+bronchial epithelial cell : <CL_0002328>
+basal epithelial cell of tracheobronchial tree : <CL_0002329>
+undifferentiated cell of bronchus epithelium : <CL_0002330>
+ciliated cell of the bronchus : <CL_0002332>
+neural crest derived adipocyte : <CL_0002333>
+preadipocyte : <CL_0002334>
+brown preadipocyte : <CL_0002335>
+buccal mucosa cell : <CL_0002336>
+keratinocyte stem cell : <CL_0002337>
+CD56-positive, CD161-positive immature natural killer cell, human : <CL_0002338>
+prostate stem cell : <CL_0002339>
+luminal cell of prostate epithelium : <CL_0002340>
+basal cell of prostate epithelium : <CL_0002341>
+circulating endothelial cell : <CL_0002342>
+decidual natural killer cell, human : <CL_0002343>
+CD56-negative, CD161-positive immature natural killer cell, human : <CL_0002344>
+CD27-low, CD11b-low immature natural killer cell, mouse : <CL_0002345>
+Dx5-negative, NK1.1-positive immature natural killer cell, mouse : <CL_0002346>
+CD27-high, CD11b-high natural killer cell, mouse : <CL_0002347>
+CD27-low, CD11b-high natural killer cell, mouse : <CL_0002348>
+CD27-high, CD11b-low natural killer cell, mouse : <CL_0002349>
+endocardial cell : <CL_0002350>
+progenitor cell of endocrine pancreas : <CL_0002351>
+gestational hematopoietic stem cell : <CL_0002352>
+fetal liver hematopoietic progenitor cell : <CL_0002353>
+yolk sac hematopoietic stem cell : <CL_0002354>
+primitive red blood cell : <CL_0002355>
+primitive reticulocyte : <CL_0002356>
+fetal derived definitive erythrocyte : <CL_0002357>
+pyrenocyte : <CL_0002358>
+placental hematopoietic stem cell : <CL_0002359>
+AGM hematopoietic stem cell : <CL_0002360>
+primitive erythroid progenitor : <CL_0002361>
+cerebellar granule cell precursor : <CL_0002362>
+keratocyte : <CL_0002363>
+cortical thymic epithelial cell : <CL_0002364>
+medullary thymic epithelial cell : <CL_0002365>
+myometrial cell : <CL_0002366>
+trabecular meshwork cell : <CL_0002367>
+respiratory epithelial cell : <CL_0002368>
+fungal spore : <CL_0002369>
+respiratory goblet cell : <CL_0002370>
+obsolete somatic cell : <CL_0002371>
+myotube : <CL_0002372>
+growth hormone releasing hormone secreting cell : <CL_0002373>
+ear hair cell : <CL_0002374>
+Schwann cell precursor : <CL_0002375>
+non-myelinating Schwann cell : <CL_0002376>
+immature Schwann cell : <CL_0002377>
+immature Vgamma2-positive fetal thymocyte : <CL_0002378>
+meningothelial cell : <CL_0002379>
+oospore : <CL_0002380>
+uninucleate conidium : <CL_0002381>
+multinucleate conidium : <CL_0002382>
+conidium of conidiophore head : <CL_0002383>
+uninucleate macroconidium : <CL_0002384>
+blastoconidium : <CL_0002385>
+multinucleate macroconidium : <CL_0002386>
+arthroconidium : <CL_0002387>
+multinucleate arthroconidium : <CL_0002388>
+uninucleate arthroconidium : <CL_0002389>
+uninucleate blastconidium : <CL_0002390>
+multinucleate blastoconidium : <CL_0002391>
+obsolete plant spore : <CL_0002392>
+intermediate monocyte : <CL_0002393>
+CD141-positive myeloid dendritic cell : <CL_0002394>
+Gr1-high classical monocyte : <CL_0002395>
+CD14-low, CD16-positive monocyte : <CL_0002396>
+CD14-positive, CD16-positive monocyte : <CL_0002397>
+Gr1-positive, CD43-positive monocyte : <CL_0002398>
+CD1c-positive myeloid dendritic cell : <CL_0002399>
+fraction B/C precursor B cell : <CL_0002400>
+mature dendritic epithelial T cell precursor : <CL_0002401>
+Peyer's patch B cell : <CL_0002402>
+mature Vgamma2-positive fetal thymocyte : <CL_0002403>
+fetal thymocyte : <CL_0002404>
+gamma-delta thymocyte : <CL_0002405>
+immature Vgamma2-positive thymocyte : <CL_0002406>
+mature Vgamma2-positive thymocyte : <CL_0002407>
+immature Vgamma2-negative thymocyte : <CL_0002408>
+mature Vgamma2-negative thymocyte : <CL_0002409>
+pancreatic stellate cell : <CL_0002410>
+Vgamma1.1-positive, Vdelta6.3-negative thymocyte : <CL_0002411>
+Vgamma1.1-positive, Vdelta6.3-positive thymocyte : <CL_0002412>
+mature Vgamma1.1-positive, Vdelta6.3-negative thymocyte : <CL_0002413>
+immature Vgamma1.1-positive, Vdelta6.3-negative thymocyte : <CL_0002414>
+immature Vgamma1.1-positive, Vdelta6.3-positive thymocyte : <CL_0002415>
+mature Vgamma1.1-positive, Vdelta6.3-positive thymocyte : <CL_0002416>
+primitive erythroid lineage cell : <CL_0002417>
+hemangioblast : <CL_0002418>
+mature T cell : <CL_0002419>
+immature T cell : <CL_0002420>
+nucleated reticulocyte : <CL_0002421>
+enucleated reticulocyte : <CL_0002422>
+DN2a thymocyte : <CL_0002423>
+DN2b thymocyte : <CL_0002424>
+early T lineage precursor : <CL_0002425>
+CD11b-positive, CD27-positive natural killer cell, mouse : <CL_0002426>
+resting double-positive thymocyte : <CL_0002427>
+double-positive blast : <CL_0002428>
+CD69-positive double-positive thymocyte : <CL_0002429>
+CD4-intermediate, CD8-positive double-positive thymocyte : <CL_0002430>
+CD4-positive, CD8-intermediate double-positive thymocyte : <CL_0002431>
+CD24-positive, CD4 single-positive thymocyte : <CL_0002432>
+CD69-positive, CD4-positive single-positive thymocyte : <CL_0002433>
+CD24-positive, CD8 single-positive thymocyte : <CL_0002434>
+CD69-positive, CD8-positive single-positive thymocyte : <CL_0002435>
+mature CD4 single-positive thymocyte : <CL_0002436>
+mature CD8 single-positive thymocyte : <CL_0002437>
+NK1.1-positive natural killer cell, mouse : <CL_0002438>
+NKGA2-positive natural killer cell, mouse : <CL_0002439>
+Ly49D-positive natural killer cell, mouse : <CL_0002440>
+CD94-positive natural killer cell, mouse : <CL_0002441>
+CD94-negative, Ly49CI-negative natural killer cell, mouse : <CL_0002442>
+Ly49CI-positive natural killer cell, mouse : <CL_0002443>
+Ly49H-positive natural killer cell, mouse : <CL_0002444>
+Ly49D-negative natural killer cell, mouse : <CL_0002445>
+Ly49CI-negative natural killer cell, mouse : <CL_0002446>
+CD94-negative natural killer cell, mouse : <CL_0002447>
+Ly49H-negative natural killer cell, mouse : <CL_0002448>
+CD94-positive Ly49CI-positive natural killer cell, mouse : <CL_0002449>
+tether cell : <CL_0002450>
+mammary stem cell : <CL_0002451>
+oligodendrocyte precursor cell : <CL_0002453>
+Cd4-negative, CD8_alpha-negative, CD11b-positive dendritic cell : <CL_0002454>
+CD8_alpha-negative plasmacytoid dendritic cell : <CL_0002455>
+CD8_alpha-positive plasmacytoid dendritic cell : <CL_0002456>
+epidermal Langerhans cell : <CL_0002457>
+langerin-positive dermal dendritic cell : <CL_0002458>
+langerin-negative dermal dendritic cell : <CL_0002459>
+CD8alpha-negative thymic conventional dendritic cell : <CL_0002460>
+CD103-positive dendritic cell : <CL_0002461>
+adipose dendritic cell : <CL_0002462>
+SIRPa-positive adipose dendritic cell : <CL_0002463>
+SIRPa-negative adipose dendritic cell : <CL_0002464>
+CD11b-positive dendritic cell : <CL_0002465>
+small intestine serosal dendritic cell : <CL_0002466>
+Gr1-high myeloid suppressor cell : <CL_0002467>
+Gr1-low myeloid suppressor cell : <CL_0002468>
+MHC-II-negative classical monocyte : <CL_0002469>
+MHC-II-positive classical monocyte : <CL_0002470>
+MHC-II-negative non-classical monocyte : <CL_0002471>
+MHC-II-low non-classical monocyte : <CL_0002472>
+MHC-II-high non-classical monocyte : <CL_0002473>
+lymphoid MHC-II-negative classical monocyte : <CL_0002474>
+lymphoid MHC-II-negative non-classical monocyte : <CL_0002475>
+bone marrow macrophage : <CL_0002476>
+adipose macrophage : <CL_0002477>
+F4/80-negative adipose macrophage : <CL_0002478>
+F4/80-positive adipose macrophage : <CL_0002479>
+nasal mucosa goblet cell : <CL_0002480>
+peritubular myoid cell : <CL_0002481>
+dermal melanocyte : <CL_0002482>
+hair follicle melanocyte : <CL_0002483>
+epithelial melanocyte : <CL_0002484>
+retinal melanocyte : <CL_0002485>
+strial intermediate cell : <CL_0002486>
+cutaneous/subcutaneous mechanoreceptor cell : <CL_0002487>
+trophoblast giant cell : <CL_0002488>
+double negative thymocyte : <CL_0002489>
+organ of Corti supporting cell : <CL_0002490>
+auditory epithelial cell : <CL_0002491>
+strial marginal cell : <CL_0002492>
+strial basal cell : <CL_0002493>
+cardiocyte : <CL_0002494>
+fetal cardiomyocyte : <CL_0002495>
+intraepithelial lymphocyte : <CL_0002496>
+primary trophoblast giant cell : <CL_0002497>
+secondary trophoblast giant cell : <CL_0002498>
+spongiotrophoblast cell : <CL_0002499>
+P enteroendocrine cell : <CL_0002500>
+type D1 enteroendocrine cell : <CL_0002501>
+type M enteroendocrine cell : <CL_0002502>
+adventitial cell : <CL_0002503>
+enteric smooth muscle cell : <CL_0002504>
+liver CD103-negative dendritic cell : <CL_0002505>
+liver CD103-positive dendritic cell : <CL_0002506>
+langerin-positive lymph node dendritic cell : <CL_0002507>
+langerin-negative, CD103-negative lymph node dendritic cell : <CL_0002508>
+CD103-positive, langerin-positive lymph node dendritic cell : <CL_0002509>
+CD103-negative, langerin-positive lymph node dendritic cell : <CL_0002510>
+CD11b-low, CD103-negative, langerin-negative lymph node dendritic cell : <CL_0002511>
+CD11b-high, CD103-negative, langerin-negative lymph node dendritic cell : <CL_0002512>
+Vgamma5-positive CD8alpha alpha positive gamma-delta intraepithelial T cell : <CL_0002513>
+Vgamma5-negative CD8alpha alpha positive gamma-delta intraepithelial T cell : <CL_0002514>
+interrenal norepinephrine type cell : <CL_0002515>
+interrenal chromaffin cell : <CL_0002516>
+interrenal epinephrin secreting cell : <CL_0002517>
+kidney epithelial cell : <CL_0002518>
+interrenal epithelial cell : <CL_0002519>
+nephrocyte : <CL_0002520>
+subcutaneous adipocyte : <CL_0002521>
+renal filtration cell : <CL_0002522>
+mesonephric podocyte : <CL_0002523>
+disseminated nephrocyte : <CL_0002524>
+metanephric podocyte : <CL_0002525>
+CD14-positive dermal dendritic cell : <CL_0002526>
+immature CD14-positive dermal dendritic cell : <CL_0002527>
+mature CD14-positive dermal dendritic cell : <CL_0002528>
+CD1a-positive dermal dendritic cell : <CL_0002529>
+immature CD1a-positive dermal dendritic cell : <CL_0002530>
+mature CD1a-positive dermal dendritic cell : <CL_0002531>
+CD16-positive myeloid dendritic cell : <CL_0002532>
+immature CD16-positive myeloid dendritic cell : <CL_0002533>
+mature CD16-positive myeloid dendritic cell : <CL_0002534>
+epithelial cell of cervix : <CL_0002535>
+epithelial cell of amnion : <CL_0002536>
+amnion mesenchymal stem cell : <CL_0002537>
+intrahepatic cholangiocyte : <CL_0002538>
+aortic smooth muscle cell : <CL_0002539>
+mesenchymal stem cell of the bone marrow : <CL_0002540>
+chorionic membrane mesenchymal stem cell : <CL_0002541>
+vein endothelial cell : <CL_0002543>
+aortic endothelial cell : <CL_0002544>
+thoracic aorta endothelial cell : <CL_0002545>
+embryonic blood vessel endothelial progenitor cell : <CL_0002546>
+fibroblast of the aortic adventitia : <CL_0002547>
+fibroblast of cardiac tissue : <CL_0002548>
+fibroblast of choroid plexus : <CL_0002549>
+fibroblast of the conjunctiva : <CL_0002550>
+fibroblast of dermis : <CL_0002551>
+fibroblast of gingiva : <CL_0002552>
+fibroblast of lung : <CL_0002553>
+fibroblast of lymphatic vessel : <CL_0002554>
+fibroblast of mammary gland : <CL_0002555>
+fibroblast of periodontium : <CL_0002556>
+fibroblast of pulmonary artery : <CL_0002557>
+fibroblast of villous mesenchyme : <CL_0002558>
+hair follicle cell : <CL_0002559>
+inner root sheath cell : <CL_0002560>
+outer root sheath cell : <CL_0002561>
+hair germinal matrix cell : <CL_0002562>
+intestinal epithelial cell : <CL_0002563>
+nucleus pulposus cell of intervertebral disc : <CL_0002564>
+iris pigment epithelial cell : <CL_0002565>
+dark melanocyte : <CL_0002566>
+light melanocyte : <CL_0002567>
+mesenchymal stem cell of Wharton's jelly : <CL_0002568>
+mesenchymal stem cell of umbilical cord : <CL_0002569>
+mesenchymal stem cell of adipose tissue : <CL_0002570>
+hepatic mesenchymal stem cell : <CL_0002571>
+vertebral mesenchymal stem cell : <CL_0002572>
+Schwann cell : <CL_0002573>
+stromal cell of pancreas : <CL_0002574>
+central nervous system pericyte : <CL_0002575>
+perineurial cell : <CL_0002576>
+placental epithelial cell : <CL_0002577>
+mesenteric preadipocyte : <CL_0002578>
+omentum preadipocyte : <CL_0002579>
+preadipocyte of the breast : <CL_0002580>
+perirenal preadipocyte : <CL_0002581>
+visceral preadipocyte : <CL_0002582>
+subcutaneous preadipocyte : <CL_0002583>
+renal cortical epithelial cell : <CL_0002584>
+retinal blood vessel endothelial cell : <CL_0002585>
+retinal pigment epithelial cell : <CL_0002586>
+smooth muscle cell of the umbilical vein : <CL_0002588>
+smooth muscle cell of the brachiocephalic vasculature : <CL_0002589>
+smooth muscle cell of the brain vasculature : <CL_0002590>
+smooth muscle cell of the pulmonary artery : <CL_0002591>
+smooth muscle cell of the coronary artery : <CL_0002592>
+smooth muscle cell of the internal thoracic artery : <CL_0002593>
+smooth muscle cell of the umbilical artery : <CL_0002594>
+smooth muscle cell of the subclavian artery : <CL_0002595>
+smooth muscle cell of the carotid artery : <CL_0002596>
+smooth muscle cell of bladder : <CL_0002597>
+bronchial smooth muscle cell : <CL_0002598>
+smooth muscle cell of the esophagus : <CL_0002599>
+smooth muscle cell of trachea : <CL_0002600>
+uterine smooth muscle cell : <CL_0002601>
+annulus pulposus cell : <CL_0002602>
+astrocyte of the cerebellum : <CL_0002603>
+hippocampal astrocyte : <CL_0002604>
+astrocyte of the cerebral cortex : <CL_0002605>
+astrocyte of the spinal cord : <CL_0002606>
+migratory enteric neural crest cell : <CL_0002607>
+hippocampal neuron : <CL_0002608>
+obsolete neuron of cerebral cortex : <CL_0002609>
+raphe nuclei neuron : <CL_0002610>
+neuron of the dorsal spinal cord : <CL_0002611>
+neuron of the ventral spinal cord : <CL_0002612>
+striatum neuron : <CL_0002613>
+neuron of the substantia nigra : <CL_0002614>
+adipocyte of omentum tissue : <CL_0002615>
+perirenal adipocyte : <CL_0002616>
+adipocyte of breast : <CL_0002617>
+endothelial cell of umbilical vein : <CL_0002618>
+adult endothelial progenitor cell : <CL_0002619>
+skin fibroblast : <CL_0002620>
+gingival epithelial cell : <CL_0002621>
+prostate stromal cell : <CL_0002622>
+acinar cell of salivary gland : <CL_0002623>
+paneth cell of the appendix : <CL_0002624>
+seminiferous tubule epithelial cell : <CL_0002625>
+immature astrocyte : <CL_0002626>
+mature astrocyte : <CL_0002627>
+immature microglial cell : <CL_0002628>
+mature microglial cell : <CL_0002629>
+actinomycete-type spore : <CL_0002630>
+epithelial cell of upper respiratory tract : <CL_0002631>
+epithelial cell of lower respiratory tract : <CL_0002632>
+respiratory basal cell : <CL_0002633>
+epithelial cell of anal column : <CL_0002634>
+nonkeratinized epithelial cell of anal column : <CL_0002635>
+nonkeratinized epithelial cell of inferior part of anal canal : <CL_0002636>
+keratinized epithelial cell of the anal canal : <CL_0002637>
+bronchioalveolar stem cell : <CL_0002638>
+amniotic stem cell : <CL_0002639>
+amniotic epithelial stem cell : <CL_0002640>
+epithelial cell of esophageal gland proper : <CL_0002641>
+epithelial cell of esophageal cardiac gland : <CL_0002642>
+nonkeratinized cell of stratum corneum of esophageal epithelium : <CL_0002643>
+endo-epithelial cell of tympanic part of viscerocranial mucosa : <CL_0002644>
+endo-epithelial cell of pharyngotympanic part of viscerocranial mucosa : <CL_0002645>
+obsolete epithelial cell of buccal part of viscerocranial mucosa : <CL_0002646>
+obsolete epithelial cell of anterior palatal part of viscerocranial mucosa : <CL_0002647>
+obsolete epithelial cell of nasal part of viscerocranial mucosa : <CL_0002648>
+obsolete epithelial cell of gingival part of viscerocranial mucosa : <CL_0002649>
+obsolete epithelial cell of paranasal sinus part of viscerocranial mucosa : <CL_0002650>
+endothelial cell of venous sinus of spleen : <CL_0002651>
+endothelial cell of high endothelial venule : <CL_0002652>
+squamous endothelial cell : <CL_0002653>
+epithelial cell of stratum corneum of esophageal epithelium : <CL_0002654>
+epithelial cell of stratum spinosum of esophageal epithelium : <CL_0002655>
+glandular cell of endometrium : <CL_0002656>
+glandular cell of esophagus : <CL_0002657>
+glandular cell of the large intestine : <CL_0002658>
+glandular cell of stomach : <CL_0002659>
+luminal cell of acinus of lactiferous gland : <CL_0002660>
+luminal cell of lactiferous terminal ductal lobular unit : <CL_0002661>
+luminal cell of lactiferous duct : <CL_0002662>
+myocardial endocrine cell of atrium : <CL_0002663>
+cardioblast : <CL_0002664>
+otic fibrocyte : <CL_0002665>
+type 2 otic fibrocyte : <CL_0002666>
+type 5 otic fibrocyte : <CL_0002667>
+type 4 otic fibrocyte : <CL_0002668>
+type 3 otic fibrocyte : <CL_0002669>
+type 1 otic fibrocyte : <CL_0002670>
+endothelial stalk cell : <CL_0002671>
+retinal progenitor cell : <CL_0002672>
+tongue muscle cell : <CL_0002673>
+H minus : <CL_0002674>
+H plus : <CL_0002675>
+neural crest derived neuroblast : <CL_0002676>
+naive regulatory T cell : <CL_0002677>
+memory regulatory T cell : <CL_0002678>
+natural helper lymphocyte : <CL_0002679>
+PP cell of intestine : <CL_0002680>
+kidney cortical cell : <CL_0002681>
+bistratified retinal ganglion cell : <CL_0003001>
+G1 retinal ganglion cell : <CL_0003002>
+G2 retinal ganglion cell : <CL_0003003>
+G3 retinal ganglion cell : <CL_0003004>
+G4 retinal ganglion cell : <CL_0003005>
+G4-ON retinal ganglion cell : <CL_0003006>
+G4-OFF retinal ganglion cell : <CL_0003007>
+G5 retinal ganglion cell : <CL_0003008>
+G6 retinal ganglion cell : <CL_0003009>
+G7 retinal ganglion cell : <CL_0003010>
+G8 retinal ganglion cell : <CL_0003011>
+G9 retinal ganglion cell : <CL_0003012>
+G10 retinal ganglion cell : <CL_0003013>
+G11 retinal ganglion cell : <CL_0003014>
+G11-ON retinal ganglion cell : <CL_0003015>
+G11-OFF retinal ganglion cell : <CL_0003016>
+retinal ganglion cell B3 outer : <CL_0003017>
+retinal ganglion cell B3 inner : <CL_0003018>
+retinal ganglion cell C outer : <CL_0003020>
+retinal ganglion cell C4 : <CL_0003021>
+retinal ganglion cell C5 : <CL_0003022>
+retinal ganglion cell C6 : <CL_0003023>
+retinal ganglion cell C inner : <CL_0003024>
+retinal ganglion cell C3 : <CL_0003025>
+retinal ganglion cell D1 : <CL_0003026>
+retinal ganglion cell D2 : <CL_0003027>
+M1 retinal ganglion cell : <CL_0003028>
+M2 retinal ganglion cell : <CL_0003029>
+M3 retinal ganglion cell : <CL_0003030>
+M3-ON retinal ganglion cell : <CL_0003031>
+M3-OFF retinal ganglion cell : <CL_0003032>
+M4 retinal ganglion cell : <CL_0003033>
+M5 retinal ganglion cell : <CL_0003034>
+M6 retinal ganglion cell : <CL_0003035>
+M7 retinal ganglion cell : <CL_0003036>
+M7-ON retinal ganglion cell : <CL_0003037>
+M7-OFF retinal ganglion cell : <CL_0003038>
+M8 retinal ganglion cell : <CL_0003039>
+M9 retinal ganglion cell : <CL_0003040>
+M9-ON retinal ganglion cell : <CL_0003041>
+M9-OFF retinal ganglion cell : <CL_0003042>
+M10 retinal ganglion cell : <CL_0003043>
+M11 retinal ganglion cell : <CL_0003044>
+M12 retinal ganglion cell : <CL_0003045>
+M13 retinal ganglion cell : <CL_0003046>
+M14 retinal ganglion cell : <CL_0003047>
+L cone cell : <CL_0003048>
+M cone cell : <CL_0003049>
+S cone cell : <CL_0003050>
+UV cone cell : <CL_0003051>
+local interneuron : <CL_0004001>
+retinal ganglion cell B : <CL_0004115>
+retinal ganglion cell C : <CL_0004116>
+retinal ganglion cell A : <CL_0004117>
+retinal ganglion cell B1 : <CL_0004119>
+retinal ganglion cell A1 : <CL_0004120>
+retinal ganglion cell B2 : <CL_0004121>
+retinal ganglion cell C1 : <CL_0004124>
+retinal ganglion cell C2 inner : <CL_0004125>
+retinal ganglion cell C2 outer : <CL_0004126>
+retinal ganglion cell A2 inner : <CL_0004137>
+retinal ganglion cell A2 : <CL_0004138>
+retinal ganglion cell A2 outer : <CL_0004139>
+510 nm-cone : <CL_0004161>
+360 nm-cone : <CL_0004162>
+retinal ganglion cell B3 : <CL_0004183>
+type 3a cone bipolar cell : <CL_0004213>
+type 3b cone bipolar cell : <CL_0004214>
+type 5a cone bipolar cell : <CL_0004215>
+type 5b cone bipolar cell : <CL_0004216>
+H1 horizontal cell : <CL_0004217>
+H2 horizontal cell : <CL_0004218>
+A2 amacrine cell : <CL_0004219>
+flag amacrine cell : <CL_0004220>
+flag A amacrine cell : <CL_0004221>
+flag B amacrine cell : <CL_0004222>
+AB diffuse-1 amacrine cell : <CL_0004223>
+AB diffuse-2 amacrine cell : <CL_0004224>
+spider amacrine cell : <CL_0004225>
+monostratified amacrine cell : <CL_0004226>
+flat bistratified amacrine cell : <CL_0004227>
+broad diffuse amacrine cell : <CL_0004228>
+A2-like amacrine cell : <CL_0004229>
+diffuse bistratified amacrine cell : <CL_0004230>
+recurving diffuse amacrine cell : <CL_0004231>
+starburst amacrine cell : <CL_0004232>
+DAPI-3 amacrine cell : <CL_0004233>
+diffuse multistratified amacrine cell : <CL_0004234>
+AB broad diffuse-1 amacrine cell : <CL_0004235>
+AB broad diffuse-2 amacrine cell : <CL_0004236>
+fountain amacrine cell : <CL_0004237>
+asymmetric bistratified amacrine cell : <CL_0004238>
+wavy bistratified amacrine cell : <CL_0004239>
+WF1 amacrine cell : <CL_0004240>
+WF2 amacrine cell : <CL_0004241>
+WF3-1 amacrine cell : <CL_0004242>
+WF3-2 amacrine cell : <CL_0004243>
+WF4 amacrine cell : <CL_0004244>
+indoleamine-accumulating amacrine cell : <CL_0004245>
+monostratified cell : <CL_0004246>
+bistratified cell : <CL_0004247>
+bistratified retinal amacrine cell : <CL_0004250>
+narrow field retinal amacrine cell : <CL_0004251>
+medium field retinal amacrine cell : <CL_0004252>
+wide field retinal amacrine cell : <CL_0004253>
+spinal cord interneuron : <CL_0005000>
+iridoblast : <CL_0005001>
+xanthoblast : <CL_0005002>
+leucoblast : <CL_0005003>
+pigment erythroblast : <CL_0005004>
+cyanoblast : <CL_0005005>
+ionocyte : <CL_0005006>
+Kolmer-Agduhr neuron : <CL_0005007>
+macular hair cell : <CL_0005008>
+renal principal cell : <CL_0005009>
+renal intercalated cell : <CL_0005010>
+renal alpha-intercalated cell : <CL_0005011>
+multi-ciliated epithelial cell : <CL_0005012>
+single ciliated epithelial cell : <CL_0005013>
+auditory epithelial supporting cell : <CL_0005014>
+inner phalangeal cell : <CL_0005015>
+obsolete apical cell : <CL_0005016>
+obsolete plant basal cell : <CL_0005017>
+ghrelin secreting cell : <CL_0005018>
+pancreatic epsilon cell : <CL_0005019>
+lymphangioblast : <CL_0005020>
+mesenchymal lymphangioblast : <CL_0005021>
+vascular lymphangioblast : <CL_0005022>
+branchiomotor neuron : <CL_0005023>
+somatomotor neuron : <CL_0005024>
+visceromotor neuron : <CL_0005025>
+hepatoblast : <CL_0005026>
+preameloblast : <CL_0007000>
+skeletogenic cell : <CL_0007001>
+precementoblast : <CL_0007002>
+preodontoblast : <CL_0007003>
+premigratory neural crest cell : <CL_0007004>
+notochordal cell : <CL_0007005>
+chordamesodermal cell : <CL_0007006>
+notochordal sheath cell : <CL_0007007>
+notochordal vacuole cell : <CL_0007008>
+prechondroblast : <CL_0007009>
+preosteoblast : <CL_0007010>
+enteric neuron : <CL_0007011>
+non-terminally differentiated odontoblast : <CL_0007012>
+terminally differentiated odontoblast : <CL_0007013>
+obsolete cell line cell : <CL_0007014>
+obsolete mortal cell line cell : <CL_0007015>
+adaxial cell : <CL_0007016>
+Stiftchenzellen : <CL_0007017>
+epidermal ciliary cell : <CL_0007018>
+epidermal mucus secreting cell : <CL_0007019>
+bottle cell : <CL_0007020>
+alarm substance cell : <CL_0007021>
+micropylar cell : <CL_0007022>
+flask cell : <CL_0007023>
+non-striated muscle cell : <CL_0008000>
+hematopoietic precursor cell : <CL_0008001>
+skeletal muscle fiber : <CL_0008002>
+somatic muscle myotube : <CL_0008003>
+somatic muscle cell : <CL_0008004>
+obliquely striated somatic muscle cell : <CL_0008005>
+muscle founder cell : <CL_0008006>
+visceral muscle cell : <CL_0008007>
+striated visceral muscle cell : <CL_0008008>
+transversely striated visceral muscle cell : <CL_0008009>
+cranial somatomotor neuron : <CL_0008010>
+skeletal muscle satellite stem cell : <CL_0008011>
+quiescent skeletal muscle satellite cell : <CL_0008012>
+cranial visceromotor neuron : <CL_0008013>
+obsolete excitatory motor neuron : <CL_0008014>
+inhibitory motor neuron : <CL_0008015>
+activated skeletal muscle satellite cell : <CL_0008016>
+adult skeletal muscle myoblast : <CL_0008017>
+somatic muscle myoblast : <CL_0008018>
+mesenchymal cell : <CL_0008019>
+skeletal muscle satellite myogenic cell : <CL_0008020>
+anterior lateral line ganglion neuron : <CL_0008021>
+endocardial cushion cell : <CL_0008022>
+obsolete cardiac fibroblast : <CL_0008023>
+pancreatic endocrine cell : <CL_0008024>
+noradrenergic neuron : <CL_0008025>
+open tracheal system tracheocyte : <CL_0008026>
+rod bipolar cell (sensu Mus) : <CL_0008027>
+visual system neuron : <CL_0008028>
+obsolete inhibitory neuron : <CL_0008029>
+obsolete excitatory neuron : <CL_0008030>
+cortical interneuron : <CL_0008031>
+rosehip neuron : <CL_0008032>
+decidual pericyte : <CL_0008033>
+mural cell : <CL_0008034>
+microcirculation associated smooth muscle cell : <CL_0008035>
+extravillous trophoblast : <CL_0008036>
+gamma motor neuron : <CL_0008037>
+alpha motor neuron : <CL_0008038>
+lower motor neuron : <CL_0008039>
+extrafusal muscle fiber : <CL_0008046>
+intrafusal muscle fiber : <CL_0008047>
+upper motor neuron : <CL_0008048>
+Betz cell : <CL_0008049>
+sensory neuron of spinal nerve : <CL_0009000>
+compound eye retinal cell : <CL_0009001>
+inflammatory cell : <CL_0009002>
+larval midgut cell : <CL_0009003>
+retinal cell : <CL_0009004>
+salivary gland cell : <CL_0009005>
+enteroendocrine cell of small intestine : <CL_0009006>
+gastrointestinal tract (lamina propria) macrophage of small intestine : <CL_0009007>
+gastrointestinal tract (lamina propria) macrophage of large intestine : <CL_0009008>
+paneth cell of colon : <CL_0009009>
+transit amplifying cell : <CL_0009010>
+transit amplifying cell of colon : <CL_0009011>
+transit amplifying cell of small intestine : <CL_0009012>
+fetal hepatobiliary progenitor cell : <CL_0009013>
+Peyer's patch lymphocyte : <CL_0009014>
+Peyer's patch follicular dendritic cell : <CL_0009015>
+intestinal crypt stem cell of large intestine : <CL_0009016>
+intestinal crypt stem cell of small intestine : <CL_0009017>
+lymphocyte of large intestine lamina propria : <CL_0009018>
+nephrogenic zone cell : <CL_0009019>
+tuft cell of appendix : <CL_0009020>
+stromal cell of lamina propria of large intestine : <CL_0009021>
+stromal cell of lamina propria of small intestine : <CL_0009022>
+small intestine Peyer's patch T cell : <CL_0009023>
+mesothelial cell of small intestine : <CL_0009024>
+mesothelial cell of colon : <CL_0009025>
+enterocyte of appendix : <CL_0009026>
+transit amplifying cell of appendix : <CL_0009027>
+intestinal crypt stem cell of appendix : <CL_0009028>
+mesothelial cell of appendix : <CL_0009029>
+enteroendocrine cell of appendix : <CL_0009030>
+T cell of appendix : <CL_0009031>
+B cell of appendix : <CL_0009032>
+plasma cell of appendix : <CL_0009033>
+dendritic cell of appendix : <CL_0009034>
+stromal cell of lamina propria of vermiform appendix : <CL_0009035>
+appendix macrophage : <CL_0009036>
+lymph node mantle zone B cell : <CL_0009037>
+colon macrophage : <CL_0009038>
+colon goblet cell : <CL_0009039>
+stromal cell of lamina propria of colon : <CL_0009040>
+tuft cell of colon : <CL_0009041>
+enteroendocrine cell of colon : <CL_0009042>
+intestinal crypt stem cell of colon : <CL_0009043>
+lymphocyte of small intestine lamina propria : <CL_0009044>
+B cell of medullary sinus of lymph node : <CL_0009045>
+T cell of medullary sinus of lymph node : <CL_0009046>
+macrophage of medullary sinus of lymph node : <CL_0009047>
+anorectum macrophage : <CL_0009048>
+smooth muscle cell of high endothelial venule of lymph node : <CL_0009049>
+B cell of anorectum : <CL_0009050>
+T cell of anorectum : <CL_0009051>
+smooth muscle cell of anorectum : <CL_0009052>
+stromal cell of anorectum lamina propria : <CL_0009053>
+microfold cell of epithelium proper of anorectum : <CL_0009054>
+paneth cell of anorectum : <CL_0009055>
+transit amplifying cell of anorectum : <CL_0009056>
+anorectum goblet cell : <CL_0009057>
+enterocyte of anorectum : <CL_0009058>
+plasma cell of medullary sinus of lymph node : <CL_0009059>
+marginal zone B cell of lymph node : <CL_0009060>
+intestinal crypt stem cell of anorectum : <CL_0009061>
+germinal center T cell : <CL_0009062>
+enteroendocrine cell of anorectum : <CL_0009063>
+lymph node paracortex T cell : <CL_0009064>
+tuft cell of anorectum : <CL_0009065>
+stratified squamous epithelial cell of anal canal : <CL_0009066>
+vacuolated fetal-type enterocyte : <CL_0009067>
+CD8aa(I) thymocyte : <CL_0009068>
+CD8aa(II) thymocyte : <CL_0009069>
+corticomedullary thymic epithelial cell : <CL_0009070>
+medullary thymic epithelial cell type 1 : <CL_0009071>
+medullary thymic epithelial cell type 2 : <CL_0009072>
+medullary thymic epithelial cell type 3 : <CL_0009073>
+medullary thymic epithelial cell type 4 : <CL_0009074>
+myo-medullary thymic epithelial cell : <CL_0009075>
+neuro-medullary thymic epithelial cell : <CL_0009076>
+subcapsular thymic epithelial cell : <CL_0009077>
+thymic fibroblast type 1 : <CL_0009078>
+thymic fibroblast type 2 : <CL_0009079>
+tuft cell of small intestine : <CL_0009080>
+specified double negative thymocyte (Homo sapiens) : <CL_0009081>
+committed double negative thymocyte (Homo sapiens) : <CL_0009082>
+rearranging double negative thymocyte (Homo sapiens) : <CL_0009083>
+epithelial cell of endometrial gland : <CL_0009084>
+colony forming unit – Hill cell : <CL_0009085>
+endothelial cell of respiratory system lymphatic vessel : <CL_0009086>
+fused extravillous trophoblast : <CL_0009087>
+circulating angiogenic cell : <CL_0009088>
+lung pericyte : <CL_0009089>
+endothelial colony forming cell : <CL_0009090>
+Leydig stem cell : <CL_0009091>
+endothelial cell of placenta : <CL_0009092>
+smooth muscle cell of placenta : <CL_0009093>
+endothelial cell of hepatic portal vein : <CL_0009094>
+endothelial cell of uterus : <CL_0009095>
+esophagus non-keratinized squamous epithelial cell : <CL_0009096>
+embryonic skeletal muscle fiber : <CL_0009097>
+fetal and neonatal skeletal muscle fiber : <CL_0009098>
+fibro/adipogenic progenitor cell : <CL_0009099>
+hepatic portal fibroblast : <CL_0009100>
+fibroblastic reticular cell : <CL_0009101>
+lymph node fibroblastic reticular cell : <CL_0009102>
+lymph node marginal reticular cell : <CL_0009103>
+B cell zone reticular cell : <CL_0009104>
+T cell zone reticular cell : <CL_0009105>
+medullary reticular cell : <CL_0009106>
+lymphatic endothelial cell of subcapsular sinus ceiling : <CL_0009107>
+lymphatic endothelial cell of subcapsular sinus floor : <CL_0009108>
+lymphatic endothelial cell of trabecula : <CL_0009109>
+lymphatic endothelial cell of medulla ceiling : <CL_0009110>
+centrocyte : <CL_0009111>
+centroblast : <CL_0009112>
+T follicular regulatory cell : <CL_0009113>
+monocytoid B cell : <CL_0009114>
+lymph node lymphatic vessel endothelial cell : <CL_0009115>
+progenitor cell of mammary luminal epithelium : <CL_0009116>
+keratinized cell of hair follicle : <CL_0010000>
+stromal cell of bone marrow : <CL_0010001>
+epithelial cell of umbilical artery : <CL_0010002>
+epithelial cell of alveolus of lung : <CL_0010003>
+mononuclear cell of bone marrow : <CL_0010004>
+atrioventricular bundle cell : <CL_0010005>
+cardiac blood vessel endothelial cell : <CL_0010006>
+His-Purkinje system cell : <CL_0010007>
+cardiac endothelial cell : <CL_0010008>
+camera-type eye photoreceptor cell : <CL_0010009>
+cerebellar stellate cell : <CL_0010010>
+cerebral cortex GABAergic interneuron : <CL_0010011>
+cerebral cortex neuron : <CL_0010012>
+type I pinealocyte : <CL_0010013>
+type II pinealocyte : <CL_0010014>
+coronet cell : <CL_0010015>
+collar cell : <CL_0010016>
+zygote : <CL_0010017>
+cardiac glial cell : <CL_0010020>
+cardiac myoblast : <CL_0010021>
+cardiac neuron : <CL_0010022>
+dorsal horn interneuron : <CL_0011000>
+spinal cord motor neuron : <CL_0011001>
+lateral motor column neuron : <CL_0011002>
+magnocellular neurosecretory cell : <CL_0011003>
+lens fiber cell : <CL_0011004>
+GABAergic interneuron : <CL_0011005>
+Lugaro cell : <CL_0011006>
+paraxial cell : <CL_0011007>
+embryonic hemocyte : <CL_0011008>
+embryonic plasmatocyte : <CL_0011009>
+lateral mesodermal cell : <CL_0011010>
+intermediate mesodermal cell : <CL_0011011>
+neural crest cell : <CL_0011012>
+motile sperm cell : <CL_0011013>
+non-motile sperm cell : <CL_0011014>
+amoeboid sperm cell : <CL_0011015>
+flagellated sperm cell : <CL_0011016>
+vagal neural crest cell : <CL_0011017>
+lymphoid tissue–inducer cell : <CL_0011018>
+mesothelial cell of epicardium : <CL_0011019>
+neural progenitor cell : <CL_0011020>
+fibroblast of upper back skin : <CL_0011021>
+fibroblast of skin of back : <CL_0011022>
+CD25+ mast cell : <CL_0011023>
+double negative T regulatory cell : <CL_0011024>
+exhausted T cell : <CL_0011025>
+progenitor cell : <CL_0011026>
+skeletal muscle fibroblast : <CL_0011027>
+olfactory ensheathing cell : <CL_0011028>
+cnidocyte : <CL_0011029>
+dermal microvascular endothelial cell : <CL_0011030>
+monocyte-derived dendritic cell : <CL_0011031>
+lysosome-rich enterocyte : <CL_0011032>
+galanergic neuron : <CL_0011100>
+chorionic trophoblast cell : <CL_0011101>
+parasympathetic neuron : <CL_0011102>
+sympathetic neuron : <CL_0011103>
+interplexiform cell : <CL_0011104>
+dopamanergic interplexiform cell : <CL_0011105>
+GABAnergic interplexiform cell : <CL_0011106>
+obsolete Muller cell : <CL_0011107>
+colon epithelial cell : <CL_0011108>
+hypocretin-secreting neuron : <CL_0011109>
+histaminergic neuron : <CL_0011110>
+gonadotropin-releasing hormone neuron : <CL_0011111>
+obsolete magnocellular neurosecretory cell : <CL_0011112>
+spiral ganglion neuron : <CL_0011113>
+segmented neutrophil of bone marrow : <CL_0011114>
+precursor cell : <CL_0011115>
+astrocyte of the forebrain : <CL_0012000>
+neuron of the forebrain : <CL_0012001>
+forebrain radial glial cell : <CL_0013000>
+cranial motor neuron : <CL_0015000>
+pulmonary ionocyte : <CL_0017000>
+splanchnic mesodermal cell : <CL_0017001>
+prostate neuroendocrine cell : <CL_0017002>
+epithelial cell of prostatic urethra : <CL_0017003>
+telocyte : <CL_0017004>
+lymphoblast : <CL_0017005>
+B-lymphoblast : <CL_0017006>
+Axl+ dendritic cell, human : <CL_0017009>
+hillock cell of urethral epithelium : <CL_0017010>
+hillock cell of prostatic urethral epithelium : <CL_0017011>
+neutrophillic cytoplasm : <CL_0017500>
+obsolete lobed nucleus : <CL_0017501>
+acidophilic cytoplasm : <CL_0017502>
+basophilic cytoplasm : <CL_0017503>
+polychromatophilic cytoplasm : <CL_0017504>
+obsolete increased nucleus size : <CL_0017505>
+banded nucleus : <CL_0017506>
+reniform nucleus : <CL_0017507>
+cartwheel heterochromatin : <CL_0017508>
+alobate nucleus : <CL_0017509>
+tracheobronchial serous cell : <CL_0019001>
+tracheobronchial chondrocyte : <CL_0019002>
+tracheobronchial goblet cell : <CL_0019003>
+lung parenchyma resident eosinophil : <CL_0019015>
+lymphatic vessel smooth muscle cell : <CL_0019017>
+blood vessel smooth muscle cell : <CL_0019018>
+tracheobronchial smooth muscle cell : <CL_0019019>
+extrahepatic cholangiocyte : <CL_0019020>
+endothelial cell of periportal hepatic sinusoid : <CL_0019021>
+endothelial cell of pericentral hepatic sinusoid : <CL_0019022>
+periportal region hepatocyte : <CL_0019026>
+midzonal region hepatocyte : <CL_0019028>
+centrilobular region hepatocyte : <CL_0019029>
+intestine goblet cell : <CL_0019031>
+intestinal tuft cell : <CL_0019032>
+obsolete kidney collecting duct beta-intercalated cell : <CL_0700009>
+retrotrapezoid nucleus neuron : <CL_1000001>
+mesonephric nephron tubule epithelial cell : <CL_1000022>
+forebrain neuroblast : <CL_1000042>
+lateral line nerve glial cell : <CL_1000050>
+spinal cord radial glial cell : <CL_1000073>
+stretch receptor cell : <CL_1000082>
+stratified keratinized epithelial stem cell : <CL_1000083>
+stratified non keratinized epithelial stem cell : <CL_1000085>
+pronephric nephron tubule epithelial cell : <CL_1000090>
+metanephric nephron tubule epithelial cell : <CL_1000123>
+lung goblet cell : <CL_1000143>
+cardiac valve cell : <CL_1000147>
+Malpighian tubule stellate cell : <CL_1000155>
+malpighian tubule tip cell : <CL_1000182>
+pillar cell : <CL_1000191>
+growth plate cartilage chondrocyte : <CL_1000217>
+stomach neuroendocrine cell : <CL_1000222>
+lung neuroendocrine cell : <CL_1000223>
+posterior lateral line nerve glial cell : <CL_1000236>
+anterior lateral line nerve glial cell : <CL_1000239>
+posterior lateral line ganglion neuron : <CL_1000245>
+lung ciliated cell : <CL_1000271>
+lung secretory cell : <CL_1000272>
+trophectodermal cell : <CL_1000274>
+smooth muscle cell of small intestine : <CL_1000275>
+smooth muscle fiber of duodenum : <CL_1000276>
+smooth muscle fiber of jejunum : <CL_1000277>
+smooth muscle fiber of ileum : <CL_1000278>
+smooth muscle cell of large intestine : <CL_1000279>
+smooth muscle cell of colon : <CL_1000280>
+smooth muscle cell of cecum : <CL_1000281>
+smooth muscle fiber of ascending colon : <CL_1000282>
+smooth muscle fiber of transverse colon : <CL_1000283>
+smooth muscle fiber of descending colon : <CL_1000284>
+smooth muscle cell of sigmoid colon : <CL_1000285>
+smooth muscle cell of rectum : <CL_1000286>
+myocyte of anterior internodal tract : <CL_1000287>
+myocyte of atrial branch of anterior internodal tract : <CL_1000288>
+myocyte of atrial septal branch of anterior internodal tract : <CL_1000289>
+myocyte of middle internodal tract : <CL_1000290>
+myocyte of posterior internodal tract : <CL_1000291>
+epithelial cell of urethra : <CL_1000296>
+mesothelial cell of dura mater : <CL_1000298>
+fibroblast of connective tissue of prostate : <CL_1000299>
+fibroblast of outer membrane of prostatic capsule : <CL_1000300>
+fibroblast of subepithelial connective tissue of prostatic gland : <CL_1000301>
+fibroblast of papillary layer of dermis : <CL_1000302>
+fibroblast of areolar connective tissue : <CL_1000303>
+fibroblast of connective tissue of nonglandular part of prostate : <CL_1000304>
+fibroblast of connective tissue of glandular part of prostate : <CL_1000305>
+fibroblast of tunica adventitia of artery : <CL_1000306>
+fibroblast of dense regular elastic tissue : <CL_1000307>
+fibrocyte of adventitia of ureter : <CL_1000308>
+epicardial adipocyte : <CL_1000309>
+adipocyte of epicardial fat of right ventricle : <CL_1000310>
+adipocyte of epicardial fat of left ventricle : <CL_1000311>
+bronchial goblet cell : <CL_1000312>
+gastric goblet cell : <CL_1000313>
+gastric cardiac gland goblet cell : <CL_1000314>
+principal gastric gland goblet cell : <CL_1000315>
+obsolete goblet cell of epithelium of small intestine : <CL_1000316>
+intestinal villus goblet cell : <CL_1000317>
+obsolete small intestine crypt goblet cell : <CL_1000318>
+obsolete goblet cell of epithelium proper of small intestine : <CL_1000319>
+large intestine goblet cell : <CL_1000320>
+large intestine crypt goblet cell : <CL_1000321>
+pancreatic goblet cell : <CL_1000322>
+pyloric gastric gland goblet cell : <CL_1000323>
+duodenal goblet cell : <CL_1000324>
+jejunal goblet cell : <CL_1000325>
+ileal goblet cell : <CL_1000326>
+appendix goblet cell : <CL_1000327>
+obsolete goblet cell of epithelium proper of large intestine : <CL_1000328>
+tracheal goblet cell : <CL_1000329>
+serous cell of epithelium of trachea : <CL_1000330>
+serous cell of epithelium of bronchus : <CL_1000331>
+serous cell of epithelium of terminal bronchiole : <CL_1000332>
+serous cell of epithelium of lobular bronchiole : <CL_1000333>
+enterocyte of epithelium of small intestine : <CL_1000334>
+enterocyte of epithelium of intestinal villus : <CL_1000335>
+enterocyte of epithelium of duodenal gland : <CL_1000337>
+enterocyte of epithelium of crypt of Lieberkuhn of small intestine : <CL_1000338>
+enterocyte of epithelium proper of small intestine : <CL_1000339>
+enterocyte of epithelium proper of duodenum : <CL_1000340>
+enterocyte of epithelium proper of jejunum : <CL_1000341>
+enterocyte of epithelium proper of ileum : <CL_1000342>
+paneth cell of epithelium of small intestine : <CL_1000343>
+paneth cell of epithelium proper of small intestine : <CL_1000344>
+paneth cell of epithelium of crypt of Lieberkuhn of small intestine : <CL_1000345>
+enterocyte of epithelium proper of large intestine : <CL_1000346>
+enterocyte of colon : <CL_1000347>
+basal cell of epithelium of trachea : <CL_1000348>
+basal cell of epithelium of bronchus : <CL_1000349>
+basal cell of epithelium of terminal bronchiole : <CL_1000350>
+basal cell of epithelium of respiratory bronchiole : <CL_1000351>
+basal cell of epithelium of lobular bronchiole : <CL_1000352>
+microfold cell of epithelium of small intestine : <CL_1000353>
+microfold cell of epithelium of intestinal villus : <CL_1000354>
+microfold cell of epithelium proper of small intestine : <CL_1000355>
+microfold cell of epithelium proper of duodenum : <CL_1000356>
+microfold cell of epithelium proper of jejunum : <CL_1000357>
+microfold cell of epithelium proper of ileum : <CL_1000358>
+microfold cell of epithelium proper of appendix : <CL_1000359>
+microfold cell of epithelium proper of large intestine : <CL_1000360>
+transitional myocyte of interatrial septum : <CL_1000361>
+transitional myocyte of interventricular septum : <CL_1000362>
+transitional myocyte of atrial branch of anterior internodal tract : <CL_1000363>
+transitional myocyte of anterior internodal tract : <CL_1000364>
+transitional myocyte of atrial septal branch of anterior internodal tract : <CL_1000365>
+transitional myocyte of middle internodal tract : <CL_1000366>
+transitional myocyte of posterior internodal tract : <CL_1000367>
+transitional myocyte of anterior division of left branch of atrioventricular bundle : <CL_1000368>
+transitional myocyte of septal division of left branch of atrioventricular bundle : <CL_1000369>
+transitional myocyte of left branch of atrioventricular bundle : <CL_1000370>
+transitional myocyte of right branch of atrioventricular bundle : <CL_1000371>
+transitional myocyte of atrial part of atrioventricular bundle : <CL_1000372>
+transitional myocyte of ventricular part of atrioventricular bundle : <CL_1000373>
+transitional myocyte of posterior division of left branch of atrioventricular bundle : <CL_1000374>
+myocardial endocrine cell of septal division of left branch of atrioventricular bundle : <CL_1000375>
+Purkinje myocyte of interventricular septum : <CL_1000376>
+dense-core granulated cell of epithelium of trachea : <CL_1000377>
+type 1 vestibular sensory cell of stato-acoustic epithelium : <CL_1000378>
+type 1 vestibular sensory cell of epithelium of macula of utricle of membranous labyrinth : <CL_1000379>
+type 1 vestibular sensory cell of epithelium of macula of saccule of membranous labyrinth : <CL_1000380>
+type 1 vestibular sensory cell of epithelium of crista of ampulla of semicircular duct of membranous labyrinth : <CL_1000381>
+type 2 vestibular sensory cell of stato-acoustic epithelium : <CL_1000382>
+type 2 vestibular sensory cell of epithelium of macula of utricle of membranous labyrinth : <CL_1000383>
+type 2 vestibular sensory cell of epithelium of macula of saccule of membranous labyrinth : <CL_1000384>
+type 2 vestibular sensory cell of epithelium of crista of ampulla of semicircular duct of membranous labyrinth : <CL_1000385>
+melanocyte of eyelid : <CL_1000391>
+myoepithelial cell of intralobular lactiferous duct : <CL_1000394>
+endothelial cell of venous sinus of red pulp of spleen : <CL_1000397>
+endothelial cell of hepatic sinusoid : <CL_1000398>
+epithelial cell of appendix : <CL_1000405>
+myocyte of sinoatrial node : <CL_1000409>
+myocyte of atrioventricular node : <CL_1000410>
+endothelial cell of Peyer's patch : <CL_1000411>
+endothelial cell of arteriole : <CL_1000412>
+endothelial cell of artery : <CL_1000413>
+endothelial cell of venule : <CL_1000414>
+epithelial cell of gallbladder : <CL_1000415>
+obsolete myoepithelial cell of lactiferous gland : <CL_1000416>
+myoepithelial cell of sweat gland : <CL_1000417>
+myoepithelial cell of lactiferous alveolus : <CL_1000418>
+myoepithelial cell of lactiferous duct : <CL_1000419>
+myoepithelial cell of terminal lactiferous duct : <CL_1000420>
+chromaffin cell of paraaortic body : <CL_1000424>
+chromaffin cell of paraganglion : <CL_1000425>
+chromaffin cell of adrenal gland : <CL_1000426>
+adrenal cortex chromaffin cell : <CL_1000427>
+stem cell of epidermis : <CL_1000428>
+conjunctival epithelial cell : <CL_1000432>
+epithelial cell of lacrimal canaliculus : <CL_1000433>
+epithelial cell of external acoustic meatus : <CL_1000434>
+epithelial cell of lacrimal drainage system : <CL_1000435>
+epithelial cell of lacrimal sac : <CL_1000436>
+epithelial cell of nasolacrimal duct : <CL_1000437>
+epithelial cell of wall of inferior part of anal canal : <CL_1000438>
+epithelial cell of viscerocranial mucosa : <CL_1000441>
+urothelial cell of trigone of urinary bladder : <CL_1000442>
+ciliary muscle cell : <CL_1000443>
+mesothelial cell of anterior chamber of eye : <CL_1000444>
+myoepithelial cell of dilator pupillae : <CL_1000445>
+epithelial cell of stratum germinativum of esophagus : <CL_1000447>
+epithelial cell of sweat gland : <CL_1000448>
+epithelial cell of nephron : <CL_1000449>
+epithelial cell of glomerular capsule : <CL_1000450>
+obsolete epithelial cell of visceral layer of glomerular capsule : <CL_1000451>
+parietal epithelial cell : <CL_1000452>
+epithelial cell of intermediate tubule : <CL_1000453>
+kidney collecting duct epithelial cell : <CL_1000454>
+mesothelial cell of parietal peritoneum : <CL_1000456>
+mesothelial cell of visceral peritoneum : <CL_1000457>
+melanocyte of skin : <CL_1000458>
+chromaffin cell of ovary : <CL_1000465>
+chromaffin cell of right ovary : <CL_1000466>
+chromaffin cell of left ovary : <CL_1000467>
+myoepithelial cell of acinus of lactiferous gland : <CL_1000468>
+myoepithelial cell of main lactiferous duct : <CL_1000469>
+myoepithelial cell of primary lactiferous duct : <CL_1000470>
+myoepithelial cell of secondary lactiferous duct : <CL_1000471>
+myoepithelial cell of tertiary lactiferous duct : <CL_1000472>
+myoepithelial cell of quarternary lactiferous duct : <CL_1000473>
+cardiac pacemaker cell of sinoatrial node : <CL_1000477>
+transitional myocyte of sinoatrial node : <CL_1000478>
+Purkinje myocyte of atrioventricular node : <CL_1000479>
+transitional myocyte of internodal tract : <CL_1000480>
+transitional myocyte of atrioventricular bundle : <CL_1000481>
+myocardial endocrine cell of interventricular septum : <CL_1000482>
+Purkinje myocyte of internodal tract : <CL_1000483>
+Purkinje myocyte of atrioventricular bundle : <CL_1000484>
+basal cell of urothelium : <CL_1000486>
+smooth muscle cell of prostate : <CL_1000487>
+cholangiocyte : <CL_1000488>
+reticular cell of splenic cord : <CL_1000489>
+mesothelial cell of peritoneum : <CL_1000490>
+mesothelial cell of pleura : <CL_1000491>
+mesothelial cell of parietal pleura : <CL_1000492>
+mesothelial cell of visceral pleura : <CL_1000493>
+nephron tubule epithelial cell : <CL_1000494>
+small intestine goblet cell : <CL_1000495>
+kidney cell : <CL_1000497>
+kidney interstitial cell : <CL_1000500>
+kidney medulla cell : <CL_1000504>
+kidney pelvis cell : <CL_1000505>
+kidney tubule cell : <CL_1000507>
+kidney glomerular epithelial cell : <CL_1000510>
+kidney medulla collecting duct epithelial cell : <CL_1000546>
+kidney inner medulla collecting duct epithelial cell : <CL_1000547>
+kidney outer medulla collecting duct epithelial cell : <CL_1000548>
+kidney cortex collecting duct epithelial cell : <CL_1000549>
+kidney papillary duct principal epithelial cell : <CL_1000550>
+inner renal cortex cell : <CL_1000596>
+papillary tips cell : <CL_1000597>
+lower urinary tract cell : <CL_1000600>
+ureteral cell : <CL_1000601>
+kidney nerve cell : <CL_1000606>
+kidney corpuscule cell : <CL_1000612>
+kidney cortex tubule cell : <CL_1000615>
+kidney outer medulla cell : <CL_1000616>
+kidney inner medulla cell : <CL_1000617>
+juxtaglomerular complex cell : <CL_1000618>
+kidney cortex interstitial cell : <CL_1000681>
+kidney medulla interstitial cell : <CL_1000682>
+kidney interstitial myofibroblast : <CL_1000691>
+kidney interstitial fibroblast : <CL_1000692>
+kidney interstitial fibrocyte : <CL_1000693>
+kidney interstitial alternatively activated macrophage : <CL_1000695>
+kidney interstitial inflammatory macrophage : <CL_1000696>
+kidney interstitial suppressor macrophage : <CL_1000697>
+kidney resident macrophage : <CL_1000698>
+kidney resident dendritic cell : <CL_1000699>
+kidney pelvis smooth muscle cell : <CL_1000702>
+kidney pelvis urothelial cell : <CL_1000703>
+ureter urothelial cell : <CL_1000706>
+ureter adventitial cell : <CL_1000708>
+kidney cortex collecting duct principal cell : <CL_1000714>
+kidney cortex collecting duct intercalated cell : <CL_1000715>
+kidney outer medulla collecting duct principal cell : <CL_1000716>
+kidney outer medulla collecting duct intercalated cell : <CL_1000717>
+kidney inner medulla collecting duct principal cell : <CL_1000718>
+kidney inner medulla collecting duct intercalated cell : <CL_1000719>
+kidney papillary duct intercalated cell : <CL_1000720>
+kidney papillary duct principal cell : <CL_1000721>
+glomerular mesangial cell : <CL_1000742>
+glomerular cell : <CL_1000746>
+kidney connecting tubule epithelial cell : <CL_1000768>
+kidney inner medulla interstitial cell : <CL_1000803>
+kidney outer medulla interstitial cell : <CL_1000804>
+kidney proximal convoluted tubule epithelial cell : <CL_1000838>
+kidney proximal straight tubule epithelial cell : <CL_1000839>
+kidney distal convoluted tubule epithelial cell : <CL_1000849>
+macula densa epithelial cell : <CL_1000850>
+kidney blood vessel cell : <CL_1000854>
+kidney arterial blood vessel cell : <CL_1000891>
+kidney capillary endothelial cell : <CL_1000892>
+kidney venous blood vessel cell : <CL_1000893>
+kidney loop of Henle epithelial cell : <CL_1000909>
+ureter smooth muscle cell : <CL_1000979>
+glomerular capillary endothelial cell : <CL_1001005>
+kidney afferent arteriole cell : <CL_1001006>
+kidney efferent arteriole cell : <CL_1001009>
+kidney loop of Henle ascending limb epithelial cell : <CL_1001016>
+kidney loop of Henle descending limb epithelial cell : <CL_1001021>
+peritubular capillary endothelial cell : <CL_1001033>
+vasa recta cell : <CL_1001036>
+kidney cortex artery cell : <CL_1001045>
+kidney cortex vein cell : <CL_1001052>
+kidney artery smooth muscle cell : <CL_1001064>
+kidney arteriole smooth muscle cell : <CL_1001066>
+kidney venous system smooth muscle cell : <CL_1001068>
+kidney afferent arteriole endothelial cell : <CL_1001096>
+kidney afferent arteriole smooth muscle cell : <CL_1001097>
+kidney efferent arteriole endothelial cell : <CL_1001099>
+kidney efferent arteriole smooth muscle cell : <CL_1001100>
+kidney loop of Henle thick ascending limb epithelial cell : <CL_1001106>
+kidney loop of Henle thin ascending limb epithelial cell : <CL_1001107>
+kidney loop of Henle medullary thick ascending limb epithelial cell : <CL_1001108>
+kidney loop of Henle cortical thick ascending limb epithelial cell : <CL_1001109>
+kidney loop of Henle thin descending limb epithelial cell : <CL_1001111>
+kidney outer medulla peritubular capillary cell : <CL_1001123>
+kidney cortex peritubular capillary cell : <CL_1001124>
+inner renal medulla vasa recta cell : <CL_1001126>
+outer renal medulla vasa recta cell : <CL_1001127>
+vasa recta ascending limb cell : <CL_1001131>
+arcuate artery cell : <CL_1001135>
+interlobular artery cell : <CL_1001138>
+arcuate vein cell : <CL_1001142>
+interlobular vein cell : <CL_1001145>
+inner medulla vasa recta ascending limb cell : <CL_1001209>
+outer medulla vasa recta ascending limb cell : <CL_1001210>
+arcuate artery endothelial cell : <CL_1001213>
+arcuate artery smooth muscle cell : <CL_1001214>
+interlobulary artery endothelial cell : <CL_1001216>
+interlobulary artery smooth muscle cell : <CL_1001217>
+arcuate vein endothelial cell : <CL_1001220>
+arcuate vein smooth muscle cell : <CL_1001221>
+interlobulary vein endothelial cell : <CL_1001223>
+interlobulary vein smooth muscle cell : <CL_1001224>
+kidney collecting duct cell : <CL_1001225>
+vasa recta descending limb cell : <CL_1001285>
+inner medulla vasa recta descending limb cell : <CL_1001286>
+outer medulla vasa recta descending limb cell : <CL_1001287>
+renal interstitial pericyte : <CL_1001318>
+bladder cell : <CL_1001319>
+urethra cell : <CL_1001320>
+bladder urothelial cell : <CL_1001428>
+urethra urothelial cell : <CL_1001430>
+kidney collecting duct principal cell : <CL_1001431>
+kidney collecting duct intercalated cell : <CL_1001432>
+epithelial cell of exocrine pancreas : <CL_1001433>
+olfactory bulb interneuron : <CL_1001434>
+periglomerular cell : <CL_1001435>
+hair-tylotrich neuron : <CL_1001436>
+hair-down neuron : <CL_1001437>
+sensory neuron of dorsal root ganglion : <CL_1001451>
+medium spiny neuron : <CL_1001474>
+mitral cell : <CL_1001502>
+olfactory bulb tufted cell : <CL_1001503>
+parvocellular neurosecretory cell : <CL_1001505>
+glycinergic neuron : <CL_1001509>
+intestinal enteroendocrine cell : <CL_1001516>
+stomach enteroendocrine cell : <CL_1001517>
+vomeronasal sensory neuron : <CL_1001561>
+obsolete bronchioalveolar stem cells : <CL_1001566>
+lung endothelial cell : <CL_1001567>
+pulmonary artery endothelial cell : <CL_1001568>
+hippocampal interneuron : <CL_1001569>
+hippocampal pyramidal neuron : <CL_1001571>
+colon endothelial cell : <CL_1001572>
+nasopharyngeal epithelial cell : <CL_1001573>
+uterine cervix squamous cell : <CL_1001575>
+oral mucosa squamous cell : <CL_1001576>
+tonsil squamous cell : <CL_1001577>
+vagina squamous cell : <CL_1001578>
+cerebral cortex glial cell : <CL_1001579>
+hippocampal glial cell : <CL_1001580>
+lateral ventricle glial cell : <CL_1001581>
+lateral ventricle neuron : <CL_1001582>
+obsolete breast adipocyte : <CL_1001583>
+appendix glandular cell : <CL_1001585>
+mammary gland glandular cell : <CL_1001586>
+uterine cervix glandular cell : <CL_1001587>
+colon glandular cell : <CL_1001588>
+duodenum glandular cell : <CL_1001589>
+epididymis glandular cell : <CL_1001590>
+oviduct glandular cell : <CL_1001591>
+gallbladder glandular cell : <CL_1001592>
+parathyroid glandular cell : <CL_1001593>
+rectum glandular cell : <CL_1001595>
+salivary gland glandular cell : <CL_1001596>
+seminal vesicle glandular cell : <CL_1001597>
+small intestine glandular cell : <CL_1001598>
+pancreas exocrine glandular cell : <CL_1001599>
+adrenal gland glandular cell : <CL_1001601>
+cerebral cortex endothelial cell : <CL_1001602>
+lung macrophage : <CL_1001603>
+foreskin keratinocyte : <CL_1001606>
+articular chondrocyte : <CL_1001607>
+foreskin fibroblast : <CL_1001608>
+muscle fibroblast : <CL_1001609>
+bone marrow hematopoietic cell : <CL_1001610>
+cerebellar neuron : <CL_1001611>
+epidermal melanocyte : <CL_2000000>
+peripheral blood mononuclear cell : <CL_2000001>
+decidual cell : <CL_2000002>
+pituitary gland cell : <CL_2000004>
+brain macroglial cell : <CL_2000005>
+tonsil germinal center B cell : <CL_2000006>
+articular chondrocyte of knee joint : <CL_2000007>
+microvascular endothelial cell : <CL_2000008>
+obsolete microvascular endothelium blood vessel endothelial cell : <CL_2000009>
+dermis blood vessel endothelial cell : <CL_2000010>
+dermis lymphatic vessel endothelial cell : <CL_2000011>
+fibroblast of pedal digit skin : <CL_2000012>
+fibroblast of skin of abdomen : <CL_2000013>
+fibroblast of upper leg skin : <CL_2000014>
+fibroblast of arm : <CL_2000015>
+lung microvascular endothelial cell : <CL_2000016>
+fibroblast of peridontal ligament : <CL_2000017>
+endothelial cell of coronary artery : <CL_2000018>
+compound eye photoreceptor cell : <CL_2000019>
+inner cell mass cell : <CL_2000020>
+sebaceous gland cell : <CL_2000021>
+cardiac septum cell : <CL_2000022>
+spinal cord ventral column interneuron : <CL_2000023>
+spinal cord medial motor column neuron : <CL_2000024>
+spinal cord oligodendrocyte : <CL_2000025>
+obsolete cerebellum Golgi cell : <CL_2000026>
+cerebellum basket cell : <CL_2000027>
+cerebellum glutamatergic neuron : <CL_2000028>
+central nervous system neuron : <CL_2000029>
+hypothalamus cell : <CL_2000030>
+lateral line ganglion neuron : <CL_2000031>
+peripheral nervous system neuron : <CL_2000032>
+limb basal cell of epidermis : <CL_2000033>
+anterior lateral line neuromast hair cell : <CL_2000034>
+anterior lateral line neuromast mantle cell : <CL_2000035>
+anterior lateral line neuromast supporting cell : <CL_2000036>
+posterior lateral line neuromast hair cell : <CL_2000037>
+posterior lateral line neuromast mantle cell : <CL_2000038>
+posterior lateral line neuromast supporting cell : <CL_2000039>
+bladder microvascular endothelial cell : <CL_2000040>
+dermis microvascular lymphatic vessel endothelial cell : <CL_2000041>
+embryonic fibroblast : <CL_2000042>
+brain pericyte : <CL_2000043>
+brain microvascular endothelial cell : <CL_2000044>
+foreskin melanocyte : <CL_2000045>
+ventricular cardiac muscle cell : <CL_2000046>
+brainstem motor neuron : <CL_2000047>
+anterior horn motor neuron : <CL_2000048>
+primary motor cortex pyramidal cell : <CL_2000049>
+obsolete retina retinal ganglion cell : <CL_2000050>
+splenic fibroblast : <CL_2000051>
+umbilical artery endothelial cell : <CL_2000052>
+splenic endothelial cell : <CL_2000053>
+hepatic pit cell : <CL_2000054>
+liver dendritic cell : <CL_2000055>
+Meynert cell : <CL_2000056>
+femural osteoblast : <CL_2000057>
+calvarial osteoblast : <CL_2000058>
+prostate gland microvascular endothelial cell : <CL_2000059>
+placental villous trophoblast : <CL_2000060>
+placental amniotic mesenchymal stromal cell : <CL_2000061>
+placental villus capillary endothelial cell : <CL_2000062>
+ovarian fibroblast : <CL_2000063>
+ovarian surface epithelial cell : <CL_2000064>
+ovarian microvascular endothelial cell : <CL_2000065>
+cardiac ventricle fibroblast : <CL_2000066>
+cardiac atrium fibroblast : <CL_2000067>
+pericardium fibroblast : <CL_2000068>
+gallbladder fibroblast : <CL_2000069>
+optic choroid fibroblast : <CL_2000070>
+mammary microvascular endothelial cell : <CL_2000071>
+adipose microvascular endothelial cell : <CL_2000072>
+migratory cardiac neural crest cell : <CL_2000073>
+splenocyte : <CL_2000074>
+anterior visceral endoderm cell : <CL_2000075>
+hindlimb stylopod vein endothelial cell : <CL_2000076>
+skeletal muscle tissue of pectoralis major striated muscle cell : <CL_2000077>
+placental pericyte : <CL_2000078>
+mesenchymal stem cell of femoral bone marrow : <CL_2000079>
+mesenchymal stem cell of abdominal adipose tissue : <CL_2000080>
+melanocyte of skin of face : <CL_2000081>
+melanocyte of foreskin : <CL_2000082>
+hair follicle dermal papilla cell of scalp : <CL_2000083>
+conjunctiva goblet cell : <CL_2000084>
+mononuclear cell of umbilical cord : <CL_2000085>
+neocortex basket cell : <CL_2000086>
+dentate gyrus of hippocampal formation basket cell : <CL_2000087>
+Ammon's horn basket cell : <CL_2000088>
+dentate gyrus granule cell : <CL_2000089>
+dentate gyrus of hippocampal formation stellate cell : <CL_2000090>
+endometrial microvascular endothelial cell : <CL_2000091>
+hair follicular keratinocyte : <CL_2000092>
+bronchus fibroblast of lung : <CL_2000093>
+nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa : <CL_2000094>
+cord blood hematopoietic stem cell : <CL_2000095>
+fibroblast of the reticular layer of dermis : <CL_2000096>
+midbrain dopaminergic neuron : <CL_2000097>
+ciliated epithelial cell of esophagus : <CL_3000000>
+Hofbauer cell : <CL_3000001>
+sympathetic noradrenergic neuron : <CL_3000002>
+sympathetic cholinergic neuron : <CL_3000003>
+peripheral sensory neuron : <CL_3000004>
+fibroblast of breast : <CL_4006000>
+fibroblast of skin of scalp : <CL_4006001>
+beta motor neuron : <CL_4023000>
+static beta motor neuron : <CL_4023001>
+dynamic beta motor neuron : <CL_4023002>
+nuclear chain fiber : <CL_4023003>
+nuclear bag fiber : <CL_4023004>
+dynamic nuclear bag fiber : <CL_4023005>
+static nuclear bag fiber : <CL_4023006>
+L2/3 bipolar vip GABAergic interneuron (Mmus) : <CL_4023007>
+intratelencephalic-projecting glutamatergic cortical neuron : <CL_4023008>
+extratelencephalic-projecting glutamatergic cortical neuron : <CL_4023009>
+alpha7 GABAergic cortical interneuron (Mmus) : <CL_4023010>
+lamp5 GABAergic cortical interneuron : <CL_4023011>
+near-projecting glutamatergic cortical neuron : <CL_4023012>
+corticothalamic-projecting glutamatergic cortical neuron : <CL_4023013>
+L5 vip GABAergic interneuron (Mmus) : <CL_4023014>
+sncg GABAergic cortical interneuron : <CL_4023015>
+vip GABAergic cortical interneuron : <CL_4023016>
+sst GABAergic cortical interneuron : <CL_4023017>
+pvalb GABAergic cortical interneuron : <CL_4023018>
+L5/6 cck, vip GABAergic interneuron (Mmus) : <CL_4023019>
+dynamic gamma motor neuron : <CL_4023020>
+static gamma motor neuron : <CL_4023021>
+canopy lamp5 GABAergic cortical interneuron (Mmus) : <CL_4023022>
+L5,6 neurogliaform lamp5 GABAergic interneuron (Mmus) : <CL_4023023>
+neurogliaform lamp5 GABAergic cortical interneuron (Mmus) : <CL_4023024>
+long-range projecting sst GABAergic cortical interneuron (Mmus) : <CL_4023025>
+direct pathway medium spiny neuron : <CL_4023026>
+L5 sst T-Martinotti interneuron (Mmus) : <CL_4023027>
+L5 non-Martinotti sst GABAergic interneuron (Mmus) : <CL_4023028>
+indirect pathway medium spiny neuron : <CL_4023029>
+L2/3/5 fan Martinotti sst GABAergic interneuron (Mmus) : <CL_4023030>
+L4 sst Martinotti interneuron (Mmus) : <CL_4023031>
+ON retinal ganglion cell : <CL_4023032>
+OFF retinal ganglion cell : <CL_4023033>
+obsolete L2/3 pvalb-like sst GABAergic cortical interneuron (Mus musculus) : <CL_4023034>
+lateral ganglionic eminence derived neuron : <CL_4023035>
+chandelier pvalb GABAergic cortical interneuron : <CL_4023036>
+L6b glutamatergic cortical neuron : <CL_4023038>
+amygdala excitatory neuron : <CL_4023039>
+L2/3-6 intratelencephalic projecting glutamatergic neuron : <CL_4023040>
+L5 extratelencephalic projecting glutamatergic cortical neuron : <CL_4023041>
+L6 corticothalamic-projecting glutamatergic cortical neuron : <CL_4023042>
+L5/6 near-projecting glutamatergic neuron of the primary motor cortex : <CL_4023043>
+non-medulla, extratelencephalic-projecting glutamatergic neuron of the primary motor cortex : <CL_4023044>
+medulla-projecting glutamatergic neuron of the primary motor cortex : <CL_4023045>
+L6b glutamatergic neuron of the primary motor cortex : <CL_4023046>
+L2/3 intratelencephalic projecting glutamatergic neuron of the primary motor cortex : <CL_4023047>
+L4/5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex : <CL_4023048>
+L5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex : <CL_4023049>
+L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex : <CL_4023050>
+vascular leptomeningeal cell : <CL_4023051>
+Betz upper motor neuron : <CL_4023052>
+spinal interneuron synapsing Betz cell : <CL_4023053>
+mesothelial fibroblast : <CL_4023054>
+corticothalamic VAL/VM projecting glutamatergic neuron of the primary motor cortex : <CL_4023055>
+vascular leptomeningeal cell (Mmus) : <CL_4023056>
+cerebellar inhibitory GABAergic interneuron : <CL_4023057>
+mesothelial fibroblast of the leptomeninx : <CL_4023058>
+differentiation-committed oligodendrocyte precursor : <CL_4023059>
+hippocampal CA1-3 neuron : <CL_4023060>
+hippocampal CA4 neuron : <CL_4023061>
+dentate gyrus neuron : <CL_4023062>
+medial ganglionic eminence derived interneuron : <CL_4023063>
+caudal ganglionic eminence derived interneuron : <CL_4023064>
+meis2 expressing cortical GABAergic cell : <CL_4023065>
+horizontal pyramidal neuron : <CL_4023066>
+obsolete Martinotti morphology L2/3 pvalb-like sst GABAergic cortical interneuron (Mus musculus) : <CL_4023067>
+thalamic excitatory neuron : <CL_4023068>
+medial ganglionic eminence derived GABAergic cortical interneuron : <CL_4023069>
+caudal ganglionic eminence derived GABAergic cortical interneuron : <CL_4023070>
+L5/6 cck GABAergic interneuron (Mmus) : <CL_4023071>
+brain vascular cell : <CL_4023072>
+obsolete choroid plexus cell : <CL_4023073>
+mammillary body neuron : <CL_4023074>
+L6 th sst GABAergic interneuron (Mmus) : <CL_4023075>
+Martinotti neuron : <CL_4023076>
+bitufted neuron : <CL_4023077>
+obsolete basket morphology L2/3 pvalb-like sst GABAergic cortical interneuron (Mus musculus) : <CL_4023078>
+midbrain-derived inhibitory neuron : <CL_4023079>
+stellate L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex (Mmus) : <CL_4023080>
+inverted L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex (Mmus) : <CL_4023081>
+chandelier cell : <CL_4023083>
+T Martinotti neuron : <CL_4023086>
+fan Martinotti neuron : <CL_4023087>
+large basket cell : <CL_4023088>
+nest basket cell : <CL_4023089>
+small basket cell : <CL_4023090>
+inverted pyramidal neuron : <CL_4023092>
+stellate pyramidal neuron : <CL_4023093>
+tufted pyramidal neuron : <CL_4023094>
+untufted pyramidal neuron : <CL_4023095>
+arachnoid barrier cell : <CL_4023097>
+obsolete L2/3 intratelencephalic projecting glutamatergic neuron of the primary motor cortex (Homo sapiens) : <CL_4023098>
+obsolete L5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex (Homo sapiens) : <CL_4023099>
+obsolete L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex (Homo sapiens) : <CL_4023100>
+obsolete L5/6 near-projecting glutamatergic neuron of the primary motor cortex (Homo sapiens) : <CL_4023101>
+obsolete L5/6 near-projecting glutamatergic neuron of the primary motor cortex (Callithrix jacchus) : <CL_4023102>
+obsolete L2/3 intratelencephalic projecting glutamatergic neuron of the primary motor cortex (Callithrix jacchus) : <CL_4023103>
+obsolete L5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex (Callithrix jacchus) : <CL_4023104>
+obsolete L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex (Callithrix jacchus) : <CL_4023105>
+obsolete meis2 expressing cortical GABAergic cell (Callithrix jacchus) : <CL_4023106>
+reticulospinal neuron : <CL_4023107>
+oxytocin-secreting magnocellular cell : <CL_4023108>
+vasopressin-secreting magnocellular cell : <CL_4023109>
+amygdala pyramidal neuron : <CL_4023110>
+cerebral cortex pyramidal neuron : <CL_4023111>
+vestibular afferent neuron : <CL_4023112>
+bouton vestibular afferent neuron : <CL_4023113>
+calyx vestibular afferent neuron : <CL_4023114>
+type 1 spiral ganglion neuron : <CL_4023115>
+type 2 spiral ganglion neuron : <CL_4023116>
+L5/6 non-Martinotti sst GABAergic interneuron (Mmus) : <CL_4023118>
+displaced amacrine cell : <CL_4023119>
+cochlea auditory hair cell : <CL_4023120>
+sst chodl GABAergic cortical interneuron : <CL_4023121>
+oxytocin receptor sst GABAergic cortical interneuron : <CL_4023122>
+hypothalamus kisspeptin neuron : <CL_4023123>
+dentate gyrus kisspeptin neuron : <CL_4023124>
+KNDy neuron : <CL_4023125>
+arcuate nucleus of hypothalamus KNDy neuron : <CL_4023127>
+rostral periventricular region of the third ventricle KNDy neuron : <CL_4023128>
+retinoblast : <CL_4023129>
+kisspeptin neuron : <CL_4023130>
+myelinating glial cell : <CL_4023154>
+octopus cell of the mammalian cochlear nucleus : <CL_4023158>
+double bouquet cell : <CL_4023159>
+cartwheel cell : <CL_4023160>
+unipolar brush cell : <CL_4023161>
+bushy cell : <CL_4023162>
+spherical bushy cell : <CL_4023163>
+globular bushy cell : <CL_4023164>
+somatosensory neuron : <CL_4023168>
+trigeminal neuron : <CL_4023169>
+trigeminal sensory neuron : <CL_4023170>
+trigeminal motor neuron : <CL_4023171>
+hypendymal cell : <CL_4023181>
+koniocellular cell : <CL_4023187>
+midget ganglion cell of retina : <CL_4023188>
+parasol ganglion cell of retina : <CL_4023189>
+pulmonary capillary endothelial cell : <CL_4028001>
+alveolar capillary type 1 endothelial cell : <CL_4028002>
+alveolar capillary type 2 endothelial cell : <CL_4028003>
+alveolar type 1 fibroblast cell : <CL_4028004>
+alveolar type 2 fibroblast cell : <CL_4028006>
+gamete-nursing cell : <CL_4029001>
+germline-derived nurse cell : <CL_4029002>
+somatic nurse-like cell : <CL_4029003>
+choroidal melanocyte : <CL_4030000>
+stromal cell of thymus : <CL_4030001>
+effector memory CD45RA-positive, alpha-beta T cell, terminally differentiated : <CL_4030002>
+interstitial cell of thymus : <CL_4030003>
+thymic nurse cell : <CL_4030004>
+kidney collecting duct beta-intercalated cell : <CL_4030005>
+fallopian tube secretory epithelial cell : <CL_4030006>
+fallopian tube ciliated cell : <CL_4030007>
+pronephric podocyte : <CL_4030008>
+epithelial cell of proximal tubule segment 1 : <CL_4030009>
+epithelial cell of proximal tubule segment 2 : <CL_4030010>
+epithelial cell of proximal tubule segment 3 : <CL_4030011>
+kidney loop of Henle short descending thin limb epithelial cell : <CL_4030012>
+kidney loop of Henle long descending thin limb outer medulla epithelial cell : <CL_4030013>
+kidney loop of Henle long descending thin limb inner medulla epithelial cell : <CL_4030014>
+kidney collecting duct alpha-intercalated cell : <CL_4030015>
+epithelial cell of early distal convoluted tubule : <CL_4030016>
+epithelial cell of late distal convoluted tubule : <CL_4030017>
+kidney connecting tubule principal cell : <CL_4030018>
+kidney connecting tubule intercalated cell : <CL_4030019>
+kidney connecting tubule alpha-intercalated cell : <CL_4030020>
+kidney connecting tubule beta-intercalated cell : <CL_4030021>
+renal medullary fibroblast : <CL_4030022>
+respiratory hillock cell : <CL_4030023>
+hillock cell : <CL_4030024>
+renal cortical fibroblast : <CL_4030025>
+BEST4+ intestinal epithelial cell, human : <CL_4030026>
+GABAergic amacrine cell : <CL_4030027>
+glycinergic amacrine cell : <CL_4030028>
+blood lymphocyte : <CL_4030029>
+peripheral blood lymphocyte : <CL_4030030>
+interstitial cell : <CL_4030031>
+valve interstitial cell : <CL_4030032>
+valve endothelial cell : <CL_4030033>
+respiratory ciliated cell : <CL_4030034>
+dental pulp stem cell : <CL_4030035>
+early spermatid : <CL_4030036>
+late spermatid : <CL_4030037>
+CD24-positive, CD-133-positive, vimentin-positive proximal tubular cell : <CL_4030038>
+von Economo neuron : <CL_4030039>
+endometrial ciliated epithelial cell : <CL_4030040>
+luminal endometrial ciliated epithelial cell : <CL_4030041>
+glandular endometrial ciliated epithelial cell : <CL_4030042>
+matrix D1 medium spiny neuron : <CL_4030043>
+matrix D2 medium spiny neuron : <CL_4030047>
+striosomal D1 medium spiny neuron : <CL_4030048>
+striosomal D2 medium spiny neuron : <CL_4030049>
+D1/D2-hybrid medium spiny neuron : <CL_4030050>
+nucleus accumbens shell and olfactory tubercle D1 medium spiny neuron : <CL_4030051>
+nucleus accumbens shell and olfactory tubercle D2 medium spiny neuron : <CL_4030052>
+Island of Calleja granule cell : <CL_4030053>
+RXFP1-positive interface island D1-medium spiny neuron : <CL_4030054>
+intermediate cell of urothelium : <CL_4030055>
+umbrella cell of urothelium : <CL_4030056>
+eccentric medium spiny neuron : <CL_4030057>
+TCR-positive macrophage : <CL_4030058>
+L2/3 intratelencephalic projecting glutamatergic neuron : <CL_4030059>
+L2 intratelencephalic projecting glutamatergic neuron : <CL_4030060>
+L3 intratelencephalic projecting glutamatergic neuron : <CL_4030061>
+L4/5 intratelencephalic projecting glutamatergic neuron : <CL_4030062>
+L4 intratelencephalic projecting glutamatergic neuron : <CL_4030063>
+L5 intratelencephalic projecting glutamatergic neuron : <CL_4030064>
+L6 intratelencephalic projecting glutamatergic neuron : <CL_4030065>
+ureteric bud cell : <CL_4030066>
+L5/6 near-projecting glutamatergic neuron : <CL_4030067>
+L6 intratelencephalic projecting Car3 glutamatergic neuron : <CL_4030068>
+club-like cell of the urethral epithelium : <CL_4032000>
+reelin GABAergic cortical interneuron : <CL_4032001>
+endothelial cell of venule of lymph node : <CL_4033000>
+endothelial cell of arteriole of lymph node : <CL_4033001>
+neuroendocrine cell of epithelium of crypt of Lieberkuhn : <CL_4033002>
+myoepithelial cell of bronchus submucosal gland : <CL_4033003>
+smooth muscle cell of taenia coli : <CL_4033004>
+serous secreting cell of bronchus submucosal gland : <CL_4033005>
+endothelial cell of efferent lymphatic vessel : <CL_4033006>
+brush cell of epithelium of lobar bronchus : <CL_4033007>
+vein endothelial cell of respiratory system : <CL_4033008>
+goblet cell of epithelium of lobar bronchus : <CL_4033009>
+neuroendocrine cell of epithelium of lobar bronchus : <CL_4033010>
+smooth muscle cell of large intestine smooth muscle circular layer : <CL_4033011>
+smooth muscle cell of large intestine smooth muscle longitudinal layer : <CL_4033012>
+suprabasal keratinocyte : <CL_4033013>
+peg cell : <CL_4033014>
+retinal astrocyte : <CL_4033015>
+secondary crest myofibroblast : <CL_4033016>
+bronchiolar smooth muscle cell : <CL_4033017>
+lung megakaryocyte : <CL_4033018>
+ON-blue cone bipolar cell : <CL_4033019>
+mucus secreting cell of trachea gland : <CL_4033020>
+myoepithelial cell of trachea gland : <CL_4033021>
+mucus secreting cell of bronchus submucosal gland : <CL_4033022>
+airway submucosal gland collecting duct epithelial cell : <CL_4033023>
+airway submucosal gland duct basal cell : <CL_4033024>
+perichondrial fibroblast : <CL_4033025>
+lung perichondrial fibroblast : <CL_4033026>
+diffuse bipolar 1 cell : <CL_4033027>
+diffuse bipolar 2 cell : <CL_4033028>
+diffuse bipolar 3a cell : <CL_4033029>
+diffuse bipolar 3b cell : <CL_4033030>
+diffuse bipolar 4 cell : <CL_4033031>
+diffuse bipolar 6 cell : <CL_4033032>
+flat midget bipolar cell : <CL_4033033>
+invaginating midget bipolar cell : <CL_4033034>
+giant bipolar cell : <CL_4033035>
+OFFx cell : <CL_4033036>
+mucus secreting cell of tracheobronchial tree submucosal gland : <CL_4033037>
+lung resident memory CD4-positive, alpha-beta T cell : <CL_4033038>
+lung resident memory CD8-positive, alpha-beta T cell : <CL_4033039>
+lung resident memory CD8-positive, CD103-positive, alpha-beta T cell : <CL_4033040>
+CCL3-positive alveolar macrophage : <CL_4033041>
+metallothionein-positive alveolar macrophage : <CL_4033042>
+lung interstitial macrophage : <CL_4033043>
+deuterosomal cell : <CL_4033044>
+lung migratory dendritic cell : <CL_4033045>
+ON midget ganglion cell : <CL_4033046>
+OFF midget ganglion cell : <CL_4033047>
+respiratory suprabasal cell : <CL_4033048>
+taste receptor cell of tongue : <CL_4033049>
+catecholaminergic neuron : <CL_4033050>
+OFF parasol ganglion cell : <CL_4033051>
+ON parasol ganglion cell : <CL_4033052>
+small bistratified retinal ganglion cell : <CL_4033053>
+perivascular cell : <CL_4033054>
+airway submucosal gland duct ciliated cell : <CL_4033055>
+onychocyte : <CL_4033056>
+luminal adaptive secretory precursor cell of mammary gland : <CL_4033057>
+luminal hormone-sensing cell of mammary gland : <CL_4033058>
+lactocyte type 1 : <CL_4033059>
+lactocyte type 2 : <CL_4033060>
+endothelial cell of central vein of liver : <CL_4033061>
+interstitial extravillous trophoblast cell : <CL_4033062>
+endovascular extravillous trophoblast cell : <CL_4033063>
+uterine resident macrophage : <CL_4033064>
+glial restricted tripotential precursor cell : <CL_4040000>
+chorionic girdle cell : <CL_4040001>
+enteroglial cell : <CL_4040002>
+fetal pre-type II pneumocyte : <CL_4040003>
+mesenchymal stem cell of orbital adipose tissue : <CL_4040004>
+mesenchymal stem cell of apical papilla : <CL_4040005>
+has_not_completed : <CL_4030044>
+lacks_part : <CL_4030045>
+lacks_plasma_membrane_part : <CL_4030046>
