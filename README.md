@@ -1,7 +1,8 @@
 # **RAG-Based Multi-Ontology Annotation Framework**
 
 This repository contains the code, experiments, and analysis for a study proposing a new **Retrieval-Augmented Generation (RAG)** approach tailored for the automated annotation of biological sample metadata.
-
+## **Previous experiments github**
+[Base model + Fine-tuned model + RAG with BioPortal](https://github.com/andreargr/BiosamplesRAGAnnotation)
 ## **Overview**
 
 Traditional metadata annotation pipelines often rely on single-ontology retrieval or focus on isolated biological sample categories, which limits the richness and robustness of the resulting annotations. In this study, we introduce a **two-stage RAG-based method** designed to overcome these limitations:
