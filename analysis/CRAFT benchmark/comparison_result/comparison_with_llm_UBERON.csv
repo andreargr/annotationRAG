@@ -1,0 +1,2505 @@
+Label,id_label,GS_ontology_id,LLM_UBERON_id,match,LLM_UBERON_label
+Striatal,striatum,UBERON:0002435,UBERON_0005382,False,dorsal striatum
+striatal,striatum,UBERON:0002435,UBERON_0005382,False,dorsal striatum
+granule cell layer of ... dentate gyrus,dentate gyrus granule cell layer,UBERON:0005381,UBERON_0005381,True,
+striatum,striatum,UBERON:0002435,UBERON_0005382,False,dorsal striatum
+striata,striatum,UBERON:0002435,UBERON_0000369,False,corpus striatum
+Brain,brain,UBERON:0000955,UBERON_0000955,True,
+brain,brain,UBERON:0000955,UBERON_0003961,False,cingulum of brain
+dentate cell layers of ... hippocampus,layer of dentate gyrus,UBERON:0002304,UBERON_0001885,False,dentate gyrus of hippocampal formation
+spinal nucleus of ... bulbocavernosus,nucleus of the bulbocavernosus,UBERON:0018545,UBERON_0018545,True,
+CNS,central nervous system,UBERON:0001017,UBERON_0001017,True,
+dentate gyrus cell layers of ... hippocampus,layer of dentate gyrus,UBERON:0002304,UBERON_0001885,False,dentate gyrus of hippocampal formation
+dorsal striatum,dorsal striatum,UBERON:0005382,UBERON_0005382,True,
+nervous system,nervous system,UBERON:0001016,UBERON_0000010,False,peripheral nervous system
+corpus callosum,corpus callosum,UBERON:0002336,UBERON_0015510,False,body of corpus callosum
+forebrain,forebrain,UBERON:0001890,UBERON_2000779,False,lateral forebrain bundle telencephalon
+telencephalic,telencephalon,UBERON:0001893,UBERON_0000204,False,ventral part of telencephalon
+cerebellar,cerebellum,UBERON:0002037,UBERON_0002037,True,
+optic chiasm,optic chiasma,UBERON:0000959,UBERON_0000959,True,
+basal forebrain,basal forebrain,UBERON:0002743,UBERON_0002743,True,
+spleens,spleen,UBERON:0002106,UBERON_0002106,True,
+Brains,brain,UBERON:0000955,UBERON_0000955,True,
+brains,brain,UBERON:0000955,UBERON_0000955,True,
+anatomic,anatomical entity,UBERON:0001062,UBERON_0000061,False,anatomical structure
+nucleus,neural nucleus,UBERON:0000125,UBERON_0000125,True,
+pyramidal ... cell layers of ... hippocampus,hippocampus pyramidal layer,UBERON:0002313,UBERON_0002313,True,
+nucleus of ... solitary tract,nucleus of solitary tract,UBERON:0009050,UBERON_0009050,True,
+basal ganglia,collection of basal ganglia,UBERON:0010011,UBERON_0010011,True,
+neocortical,neocortex,UBERON:0001950,UBERON_0001950,True,
+cerebrum,telencephalon,UBERON:0001893,-,False,-
+cell layers,cell layer,UBERON:0000119,UBERON_0011946,False,subluminal layer of epithelium
+cerebral,telencephalon,UBERON:0001893,-,False,-
+left ventricle,heart left ventricle,UBERON:0002084,UBERON_0002084,True,
+retinal ganglion,ganglionic layer of retina,UBERON:0001792,UBERON_0001792,True,
+head,head,UBERON:0000033,UBERON_0006056,False,posterior surface of head
+iris epithelium,iris epithelium,UBERON:0002506,UBERON_0007625,False,pigment epithelium of eye
+corneal,cornea,UBERON:0000964,UBERON_0000964,True,
+aqueous humor drainage structures,aqueous drainage system,UBERON:0003956,-,False,-
+eyes,eye,UBERON:0000970,UBERON_0000049,False,spherical lensed eye
+blood,blood,UBERON:0000178,UBERON_0001009,False,circulatory system
+cornea,cornea,UBERON:0000964,UBERON_0000964,True,
+C,cornea,UBERON:0000964,-,False,-
+Schlemm's canal,canal of Schlemm,UBERON:0004029,UBERON_0004029,True,
+trabecular meshwork,eye trabecular meshwork,UBERON:0005969,UBERON_0005969,True,
+Aqueous humor,aqueous humor of eyeball,UBERON:0001796,UBERON_0001766,False,anterior chamber of eyeball
+TM,tympanic membrane,UBERON:0002364,UBERON_0002364,True,
+iris,iris,UBERON:0001769,UBERON_0002506,False,iris epithelium
+hands,manus,UBERON:0002398,UBERON_0013777,False,skin of palm of manus
+peritoneal,peritoneal cavity,UBERON:0001179,UBERON_0002358,False,peritoneum
+ocular,eye,UBERON:0000970,UBERON_0000970,True,
+ciliary processes,ciliary processes,UBERON:0010427,UBERON_0010427,True,
+aqueous humor,aqueous humor of eyeball,UBERON:0001796,UBERON_0001796,True,
+adult,adult organism,UBERON:0007023,UBERON_0007023,True,
+cardiovascular,cardiovascular system,UBERON:0004535,UBERON_0004535,True,
+optic,eye,UBERON:0000970,UBERON_0009906,False,root of optic nerve
+Ocular,eye,UBERON:0000970,UBERON_0000970,True,
+retinal,retina,UBERON:0000966,UBERON_0000966,True,
+I,iris,UBERON:0001769,-,False,-
+arterial,artery,UBERON:0001637,UBERON_0001637,True,
+Blood,blood,UBERON:0000178,UBERON_0001009,False,circulatory system
+SC,spinal cord,UBERON:0002240,UBERON_0002240,True,
+tail,tail,UBERON:0002415,UBERON_0002415,True,
+pupil,pupil,UBERON:0001771,UBERON_0000049,False,spherical lensed eye
+peritoneally,peritoneal cavity,UBERON:0001179,UBERON_0001179,True,
+eye,eye,UBERON:0000970,UBERON_0000049,False,spherical lensed eye
+Eyes,eye,UBERON:0000970,UBERON_0000049,False,spherical lensed eye
+anterior chambers,anterior chamber of eyeball,UBERON:0001766,UBERON_0001766,True,
+iridocorneal angle,iridocorneal angle,UBERON:0006206,UBERON_0006206,True,
+anterior chamber,anterior chamber of eyeball,UBERON:0001766,UBERON_0001766,True,
+iridocorneal angles,iridocorneal angle,UBERON:0006206,UBERON_0006206,True,
+retinas,retina,UBERON:0000966,UBERON_0000966,True,
+retina,retina,UBERON:0000966,UBERON_0000966,True,
+breast,breast,UBERON:0000310,UBERON_0001911,False,mammary gland
+embryonic,embryo,UBERON:0000922,UBERON_0000922,True,
+pancreatic,pancreas,UBERON:0001264,UBERON_0001264,True,
+Breast,breast,UBERON:0000310,UBERON_0001911,False,mammary gland
+tissues,tissue,UBERON:0000479,UBERON_0000479,True,
+tissue,tissue,UBERON:0000479,UBERON_0000479,True,
+testis,testis,UBERON:0000473,UBERON_0001343,False,seminiferous tubule of testis
+testicular,testis,UBERON:0000473,UBERON_0000473,True,
+testes,testis,UBERON:0000473,UBERON_0005212,False,Leydig cell region of testis
+heart,heart,UBERON:0000948,UBERON_0000948,True,
+liver,liver,UBERON:0002107,UBERON_0002107,True,
+Adult,adult organism,UBERON:0007023,UBERON_0007023,True,
+ovary,female gonad,UBERON:0000992,UBERON_0000992,True,
+mesoderm,mesoderm,UBERON:0000926,UBERON_0000923,False,germ layer
+Tissue,tissue,UBERON:0000479,UBERON_0000479,True,
+blastula stage,blastula stage,UBERON:0000108,UBERON_0000307,False,blastula
+lung,lung,UBERON:0002048,UBERON_0000170,False,pair of lungs
+embryos,embryo,UBERON:0000922,UBERON_0000922,True,
+spleen,spleen,UBERON:0002106,UBERON_0002106,True,
+myelin,myelin,UBERON:0000345,UBERON_0000347,False,entire myelin sheath
+embryo,embryo,UBERON:0000922,UBERON_0000922,True,
+conjuctival,conjunctiva,UBERON:0001811,UBERON_0001811,True,
+skeletal,skeleton,UBERON:0004288,UBERON_0001134,False,skeletal muscle tissue
+kidney,kidney,UBERON:0002113,UBERON_0002113,True,
+ophthalmologic,eye,UBERON:0000970,UBERON_0004859,False,eye gland
+life,life cycle,UBERON:0000104,UBERON_0000104,True,
+neurologic,nervous system,UBERON:0001016,UBERON_0001016,True,
+fetal tissue,embryonic tissue,UBERON:0005291,UBERON_0000479,False,tissue
+morulae,morula,UBERON:0000085,UBERON_0019248,False,early embryo
+morula,morula,UBERON:0000085,UBERON_0000068,False,embryo stage
+organ,organ,UBERON:0000062,UBERON_0000062,True,
+Embryonic,embryo,UBERON:0000922,UBERON_0000922,True,
+liver lobe,lobe of liver,UBERON:0001113,UBERON_0001113,True,
+blastocyst,blastocyst,UBERON:0000358,UBERON_0000358,True,
+organs,organ,UBERON:0000062,UBERON_0000062,True,
+tails,tail,UBERON:0002415,UBERON_0002415,True,
+central nervous system,central nervous system,UBERON:0001017,UBERON_0001017,True,
+epiblast,epiblast (generic),UBERON:0002532,UBERON_0008781,False,blastodisc derived epiblast
+parietal endoderm,parietal endoderm,UBERON:0008800,UBERON_0003257,False,yolk sac endoderm
+visceral endoderm,visceral endoderm,UBERON:0004877,UBERON_0004877,True,
+endoderm,endoderm,UBERON:0000925,UBERON_0000925,True,
+ventral midline of ... embryo,ventral midline,UBERON:0009571,UBERON_0009571,True,
+placental,placenta,UBERON:0001987,UBERON_0001987,True,
+coat,coat of hair,UBERON:0010166,UBERON_0002073,False,hair follicle
+trophoblast layer,trophoblast,UBERON:0000088,UBERON_0004345,False,trophectoderm
+placenta,placenta,UBERON:0001987,UBERON_0001987,True,
+trophoblast,trophoblast,UBERON:0000088,UBERON_0001987,False,placenta
+extraembryonic membranes,extraembryonic membrane,UBERON:0005631,UBERON_0005631,True,
+extraembryonic ectoderm,extraembryonic ectoderm,UBERON:0004366,UBERON_0004366,True,
+yolk sac,yolk sac,UBERON:0001040,UBERON_0008852,False,visceral yolk sac
+vessel,vessel,UBERON:0000055,UBERON_0001981,False,blood vessel
+pancreas,pancreas,UBERON:0001264,UBERON_0001264,True,
+adulthood,post-juvenile adult stage,UBERON:0000113,UBERON_0007023,False,adult organism
+ventricle,cardiac ventricle,UBERON:0002082,UBERON_0002080,False,heart right ventricle
+ventricle of ... heart,cardiac ventricle,UBERON:0002082,UBERON_0002080,False,heart right ventricle
+deciduum,decidua,UBERON:0002450,UBERON_0000453,False,decidua basalis
+epithelial,epithelium,UBERON:0000483,UBERON_0000483,True,
+capsular,capsule,UBERON:0003893,UBERON_0002015,False,kidney capsule
+epithelium,epithelium,UBERON:0000483,UBERON_0000483,True,
+capsule of ... lens,capsule of lens,UBERON:0001804,UBERON_0001804,True,
+posterior pole of ... lens,posterior pole of lens,UBERON:0016459,UBERON_0019212,False,supcapsular region of posterior region of lens
+nuclear,lens nucleus,UBERON:0000390,UBERON_0002308,False,nucleus of brain
+capsule of ... lenses,capsule of lens,UBERON:0001804,UBERON_0001804,True,
+lens epithelial,epithelium of lens,UBERON:0001803,UBERON_0005614,False,lens anterior epithelium
+thymus,thymus,UBERON:0002370,UBERON_0002370,True,
+lens epithelium,epithelium of lens,UBERON:0001803,UBERON_0005614,False,lens anterior epithelium
+capsule,capsule,UBERON:0003893,UBERON_0004641,False,spleen capsule
+cortical,cortex,UBERON:0001851,UBERON_0000956,False,cerebral cortex
+cortex,cortex,UBERON:0001851,UBERON_0000956,False,cerebral cortex
+suture,suture,UBERON:4200215,UBERON_0003685,False,cranial suture
+sutures,suture,UBERON:4200215,UBERON_0003685,False,cranial suture
+lens,lens anterior epithelium,UBERON:0005614,UBERON_0000965,False,lens of camera-type eye
+cuboidal epithelial,cuboidal epithelium,UBERON:0010077,UBERON_0000484,False,simple cuboidal epithelium
+layer of ... cells,cell layer,UBERON:0000119,UBERON_0000119,True,
+posterior pole,posterior pole of lens,UBERON:0016459,UBERON_0007625,False,pigment epithelium of eye
+life spans,life cycle,UBERON:0000104,UBERON_0000104,True,
+Ophthalmic,eye,UBERON:0000970,UBERON_0001772,False,corneal epithelium
+point,anatomical point,UBERON:0006983,UBERON_0006983,True,
+saccule,saccule of membranous labyrinth,UBERON:0001854,UBERON_0002212,False,macula of saccule of membranous labyrinth
+sensory epithelium,sensory epithelium,UBERON:0006934,UBERON_0006934,True,
+cochlear apex,apex of cochlea,UBERON:0002819,UBERON_0002227,False,spiral organ of cochlea
+efferents,efferent nerve,UBERON:0006798,UBERON_0006134,False,nerve fiber
+horizontal canal,lateral semicircular canal,UBERON:0001843,UBERON_0001843,True,
+ear,ear,UBERON:0001690,UBERON_0001691,False,external ear
+efferent,efferent nerve,UBERON:0006798,UBERON_0004640,False,renal efferent arteriole
+canals,tube,UBERON:0000025,UBERON_2001617,False,trunk sensory canal
+sensory epithelia,sensory epithelium,UBERON:0006934,UBERON_0006934,True,
+ganglionic,ganglion,UBERON:0000045,UBERON_0001805,False,autonomic ganglion
+cochlear,cochlea,UBERON:0001844,UBERON_0001844,True,
+cochlear nerve,cochlear nerve,UBERON:0004727,UBERON_0004727,True,
+cochlear nuclei,cochlear nucleus,UBERON:0001720,UBERON_0001720,True,
+vestibular sensory epithelia,vestibular epithelium,UBERON:0006932,UBERON_0006934,False,sensory epithelium
+tract,axon tract,UBERON:0001018,UBERON_0000467,False,anatomical system
+root,nerve root,UBERON:0002211,-,False,-
+vestibular end organs,vestibular organ,UBERON:0006585,UBERON_0006585,True,
+Rosenthal's canal,cochlear canal,UBERON:0006106,UBERON_0006495,False,osseus cochlear canal
+vestibular endorgans,vestibular organ,UBERON:0006585,UBERON_0006585,True,
+capillary,capillary,UBERON:0001982,UBERON_0001982,True,
+vestibular endorgan,vestibular organ,UBERON:0006585,UBERON_0004043,False,semicircular canal ampulla
+canal,tube,UBERON:0000025,UBERON_2001612,False,sensory canal
+Ears,ear,UBERON:0001690,UBERON_0002105,False,vestibulo-auditory system
+apex of ... cochlea,apex of cochlea,UBERON:0002819,UBERON_0002819,True,
+facial,face,UBERON:0001456,UBERON_0004473,False,musculature of face
+Canal,tube,UBERON:0000025,UBERON_2001612,False,sensory canal
+organ of Corti,spiral organ of cochlea,UBERON:0002227,UBERON_0002227,True,
+nerve fibers,nerve fiber,UBERON:0006134,UBERON_0006134,True,
+nerve fiber,nerve fiber,UBERON:0006134,UBERON_0006134,True,
+Nerve fibers,nerve fiber,UBERON:0006134,UBERON_0006134,True,
+tracts,axon tract,UBERON:0001018,UBERON_0002707,False,corticospinal tract
+cardially,heart,UBERON:0000948,UBERON_0000948,True,
+cochlea,cochlea,UBERON:0001844,UBERON_0002499,False,cochlear labyrinth
+cochleae,cochlea,UBERON:0001844,UBERON_0002499,False,cochlear labyrinth
+ears,ear,UBERON:0001690,UBERON_0001691,False,external ear
+floor plate,floor plate,UBERON:0003079,UBERON_0003306,False,floor plate of neural tube
+inner ear,internal ear,UBERON:0001846,UBERON_0003950,False,inner ear canal
+epithelia,epithelium,UBERON:0000483,UBERON_0000483,True,
+brainstem,brainstem,UBERON:0002298,UBERON_0002298,True,
+spiral ganglion,cochlear ganglion,UBERON:0000395,UBERON_0000395,True,
+adults,adult organism,UBERON:0007023,UBERON_0007023,True,
+vestibular epithelia,vestibular epithelium,UBERON:0006932,UBERON_0006932,True,
+Eye,eye,UBERON:0000970,UBERON_0000049,False,spherical lensed eye
+basal region of ... cochlea,base of cochlear canal,UBERON:0014626,UBERON_0014626,True,
+Efferent,efferent nerve,UBERON:0006798,UBERON_0006798,True,
+cristae,crista ampullaris,UBERON:0004721,-,False,-
+vestibular ganglia,vestibular ganglion,UBERON:0002824,UBERON_0002824,True,
+crista,crista ampullaris,UBERON:0004721,UBERON_0004721,True,
+Vestibular ganglia,vestibular ganglion,UBERON:0002824,UBERON_0002824,True,
+anterior crista,anterior crista primordium,UBERON:2000468,UBERON_0006935,False,crista ampullaris neuroepithelium
+AC,anterior crista primordium,UBERON:2000468,UBERON_0001766,False,anterior chamber of eyeball
+vestibular ganglion,vestibular ganglion,UBERON:0002824,UBERON_0002824,True,
+vestibular sensory ganglion,vestibular ganglion,UBERON:0002824,UBERON_0002824,True,
+utricle,utricle of membranous labyrinth,UBERON:0001853,UBERON_0002214,False,macula of utricle of membranous labyrinth
+semicircular canals,semicircular canal,UBERON:0001840,UBERON_0004043,False,semicircular canal ampulla
+tectorial membrane,tectorial membrane of cochlea,UBERON:0002233,UBERON_0002233,True,
+organs of Corti,spiral organ of cochlea,UBERON:0002227,UBERON_0002227,True,
+SG,cochlear ganglion,UBERON:0000395,UBERON_0001829,False,major salivary gland
+ventral cochlear nucleus,ventral cochlear nucleus,UBERON:0002828,UBERON_0002828,True,
+VCN,ventral cochlear nucleus,UBERON:0002828,UBERON_0002828,True,
+U,utricle of membranous labyrinth,UBERON:0001853,UBERON_0000995,False,uterus
+c,capillary,UBERON:0001982,-,False,-
+ganglion,ganglion,UBERON:0000045,UBERON_0003338,False,ganglion of peripheral nervous system
+ggl,ganglion,UBERON:0000045,UBERON_0000044,False,dorsal root ganglion
+S,saccule of membranous labyrinth,UBERON:0001854,UBERON_0001773,False,sclera
+Genic. ggl.,geniculate ganglion,UBERON:0001700,UBERON_0001700,True,
+geniculate ganglion,geniculate ganglion,UBERON:0001700,UBERON_0001700,True,
+sensory ganglia,sensory ganglion,UBERON:0001800,UBERON_0001800,True,
+VG,vestibular ganglion,UBERON:0002824,UBERON_0000934,False,ventral nerve cord
+tunnel of Corti,tunnel of Corti,UBERON:0005972,UBERON_0002227,False,spiral organ of cochlea
+lateral divisions,lateral division,UBERON:2000532,UBERON_2000532,True,
+medial ... divisions,medial division,UBERON:2000280,UBERON_2000280,True,
+adrenal,adrenal gland,UBERON:0002369,UBERON_0002369,True,
+haematological,blood,UBERON:0000178,UBERON_0002390,False,hematopoietic system
+right cardiac ventricle,heart right ventricle,UBERON:0002080,UBERON_0002080,True,
+vein,vein,UBERON:0001638,UBERON_0003920,False,venous blood vessel
+cervical,uterine cervix,UBERON:0000002,UBERON_0000002,True,
+plasma,blood plasma,UBERON:0001969,UBERON_0001969,True,
+respiratory,respiratory system,UBERON:0001004,UBERON_0001004,True,
+life cycles,life cycle,UBERON:0000104,UBERON_0000104,True,
+olfactory epithelia,olfactory epithelium,UBERON:0001997,UBERON_0001997,True,
+olfactory epithelium,olfactory epithelium,UBERON:0001997,UBERON_0001997,True,
+septum,septum,UBERON:0003037,UBERON_0001706,False,nasal septum
+skull,skull,UBERON:0003129,UBERON_0010323,False,cranial skeletal system
+olfactory epithelial,olfactory epithelium,UBERON:0001997,UBERON_0001997,True,
+prostate,prostate gland,UBERON:0002367,UBERON_0002367,True,
+notochord,notochord,UBERON:0002328,UBERON_0003068,False,axial mesoderm
+olfactory turbinates,nasal concha,UBERON:0001762,UBERON_0035612,False,nasal turbinal
+glomerulus,renal glomerulus,UBERON:0000074,UBERON_0000074,True,
+olfactory bulb,olfactory bulb,UBERON:0002264,UBERON_0002264,True,
+Nervous System,nervous system,UBERON:0001016,UBERON_0001016,True,
+coronary arteries,coronary artery,UBERON:0001621,UBERON_0001621,True,
+mesenchymal,mesenchyme,UBERON:0003104,UBERON_0007524,False,dense mesenchyme tissue
+mesangial,mesangium,UBERON:0002319,UBERON_0005119,False,metanephric glomerular mesangium
+Embryos,embryo,UBERON:0000922,UBERON_0000922,True,
+smooth muscle,smooth muscle tissue,UBERON:0001135,UBERON_0001135,True,
+blood vessels,blood vessel,UBERON:0001981,UBERON_0001981,True,
+endothelial,endothelium,UBERON:0001986,UBERON_0004852,False,cardiovascular system endothelium
+limb,limb,UBERON:0002101,UBERON_0002529,False,limb segment
+perinatal,perinatal stage,UBERON:0012101,UBERON_0012101,True,
+arteries,artery,UBERON:0001637,UBERON_0003509,False,arterial blood vessel
+veins,vein,UBERON:0001638,UBERON_0003920,False,venous blood vessel
+kidney glomeruli,renal glomerulus,UBERON:0000074,UBERON_0000074,True,
+spinal cord,spinal cord,UBERON:0002240,UBERON_0006079,False,subdivision of spinal cord dorsal column
+vasculature,vasculature,UBERON:0002049,UBERON_0004537,False,blood vasculature
+kidney glomerulus,renal glomerulus,UBERON:0000074,UBERON_0000074,True,
+ventricles,cardiac ventricle,UBERON:0002082,UBERON_0002080,False,heart right ventricle
+atria,cardiac atrium,UBERON:0002081,UBERON_0006218,False,common atrial chamber
+hearts,heart,UBERON:0000948,UBERON_0000948,True,
+retinal vasculature,vasculature of retina,UBERON:0004864,UBERON_0004864,True,
+vascular smooth muscle,blood vessel smooth muscle,UBERON:0004237,UBERON_0007243,False,tunica media of vein
+adrenal gland,adrenal gland,UBERON:0002369,UBERON_0002369,True,
+Vascular Smooth Muscle,blood vessel smooth muscle,UBERON:0004237,UBERON_0007243,False,tunica media of vein
+brown adipose tissue,brown adipose tissue,UBERON:0001348,UBERON_0001348,True,
+intercostal,intercostal space,UBERON:0012198,UBERON_0001111,False,intercostal muscle
+perinatally,perinatal stage,UBERON:0012101,UBERON_0012101,True,
+Kidneys,kidney,UBERON:0002113,UBERON_0001225,False,cortex of kidney
+adventitial,adventitia,UBERON:0005742,UBERON_0005734,False,tunica adventitia of blood vessel
+eye vasculature,vasculature of eye,UBERON:0002203,UBERON_0002203,True,
+endothelial tubes,endothelial tube,UBERON:0003915,UBERON_0001915,False,endothelium of capillary
+neural tube,neural tube,UBERON:0001049,UBERON_0008823,False,neural tube derived brain
+Heart,heart,UBERON:0000948,UBERON_0000948,True,
+vascular coating,blood vessel layer,UBERON:0004797,UBERON_0004638,False,blood vessel endothelium
+Retinas,retina,UBERON:0000966,UBERON_0000966,True,
+Thoracic Region,thoracic segment of trunk,UBERON:0000915,UBERON_0002224,False,thoracic cavity
+immune system,immune system,UBERON:0002405,UBERON_0001744,False,lymphoid tissue
+neck,neck,UBERON:0000974,UBERON_0005434,False,cervical region
+coronary ... veins,cardiac vein,UBERON:0004148,UBERON_0004148,True,
+Hearts,heart,UBERON:0000948,UBERON_0004151,False,cardiac chamber
+Retina,retina,UBERON:0000966,UBERON_0000966,True,
+Kidney,kidney,UBERON:0002113,UBERON_0002113,True,
+arteriole,arteriole,UBERON:0001980,UBERON_0001980,True,
+artery,artery,UBERON:0001637,UBERON_0001637,True,
+Coronary Arteries,coronary artery,UBERON:0001621,UBERON_0001626,False,left coronary artery
+Th,thymus,UBERON:0002370,UBERON_0001900,False,ventral thalamus
+R,retina,UBERON:0000966,UBERON_0019199,False,lateral side of chest
+neural tubes,neural tube,UBERON:0001049,UBERON_0008823,False,neural tube derived brain
+cardiac,heart,UBERON:0000948,UBERON_0000948,True,
+atrial,cardiac atrium,UBERON:0002081,UBERON_0002081,True,
+spongiotophoblast layers,spongiotrophoblast layer,UBERON:0004021,UBERON_0003972,False,placenta junctional zone
+chorionic plate,chorionic plate,UBERON:0004027,UBERON_0004027,True,
+V,cardiac ventricle,UBERON:0002082,UBERON_8440002,False,cortical layer V/VI
+ventrical ... chambers,cardiac ventricle,UBERON:0002082,UBERON_0035554,False,right cardiac chamber
+atrium,cardiac atrium,UBERON:0002081,UBERON_0002081,True,
+spongiotrophoblast ... layers,spongiotrophoblast layer,UBERON:0004021,UBERON_0003972,False,placenta junctional zone
+spongiotrophoblast layer,spongiotrophoblast layer,UBERON:0004021,UBERON_0003972,False,placenta junctional zone
+cephalic mesenchyme tissue,head mesenchyme,UBERON:0005253,UBERON_0007213,False,mesenchyme derived from head neural crest
+cephalic mesenchyme,head mesenchyme,UBERON:0005253,UBERON_0007213,False,mesenchyme derived from head neural crest
+cephalic mesenchyme ... tissue,head mesenchyme,UBERON:0005253,UBERON_0007213,False,mesenchyme derived from head neural crest
+vessels,vessel,UBERON:0000055,UBERON_0004537,False,blood vasculature
+mesenchyme tissue,mesenchyme,UBERON:0003104,UBERON_0009142,False,entire embryonic mesenchyme
+mesenchymal tissue,mesenchyme,UBERON:0003104,UBERON_0009142,False,entire embryonic mesenchyme
+hind ... gut,hindgut,UBERON:0001046,UBERON_0001046,True,
+mid gut,midgut,UBERON:0001045,UBERON_0003352,False,epithelium of midgut
+mid ... gut,midgut,UBERON:0001045,UBERON_0003287,False,midgut region of duodenum
+hind gut,hindgut,UBERON:0001046,UBERON_0004992,False,mucosa of descending colon
+gut,digestive tract,UBERON:0001555,UBERON_0000160,False,intestine
+endothelium,endothelium,UBERON:0001986,UBERON_0004852,False,cardiovascular system endothelium
+guts,digestive tract,UBERON:0001555,UBERON_0000160,False,intestine
+septum transverum,septum transversum,UBERON:0004161,UBERON_0004161,True,
+foregut,foregut,UBERON:0001041,UBERON_0015833,False,foregut epithelium
+trunk,trunk,UBERON:0002100,UBERON_0004451,False,trunk or cervical vertebra
+placental labyrinth,placenta labyrinth,UBERON:0003946,UBERON_0003946,True,
+spongiotrophoblast layers,spongiotrophoblast layer,UBERON:0004021,UBERON_0003972,False,placenta junctional zone
+labyrinthine,placenta labyrinth,UBERON:0003946,UBERON_0001849,False,membranous labyrinth
+blood vessel,blood vessel,UBERON:0001981,UBERON_0001981,True,
+yolk sacs,yolk sac,UBERON:0001040,UBERON_0005251,False,yolk sac cavity
+adipose tissue,adipose tissue,UBERON:0001013,UBERON_0001013,True,
+stomach,stomach,UBERON:0000945,UBERON_0001161,False,body of stomach
+blastocysts,blastocyst,UBERON:0000358,UBERON_0000358,True,
+septum transversum,septum transversum,UBERON:0004161,UBERON_0004161,True,
+atrial chamber,cardiac atrium,UBERON:0002081,UBERON_0002081,True,
+vascular system,vascular system,UBERON:0007798,UBERON_0002049,False,vasculature
+placentas,placenta,UBERON:0001987,UBERON_0001987,True,
+Placental,placenta,UBERON:0001987,UBERON_0001987,True,
+cephalic,head,UBERON:0000033,UBERON_0008789,False,cranial fossa
+Placentas,placenta,UBERON:0001987,UBERON_0001987,True,
+immune ... systems,immune system,UBERON:0002405,UBERON_0002405,True,
+early embryonic,early embryo,UBERON:0019248,UBERON_0019248,True,
+head ... of ... embryo,embryonic head,UBERON:0008816,UBERON_0008816,True,
+myocardium,myocardium,UBERON:0002349,UBERON_0002349,True,
+blood islands,blood island,UBERON:0003061,UBERON_0011919,False,yolk sac blood island
+first ... branchial arches,pharyngeal arch 1,UBERON:0004362,UBERON_0007237,False,1st arch mandibular component
+network of blood vessels,blood vasculature,UBERON:0004537,UBERON_0002049,False,vasculature
+network of vesicles,vasculature,UBERON:0002049,-,False,-
+networks of ... blood vessels,blood vasculature,UBERON:0004537,UBERON_0007798,False,vascular system
+network of ... blood vessels,blood vasculature,UBERON:0004537,UBERON_0002049,False,vasculature
+networks of ... vessels,vasculature,UBERON:0002049,UBERON_0006876,False,vasculature of organ
+labyrinthine layers,placenta labyrinth,UBERON:0003946,UBERON_0003946,True,
+systems,anatomical system,UBERON:0000467,UBERON_0000062,False,organ
+atrial chamber of ... heart,cardiac atrium,UBERON:0002081,UBERON_0002081,True,
+lower trunk,pelvis,UBERON:0002355,UBERON_0002355,True,
+lower trunk region,pelvis,UBERON:0002355,UBERON_0002355,True,
+hind limb buds,hindlimb bud,UBERON:0005418,UBERON_0005418,True,
+CP,chorionic plate,UBERON:0004027,UBERON_0001886,False,choroid plexus
+2nd branchial arches,pharyngeal arch 2,UBERON:0003066,UBERON_0008896,False,post-hyoid pharyngeal arch
+labyrinth ... layers,placenta labyrinth,UBERON:0003946,UBERON_0002499,False,cochlear labyrinth
+second branchial arches,pharyngeal arch 2,UBERON:0003066,UBERON_0003066,True,
+laryrinth of ... placenta,placenta labyrinth,UBERON:0003946,UBERON_0003946,True,
+primitive gut,presumptive gut,UBERON:0007026,UBERON_0005409,False,alimentary part of gastrointestinal system
+second branchial arch,pharyngeal arch 2,UBERON:0003066,UBERON_0008896,False,post-hyoid pharyngeal arch
+L ... layers,placenta labyrinth,UBERON:0003946,UBERON_0004923,False,organ component layer
+labyrinth layer,placenta labyrinth,UBERON:0003946,UBERON_0003946,True,
+cephalic neural fold,cephalic neural fold,UBERON:0009748,UBERON_0009748,True,
+labyrinth,placenta labyrinth,UBERON:0003946,UBERON_0002499,False,cochlear labyrinth
+At,cardiac atrium,UBERON:0002081,UBERON_0001013,False,adipose tissue
+wall,anatomical wall,UBERON:0000060,UBERON_0000060,True,
+atrial ... chambers,cardiac atrium,UBERON:0002081,UBERON_0002081,True,
+1st ... branchial arches,pharyngeal arch 1,UBERON:0004362,UBERON_0007237,False,1st arch mandibular component
+Chorioallantoic,chorioallantoic membrane,UBERON:0005335,UBERON_0005335,True,
+somites,somite,UBERON:0002329,UBERON_0005291,False,embryonic tissue
+head of ... embryos,embryonic head,UBERON:0008816,UBERON_0008816,True,
+neuroepithelium,developing neuroepithelium,UBERON:0034705,UBERON_0034705,True,
+dorsal root ganglion,dorsal root ganglion,UBERON:0000044,UBERON_0000044,True,
+sinus venous,venous sinus,UBERON:0006615,UBERON_0002063,False,sinus venosus
+gut wall,gut wall,UBERON:0000328,UBERON_0001262,False,wall of intestine
+body wall,body wall,UBERON:0000309,UBERON_0000309,True,
+limb buds,limb bud,UBERON:0004347,UBERON_0004347,True,
+first ... branchial arch,pharyngeal arch 1,UBERON:0004362,UBERON_0007237,False,1st arch mandibular component
+labryinth,placenta labyrinth,UBERON:0003946,UBERON_0002499,False,cochlear labyrinth
+neuroepithelial,developing neuroepithelium,UBERON:0034705,UBERON_0034705,True,
+limbs,limb,UBERON:0002101,UBERON_0002091,False,appendicular skeleton
+neuroepithelial tissue,developing neuroepithelium,UBERON:0034705,UBERON_0034705,True,
+branchial arch,pharyngeal arch,UBERON:0002539,UBERON_0002539,True,
+S ... layers,spongiotrophoblast layer,UBERON:0004021,UBERON_0009737,False,sublaminar layers S1 or S2 or S3 or S4
+chorioallantoic,chorioallantoic membrane,UBERON:0005335,UBERON_0005335,True,
+Tissues,tissue,UBERON:0000479,UBERON_0000479,True,
+yolk,yolk,UBERON:2000084,UBERON_0007378,False,egg yolk
+intersomitic vessels,intersomitic vessel,UBERON:0014907,UBERON_0014907,True,
+prostates,prostate gland,UBERON:0002367,UBERON_0002367,True,
+prostatic glands,prostate gland,UBERON:0002367,UBERON_0004179,False,prostate glandular acinus
+glands,gland,UBERON:0002530,UBERON_0002365,False,exocrine gland
+Prostate,prostate gland,UBERON:0002367,UBERON_0002367,True,
+prostatic epithelium,prostate epithelium,UBERON:0000428,UBERON_0002367,False,prostate gland
+gland,gland,UBERON:0002530,UBERON_0002365,False,exocrine gland
+papillary projections,papilla,UBERON:2001995,UBERON_0019206,False,tongue papilla epithelium
+stroma,stroma,UBERON:0003891,UBERON_2001186,False,collagenous dermal stroma
+glandular,gland,UBERON:0002530,UBERON_0006799,False,glandular epithelium
+Prostates,prostate gland,UBERON:0002367,UBERON_0002367,True,
+pithelial,epithelium,UBERON:0000483,UBERON_0000483,True,
+anatomical ... entities,anatomical entity,UBERON:0001062,UBERON_0001062,True,
+prostate epithelial,prostate epithelium,UBERON:0000428,UBERON_0000428,True,
+Prostatic Epithelium,prostate epithelium,UBERON:0000428,UBERON_0011951,False,prostate luminal epithelium
+parenchyma,parenchyma,UBERON:0000353,UBERON_0008987,False,renal parenchyma
+prostatic,prostate gland,UBERON:0002367,UBERON_0002367,True,
+parenchymal,parenchyma,UBERON:0000353,UBERON_0008987,False,renal parenchyma
+stromal,stroma,UBERON:0003891,UBERON_2001186,False,collagenous dermal stroma
+seminal vesicles,seminal vesicle,UBERON:0000998,UBERON_0000998,True,
+prostate lobes,lobe of prostate,UBERON:0001328,UBERON_0001329,False,prostate gland anterior lobe
+Bl,bladder organ,UBERON:0018707,UBERON_0001255,False,urinary bladder
+SV,seminal vesicle,UBERON:0000998,UBERON_0000998,True,
+bladder,bladder organ,UBERON:0018707,UBERON_0001255,False,urinary bladder
+Bladder,bladder organ,UBERON:0018707,UBERON_0001255,False,urinary bladder
+prostate epithelium,prostate epithelium,UBERON:0000428,UBERON_0000428,True,
+anatomical,anatomical entity,UBERON:0001062,UBERON_0000061,False,anatomical structure
+orbital,orbit of skull,UBERON:0001697,UBERON_0004867,False,orbital cavity
+lobes,anatomical lobe,UBERON:0009912,UBERON_0009912,True,
+prostatic lobes,lobe of prostate,UBERON:0001328,UBERON_0001328,True,
+prostate lobe,lobe of prostate,UBERON:0001328,UBERON_0001328,True,
+lobe,anatomical lobe,UBERON:0009912,UBERON_0009912,True,
+AP lobes,prostate gland anterior lobe,UBERON:0001329,UBERON_0000007,False,pituitary gland
+AP lobe,prostate gland anterior lobe,UBERON:0001329,UBERON_0000007,False,pituitary gland
+small intestine,small intestine,UBERON:0002108,UBERON_0002108,True,
+Sm. Int.,small intestine,UBERON:0002108,UBERON_0002108,True,
+cortices,cortex,UBERON:0001851,UBERON_0000956,False,cerebral cortex
+Cortical,cortex,UBERON:0001851,UBERON_0000956,False,cerebral cortex
+skeleton,skeleton,UBERON:0004288,UBERON_0011137,False,axial skeletal system
+S.,skeleton,UBERON:0004288,UBERON_0001773,False,sclera
+hairs,strand of hair,UBERON:0001037,UBERON_0002073,False,hair follicle
+plug,mating plug,UBERON:0010148,UBERON_0000996,False,vagina
+flank,lateral lumbar region of abdomen,UBERON:0000180,UBERON_0000180,True,
+region of skin,zone of skin,UBERON:0000014,UBERON_0002097,False,skin of body
+face,face,UBERON:0001456,UBERON_0004473,False,musculature of face
+somitic frontier,somite border,UBERON:0015178,UBERON_0015179,False,somite boundary epithelium
+markings,body marking,UBERON:2002284,UBERON_2002284,True,
+whisker,strand of vibrissa hair,UBERON:0006378,UBERON_0010419,False,vibrissa follicle
+ventrum,ventrum,UBERON:0013235,UBERON_0017648,False,ventral body wall
+pad,pad,UBERON:2001977,UBERON_0008840,False,plantar pad
+epidermis,outer epithelium,UBERON:0007376,UBERON_0001003,False,skin epidermis
+zigzag ... hairs,strand of zigzag hair,UBERON:0010513,UBERON_0002074,False,hair shaft
+dorsum,dorsum,UBERON:0001137,UBERON_0005276,False,dorsal skin of finger
+nasal,olfactory apparatus,UBERON:0000004,UBERON_0001707,False,nasal cavity
+palpebral fissures,palpebral fissure,UBERON:0001819,UBERON_0001819,True,
+footpads,pedal autopod pad,UBERON:0013623,UBERON_0008840,False,plantar pad
+hair,strand of hair,UBERON:0001037,UBERON_0002074,False,hair shaft
+stripe,melanophore stripe,UBERON:2001463,UBERON_0001003,False,skin epidermis
+stripes,melanophore stripe,UBERON:2001463,UBERON_0001003,False,skin epidermis
+abdominal ... muscles,muscle of abdomen,UBERON:0002378,UBERON_0002378,True,
+sheaths,hair root sheath,UBERON:0005933,UBERON_0000347,False,entire myelin sheath
+loose mesenchyme,loose mesenchyme tissue,UBERON:0007529,UBERON_0007529,True,
+Somitic Frontier,somite border,UBERON:0015178,UBERON_0003059,False,presomitic mesoderm
+body cavity,coelemic cavity lumen,UBERON:0002323,UBERON_0035819,False,abdominopelvic cavity
+lateral plate,lateral plate mesoderm,UBERON:0003081,UBERON_0003081,True,
+zigzag hairs,strand of zigzag hair,UBERON:0010513,UBERON_0010513,True,
+head mesenchyme,head mesenchyme,UBERON:0005253,UBERON_0009891,False,facial mesenchyme
+neural crest,neural crest,UBERON:0002342,UBERON_0002342,True,
+pelts,coat of hair,UBERON:0010166,UBERON_0002097,False,skin of body
+dermis,dermis,UBERON:0002067,UBERON_0003585,False,dermis connective tissue
+abdominal muscles,muscle of abdomen,UBERON:0002378,UBERON_0035032,False,abdominal oblique muscle
+abdominal,abdomen,UBERON:0000916,UBERON_0000916,True,
+mesenchyme,mesenchyme,UBERON:0003104,UBERON_0009142,False,entire embryonic mesenchyme
+cervical vertebrae,cervical vertebra,UBERON:0002413,UBERON_0002413,True,
+ventral midline,ventral midline,UBERON:0009571,UBERON_0009571,True,
+branchial arches,pharyngeal arch,UBERON:0002539,UBERON_0009722,False,entire pharyngeal arch endoderm
+dorsal trunk,dorsal trunk,UBERON:0011270,UBERON_0008231,False,dorsal thoracic segment of trunk
+flanks,lateral lumbar region of abdomen,UBERON:0000180,UBERON_0003697,False,abdominal wall
+dermal papillae,dermal papilla,UBERON:0000412,UBERON_0000412,True,
+hair follicles,hair follicle,UBERON:0002073,UBERON_0002073,True,
+lateral plate mesoderm,lateral plate mesoderm,UBERON:0003081,UBERON_0003081,True,
+ectodermal,ectoderm,UBERON:0000924,UBERON_0010316,False,germ layer / neural crest
+ventral body wall,ventral body wall,UBERON:0017648,UBERON_0017648,True,
+somite,somite,UBERON:0002329,UBERON_0002050,False,embryonic structure
+hair follicle,hair follicle,UBERON:0002073,UBERON_0002073,True,
+limb mesenchyme,limb mesenchyme,UBERON:0009749,UBERON_0010329,False,paired limb/fin bud mesenchyme
+multicellular organisms,multicellular organism,UBERON:0000468,UBERON_0000468,True,
+midface,midface,UBERON:0004089,UBERON_0004089,True,
+hair-follicle,hair follicle,UBERON:0002073,UBERON_0002073,True,
+Limb,limb,UBERON:0002101,UBERON_0004480,False,musculature of limb
+ectoderm,ectoderm,UBERON:0000924,UBERON_0003254,False,amniotic ectoderm
+apical ectodermal ridge,apical ectodermal ridge,UBERON:0004356,UBERON_0004356,True,
+limb-bud,limb bud,UBERON:0004347,UBERON_0004347,True,
+mammary glands,mammary gland,UBERON:0001911,UBERON_0001911,True,
+ventral mesenchyme,ventral mesenchyme,UBERON:2000164,UBERON_2000164,True,
+fat pads,fat pad,UBERON:0003916,UBERON_0003428,False,gonadal fat pad
+bellied,abdomen,UBERON:0000916,UBERON_0000916,True,
+lateral plate ... mesoderm,lateral plate mesoderm,UBERON:0003081,UBERON_0003081,True,
+abdominal cavity,abdominal cavity,UBERON:0003684,UBERON_0003684,True,
+testis capsule,tunica albuginea of testis,UBERON:0006643,UBERON_0006643,True,
+somitic mesoderm,paraxial mesoderm,UBERON:0003077,UBERON_0003077,True,
+v,ventrum,UBERON:0013235,-,False,-
+Hair,strand of hair,UBERON:0001037,UBERON_0002074,False,hair shaft
+f,lateral lumbar region of abdomen,UBERON:0000180,-,False,-
+d,dorsum,UBERON:0001137,-,False,-
+myotome,myotome,UBERON:0003082,UBERON_0004138,False,somitomeric trunk muscle
+maxillary ... processes,maxillary prominence,UBERON:0005868,UBERON_0005868,True,
+sclerotome,sclerotome,UBERON:0003089,UBERON_2000952,False,sclerotome somite 1
+nasal cartilage,nasal cartilage,UBERON:0001823,UBERON_0001823,True,
+occipital,occipital region,UBERON:0005902,UBERON_0002021,False,occipital lobe
+periocular mesenchyme,periocular mesenchyme,UBERON:0004017,UBERON_0004017,True,
+palatal shelf,secondary palatal shelf,UBERON:0005619,UBERON_0005619,True,
+Coat,coat of hair,UBERON:0010166,UBERON_0010509,False,strand of pelage hair
+Trunk,trunk,UBERON:0002100,UBERON_0004451,False,trunk or cervical vertebra
+trunk mesenchyme,trunk mesenchyme,UBERON:0005256,UBERON_0007214,False,mesenchyme derived from trunk neural crest
+dermatomal,dermatome,UBERON:0004016,UBERON_0007121,False,skin nerve field
+dorsa,dorsum,UBERON:0001137,UBERON_0017649,False,dorsal body wall
+ventra,ventrum,UBERON:0013235,UBERON_2000707,False,ventral zone
+guard hairs,strand of guard hair,UBERON:0010512,UBERON_0010512,True,
+awls,strand of awl hair,UBERON:0010511,-,False,-
+auchenes,strand of auchene hair,UBERON:0010510,-,False,-
+appendages,anatomical projection,UBERON:0004529,UBERON_0009564,False,distal limb integumentary appendage
+area of ... skin,zone of skin,UBERON:0000014,UBERON_0002097,False,skin of body
+scales,scale,UBERON:0002542,UBERON_0000061,False,anatomical structure
+feathers,feather,UBERON:0000022,UBERON_0011782,False,feather follicle
+mandibular processes,mandibular prominence,UBERON:0005867,UBERON_0005867,True,
+dermal papilla,dermal papilla,UBERON:0000412,UBERON_0002073,False,hair follicle
+feet,pes,UBERON:0002387,UBERON_0005277,False,dorsal skin of toe
+musculoskeletal system,musculoskeletal system,UBERON:0002204,UBERON_0002204,True,
+skeletal elements,skeletal element,UBERON:0004765,UBERON_0011137,False,axial skeletal system
+epidermal,outer epithelium,UBERON:0007376,UBERON_0001003,False,skin epidermis
+cranium,cranium,UBERON:0003128,UBERON_0003128,True,
+belly,abdomen,UBERON:0000916,UBERON_0002343,False,abdomen musculature
+mesenchymal tissues of ... trunk,trunk mesenchyme,UBERON:0005256,UBERON_0005256,True,
+mesenchymal tissues of ... limbs,limb mesenchyme,UBERON:0009749,UBERON_0009749,True,
+mesenchymal tissues of ... head,head mesenchyme,UBERON:0005253,UBERON_0007213,False,mesenchyme derived from head neural crest
+zigzags,strand of zigzag hair,UBERON:0010513,-,False,-
+spots,melanophore spot,UBERON:2002283,UBERON_2002283,True,
+articulations,articulation,UBERON:0004905,UBERON_0000982,False,skeletal joint
+back,dorsal trunk,UBERON:0011270,UBERON_0011270,True,
+somite-derived mesenchyme,paraxial mesoderm,UBERON:0003077,UBERON_0009142,False,entire embryonic mesenchyme
+mucosa,mucosa,UBERON:0000344,UBERON_0004786,False,gastrointestinal system mucosa
+oral,mouth,UBERON:0000165,UBERON_0003343,False,mucosa of oral region
+periocular ... mesenchyme,periocular mesenchyme,UBERON:0004017,UBERON_0004017,True,
+muscle layer,layer of muscle tissue,UBERON:0018260,UBERON_0018260,True,
+somite-derived mesoderm,paraxial mesoderm,UBERON:0003077,UBERON_0003077,True,
+pulmonary,lung,UBERON:0002048,UBERON_0002048,True,
+lungs,lung,UBERON:0002048,UBERON_0002048,True,
+lung epithelium,lung epithelium,UBERON:0000115,UBERON_0000115,True,
+Lungs,lung,UBERON:0002048,UBERON_0003542,False,right lung respiratory bronchiole
+lung bud,lung bud,UBERON:0000118,UBERON_0005597,False,lung primordium
+Lung,lung,UBERON:0002048,UBERON_0002048,True,
+alveolar,alveolus,UBERON:0003215,UBERON_0002299,False,alveolus of lung
+vascular network,vasculature,UBERON:0002049,UBERON_0002049,True,
+alveolar sacs,alveolar sac,UBERON:0002169,UBERON_0002169,True,
+tracheal,trachea,UBERON:0003126,UBERON_0003126,True,
+alveoli,alveolus,UBERON:0003215,UBERON_0002299,False,alveolus of lung
+interstitial tissue,interstitial tissue,UBERON:0005169,UBERON_0005169,True,
+lung alveolar,alveolus of lung,UBERON:0002299,UBERON_0002299,True,
+pulmonary arteries,pulmonary artery,UBERON:0002012,UBERON_0002012,True,
+laryngeal,larynx,UBERON:0001737,UBERON_0001737,True,
+saccular,lung saccule,UBERON:0000116,UBERON_0006585,False,vestibular organ
+br,bronchiole,UBERON:0002186,UBERON_0000955,False,brain
+esophagus,esophagus,UBERON:0001043,UBERON_0001043,True,
+sac,sac,UBERON:0009856,UBERON_0000301,False,amniotic cavity
+bronchiole,bronchiole,UBERON:0002186,UBERON_0002186,True,
+interstitial,interstitial tissue,UBERON:0005169,UBERON_0005169,True,
+lung saccular,lung saccule,UBERON:0000116,UBERON_0000116,True,
+Interstitial,interstitial tissue,UBERON:0005169,UBERON_0005169,True,
+pa,pulmonary artery,UBERON:0002012,UBERON_0002012,True,
+e,esophagus,UBERON:0001043,UBERON_0004670,False,ependyma
+pulmonary artery,pulmonary artery,UBERON:0002012,UBERON_0002012,True,
+anatomy,anatomical entity,UBERON:0001062,UBERON_0000061,False,anatomical structure
+PA,pulmonary artery,UBERON:0002012,UBERON_0002012,True,
+m,mesoderm,UBERON:0000926,UBERON_0000926,True,
+cardiac muscle,cardiac muscle tissue,UBERON:0001133,UBERON_0002349,False,myocardium
+ra,right cardiac atrium,UBERON:0002078,UBERON_0002078,True,
+la,left cardiac atrium,UBERON:0002079,UBERON_0002079,True,
+right atrium,right cardiac atrium,UBERON:0002078,UBERON_0002078,True,
+rv,heart right ventricle,UBERON:0002080,UBERON_0002080,True,
+left atrium,left cardiac atrium,UBERON:0002079,UBERON_0002079,True,
+right ventricle,heart right ventricle,UBERON:0002080,UBERON_0002080,True,
+bronchi,bronchus,UBERON:0002185,UBERON_0002184,False,segmental bronchus
+b,bronchus,UBERON:0002185,UBERON_0002228,False,rib
+lung buds,lung bud,UBERON:0000118,UBERON_0000118,True,
+rump,buttock,UBERON:0013691,UBERON_0004470,False,musculature of pelvic girdle
+Crown,head,UBERON:0000033,UBERON_0003675,False,tooth crown
+saccules,lung saccule,UBERON:0000116,UBERON_0002518,False,otolith organ
+a,alveolus,UBERON:0003215,-,False,-
+lv,heart left ventricle,UBERON:0002084,UBERON_0002084,True,
+Adrenal,adrenal gland,UBERON:0002369,UBERON_0002369,True,
+right lung lobes,right lung lobe,UBERON:0006518,UBERON_0006518,True,
+adrenal glands,adrenal gland,UBERON:0002369,UBERON_0002369,True,
+airway,respiratory airway,UBERON:0001005,UBERON_0001005,True,
+epithelial tubules,epithelial tube,UBERON:0003914,UBERON_0009773,False,renal tubule
+walled,anatomical wall,UBERON:0000060,UBERON_0000060,True,
+walls,anatomical wall,UBERON:0000060,UBERON_0035965,False,wall of blood vessel
+sacculi,lung saccule,UBERON:0000116,UBERON_0002518,False,otolith organ
+embryos at late stages,late embryo,UBERON:0000323,UBERON_0007220,False,late embryonic stage
+Serum,serum,UBERON:0001977,UBERON_0001977,True,
+serum,serum,UBERON:0001977,UBERON_0001977,True,
+fluid,bodily fluid,UBERON:0006314,UBERON_0006314,True,
+endothelium of ... capillary ... vessels,endothelium of capillary,UBERON:0001915,UBERON_0001915,True,
+endothelium of ... blood vessels,blood vessel endothelium,UBERON:0004638,UBERON_0004638,True,
+tubes,tube,UBERON:0000025,UBERON_0000061,False,anatomical structure
+capillaries,capillary,UBERON:0001982,UBERON_0001982,True,
+capillaries ... of ... lungs,pulmonary capillary,UBERON:0016405,UBERON_0016405,True,
+lobar,anatomical lobe,UBERON:0009912,UBERON_0009912,True,
+epithelium of ... lung,lung epithelium,UBERON:0000115,UBERON_0000115,True,
+capillary bed,capillary bed,UBERON:0013141,UBERON_0013141,True,
+columnar epithelial,columnar epithelium,UBERON:0012274,UBERON_0012274,True,
+capillary beds,capillary bed,UBERON:0013141,UBERON_0013141,True,
+columnar epithelium,columnar epithelium,UBERON:0012274,UBERON_0012274,True,
+lung epithelial,lung epithelium,UBERON:0000115,UBERON_0000115,True,
+Whole body,multicellular organism,UBERON:0000468,UBERON_0000468,True,
+vascular beds,vasculature,UBERON:0002049,UBERON_0010523,False,microcirculatory vessel
+whole body,multicellular organism,UBERON:0000468,UBERON_0000468,True,
+fp,floor plate,UBERON:0003079,UBERON_0003306,False,floor plate of neural tube
+mid-gut,midgut,UBERON:0001045,UBERON_0003352,False,epithelium of midgut
+mg,midgut,UBERON:0001045,UBERON_0001911,False,mammary gland
+nc,notochord,UBERON:0002328,UBERON_0002342,False,neural crest
+great vessels,great vessel of heart,UBERON:0013768,UBERON_0013768,True,
+lb,lung bud,UBERON:0000118,-,False,-
+buds of lungs,lung bud,UBERON:0000118,UBERON_0000118,True,
+airways,respiratory airway,UBERON:0001005,UBERON_0002188,False,respiratory bronchiole
+uterine,uterus,UBERON:0000995,UBERON_0000995,True,
+alveolar epithelium,pulmonary alveolus epithelium,UBERON:0004821,UBERON_0004821,True,
+embryo tissues,embryonic tissue,UBERON:0005291,UBERON_0005291,True,
+extra-embryonic tissues,extraembryonic tissue,UBERON:0005292,UBERON_0001987,False,placenta
+fetal tissues,embryonic tissue,UBERON:0005291,UBERON_0005630,False,fetal membrane
+uteri,uterus,UBERON:0000995,UBERON_0000995,True,
+vaginal plugs,mating plug,UBERON:0010148,UBERON_0036243,False,vaginal fluid
+thoracic cavity,thoracic cavity,UBERON:0002224,UBERON_0002224,True,
+lung primordium,lung primordium,UBERON:0005597,UBERON_0005597,True,
+embryonic tissues,embryonic tissue,UBERON:0005291,UBERON_0005291,True,
+Pulmonary,lung,UBERON:0002048,UBERON_0002048,True,
+Cardiovascular,cardiovascular system,UBERON:0004535,UBERON_0004535,True,
+Thoracic,thoracic segment of trunk,UBERON:0000915,UBERON_0002224,False,thoracic cavity
+gonads,gonad,UBERON:0000991,UBERON_0000992,False,ovary
+ovaries,female gonad,UBERON:0000992,UBERON_0000992,True,
+Gonads,gonad,UBERON:0000991,UBERON_0000992,False,ovary
+4-cell stage,4 cell stage,UBERON:0007233,UBERON_0019251,False,4-cell stage embryo
+2-cell stage,2 cell stage,UBERON:0007232,UBERON_0019249,False,2-cell stage embryo
+cleavage stages,cleavage stage,UBERON:0000107,UBERON_0000068,False,embryo stage
+embryological,embryo,UBERON:0000922,UBERON_0000922,True,
+cleavage stage,cleavage stage,UBERON:0000107,UBERON_0019248,False,early embryo
+layers of cells,cell layer,UBERON:0000119,UBERON_0006915,False,stratified squamous epithelium
+primitive embryo,early embryo,UBERON:0019248,UBERON_0019248,True,
+ovarian follicle,ovarian follicle,UBERON:0001305,UBERON_0001305,True,
+four-cell stage,4 cell stage,UBERON:0007233,UBERON_0019251,False,4-cell stage embryo
+8-cell stage,8-cell stage embryo,UBERON:0019252,UBERON_0019252,True,
+2-cell ... stage,2 cell stage,UBERON:0007232,UBERON_0019249,False,2-cell stage embryo
+oviducts,oviduct,UBERON:0000993,UBERON_0003889,False,fallopian tube
+embryonic ... tissues,embryonic tissue,UBERON:0005291,UBERON_0005291,True,
+Biliary,biliary system,UBERON:0002294,UBERON_0003704,False,intrahepatic bile duct
+bile,bile,UBERON:0001970,UBERON_0034932,False,epithelium of biliary system
+Bile,bile,UBERON:0001970,UBERON_0034932,False,epithelium of biliary system
+biliary,biliary system,UBERON:0002294,UBERON_0003704,False,intrahepatic bile duct
+Plasma,blood plasma,UBERON:0001969,UBERON_0001969,True,
+intestinal,intestine,UBERON:0000160,UBERON_0001277,False,intestinal epithelium
+bile canaliculi,bile canaliculus,UBERON:0001283,UBERON_0001283,True,
+Spleen,spleen,UBERON:0002106,UBERON_0002106,True,
+hepatic canalicular,bile canaliculus,UBERON:0001283,UBERON_0001283,True,
+bile duct,bile duct,UBERON:0002394,UBERON_0002394,True,
+livers,liver,UBERON:0002107,UBERON_0002107,True,
+Liver,liver,UBERON:0002107,UBERON_0002107,True,
+intestine,intestine,UBERON:0000160,UBERON_0000160,True,
+tuberous,tuber,UBERON:4200132,-,False,-
+intestinal brush border,intestinal brush border layer,UBERON:0012427,UBERON_0012427,True,
+tendon,tendon,UBERON:0000043,UBERON_0000043,True,
+venous plexus,venous plexus,UBERON:0001593,UBERON_0001593,True,
+jugular vein,jugular vein,UBERON:0004711,UBERON_0004711,True,
+abdomen,abdomen,UBERON:0000916,UBERON_0003684,False,abdominal cavity
+renal epithelial,kidney epithelium,UBERON:0004819,UBERON_0004819,True,
+gallbladder,gall bladder,UBERON:0002110,UBERON_0002110,True,
+blood brain barrier,blood brain barrier,UBERON:0000120,UBERON_0000120,True,
+Blastocyst,blastocyst,UBERON:0000358,UBERON_0000358,True,
+Hepatic,liver,UBERON:0002107,UBERON_0002107,True,
+coronary artery,coronary artery,UBERON:0001621,UBERON_0001621,True,
+hepatobiliary,hepatobiliary system,UBERON:0002423,UBERON_0003704,False,intrahepatic bile duct
+hepatic,liver,UBERON:0002107,UBERON_0002107,True,
+gallbladder epithelial,epithelium of gall bladder,UBERON:0002029,UBERON_0002029,True,
+hand,manus,UBERON:0002398,UBERON_0002398,True,
+frontal cortex,frontal cortex,UBERON:0001870,UBERON_0001870,True,
+caudate,caudate nucleus,UBERON:0001873,UBERON_0001873,True,
+olfactory nerves,olfactory nerve,UBERON:0001579,UBERON_0001579,True,
+olfactory nerve,olfactory nerve,UBERON:0001579,UBERON_0001579,True,
+limbic,limbic system,UBERON:0000349,UBERON_0007630,False,septohippocampal nucleus
+midbrain,midbrain,UBERON:0001891,UBERON_0001891,True,
+forelimbs,forelimb,UBERON:0002102,UBERON_0008962,False,forelimb bone
+snout,snout,UBERON:0006333,UBERON_0006333,True,
+lumen of ... bladder,bladder lumen,UBERON:0009958,UBERON_0009958,True,
+urogenital sinus,primitive urogenital sinus,UBERON:0000164,UBERON_0000164,True,
+midline,ventral midline,UBERON:0009571,UBERON_0009571,True,
+urogenital apparatus,genitourinary system,UBERON:0004122,UBERON_0000079,False,male reproductive system
+perichondrium,perichondrium,UBERON:0002222,UBERON_0007862,False,perichordal tissue
+digits,digit,UBERON:0002544,UBERON_0004337,False,distal phalanx of manual digit 1
+right thyroid lobes,right lobe of thyroid gland,UBERON:0001119,UBERON_0001119,True,
+parathyroid glands,parathyroid gland,UBERON:0001132,UBERON_0001132,True,
+left ... thyroid lobes,left lobe of thyroid gland,UBERON:0001120,UBERON_0001120,True,
+pth,parathyroid gland,UBERON:0001132,UBERON_0001132,True,
+genitourinary,genitourinary system,UBERON:0004122,UBERON_0004122,True,
+tracheo,trachea,UBERON:0003126,UBERON_0003126,True,
+th,thyroid gland,UBERON:0002046,UBERON_0001900,False,ventral thalamus
+esophageal,esophagus,UBERON:0001043,UBERON_0001043,True,
+parathyroid ... glands,parathyroid gland,UBERON:0001132,UBERON_0001132,True,
+drg,dorsal root ganglion,UBERON:0000044,UBERON_0000044,True,
+hindbrain,hindbrain,UBERON:0002028,UBERON_0009662,False,hindbrain nucleus
+medulla oblongata,medulla oblongata,UBERON:0001896,UBERON_0001896,True,
+cerebellum,cerebellum,UBERON:0002037,UBERON_0002037,True,
+CB,cerebellum,UBERON:0002037,UBERON_0002037,True,
+telencephalon,telencephalon,UBERON:0001893,UBERON_0000204,False,ventral part of telencephalon
+ventricular zone,ventricular zone,UBERON:0003053,UBERON_0003053,True,
+digit,digit,UBERON:0002544,UBERON_0009552,False,distal segment of manual digit
+lip,lip,UBERON:0001833,UBERON_0036294,False,mucosa of lip
+laryngo,larynx,UBERON:0001737,UBERON_0001737,True,
+thyroid ... glands,thyroid gland,UBERON:0002046,UBERON_0002046,True,
+ventricular zone of ... brain,ventricular zone,UBERON:0003053,UBERON_0003053,True,
+anal canal,anal canal,UBERON:0000159,UBERON_0015716,False,anal canal epithelium
+rectum,rectum,UBERON:0001052,UBERON_0003346,False,mucosa of rectum
+T,telencephalon,UBERON:0001893,UBERON_0000479,False,tissue
+floor ... plates,floor plate,UBERON:0003079,UBERON_0003306,False,floor plate of neural tube
+roof plates,roof plate,UBERON:0003054,UBERON_0005724,False,roof plate spinal cord region
+phallic,penis,UBERON:0000989,UBERON_0018533,False,crus of penis or clitoris
+us,primitive urogenital sinus,UBERON:0000164,-,False,-
+pontine,pons,UBERON:0000988,UBERON_0002567,False,basal part of pons
+spinal cord central canal,central canal of spinal cord,UBERON:0002291,UBERON_0002291,True,
+thyroid gland,thyroid gland,UBERON:0002046,UBERON_0002046,True,
+central canal,central canal of spinal cord,UBERON:0002291,UBERON_0002291,True,
+th ... gland,thyroid gland,UBERON:0002046,UBERON_0002046,True,
+dorsal roots,dorsal root of spinal cord,UBERON:0002261,UBERON_0002261,True,
+pons,pons,UBERON:0000988,UBERON_0002567,False,basal part of pons
+P,pons,UBERON:0000988,UBERON_0000991,False,gonad
+M,medulla oblongata,UBERON:0001896,UBERON_0000926,False,mesoderm
+central canal of ... spinal cord,central canal of spinal cord,UBERON:0002291,UBERON_0002291,True,
+pth ... glands,parathyroid gland,UBERON:0001132,UBERON_0001132,True,
+pc,perichondrium,UBERON:0002222,UBERON_0016530,False,parietal cortex
+cerebellar vermis,cerebellar vermis,UBERON:0004720,UBERON_0004009,False,cerebellum posterior vermis
+neuroepithelia,developing neuroepithelium,UBERON:0034705,UBERON_0034705,True,
+thyroid,thyroid gland,UBERON:0002046,UBERON_0002046,True,
+neurological,nervous system,UBERON:0001016,UBERON_0001016,True,
+vz,ventricular zone,UBERON:0003053,UBERON_0003053,True,
+dorsal root ganglia,dorsal root ganglion,UBERON:0000044,UBERON_0000044,True,
+embryo tissue,embryonic tissue,UBERON:0005291,UBERON_0005291,True,
+anus,anus,UBERON:0001245,UBERON_0000159,False,anal canal
+anal,anus,UBERON:0001245,UBERON_0000159,False,anal canal
+urogenital ... apparatus,genitourinary system,UBERON:0004122,UBERON_0001255,False,urinary bladder
+ventricular,cardiac ventricle,UBERON:0002082,UBERON_0002082,True,
+interdigital web,webbed interdigital region,UBERON:0006015,UBERON_0008438,False,webbed interdigital region between manual digits
+trigeminal ganglia,trigeminal ganglion,UBERON:0001675,UBERON_0001675,True,
+primordia,primordium,UBERON:0001048,UBERON_0003084,False,heart primordium
+gastric mucosa,mucosa of stomach,UBERON:0001199,UBERON_0001199,True,
+fibula,fibula,UBERON:0001446,UBERON_0001446,True,
+g,gastrocnemius,UBERON:0001388,-,False,-
+tibia,tibia,UBERON:0000979,UBERON_0000979,True,
+u,ulna,UBERON:0001424,UBERON_0006435,False,os penis
+radius,radius bone,UBERON:0001423,UBERON_0001423,True,
+F,fibula,UBERON:0001446,-,False,-
+ulnar,ulna,UBERON:0001424,UBERON_4200203,False,humeral facet on the ulna
+soleus,soleus muscle,UBERON:0001389,UBERON_0001389,True,
+Hindlimbs,hindlimb,UBERON:0002103,UBERON_0003663,False,hindlimb muscle
+gastrocnemius,gastrocnemius,UBERON:0001388,UBERON_0001388,True,
+s,soleus muscle,UBERON:0001389,-,False,-
+extensor digitorum longus,extensor digitorum longus,UBERON:0001386,-,False,-
+wing,wing,UBERON:0000023,UBERON_0000024,False,forelimb wing
+somitic,somite,UBERON:0002329,UBERON_2000952,False,sclerotome somite 1
+forearm,forelimb zeugopod,UBERON:0002386,UBERON_0003403,False,skin of forearm
+slow muscle,slow muscle tissue,UBERON:0006907,UBERON_0006907,True,
+muscles,muscle structure,UBERON:0005090,UBERON_0001134,False,skeletal muscle tissue
+zeugopod,zeugopod,UBERON:0002471,UBERON_0004251,False,hindlimb zeugopod bone
+r,radius bone,UBERON:0001423,UBERON_8440077,False,rhinal incisure
+forelimb,forelimb,UBERON:0002102,UBERON_0002102,True,
+FCU,flexor carpi ulnaris muscle,UBERON:0001522,UBERON_0001522,True,
+ZPA,zone of polarizing activity,UBERON:0005414,UBERON_0005414,True,
+limb muscle,limb muscle,UBERON:0003661,UBERON_0014892,False,"skeletal muscle organ, vertebrate"
+hindlimbs,hindlimb,UBERON:0002103,UBERON_0003464,False,hindlimb bone
+hindlimb,hindlimb,UBERON:0002103,UBERON_0003464,False,hindlimb bone
+wings,wing,UBERON:0000023,UBERON_6004340,False,insect wing hair
+long bone,long bone,UBERON:0002495,UBERON_0002495,True,
+extensor,extensor muscle,UBERON:0000311,UBERON_0000311,True,
+anlage,anlage,UBERON:0007688,UBERON_0003084,False,heart primordium
+limb muscles,limb muscle,UBERON:0003661,UBERON_0004481,False,musculature of upper limb
+layer of ... muscle,layer of muscle tissue,UBERON:0018260,UBERON_0012368,False,circular muscle layer of muscular coat
+Wing,wing,UBERON:0000023,UBERON_0000024,False,forelimb wing
+slow skeletal muscle,slow muscle tissue,UBERON:0006907,UBERON_0006907,True,
+fast ... muscle,fast muscle tissue,UBERON:0006908,UBERON_0006908,True,
+slow ... muscle,slow muscle tissue,UBERON:0006907,UBERON_0006907,True,
+fast muscle,fast muscle tissue,UBERON:0006908,UBERON_0006908,True,
+limb bud,limb bud,UBERON:0004347,UBERON_0004347,True,
+forewing,forelimb wing,UBERON:0000024,UBERON_6005378,False,insect wing margin
+Limbs,limb,UBERON:0002101,UBERON_0004480,False,musculature of limb
+Ventral midline,ventral midline,UBERON:0009571,UBERON_0009571,True,
+autopod,autopod region,UBERON:0002470,UBERON_0006717,False,autopodial skeleton
+anconeus,anconeus muscle,UBERON:0002989,UBERON_0002989,True,
+Anc,anconeus muscle,UBERON:0002989,-,False,-
+extensor digitorum communis,extensor digitorum communis,UBERON:0007612,UBERON_0007613,False,extensor digitorum lateralis muscle
+EDC,extensor digitorum communis,UBERON:0007612,UBERON_0001003,False,skin epidermis
+zone of polarizing activity,zone of polarizing activity,UBERON:0005414,UBERON_0010328,False,limb bud mesenchyme
+flexor carpi ulnaris,flexor carpi ulnaris muscle,UBERON:0001522,UBERON_3010734,False,M. flexor carpi ulnaris
+flexor digitorum profundus,flexor digitorum profundus,UBERON:0001523,UBERON_0001523,True,
+FDP,flexor digitorum profundus,UBERON:0001523,UBERON_0003222,False,flexor digitorum superficialis
+ulna,ulna,UBERON:0001424,UBERON_0004408,False,distal epiphysis of ulna
+muscle tissue,muscle tissue,UBERON:0002385,UBERON_0002385,True,
+stylopod,stylopod,UBERON:0002472,UBERON_0004252,False,hindlimb stylopod muscle
+tibialis anterior,tibialis anterior,UBERON:0001385,UBERON_0001385,True,
+t,tibialis anterior,UBERON:0001385,-,False,-
+elbow,elbow,UBERON:0001461,UBERON_0001490,False,elbow joint
+Hindlimb,hindlimb,UBERON:0002103,UBERON_0001441,False,hindlimb skeleton
+long bones,long bone,UBERON:0002495,UBERON_0003606,False,limb long bone
+spinal chord,spinal cord,UBERON:0002240,UBERON_0002240,True,
+fetal,embryo,UBERON:0000922,UBERON_0005630,False,fetal membrane
+kidney marrow,head kidney,UBERON:0007132,UBERON_0007132,True,
+larvae,larva,UBERON:0002548,UBERON_0000069,False,larval stage
+mesenchyme of ... trunk,trunk mesenchyme,UBERON:0005256,UBERON_0005256,True,
+fin,fin,UBERON:0008897,UBERON_0003097,False,dorsal fin
+stage,life cycle stage,UBERON:0000105,UBERON_0000066,False,fully formed stage
+lateral mesoderm,lateral plate mesoderm,UBERON:0003081,UBERON_0003081,True,
+larval,larva,UBERON:0002548,UBERON_0002548,True,
+blood island,blood island,UBERON:0003061,UBERON_0011919,False,yolk sac blood island
+yolk sac blood islands,yolk sac blood island,UBERON:0011919,UBERON_0011919,True,
+blood islands of ... yolk sac,yolk sac blood island,UBERON:0011919,UBERON_0011919,True,
+ventral mesoderm,ventral mesoderm,UBERON:2000083,UBERON_2000083,True,
+gonad,gonad,UBERON:0000991,UBERON_0000992,False,ovary
+mesonephros,mesonephros,UBERON:0000080,UBERON_0005331,False,mesonephric renal vesicle
+aorta,aorta,UBERON:0000947,UBERON_0000947,True,
+ventral ... mesoderm,ventral mesoderm,UBERON:2000083,UBERON_2000083,True,
+blastula stages,blastula stage,UBERON:0000108,UBERON_0000307,False,blastula
+germ ring,germ ring,UBERON:0002541,UBERON_0002541,True,
+swim bladders,swim bladder,UBERON:0006860,UBERON_0006860,True,
+tail bud,post-anal tail bud,UBERON:0002533,UBERON_0007144,False,embryonic post-anal tail
+ventral ... mesodermal,ventral mesoderm,UBERON:2000083,UBERON_2000083,True,
+thymic,thymus,UBERON:0002370,UBERON_0002370,True,
+Mesoderm,mesoderm,UBERON:0000926,UBERON_0000923,False,germ layer
+sera,serum,UBERON:0001977,UBERON_0001977,True,
+sinus venosus,sinus venosus,UBERON:0002063,UBERON_0002063,True,
+renal,kidney,UBERON:0002113,UBERON_0002113,True,
+kidneys,kidney,UBERON:0002113,UBERON_0002113,True,
+glomeruli,renal glomerulus,UBERON:0000074,UBERON_0000074,True,
+immune,immune system,UBERON:0002405,UBERON_0002405,True,
+glomerular,renal glomerulus,UBERON:0000074,UBERON_0005749,False,glomerular tuft
+glomerular tuft,glomerular tuft,UBERON:0005749,UBERON_0005749,True,
+Sera,serum,UBERON:0001977,UBERON_0001977,True,
+Renal,kidney,UBERON:0002113,UBERON_0002113,True,
+system,anatomical system,UBERON:0000467,UBERON_0000062,False,organ
+renal cortex,cortex of kidney,UBERON:0001225,UBERON_0001225,True,
+oval window,oval window,UBERON:0002501,UBERON_2002066,False,auditory fenestra
+OW,oval window,UBERON:0002501,UBERON_0006956,False,buccal mucosa
+spiral prominence,spiral prominence of cochlear duct,UBERON:0028194,UBERON_0028194,True,
+endolymph,endolymph,UBERON:0001852,UBERON_0001855,False,cochlear duct of membranous labyrinth
+strial,stria vascularis of cochlear duct,UBERON:0002282,UBERON_0005383,False,caudate-putamen
+round window,round window of inner ear,UBERON:0002502,UBERON_0002233,False,tectorial membrane of cochlea
+RW,round window of inner ear,UBERON:0002502,-,False,-
+outer sulcus,outer spiral sulcus,UBERON:0008832,UBERON_0003243,False,epithelium of cochlear duct
+OS,outer spiral sulcus,UBERON:0008832,UBERON_0004548,False,left eye
+external sulcus,outer spiral sulcus,UBERON:0008832,UBERON_0002721,False,lateral sulcus
+IS,inner spiral sulcus,UBERON:0008831,UBERON_0000006,False,islet of Langerhans
+inner sulcus,inner spiral sulcus,UBERON:0008831,UBERON_0002227,False,spiral organ of cochlea
+perilymphatic,perilymph,UBERON:0001845,UBERON_0002105,False,vestibulo-auditory system
+endolymphatic,endolymph,UBERON:0001852,UBERON_0002223,False,endolymphatic sac
+follicular lumen,thyroid follicular lumen,UBERON:0012246,UBERON_0012246,True,
+Endolymphatic,endolymph,UBERON:0001852,UBERON_0002223,False,endolymphatic sac
+stria vascularis,stria vascularis of cochlear duct,UBERON:0002282,UBERON_0002282,True,
+ampulla,semicircular canal ampulla,UBERON:0004043,UBERON_0012648,False,ampulla of fallopian tube
+ampullae,semicircular canal ampulla,UBERON:0004043,UBERON_0012648,False,ampulla of fallopian tube
+modiolar,cochlear modiolus,UBERON:0006723,UBERON_0006723,True,
+vestibular aqueduct,vestibular aqueduct,UBERON:0002279,UBERON_0002279,True,
+otoconia,otolith,UBERON:0002280,UBERON_0002214,False,macula of utricle of membranous labyrinth
+stria,stria vascularis of cochlear duct,UBERON:0002282,UBERON_0002282,True,
+cochlear ... wall,cochlear canal,UBERON:0006106,UBERON_0002282,False,stria vascularis of cochlear duct
+Temporal bones,temporal bone,UBERON:0001678,UBERON_0001678,True,
+spiral ligament,spiral ligament,UBERON:0006725,UBERON_0028194,False,spiral prominence of cochlear duct
+spiral ganglia,cochlear ganglion,UBERON:0000395,UBERON_0000395,True,
+uterus,uterus,UBERON:0000995,UBERON_0000995,True,
+mammary gland,mammary gland,UBERON:0001911,UBERON_0001911,True,
+endolymphatic sac,endolymphatic sac,UBERON:0002223,UBERON_0002223,True,
+A,crista ampullaris,UBERON:0004721,-,False,-
+bony capsule of ... cochlea,bony otic capsule,UBERON:0005411,UBERON_0002499,False,cochlear labyrinth
+basilar membrane,basilar membrane of cochlea,UBERON:0002226,UBERON_0002226,True,
+utricular macula,macula of utricle of membranous labyrinth,UBERON:0002214,UBERON_0002214,True,
+A ... of ... cochlea,apex of cochlea,UBERON:0002819,UBERON_0001844,False,cochlea
+B ... of ... cochlea,base of cochlear canal,UBERON:0014626,UBERON_0002226,False,basilar membrane of cochlea
+Reissner's membrane,vestibular membrane of cochlear duct,UBERON:0002281,UBERON_0002281,True,
+RM,vestibular membrane of cochlear duct,UBERON:0002281,UBERON_0000362,False,renal medulla
+temporal bones,temporal bone,UBERON:0001678,UBERON_0004766,False,cranial bone
+SL,spiral ligament,UBERON:0006725,UBERON_0002071,False,stratum lucidum of epidermis
+SP,spiral prominence of cochlear duct,UBERON:0028194,UBERON_0002106,False,spleen
+base ... of ... cochlea,base of cochlear canal,UBERON:0014626,UBERON_0014626,True,
+wall of ... cochlea,cochlear canal,UBERON:0006106,UBERON_0001855,False,cochlear duct of membranous labyrinth
+perilymph,perilymph,UBERON:0001845,UBERON_0001839,False,bony labyrinth
+apex ... of ... cochlea,apex of cochlea,UBERON:0002819,UBERON_0014629,False,terminal part of the cochlear canal
+endolymphatic space,endolymphatic space,UBERON:0011078,UBERON_0001855,False,cochlear duct of membranous labyrinth
+inner ears,internal ear,UBERON:0001846,UBERON_0001846,True,
+endolymphatic duct,endolymphatic duct,UBERON:0001860,UBERON_0001860,True,
+crista ampullaris,crista ampullaris,UBERON:0004721,UBERON_0006935,False,crista ampullaris neuroepithelium
+Stria vascularis,stria vascularis of cochlear duct,UBERON:0002282,UBERON_0002282,True,
+scala media,scala media,UBERON:0002295,UBERON_0002227,False,spiral organ of cochlea
+surface of ... bone,surface of bone,UBERON:4200230,UBERON_0016896,False,periosteum of long bone
+Spiral prominence,spiral prominence of cochlear duct,UBERON:0028194,UBERON_0028194,True,
+connective tissue,connective tissue,UBERON:0002384,UBERON_0002384,True,
+vestibular labyrinth,vestibular labyrinth,UBERON:0001862,UBERON_0001862,True,
+Endolymph,endolymph,UBERON:0001852,UBERON_0001854,False,saccule of membranous labyrinth
+EDL,extensor digitorum longus,UBERON:0001386,UBERON_0001386,True,
+Skeletal,skeleton,UBERON:0004288,UBERON_0001134,False,skeletal muscle tissue
+inguinal fat pad,inguinal fat pad,UBERON:0010410,UBERON_0010410,True,
+gastrocnemius muscle,gastrocnemius,UBERON:0001388,UBERON_0001388,True,
+Muscles,muscle structure,UBERON:0005090,UBERON_0001134,False,skeletal muscle tissue
+inguinal,inguinal part of abdomen,UBERON:0008337,UBERON_0008337,True,
+retroperitoneal,retroperitoneal space,UBERON:0003693,UBERON_0003693,True,
+plantaris muscle,plantaris,UBERON:0011905,-,False,-
+Gastro,gastrocnemius,UBERON:0001388,UBERON_0001199,False,mucosa of stomach
+Gastrocnemius muscle,gastrocnemius,UBERON:0001388,UBERON_0001388,True,
+soleus muscles,soleus muscle,UBERON:0001389,UBERON_0001389,True,
+Soleus Muscle,soleus muscle,UBERON:0001389,UBERON_0001389,True,
+Gastrocnemius Muscles,gastrocnemius,UBERON:0001388,UBERON_0001388,True,
+Achilles tendon,calcaneal tendon,UBERON:0003701,UBERON_0003701,True,
+sciatic nerve,sciatic nerve,UBERON:0001322,UBERON_0001322,True,
+muscle groups,musculature,UBERON:0001015,UBERON_0014892,False,"skeletal muscle organ, vertebrate"
+flexor ... muscle,flexor muscle,UBERON:0000366,UBERON_0000366,True,
+Cardiac,heart,UBERON:0000948,UBERON_0001133,False,cardiac muscle tissue
+gastrocnemius muscles,gastrocnemius,UBERON:0001388,UBERON_0001388,True,
+Gastrocnemius Muscle,gastrocnemius,UBERON:0001388,UBERON_0001388,True,
+intervertebral discs,intervertebral disk,UBERON:0001066,UBERON_0001066,True,
+inner layer of ... neural cup,presumptive neural retina,UBERON:0005425,UBERON_0005425,True,
+neural retina,retinal neural layer,UBERON:0003902,UBERON_0005425,False,presumptive neural retina
+bronchioles,bronchiole,UBERON:0002186,UBERON_0002186,True,
+neural retinal,retinal neural layer,UBERON:0003902,UBERON_0005425,False,presumptive neural retina
+organ systems,anatomical system,UBERON:0000467,UBERON_0000467,True,
+submucosa,submucosa,UBERON:0000009,UBERON_0018257,False,submucosa of digestive tract
+Bowman's capsule,glomerular capsule,UBERON:0001230,UBERON_0001229,False,renal corpuscle
+intramural ganglion,enteric ganglion,UBERON:0001809,UBERON_0001809,True,
+retinal layers,layer of retina,UBERON:0001781,UBERON_0001795,False,inner plexiform layer of retina
+retinal layer,layer of retina,UBERON:0001781,UBERON_0001795,False,inner plexiform layer of retina
+paravertebral ganglia,paravertebral ganglion,UBERON:0001807,UBERON_0001807,True,
+nasal cavities,nasal cavity,UBERON:0001707,UBERON_0001707,True,
+retinal ... layers,layer of retina,UBERON:0001781,UBERON_0001781,True,
+fore ... limb buds,forelimb bud,UBERON:0005417,UBERON_0005417,True,
+diaphragm,diaphragm,UBERON:0001103,UBERON_0004495,False,skeletal muscle tissue of diaphragm
+genital ridge,genital ridge,UBERON:0005294,UBERON_0005294,True,
+enteric ganglia,enteric ganglion,UBERON:0001809,UBERON_0001809,True,
+optic cups,optic cup,UBERON:0003072,UBERON_0016854,False,dorsal part of optic cup
+nasal cavity,nasal cavity,UBERON:0001707,UBERON_0001707,True,
+inner ... layers of ... optic cup,presumptive neural retina,UBERON:0005425,UBERON_0003902,False,retinal neural layer
+outer layers of ... optic cup,presumptive retinal pigmented epithelium,UBERON:0005424,UBERON_0005424,True,
+retina layers,layer of retina,UBERON:0001781,UBERON_0001781,True,
+secondary palate,secondary palate,UBERON:0001716,UBERON_0001716,True,
+Rathke's pouch,Rathke's pouch,UBERON:0005356,UBERON_0034875,False,future pituitary gland
+hypothalamus,hypothalamus,UBERON:0001898,UBERON_0001898,True,
+jejunum,jejunum,UBERON:0002115,UBERON_0000400,False,jejunal epithelium
+intramural ganglia,enteric ganglion,UBERON:0001809,UBERON_0001809,True,
+blastemas,blastema,UBERON:0005306,UBERON_0012438,False,blastema of regenerating fin/limb
+maxillary sinus,maxillary sinus,UBERON:0001764,UBERON_0001764,True,
+optic cup,optic cup,UBERON:0003072,UBERON_0016854,False,dorsal part of optic cup
+outer plexiform layer,outer plexiform layer of retina,UBERON:0001790,UBERON_0001790,True,
+IPL,inner plexiform layer of retina,UBERON:0001795,UBERON_0006088,False,inferior parietal cortex
+OPL,outer plexiform layer of retina,UBERON:0001790,UBERON_0001790,True,
+inner plexiform layer,inner plexiform layer of retina,UBERON:0001795,UBERON_0001795,True,
+inner granular layer,inner nuclear layer of retina,UBERON:0001791,UBERON_0005393,False,cortical layer IV
+layers of ... retina,layer of retina,UBERON:0001781,UBERON_0001787,False,photoreceptor layer of retina
+epithelial lung,lung epithelium,UBERON:0000115,UBERON_0000115,True,
+inner granular retinal layer,inner nuclear layer of retina,UBERON:0001791,UBERON_0001791,True,
+OGL,outer nuclear layer of retina,UBERON:0001789,UBERON_0005377,False,olfactory bulb glomerular layer
+IGL,inner nuclear layer of retina,UBERON:0001791,UBERON_0035975,False,intergeniculate leaflet of the lateral geniculate complex
+outer granular layer,outer nuclear layer of retina,UBERON:0001789,UBERON_0008829,False,cerebellum external granule cell layer
+protrusions,anatomical projection,UBERON:0004529,-,False,-
+Terminal ... bronchioles,terminal bronchiole,UBERON:0002187,UBERON_0002187,True,
+lifespan,life cycle,UBERON:0000104,UBERON_0000104,True,
+Terminal bronchi,terminal bronchus,UBERON:0002041,UBERON_0003540,False,right lung terminal bronchiole
+digital,digit,UBERON:0002544,UBERON_0004337,False,distal phalanx of manual digit 1
+smooth muscle tissue,smooth muscle tissue,UBERON:0001135,UBERON_0001135,True,
+alveolar epithelial,pulmonary alveolus epithelium,UBERON:0004821,UBERON_0004821,True,
+collecting tubules,collecting duct of renal tubule,UBERON:0001232,UBERON_0001232,True,
+muscular layers,layer of muscle tissue,UBERON:0018260,UBERON_0018260,True,
+interdigital areas,interdigital region,UBERON:0006012,UBERON_0005275,False,dorsal skin of digit
+mesenchyme of limb buds,limb bud mesenchyme,UBERON:0010328,UBERON_0010328,True,
+optical cup,optic cup,UBERON:0003072,UBERON_0016854,False,dorsal part of optic cup
+retinal-pigmented epithelium,pigmented layer of retina,UBERON:0001782,UBERON_0007625,False,pigment epithelium of eye
+neural epithelium,developing neuroepithelium,UBERON:0034705,UBERON_0034705,True,
+nose,olfactory apparatus,UBERON:0000004,UBERON_0001707,False,nasal cavity
+prosencephalic,forebrain,UBERON:0001890,UBERON_0001893,False,telencephalon
+neural tissues,neural tissue,UBERON:0003714,UBERON_0003714,True,
+Extra-embryonic membranes,extraembryonic membrane,UBERON:0005631,UBERON_0005630,False,fetal membrane
+perinatal period,perinatal stage,UBERON:0012101,UBERON_0034920,False,infant stage
+roof plate,roof plate,UBERON:0003054,-,False,-
+dermatome,dermatome,UBERON:0004016,UBERON_0007121,False,skin nerve field
+mantle layer,neural tube mantle layer,UBERON:0004061,UBERON_0004061,True,
+fifth digit,digit 5,UBERON:0006052,UBERON_0011277,False,nail of manual digit 5
+metacarpal-phalangeal ... joints,metacarpophalangeal joint,UBERON:0003695,UBERON_0003695,True,
+metatarsal-phalangeal joints,metatarsophalangeal joint,UBERON:0003696,UBERON_0003696,True,
+pinnae,pinna,UBERON:0001757,UBERON_0001691,False,external ear
+gp,epiphyseal plate,UBERON:0002516,UBERON_0001875,False,globus pallidus
+second hindlimb digit,pedal digit 2,UBERON:0003632,-,False,-
+tragus,tragus,UBERON:0010887,UBERON_0001867,False,cartilage of external ear
+Articular cartilage,articular cartilage of joint,UBERON:0010996,UBERON_0010996,True,
+antitragus,antitragus,UBERON:0016467,UBERON_0001691,False,external ear
+growth plate,epiphyseal plate,UBERON:0002516,UBERON_0002516,True,
+joints of ... wrist,wrist joint,UBERON:0001491,UBERON_0001491,True,
+joints,articulation,UBERON:0004905,UBERON_0002018,False,synovial membrane of synovial joint
+w,wrist joint,UBERON:0001491,-,False,-
+articular,articulation,UBERON:0004905,UBERON_0008124,False,joint articular surface
+joints of ... elbow,elbow joint,UBERON:0001490,UBERON_0001490,True,
+bone,bone element,UBERON:0001474,UBERON_0002481,False,bone tissue
+eb,elbow joint,UBERON:0001490,UBERON_0014374,False,embryoid body
+Joints,articulation,UBERON:0004905,UBERON_0002018,False,synovial membrane of synovial joint
+bones,bone element,UBERON:0001474,UBERON_0002481,False,bone tissue
+joints ... ankle,ankle joint,UBERON:0001488,UBERON_0001488,True,
+joints of ... knee,knee joint,UBERON:0001485,UBERON_0010996,False,articular cartilage of joint
+k,knee joint,UBERON:0001485,UBERON_0002113,False,kidney
+synovial,layer of synovial tissue,UBERON:0007616,UBERON_0002018,False,synovial membrane of synovial joint
+embryonic tissue,embryonic tissue,UBERON:0005291,UBERON_0005291,True,
+joints of ... shoulder,shoulder joint,UBERON:0016884,UBERON_0016884,True,
+embyonic,embryo,UBERON:0000922,UBERON_0000922,True,
+phalangeal,phalanx,UBERON:0003221,UBERON_0003865,False,distal phalanx of manus
+tendons,tendon,UBERON:0000043,UBERON_0000043,True,
+ligaments,ligament,UBERON:0000211,UBERON_0000211,True,
+vertebra,vertebra,UBERON:0002412,UBERON_0001092,False,vertebral bone 1
+phalanges,phalanx,UBERON:0003221,UBERON_0014487,False,distal phalanx of digit 5
+proximal interphalangeal joint,proximal interphalangeal joint,UBERON:0009767,UBERON_0009767,True,
+interphalangeal joint,interphalangeal joint,UBERON:0006658,UBERON_0006658,True,
+digits ... 2,digit 2,UBERON:0006049,UBERON_0004311,False,distal phalanx of manual digit 2
+joint,articulation,UBERON:0004905,UBERON_0000982,False,skeletal joint
+digits 1,digit 1,UBERON:0006048,UBERON_0011273,False,nail of manual digit 1
+Ankle,tarsal region,UBERON:0004454,UBERON_0001488,False,ankle joint
+Joint,articulation,UBERON:0004905,UBERON_0011139,False,synovial limb joint
+digit 5,digit 5,UBERON:0006052,UBERON_5102389,False,manual digit digitopodial skeleton
+metacarpal-phalangeal joints,metacarpophalangeal joint,UBERON:0003695,UBERON_0003695,True,
+tarsal bone,tarsal bone,UBERON:0001447,UBERON_0001447,True,
+ca,calcaneus,UBERON:0001450,UBERON_0003876,False,hippocampal field
+tarsal,tarsal bone,UBERON:0001447,UBERON_6004646,False,insect tarsal segment
+ankle joint,ankle joint,UBERON:0001488,UBERON_7500081,False,articular surface for the tibia on the talus
+ta,talus,UBERON:0002395,UBERON_0001385,False,tibialis anterior
+tarsals,tarsal bone,UBERON:0001447,UBERON_0001447,True,
+calcaneus,calcaneus,UBERON:0001450,UBERON_0001447,False,tarsal bone
+ankle joints,ankle joint,UBERON:0001488,UBERON_0001488,True,
+Ankle Region,tarsal region,UBERON:0004454,UBERON_0001488,False,ankle joint
+metatarsal/phalangeal joint,metatarsophalangeal joint,UBERON:0003696,UBERON_0003696,True,
+tarsal bones,tarsal bone,UBERON:0001447,UBERON_0001447,True,
+talus,talus,UBERON:0002395,UBERON_0001447,False,tarsal bone
+ankle bones,tarsal bone,UBERON:0001447,UBERON_7500081,False,articular surface for the tibia on the talus
+metatarsals,metatarsal bone,UBERON:0001448,UBERON_0001448,True,
+Ankles,tarsal region,UBERON:0004454,UBERON_0001488,False,ankle joint
+metatarsal II,metatarsal bone of digit 2,UBERON:0003651,UBERON_0003651,True,
+articular cartilage,articular cartilage of joint,UBERON:0010996,UBERON_0010996,True,
+Articular Cartilage,articular cartilage of joint,UBERON:0010996,UBERON_0010996,True,
+Digits,digit,UBERON:0002544,UBERON_5102544,False,individual digit of digitopodial skeleton
+joint capsule,articular capsule,UBERON:0001484,UBERON_0001484,True,
+epiphyses,epiphysis,UBERON:0001437,UBERON_0004400,False,bone tissue of epiphysis
+skeletal tissue,skeletal tissue,UBERON:0004755,UBERON_0004755,True,
+meniscal,meniscus,UBERON:0000387,UBERON_0000387,True,
+femur,femur,UBERON:0000981,UBERON_0000981,True,
+fe,femur,UBERON:0000981,-,False,-
+Knees,knee,UBERON:0001465,UBERON_0001485,False,knee joint
+knee joints,knee joint,UBERON:0001485,UBERON_0001485,True,
+tibial epiphysis,epiphysis of tibia,UBERON:0004383,UBERON_0004383,True,
+ti,tibia,UBERON:0000979,UBERON_0004946,False,submucosa of ileum
+Articular,articulation,UBERON:0004905,UBERON_0008124,False,joint articular surface
+heads,head,UBERON:0000033,UBERON_0001084,False,skin of head
+skeletal joint,skeletal joint,UBERON:0000982,UBERON_0002217,False,synovial joint
+knee joint,knee joint,UBERON:0001485,UBERON_0001485,True,
+synovial joint,synovial joint,UBERON:0002217,UBERON_0002018,False,synovial membrane of synovial joint
+limb joints,limb joint,UBERON:0003657,UBERON_0003657,True,
+synovial joints,synovial joint,UBERON:0002217,UBERON_0002217,True,
+shoulder joint,shoulder joint,UBERON:0016884,UBERON_0001470,False,glenohumeral joint
+ear pinnae,pinna,UBERON:0001757,UBERON_0001691,False,external ear
+ribs,rib,UBERON:0002228,UBERON_0003252,False,thoracic rib cage
+second ... digits of ... forelimbs,manual digit 2,UBERON:0003622,UBERON_0004311,False,distal phalanx of manual digit 2
+sternum,sternum,UBERON:0000975,UBERON_0000975,True,
+first ... digits of ... forelimbs,manual digit 1,UBERON:0001463,UBERON_0005257,False,manual digit mesenchyme
+shoulder,shoulder,UBERON:0001467,UBERON_0003461,False,shoulder bone
+knee,knee,UBERON:0001465,UBERON_0001485,False,knee joint
+elbow joint,elbow joint,UBERON:0001490,UBERON_0001490,True,
+phalangeal joints,interphalangeal joint,UBERON:0006658,UBERON_0014677,False,distal interphalangeal joint of digit 2
+joints of ... limbs,limb joint,UBERON:0003657,UBERON_0011139,False,synovial limb joint
+fingertips,distal segment of manual digit,UBERON:0009552,UBERON_0004300,False,distal phalanx
+external ear,external ear,UBERON:0001691,UBERON_0001691,True,
+Ear,ear,UBERON:0001690,UBERON_0002105,False,vestibulo-auditory system
+forefeet,manus,UBERON:0002398,-,False,-
+hindfeet,pes,UBERON:0002387,UBERON_0004463,False,musculature of hindlimb stylopod
+first ... digits of ... feet,pedal digit 1,UBERON:0003631,UBERON_5112261,False,manual major digit (Aves) digitopodial skeleton
+second digits of ... feet,pedal digit 2,UBERON:0003632,UBERON_5106049,False,digit 2 digitopodial skeleton
+wrist,carpal region,UBERON:0004452,UBERON_0001491,False,wrist joint
+ankle,tarsal region,UBERON:0004454,UBERON_0001488,False,ankle joint
+vertebral column,vertebral column,UBERON:0001130,UBERON_0001130,True,
+first ... digit,digit 1,UBERON:0006048,UBERON_0001463,False,manual digit 1
+second digit,digit 2,UBERON:0006049,UBERON_0009552,False,distal segment of manual digit
+ear cartilage,cartilage of external ear,UBERON:0001867,UBERON_0001848,False,auricular cartilage
+growth plate of ... long bones,epiphyseal plate,UBERON:0002516,UBERON_0002516,True,
+interdigital webbing,webbed interdigital region,UBERON:0006015,UBERON_0008439,False,webbed interdigital region between pedal digits
+interdigital region between ... first and second ... digits,interdigital region between digits 1 and 2,UBERON:0006016,UBERON_0009596,False,mesenchyme of interdigital region between digits 1 and 2
+ankles,tarsal region,UBERON:0004454,UBERON_0001488,False,ankle joint
+ea,ear,UBERON:0001690,UBERON_0005742,False,adventitia
+second distal tarsal,distal tarsal bone 2,UBERON:0001453,UBERON_0001453,True,
+tip of ... digit,distal segment of digit,UBERON:0009551,UBERON_0004337,False,distal phalanx of manual digit 1
+joints of ... limb,limb joint,UBERON:0003657,UBERON_0003657,True,
+Interdigital mesenchyme,interdigital region mesenchyme,UBERON:0009585,UBERON_0009597,False,mesenchyme of interdigital region between digits 2 and 3
+cartilaginous growth plate,growth plate cartilage,UBERON:0004129,UBERON_0002516,False,epiphyseal plate
+ankle region,tarsal region,UBERON:0004454,UBERON_0001488,False,ankle joint
+Ankle Regions,tarsal region,UBERON:0004454,UBERON_0001488,False,ankle joint
+skeletons,skeleton,UBERON:0004288,UBERON_0001434,False,skeletal system
+Adulthood,post-juvenile adult stage,UBERON:0000113,UBERON_0007023,False,adult organism
+second digits,digit 2,UBERON:0006049,UBERON_0011274,False,nail of manual digit 2
+interdigital mesenchyme,interdigital region mesenchyme,UBERON:0009585,UBERON_0009600,False,mesenchyme of interdigital region of manus
+webbed region between ... digits,webbed interdigital region,UBERON:0006015,UBERON_0008438,False,webbed interdigital region between manual digits
+first ... digits,digit 1,UBERON:0006048,UBERON_0011273,False,nail of manual digit 1
+carpals,carpal bone,UBERON:0001435,UBERON_0001435,True,
+metacarpals,metacarpal bone,UBERON:0002374,UBERON_0002374,True,
+interphalangeal joints,interphalangeal joint,UBERON:0006658,UBERON_0009768,False,distal interphalangeal joint
+joint of ... hindlimb,hindlimb joint,UBERON:0003840,UBERON_0003840,True,
+Digit,digit,UBERON:0002544,UBERON_0004337,False,distal phalanx of manual digit 1
+webbing between digits,webbed interdigital region,UBERON:0006015,UBERON_0008438,False,webbed interdigital region between manual digits
+meniscus,meniscus,UBERON:0000387,UBERON_0000387,True,
+foot joints,pes joint,UBERON:0001487,UBERON_0003696,False,metatarsophalangeal joint
+synovium,layer of synovial tissue,UBERON:0007616,UBERON_0002018,False,synovial membrane of synovial joint
+Synovial,layer of synovial tissue,UBERON:0007616,UBERON_0002018,False,synovial membrane of synovial joint
+Knee Joints,knee joint,UBERON:0001485,UBERON_0001485,True,
+growth plate cartilage,growth plate cartilage,UBERON:0004129,UBERON_0002516,False,epiphyseal plate
+parathyroid,parathyroid gland,UBERON:0001132,UBERON_0001132,True,
+epiphysis of ... femur,epiphysis of femur,UBERON:0004384,UBERON_0004384,True,
+epiphysis of ... tibia,epiphysis of tibia,UBERON:0004383,UBERON_0004383,True,
+ossification front,long bone epiphyseal plate ossification zone,UBERON:0006773,UBERON_0006773,True,
+P1,proximal phalanx,UBERON:0004302,UBERON_0018294,False,premolar 1
+knees,knee,UBERON:0001465,UBERON_0001485,False,knee joint
+MT,metatarsal bone,UBERON:0001448,UBERON_8440011,False,cortical visual area
+portions of ... brain,regional part of brain,UBERON:0002616,UBERON_0022776,False,composite part spanning multiple base regional parts of brain
+portions of ... spinal cord,regional part of spinal cord,UBERON:0001948,UBERON_0005844,False,spinal cord segment
+fibrocartilaginous,fibrocartilage,UBERON:0001995,UBERON_0001995,True,
+regions of ... brain,regional part of brain,UBERON:0002616,UBERON_0022776,False,composite part spanning multiple base regional parts of brain
+regions of ... spinal cord,regional part of spinal cord,UBERON:0001948,UBERON_0002257,False,ventral horn of spinal cord
+central tarsal bone,pedal centrale,UBERON:4200011,UBERON_0001447,False,tarsal bone
+interdigital mesenchyme between ... first and second digits,mesenchyme of interdigital region between digits 1 and 2,UBERON:0009596,UBERON_0009596,True,
+webbing between ... digits of ... feet,webbed interdigital region between pedal digits,UBERON:0008439,-,False,-
+E,embryo,UBERON:0000922,UBERON_0004670,False,ependyma
+P2,second phalanx,UBERON:4100005,UBERON_0018640,False,premolar 2
+webbing between ... digit,webbed interdigital region,UBERON:0006015,UBERON_0008438,False,webbed interdigital region between manual digits
+interdigital,interdigital region,UBERON:0006012,UBERON_0008439,False,webbed interdigital region between pedal digits
+bones in ... ankle,tarsal bone,UBERON:0001447,UBERON_0001447,True,
+interdigital limb mesenchyme,interdigital region mesenchyme,UBERON:0009585,UBERON_0009591,False,mesenchyme of interdigital region between pedal digits 2 and 3
+ends of long bones,epiphysis,UBERON:0001437,UBERON_0004400,False,bone tissue of epiphysis
+DRG,dorsal root ganglion,UBERON:0000044,UBERON_0000044,True,
+laminae,lamina,UBERON:0000957,UBERON_8440004,False,laminar subdivision of the cortex
+ventral horn,ventral horn of spinal cord,UBERON:0002257,UBERON_0002257,True,
+muscle spindles,muscle spindle,UBERON:0003718,UBERON_0003718,True,
+trigeminal,trigeminal ganglion,UBERON:0001675,UBERON_0001675,True,
+gray matter,gray matter,UBERON:0002020,UBERON_0003528,False,brain gray matter
+ventral root,ventral root of spinal cord,UBERON:0002260,UBERON_0002260,True,
+DRGs,dorsal root ganglion,UBERON:0000044,UBERON_0000044,True,
+circuit,circuit part of central nervous system,UBERON:0024914,UBERON_0026547,False,intrinsic neuronal circuit
+Spinal Cord,spinal cord,UBERON:0002240,UBERON_0002240,True,
+Tibial Nerve,tibial nerve,UBERON:0001323,UBERON_0001323,True,
+Muscle Spindles,muscle spindle,UBERON:0003718,UBERON_0003718,True,
+dorsal horn,dorsal horn of spinal cord,UBERON:0002256,UBERON_0002256,True,
+ventral horn of ... spinal cord,ventral horn of spinal cord,UBERON:0002257,UBERON_0002257,True,
+ganglia,ganglion,UBERON:0000045,UBERON_0003338,False,ganglion of peripheral nervous system
+spindle,muscle spindle,UBERON:0003718,UBERON_0003718,True,
+Muscle spindles,muscle spindle,UBERON:0003718,UBERON_0003718,True,
+tibial nerve,tibial nerve,UBERON:0001323,UBERON_0001323,True,
+lateral motor column,spinal cord lateral motor column,UBERON:0010405,UBERON_0010405,True,
+cord,spinal cord,UBERON:0002240,UBERON_0002331,False,umbilical cord
+ventral horns,ventral horn of spinal cord,UBERON:0002257,UBERON_0002257,True,
+spindles,muscle spindle,UBERON:0003718,UBERON_0003718,True,
+ventral cord,ventral nerve cord,UBERON:0000934,UBERON_0000934,True,
+nerve,nerve,UBERON:0001021,UBERON_0000010,False,peripheral nervous system
+spinal cords,spinal cord,UBERON:0002240,UBERON_0002240,True,
+Dorsal horns,dorsal horn of spinal cord,UBERON:0002256,UBERON_0002256,True,
+peripheral nerves,nerve,UBERON:0001021,UBERON_0000010,False,peripheral nervous system
+skin of ... lower leg,lower leg skin,UBERON:0004264,UBERON_0004264,True,
+leg,leg,UBERON:0000978,UBERON_0004466,False,musculature of leg
+trigeminal ganglion,trigeminal ganglion,UBERON:0001675,UBERON_0001675,True,
+maxillary process,maxillary prominence,UBERON:0005868,UBERON_0005868,True,
+Dental,calcareous tooth,UBERON:0001091,UBERON_0011594,False,dentary tooth
+lateral motor columns,spinal cord lateral motor column,UBERON:0010405,UBERON_0010405,True,
+corticospinal,corticospinal tract,UBERON:0002707,UBERON_0002707,True,
+muscle spindle,muscle spindle,UBERON:0003718,UBERON_0003718,True,
+nerve bundles,nerve fasciculus,UBERON:0001019,UBERON_0001019,True,
+ventral horns of ... spinal cord,ventral horn of spinal cord,UBERON:0002257,UBERON_0002257,True,
+Spinal cords,spinal cord,UBERON:0002240,UBERON_0002240,True,
+Muscle spindle,muscle spindle,UBERON:0003718,UBERON_0003718,True,
+Cb,cerebellum,UBERON:0002037,UBERON_0002037,True,
+Tail,tail,UBERON:0002415,UBERON_0003599,False,tail connective tissue
+cerebella,cerebellum,UBERON:0002037,UBERON_0002037,True,
+po,pons,UBERON:0000988,UBERON_0000988,True,
+hy,hypothalamus,UBERON:0001898,UBERON_0001898,True,
+mo,medulla oblongata,UBERON:0001896,UBERON_0001896,True,
+pituitary,pituitary gland,UBERON:0000007,UBERON_0000007,True,
+mbr,midbrain tectum,UBERON:0002314,-,False,-
+mv,mitral valve,UBERON:0002135,UBERON_0002135,True,
+midbrain roof,midbrain tectum,UBERON:0002314,UBERON_0003299,False,roof plate of midbrain
+mes,early mesencephalic vesicle,UBERON:0013147,UBERON_0009142,False,entire embryonic mesenchyme
+mb,midbrain,UBERON:0001891,UBERON_0001891,True,
+mesencephalic vesicle,early mesencephalic vesicle,UBERON:0013147,UBERON_0013148,False,early midbrain vesicle
+ventricular septal,interventricular septum,UBERON:0002094,UBERON_0002094,True,
+pit,pituitary gland,UBERON:0000007,UBERON_0000007,True,
+visceral organs,viscus,UBERON:0002075,UBERON_0017672,False,abdominal viscera
+tongue,tongue,UBERON:0001723,UBERON_0000378,False,tongue muscle
+outlet,outflow tract,UBERON:0004145,UBERON_0008203,False,pelvic cavity
+arterial trunk,truncus arteriosus,UBERON:0002061,UBERON_0002061,True,
+visceral,viscus,UBERON:0002075,UBERON_0017672,False,abdominal viscera
+atrial ... septal,interatrial septum,UBERON:0002085,UBERON_0002085,True,
+outflow tract,outflow tract,UBERON:0004145,UBERON_0005337,False,outflow tract of ventricle
+left superior vena cava,left anterior vena cava,UBERON:0006765,UBERON_0006829,False,remnant of left anterior vena cava
+right ... lungs,right lung,UBERON:0002167,UBERON_0002167,True,
+myocardial,myocardium,UBERON:0002349,UBERON_0002349,True,
+lad,left adrenal gland,UBERON:0001234,UBERON_0035395,False,branch of left coronary artery
+left ... kidney,left kidney,UBERON:0004538,UBERON_0004538,True,
+umbilical,umbilicus,UBERON:0007118,UBERON_0002331,False,umbilical cord
+left adrenal,left adrenal gland,UBERON:0001234,UBERON_0001234,True,
+left ... ventricles,heart left ventricle,UBERON:0002084,UBERON_0002084,True,
+rave,heart right ventricle,UBERON:0002080,-,False,-
+embryonal,embryo,UBERON:0000922,UBERON_0000922,True,
+intestines,intestine,UBERON:0000160,UBERON_0002108,False,small intestine
+ivs,interventricular septum,UBERON:0002094,UBERON_0002094,True,
+lk,left kidney,UBERON:0004538,UBERON_0004538,True,
+ram,right cardiac atrium,UBERON:0002078,UBERON_0002382,False,rectus abdominis muscle
+live,heart left ventricle,UBERON:0002084,UBERON_0002107,False,liver
+lmb,left main bronchus,UBERON:0002178,UBERON_0002178,True,
+ll,left lung,UBERON:0002168,-,False,-
+right ... atria,right cardiac atrium,UBERON:0002078,UBERON_0002078,True,
+lsvc,left anterior vena cava,UBERON:0006765,-,False,-
+left lungs,left lung,UBERON:0002168,UBERON_0002168,True,
+left ... main bronchus,left main bronchus,UBERON:0002178,UBERON_0002178,True,
+rl,right lung,UBERON:0002167,UBERON_0002167,True,
+li,liver,UBERON:0002107,UBERON_0002107,True,
+right ... ventricles,heart right ventricle,UBERON:0002080,UBERON_0002080,True,
+ao,aorta,UBERON:0000947,UBERON_0000947,True,
+left ... atria,left cardiac atrium,UBERON:0002079,UBERON_0002079,True,
+rvot,outflow part of right ventricle,UBERON:0005953,UBERON_0005953,True,
+arterial duct,ductus arteriosus,UBERON:0005440,UBERON_0005440,True,
+Myocardial,myocardium,UBERON:0002349,UBERON_0002349,True,
+lar,larynx,UBERON:0001737,-,False,-
+lobes of ... thymus,thymus lobe,UBERON:0005483,UBERON_0005483,True,
+right ventricular outflow tract,outflow part of right ventricle,UBERON:0005953,UBERON_0005953,True,
+sp,spleen,UBERON:0002106,UBERON_0002106,True,
+aq,midbrain cerebral aqueduct,UBERON:0002289,UBERON_0001766,False,anterior chamber of eyeball
+fourth ventricle,fourth ventricle,UBERON:0002422,UBERON_0002422,True,
+ad,ductus arteriosus,UBERON:0005440,UBERON_0001013,False,adipose tissue
+i,intestine,UBERON:0000160,-,False,-
+secondary atrial septum,atrial septum secundum,UBERON:0004155,UBERON_0004155,True,
+aqueduct of Sylvius,midbrain cerebral aqueduct,UBERON:0002289,UBERON_0002289,True,
+sas,atrial septum secundum,UBERON:0004155,UBERON_0000315,False,subarachnoid space
+ie,internal ear,UBERON:0001846,UBERON_0001846,True,
+larynx,larynx,UBERON:0001737,UBERON_0001737,True,
+thoracic,thoracic segment of trunk,UBERON:0000915,UBERON_0002224,False,thoracic cavity
+fv,fourth ventricle,UBERON:0002422,UBERON_0001361,False,femoral vein
+right atria,right cardiac atrium,UBERON:0002078,UBERON_0002078,True,
+septal,septum,UBERON:0003037,UBERON_0001877,False,medial septal nucleus
+subclavian artery,subclavian artery,UBERON:0001533,UBERON_0001533,True,
+ascending aorta,ascending aorta,UBERON:0001496,UBERON_0001496,True,
+a-ao,ascending aorta,UBERON:0001496,UBERON_0001496,True,
+interventricular septum,interventricular septum,UBERON:0002094,UBERON_0002094,True,
+Embryonal,embryo,UBERON:0000922,UBERON_0000922,True,
+atria septal,interatrial septum,UBERON:0002085,UBERON_0002085,True,
+primary atria septum,atrial septum primum,UBERON:0004154,UBERON_0004154,True,
+pas,atrial septum primum,UBERON:0004154,UBERON_0004683,False,parasubiculum
+es,esophagus,UBERON:0001043,UBERON_0001043,True,
+right superior vena cava,right anterior vena cava,UBERON:0006766,UBERON_0004087,False,vena cava
+r-svc,right anterior vena cava,UBERON:0006766,UBERON_0006766,True,
+trachea,trachea,UBERON:0003126,UBERON_0003126,True,
+tr,trachea,UBERON:0003126,UBERON_0003126,True,
+aortic valve,aortic valve,UBERON:0002137,UBERON_0002137,True,
+ao-v,aortic valve,UBERON:0002137,UBERON_0002137,True,
+left ... ventricular outflow tracts,outflow part of left ventricle,UBERON:0005956,UBERON_0005956,True,
+tv,tricuspid valve,UBERON:0002134,UBERON_0002134,True,
+right ventricular outflow tracts,outflow part of right ventricle,UBERON:0005953,UBERON_0005953,True,
+pv,pulmonary valve,UBERON:0002146,UBERON_0002017,False,portal vein
+lvot,outflow part of left ventricle,UBERON:0005956,UBERON_0005956,True,
+pulmonary valve,pulmonary valve,UBERON:0002146,UBERON_0002146,True,
+pvn,pulmonary vein,UBERON:0002016,UBERON_0001930,False,paraventricular nucleus of hypothalamus
+descending aorta,descending aorta,UBERON:0001514,UBERON_0001514,True,
+l-svc,left anterior vena cava,UBERON:0006765,-,False,-
+pulmonary vein,pulmonary vein,UBERON:0002016,UBERON_0002016,True,
+tricuspid valves,tricuspid valve,UBERON:0002134,UBERON_0002134,True,
+d-ao,descending aorta,UBERON:0001514,UBERON_0005805,False,dorsal aorta
+mitral ... valves,mitral valve,UBERON:0002135,UBERON_0002135,True,
+rad,right adrenal gland,UBERON:0001233,UBERON_0001404,False,radial artery
+right kidney,right kidney,UBERON:0004539,UBERON_0004539,True,
+right adrenal gland,right adrenal gland,UBERON:0001233,UBERON_0001233,True,
+rk,right kidney,UBERON:0004539,UBERON_0004539,True,
+right lung,right lung,UBERON:0002167,UBERON_0006518,False,right lung lobe
+primary atrial septum,atrial septum primum,UBERON:0004154,UBERON_0004154,True,
+right ventricles,heart right ventricle,UBERON:0002080,UBERON_0002080,True,
+aortic arch,arch of aorta,UBERON:0001508,UBERON_0001508,True,
+Embryo,embryo,UBERON:0000922,UBERON_0000922,True,
+te,testis,UBERON:0000473,-,False,-
+ao-a,arch of aorta,UBERON:0001508,UBERON_0001496,False,ascending aorta
+aortic arches,arch of aorta,UBERON:0001508,UBERON_0004363,False,pharyngeal arch artery
+systemic venous sinus,sinus venosus,UBERON:0002063,UBERON_0002063,True,
+svs,sinus venosus,UBERON:0002063,UBERON_0000998,False,seminal vesicle
+tha,dorsal plus ventral thalamus,UBERON:0001897,UBERON_0001900,False,ventral thalamus
+thalamus,dorsal plus ventral thalamus,UBERON:0001897,UBERON_0003031,False,submedial nucleus of thalamus
+compact zone,myocardial compact layer,UBERON:0004125,UBERON_0001439,False,compact bone tissue
+left ventricular outflow tract,outflow part of left ventricle,UBERON:0005956,UBERON_0005956,True,
+aov,aortic valve,UBERON:0002137,UBERON_0002137,True,
+right main bronchus,right main bronchus,UBERON:0002177,UBERON_0002177,True,
+rmb,right main bronchus,UBERON:0002177,UBERON_0002177,True,
+cardiac outflow tract,outflow tract,UBERON:0004145,UBERON_0004265,False,outflow tract myocardium
+heart muscle,cardiac muscle tissue,UBERON:0001133,UBERON_0002349,False,myocardium
+vaginal plug,mating plug,UBERON:0010148,UBERON_0011894,False,lumen of vagina
+trabeculi,trabecula,UBERON:0000440,UBERON_0002483,False,trabecular bone tissue
+cardiac septal,cardiac septum,UBERON:0002099,UBERON_0002099,True,
+cardiac septa,cardiac septum,UBERON:0002099,UBERON_0002094,False,interventricular septum
+atrial septal,interatrial septum,UBERON:0002085,UBERON_0002085,True,
+interventricular septa,interventricular septum,UBERON:0002094,UBERON_0002094,True,
+ventricular ... septal,interventricular septum,UBERON:0002094,UBERON_0002094,True,
+mitral valve,mitral valve,UBERON:0002135,UBERON_0002135,True,
+primary atrial ... septa,atrial septum primum,UBERON:0004154,UBERON_0004154,True,
+sc,spinal cord,UBERON:0002240,UBERON_0002240,True,
+glomeruus,renal glomerulus,UBERON:0000074,UBERON_0000074,True,
+glom,renal glomerulus,UBERON:0000074,UBERON_0000074,True,
+bronchus,bronchus,UBERON:0002185,UBERON_0002185,True,
+Bron,bronchus,UBERON:0002185,UBERON_0002185,True,
+noto,notochord,UBERON:0002328,UBERON_0002328,True,
+node,primitive knot,UBERON:0003062,UBERON_0000029,False,lymph node
+sept,septum,UBERON:0003037,UBERON_0003037,True,
+medulla,medulla of organ,UBERON:0000958,UBERON_0000958,True,
+med,medulla of organ,UBERON:0000958,UBERON_0000958,True,
+embryoid body,embryoid body,UBERON:0014374,UBERON_0014374,True,
+embryoid bodies,embryoid body,UBERON:0014374,UBERON_0014374,True,
+primitive streak,primitive streak,UBERON:0004341,UBERON_0002050,False,embryonic structure
+allantois,allantois,UBERON:0004340,UBERON_0005631,False,extraembryonic membrane
+ub,ureteric bud,UBERON:0000084,UBERON_0001255,False,urinary bladder
+headfold,head fold of embryonic disc,UBERON:0009746,UBERON_0009748,False,cephalic neural fold
+ureteric bud,ureteric bud,UBERON:0000084,UBERON_0000084,True,
+Inner cell mass,inner cell mass,UBERON:0000087,UBERON_0000087,True,
+ICM,inner cell mass,UBERON:0000087,UBERON_0000087,True,
+hf,hair follicle,UBERON:0002073,UBERON_0002073,True,
+Em,embryo,UBERON:0000922,UBERON_0000922,True,
+gastrula stage,gastrula stage,UBERON:0000109,UBERON_0004734,False,gastrula
+pharyngeal region,pharyngeal region of foregut,UBERON:0009145,UBERON_0006562,False,pharynx
+embryonic ectoderm,ectoderm,UBERON:0000924,UBERON_0000923,False,germ layer
+lung lobe,lobe of lung,UBERON:0000101,UBERON_0000101,True,
+head of ... embryo,embryonic head,UBERON:0008816,UBERON_0008816,True,
+ect,ectoderm,UBERON:0000924,UBERON_0000924,True,
+ven,cardiac ventricle,UBERON:0002082,UBERON_0001638,False,vein
+streak,primitive streak,UBERON:0004341,UBERON_0004341,True,
+definitive endoderm,definitive endoderm,UBERON:0005439,UBERON_0005439,True,
+headfolds,head fold of embryonic disc,UBERON:0009746,UBERON_0009748,False,cephalic neural fold
+en,endoderm,UBERON:0000925,-,False,-
+1st branchial pouch,pharyngeal pouch 1,UBERON:0007122,UBERON_0007122,True,
+mural trophectoderm,mural trophectoderm,UBERON:0006265,UBERON_0006265,True,
+polar trophectoderm,polar trophectoderm,UBERON:0006280,UBERON_0006280,True,
+branchial pouch,pharyngeal pouch,UBERON:0004117,UBERON_0004117,True,
+inner cell mass,inner cell mass,UBERON:0000087,UBERON_0000087,True,
+axial mesoderm,axial mesoderm,UBERON:0003068,UBERON_0003068,True,
+gastrula-stage,gastrula stage,UBERON:0000109,UBERON_0004734,False,gastrula
+spinous layer,stratum spinosum of epidermis,UBERON:0002026,UBERON_0002026,True,
+Guard hairs,strand of guard hair,UBERON:0010512,UBERON_0010512,True,
+hair coat,coat of hair,UBERON:0010166,UBERON_0010166,True,
+guard hair,strand of guard hair,UBERON:0010512,UBERON_0010512,True,
+Epidermal,outer epithelium,UBERON:0007376,UBERON_0001003,False,skin epidermis
+der,dermis,UBERON:0002067,UBERON_0002067,True,
+epi,outer epithelium,UBERON:0007376,UBERON_0000483,False,epithelium
+Epithelial,epithelium,UBERON:0000483,UBERON_0000483,True,
+skin epidermis,skin epidermis,UBERON:0001003,UBERON_0001003,True,
+skin epithelium,skin epithelium,UBERON:0019204,UBERON_0001003,False,skin epidermis
+oral epithelium,oral epithelium,UBERON:0002424,UBERON_0002424,True,
+Epidermis,outer epithelium,UBERON:0007376,UBERON_0001003,False,skin epidermis
+Skin Epidermis,skin epidermis,UBERON:0001003,UBERON_0001003,True,
+stratum corneum,stratum corneum of epidermis,UBERON:0002027,UBERON_0002027,True,
+hair placode,hair follicle placode,UBERON:0005086,UBERON_0005086,True,
+hair placodes,hair follicle placode,UBERON:0005086,UBERON_0005086,True,
+spinous ... layer,stratum spinosum of epidermis,UBERON:0002026,UBERON_0002026,True,
+ORS ... of ... hair follicle,hair outer root sheath,UBERON:0005942,UBERON_0005942,True,
+outer root sheath ... of ... hair follicle,hair outer root sheath,UBERON:0005942,UBERON_0005942,True,
+ORS,hair outer root sheath,UBERON:0005942,UBERON_0005942,True,
+follicle ORS,hair outer root sheath,UBERON:0005942,UBERON_0005942,True,
+suprabasal,epidermis suprabasal layer,UBERON:0010402,UBERON_0010402,True,
+layers ... spinous,stratum spinosum of epidermis,UBERON:0002026,UBERON_0002026,True,
+basally,stratum basale of epidermis,UBERON:0002025,UBERON_0000482,False,basal lamina of epithelium
+basal layer of ... epidermis,stratum basale of epidermis,UBERON:0002025,UBERON_0002025,True,
+granular layer,stratum granulosum of epidermis,UBERON:0002069,UBERON_0008830,False,cerebellum internal granule cell layer
+epithelial bud,epithelial bud,UBERON:0005153,UBERON_0005153,True,
+suprabasally,epidermis suprabasal layer,UBERON:0010402,UBERON_0010402,True,
+outer root sheath,hair outer root sheath,UBERON:0005942,UBERON_0005942,True,
+basal layer,stratum basale of epidermis,UBERON:0002025,UBERON_0002025,True,
+suprabasal layers,epidermis suprabasal layer,UBERON:0010402,UBERON_0010402,True,
+Hair Follicle,hair follicle,UBERON:0002073,UBERON_0002073,True,
+epithelial sheet,epithelial sheet,UBERON:0010136,UBERON_0000483,False,epithelium
+hair ... follicles,hair follicle,UBERON:0002073,UBERON_0002073,True,
+follicle placode,follicle placode,UBERON:0011817,UBERON_0005086,False,hair follicle placode
+OPL of ... retinas,outer plexiform layer of retina,UBERON:0001790,UBERON_0001790,True,
+OPL ... of ... retinas,outer plexiform layer of retina,UBERON:0001790,UBERON_0001790,True,
+opl,outer plexiform layer of retina,UBERON:0001790,UBERON_0001790,True,
+outer plexiform layer ... of ... retinas,outer plexiform layer of retina,UBERON:0001790,UBERON_0001790,True,
+sclera,sclera,UBERON:0001773,UBERON_0012430,False,tunica fibrosa of eyeball
+outer plexiform layer of ... retinas,outer plexiform layer of retina,UBERON:0001790,UBERON_0001790,True,
+retinae,retina,UBERON:0000966,UBERON_0003902,False,retinal neural layer
+photoreceptor layer,photoreceptor layer of retina,UBERON:0001787,UBERON_0001787,True,
+Retinae,retina,UBERON:0000966,UBERON_0001781,False,layer of retina
+retinal pigment epithelium,pigmented layer of retina,UBERON:0001782,UBERON_0005424,False,presumptive retinal pigmented epithelium
+retinal pigmented epithelium,pigmented layer of retina,UBERON:0001782,UBERON_0007625,False,pigment epithelium of eye
+globes,eyeball of camera-type eye,UBERON:0010230,UBERON_0000049,False,spherical lensed eye
+outer nuclear layer,outer nuclear layer of retina,UBERON:0001789,UBERON_0001789,True,
+onl,outer nuclear layer of retina,UBERON:0001789,UBERON_0001789,True,
+outer segment layer,photoreceptor outer segment layer,UBERON:0003926,UBERON_0003926,True,
+photoreceptor layer of ... retina,photoreceptor layer of retina,UBERON:0001787,UBERON_0003926,False,photoreceptor outer segment layer
+scleral,sclera,UBERON:0001773,UBERON_0012430,False,tunica fibrosa of eyeball
+Photoreceptor layer of ... retina,photoreceptor layer of retina,UBERON:0001787,UBERON_0001787,True,
+left ventricular,heart left ventricle,UBERON:0002084,UBERON_0006566,False,left ventricle myocardium
+neuropil,neuropil,UBERON:0002606,UBERON_0002606,True,
+System,anatomical system,UBERON:0000467,UBERON_0000062,False,organ
+cerebral cortical,cerebral cortex,UBERON:0000956,UBERON_0000956,True,
+slow-twitch skeletal muscle,slow muscle tissue,UBERON:0006907,UBERON_0001389,False,soleus muscle
+aortic,aorta,UBERON:0000947,UBERON_0000947,True,
+Slow-Twitch Skeletal Muscle,slow muscle tissue,UBERON:0006907,UBERON_0006907,True,
+embryologic,embryo,UBERON:0000922,UBERON_0000922,True,
+left atrial,left cardiac atrium,UBERON:0002079,UBERON_0002079,True,
+sensorimotor,sensorimotor,UBERON:0025534,UBERON_0000956,False,cerebral cortex
+BAT,brown adipose tissue,UBERON:0001348,UBERON_0001348,True,
+brown adipose,brown adipose tissue,UBERON:0001348,UBERON_0001348,True,
+perivascular,perivascular space,UBERON:0014930,UBERON_0014930,True,
+chamber,cardiac chamber,UBERON:0004151,UBERON_0004151,True,
+Central Nervous System,central nervous system,UBERON:0001017,UBERON_0001017,True,
+cerebral cortex,cerebral cortex,UBERON:0000956,UBERON_0000956,True,
+cerebellar cortex,cerebellar cortex,UBERON:0002129,UBERON_0002974,False,molecular layer of cerebellar cortex
+parietal,parietal lobe,UBERON:0001872,UBERON_0001872,True,
+soleus muscle,soleus muscle,UBERON:0001389,UBERON_0001389,True,
+parietal lobe,parietal lobe,UBERON:0001872,UBERON_0001872,True,
+putamen,putamen,UBERON:0001874,UBERON_0029005,False,striosomal part of putamen
+parietal cortex,parietal cortex,UBERON:0016530,UBERON_0016530,True,
+peripheral ... nervous system,peripheral nervous system,UBERON:0000010,UBERON_0000010,True,
+sinus node,sinoatrial node,UBERON:0002351,UBERON_0002351,True,
+rectal,rectum,UBERON:0001052,UBERON_0001052,True,
+Cardiac ... muscle,cardiac muscle tissue,UBERON:0001133,UBERON_0002349,False,myocardium
+Soleus muscle,soleus muscle,UBERON:0001389,UBERON_0001389,True,
+Soleus,soleus muscle,UBERON:0001389,UBERON_0001389,True,
+carotid artery,carotid artery segment,UBERON:0005396,UBERON_0005396,True,
+peritoneal(ly),peritoneal cavity,UBERON:0001179,UBERON_0002358,False,peritoneum
+endodermal,endoderm,UBERON:0000925,UBERON_0000925,True,
+mesodermal,mesoderm,UBERON:0000926,UBERON_0000923,False,germ layer
+eight-cell stage embryos,8-cell stage embryo,UBERON:0019252,UBERON_0019252,True,
+early ... embryo,early embryo,UBERON:0019248,UBERON_0019248,True,
+Embryonic ... tissue,embryonic tissue,UBERON:0005291,UBERON_0005291,True,
+sinusoidal space,sinusoidal space,UBERON:0014399,UBERON_0006729,False,liver perisinusoidal space
+early embryo,early embryo,UBERON:0019248,UBERON_0019248,True,
+lymph nodes,lymph node,UBERON:0000029,UBERON_0001745,False,secondary nodular lymphoid tissue
+thymi,thymus,UBERON:0002370,UBERON_0002370,True,
+medullary zone,medulla of organ,UBERON:0000958,-,False,-
+medullary,medulla of organ,UBERON:0000958,UBERON_0000958,True,
+venules,venule,UBERON:0001979,UBERON_0035428,False,postcapillary venule
+glomerular filtration barrier,glomerular basement membrane,UBERON:0005777,UBERON_0004188,False,glomerular epithelium
+sinusoidal,sinusoid,UBERON:0003909,UBERON_0001281,False,hepatic sinusoid
+hepatic sinusoids,hepatic sinusoid,UBERON:0001281,UBERON_0001281,True,
+epitheloid,epithelium,UBERON:0000483,UBERON_0000483,True,
+ys,yolk sac,UBERON:0001040,UBERON_0001040,True,
+BI,blood island,UBERON:0003061,-,False,-
+primitive endoderm,inner cell mass derived hypoblast,UBERON:0008776,UBERON_0008945,False,extraembryonic endoderm
+cx,cortex,UBERON:0001851,UBERON_0000956,False,cerebral cortex
+medullary layer,medulla of thymus,UBERON:0002124,UBERON_0005184,False,hair medulla
+HS,hepatic sinusoid,UBERON:0001281,UBERON_0002097,False,skin of body
+thymic lobes,thymus lobe,UBERON:0005483,UBERON_0005483,True,
+thymic lobe,thymus lobe,UBERON:0005483,UBERON_0005483,True,
+cortex temporalis,temporal cortex,UBERON:0016538,UBERON_0016538,True,
+ventricular germinative zone,ventricular zone,UBERON:0003053,UBERON_0003053,True,
+isocortex,neocortex,UBERON:0001950,UBERON_0000956,False,cerebral cortex
+isocortex temporalis,temporal cortex,UBERON:0016538,UBERON_0001871,False,temporal lobe
+white matter,white matter,UBERON:0002316,UBERON_0003544,False,brain white matter
+cylinder,egg cylinder,UBERON:0004013,UBERON_0012274,False,columnar epithelium
+tissues of ... embryo,embryonic tissue,UBERON:0005291,UBERON_0005291,True,
+gray matter of ... spinal cord,gray matter of spinal cord,UBERON:0002315,UBERON_0002315,True,
+embryonic ... tissue,embryonic tissue,UBERON:0005291,UBERON_0005291,True,
+pial,pia mater,UBERON:0002361,UBERON_0003549,False,brain pia mater
+folia of ... cerebellum,cerebellum vermis lobule VII,UBERON:0004081,UBERON_0002129,False,cerebellar cortex
+proliferative ventricular layer,ventricular zone,UBERON:0003053,UBERON_0004060,False,neural tube ventricular layer
+stratum ... of ... neopallial cortex,layer of neocortex,UBERON:0002301,UBERON_0002301,True,
+neopallium,neocortex,UBERON:0001950,UBERON_0014740,False,dorsal pallium
+lateral ventricle,telencephalic ventricle,UBERON:0002285,UBERON_0002655,False,body of lateral ventricle
+germ layers,germ layer,UBERON:0000923,UBERON_0000078,False,mixed ectoderm/mesoderm/endoderm-derived structure
+egg cylinder,egg cylinder,UBERON:0004013,UBERON_0000068,False,embryo stage
+HRT,heart,UBERON:0000948,UBERON_0000948,True,
+ventricular ... zones,ventricular zone,UBERON:0003053,UBERON_0003053,True,
+neopallial cortex,neocortex,UBERON:0001950,UBERON_0002301,False,layer of neocortex
+neocortical molecular layer,cortical layer I,UBERON:0005390,UBERON_0005390,True,
+neocortex,neocortex,UBERON:0001950,UBERON_0001893,False,telencephalon
+neopallium cortex,neocortex,UBERON:0001950,UBERON_0002301,False,layer of neocortex
+cerebral neocortex,neocortex,UBERON:0001950,UBERON_0000956,False,cerebral cortex
+lamina alba,white matter lamina of cerebellum,UBERON:0014540,UBERON_0003697,False,abdominal wall
+cerebellar white matter,white matter of cerebellum,UBERON:0002317,UBERON_0002317,True,
+parietal neocortex,parietal cortex,UBERON:0016530,UBERON_0001872,False,parietal lobe
+isocortical laminae,layer of neocortex,UBERON:0002301,UBERON_8440002,False,cortical layer V/VI
+Stratum pyramidalis ... of ... hippocampus,hippocampus pyramidal layer,UBERON:0002313,UBERON_0002313,True,
+cortical laminae,layer of neocortex,UBERON:0002301,UBERON_8440004,False,laminar subdivision of the cortex
+dentate gyrus,dentate gyrus of hippocampal formation,UBERON:0001885,UBERON_0001885,True,
+Heart muscle,cardiac muscle tissue,UBERON:0001133,UBERON_0002349,False,myocardium
+lamina pyramidalis externa,cortical layer III,UBERON:0005392,UBERON_0005392,True,
+hippocampal formation,hippocampal formation,UBERON:0002421,UBERON_0002421,True,
+dentate gyrus of ... hippocampus,dentate gyrus of hippocampal formation,UBERON:0001885,UBERON_0001885,True,
+temporal neocortex,temporal cortex,UBERON:0016538,UBERON_0016538,True,
+Endodermal,endoderm,UBERON:0000925,UBERON_0000925,True,
+cell layer,cell layer,UBERON:0000119,UBERON_0010136,False,epithelial sheet
+neural fold,neural fold,UBERON:0005062,UBERON_0009748,False,cephalic neural fold
+neural ... tube,neural tube,UBERON:0001049,UBERON_0008823,False,neural tube derived brain
+temporal lobe,temporal lobe,UBERON:0001871,UBERON_0001871,True,
+foreskin,skin of prepuce of penis,UBERON:0001471,UBERON_0001332,False,prepuce of penis
+skeletal muscle,skeletal muscle tissue,UBERON:0001134,UBERON_0001134,True,
+lumen of neural tube,neural tube lumen,UBERON:0003842,UBERON_0003842,True,
+neural ectoderm,neurectoderm,UBERON:0002346,-,False,-
+Ammon's horn,Ammon's horn,UBERON:0001954,UBERON_0003881,False,CA1 field of hippocampus
+neuronal ... circuit,circuit part of central nervous system,UBERON:0024914,UBERON_0026546,False,principal neuronal circuit
+spinal,vertebral column,UBERON:0001130,UBERON_0002240,False,spinal cord
+nerves,nerve,UBERON:0001021,UBERON_0000010,False,peripheral nervous system
+muscle group,musculature,UBERON:0001015,UBERON_0001377,False,quadriceps femoris
+neural plate,neural plate,UBERON:0003075,UBERON_0007284,False,presumptive neural plate
+quadriceps,quadriceps femoris,UBERON:0001377,UBERON_0001377,True,
+laminar,lamina,UBERON:0000957,UBERON_0004779,False,respiratory system lamina propria
+L3 ... DRG,third lumbar dorsal root ganglion,UBERON:0002858,UBERON_0002858,True,
+lumbar DRG,lumbar dorsal root ganglion,UBERON:0002836,UBERON_0002836,True,
+L3,lumbar vertebra 3,UBERON:0004619,UBERON_0004619,True,
+neuronal circuits,circuit part of central nervous system,UBERON:0024914,UBERON_0024914,True,
+Lumbar DRG,lumbar dorsal root ganglion,UBERON:0002836,UBERON_0002836,True,
+dorsal root ... ganglia,dorsal root ganglion,UBERON:0000044,UBERON_0000044,True,
+brachial,arm,UBERON:0001460,UBERON_0001506,False,brachialis muscle
+ventral spinal cord,ventral horn of spinal cord,UBERON:0002257,UBERON_0002257,True,
+lumbar,lower back,UBERON:0005462,UBERON_0006074,False,lumbar region of vertebral column
+lumbar ... DRG,lumbar dorsal root ganglion,UBERON:0002836,UBERON_0002836,True,
+L1,lumbar vertebra 1,UBERON:0004617,UBERON_0005126,False,metanephric S1
+L5,lumbar vertebra 5,UBERON:0004621,UBERON_0004621,True,
+dorsal root,dorsal root of spinal cord,UBERON:0002261,UBERON_0009623,False,spinal nerve root
+morula stage embryos,morula,UBERON:0000085,UBERON_0000085,True,
+Ventral Spinal Cord,ventral horn of spinal cord,UBERON:0002257,UBERON_0002257,True,
+lumbar dorsal roots,lumbar dorsal root ganglion,UBERON:0002836,UBERON_0026006,False,dorsal nerve root of lumbar spinal cord
+nerve trunks,nerve trunk,UBERON:0002464,UBERON_0002464,True,
+quadriceps muscle,quadriceps femoris,UBERON:0001377,UBERON_0001377,True,
+cerebellar granule cell layer,granular layer of cerebellar cortex,UBERON:0002956,UBERON_0008830,False,cerebellum internal granule cell layer
+CC,cerebral cortex,UBERON:0000956,UBERON_0002336,False,corpus callosum
+substantia nigra,substantia nigra,UBERON:0002038,UBERON_0001966,False,substantia nigra pars reticulata
+OB,olfactory bulb,UBERON:0002264,UBERON_0004069,False,accessory olfactory bulb
+cerebellar molecular layer,molecular layer of cerebellar cortex,UBERON:0002974,UBERON_0002974,True,
+Mol,molecular layer of cerebellar cortex,UBERON:0002974,UBERON_0002974,True,
+IC,inferior colliculus,UBERON:0001946,UBERON_0001946,True,
+Gr,granular layer of cerebellar cortex,UBERON:0002956,UBERON_0008830,False,cerebellum internal granule cell layer
+SN,substantia nigra,UBERON:0002038,UBERON_0002038,True,
+CPu,caudate-putamen,UBERON:0005383,UBERON_0005383,True,
+inferior colliculus,inferior colliculus,UBERON:0001946,UBERON_0001946,True,
+Ctx,cortex,UBERON:0001851,UBERON_0000956,False,cerebral cortex
+caudate putamen,caudate-putamen,UBERON:0005383,UBERON_0001873,False,caudate nucleus
+layer of ... olfactory bulb,olfactory bulb layer,UBERON:0004001,UBERON_0004001,True,
+sciatic nerves,sciatic nerve,UBERON:0001322,UBERON_0001322,True,
+trigeminal nerves,trigeminal nerve,UBERON:0001645,UBERON_0001645,True,
+PNS,peripheral nervous system,UBERON:0000010,UBERON_0000010,True,
+sciatic ... nerves,sciatic nerve,UBERON:0001322,UBERON_0001322,True,
+nervous systems,nervous system,UBERON:0001016,UBERON_0001017,False,central nervous system
+Sciatic nerves,sciatic nerve,UBERON:0001322,UBERON_0001322,True,
+roots,nerve root,UBERON:0002211,UBERON_0003677,False,tooth root
+eight-cell stage,8 cell stage,UBERON:0007236,UBERON_0019252,False,8-cell stage embryo
+grey matter,gray matter,UBERON:0002020,UBERON_0003528,False,brain gray matter
+Spinal,vertebral column,UBERON:0001130,UBERON_0002240,False,spinal cord
+nerve fibres,nerve fiber,UBERON:0006134,UBERON_0006134,True,
+respiration system,respiratory system,UBERON:0001004,UBERON_0002299,False,alveolus of lung
+lateral funiculus,lateral funiculus of spinal cord,UBERON:0002179,UBERON_0002179,True,
+Hippocampal formation,hippocampal formation,UBERON:0002421,UBERON_0002421,True,
+Sp,spleen,UBERON:0002106,UBERON_0002106,True,
+peripheral nerve,nerve,UBERON:0001021,UBERON_0000010,False,peripheral nervous system
+myelinated fibres,myelinated nerve fiber,UBERON:0006135,UBERON_0006135,True,
+brain stem,brainstem,UBERON:0002298,UBERON_0002298,True,
+autonomic nervous system,autonomic nervous system,UBERON:0002410,UBERON_0002410,True,
+peripheral nervous system,peripheral nervous system,UBERON:0000010,UBERON_0000010,True,
+VS,ventral striatum,UBERON:0005403,UBERON_0005403,True,
+ventral telencephalic,ventral part of telencephalon,UBERON:0000204,UBERON_0000204,True,
+ventral striatum,ventral striatum,UBERON:0005403,UBERON_0005403,True,
+Telencephalon,telencephalon,UBERON:0001893,UBERON_0001893,True,
+ventral telencephalon,ventral part of telencephalon,UBERON:0000204,UBERON_0000204,True,
+dorsal ... striatum,dorsal striatum,UBERON:0005382,UBERON_0005382,True,
+forebrains,forebrain,UBERON:0001890,UBERON_0001893,False,telencephalon
+OT,olfactory tubercle,UBERON:0001883,UBERON_0001883,True,
+peritoneal cavity,peritoneal cavity,UBERON:0001179,UBERON_0001179,True,
+nucleus accumbens,nucleus accumbens,UBERON:0001882,UBERON_0001882,True,
+SVZ,postnatal subventricular zone,UBERON:0004922,UBERON_0010404,False,lateral ventricle subependymal layer
+anterior commissure,anterior commissure,UBERON:0000935,UBERON_0000935,True,
+VZ,ventricular zone,UBERON:0003053,UBERON_0002285,False,telencephalic ventricle
+subventricular zone,postnatal subventricular zone,UBERON:0004922,UBERON_0014940,False,cerebral cortex subventricular zone
+ventral striatal,ventral striatum,UBERON:0005403,UBERON_0005403,True,
+olfactory cortex,olfactory cortex,UBERON:0002894,UBERON_0022469,False,primary olfactory cortex
+LGE,lateral ganglionic eminence,UBERON:0004025,UBERON_0016555,False,stria of telencephalon
+dorsal LGE,dorsal lateral ganglionic eminence,UBERON:0018264,UBERON_0018264,True,
+pallial,pallium,UBERON:0000203,UBERON_0010010,False,basal nucleus of telencephalon
+subpallial,ventral part of telencephalon,UBERON:0000204,UBERON_0000204,True,
+lateral ganglionic eminence,lateral ganglionic eminence,UBERON:0004025,UBERON_0004025,True,
+lge,lateral ganglionic eminence,UBERON:0004025,UBERON_0004025,True,
+olfactory tubercle,olfactory tubercle,UBERON:0001883,UBERON_0001883,True,
+islands of Calleja,island of Calleja,UBERON:0001881,UBERON_0023867,False,islands of Calleja of olfactory tubercle
+Cx,cortex,UBERON:0001851,UBERON_0000002,False,uterine cervix
+medial ganglionic eminence,medial ganglionic eminence,UBERON:0004024,UBERON_0004024,True,
+mge,medial ganglionic eminence,UBERON:0004024,UBERON_0000204,False,ventral part of telencephalon
+Ventral telencephalic,ventral part of telencephalon,UBERON:0000204,UBERON_0000204,True,
+ventral nerve chord,ventral nerve cord,UBERON:0000934,UBERON_0000934,True,
+an,nucleus accumbens,UBERON:0001882,-,False,-
+accumbens nucleus,nucleus accumbens,UBERON:0001882,UBERON_0001882,True,
+SVG,postnatal subventricular zone,UBERON:0004922,UBERON_0001363,False,great saphenous vein
+Telencephalic,telencephalon,UBERON:0001893,UBERON_0001893,True,
+olfactory (piriform) cortex,prepyriform area,UBERON:0002590,UBERON_0022469,False,primary olfactory cortex
+lsn,lateral septal nucleus,UBERON:0002667,UBERON_0002667,True,
+olfactory tract,olfactory tract,UBERON:0002265,UBERON_0002894,False,olfactory cortex
+lateral septal nucleus,lateral septal nucleus,UBERON:0002667,UBERON_0002667,True,
+PC,prepyriform area,UBERON:0002590,UBERON_0001179,False,peritoneal cavity
+ob,olfactory bulb,UBERON:0002264,UBERON_0002264,True,
+OC,olfactory cortex,UBERON:0002894,UBERON_0013191,False,ovarian cortex
+nasal pit,olfactory pit,UBERON:0005870,UBERON_0005870,True,
+np,olfactory pit,UBERON:0005870,UBERON_0001728,False,nasopharynx
+dorsal ... telencephalic,pallium,UBERON:0000203,UBERON_0005340,False,dorsal telencephalic commissure
+ganglionic eminences,ganglionic eminence,UBERON:0004023,UBERON_0004024,False,medial ganglionic eminence
+subpallium,ventral part of telencephalon,UBERON:0000204,UBERON_0000204,True,
+floor plate of ... diencephalon,floor plate of diencephalon,UBERON:0003309,UBERON_0003309,True,
+diencephalon,diencephalon,UBERON:0001894,UBERON_0011591,False,tract of diencephalon
+bridges,anatomical junction,UBERON:0007651,UBERON_0000988,False,pons
+bridge,anatomical junction,UBERON:0007651,UBERON_0002567,False,basal part of pons
+core of ... nucleus accumbens,core of nucleus accumbens,UBERON:0012170,UBERON_0012170,True,
+intestinal crypts,crypt of Lieberkuhn,UBERON:0001983,UBERON_0001241,False,crypt of Lieberkuhn of small intestine
+mucus,mucus,UBERON:0000912,UBERON_0004785,False,respiratory system mucosa
+meconium,meconium,UBERON:0007109,UBERON_0018543,False,lumen of intestine
+Mucus,mucus,UBERON:0000912,UBERON_0004785,False,respiratory system mucosa
+villus epithelial,epithelium of intestinal villus,UBERON:0013636,UBERON_0001213,False,intestinal villus
+exocrine,exocrine system,UBERON:0002330,UBERON_0002365,False,exocrine gland
+crypts,crypt of Lieberkuhn,UBERON:0001983,UBERON_0001241,False,crypt of Lieberkuhn of small intestine
+villus epithelium,epithelium of intestinal villus,UBERON:0013636,UBERON_0013636,True,
+crypt,crypt of Lieberkuhn,UBERON:0001983,UBERON_0001241,False,crypt of Lieberkuhn of small intestine
+salivary,saliva,UBERON:0001836,UBERON_0001829,False,major salivary gland
+gustatory system,gustatory system,UBERON:0001033,UBERON_0014389,False,gustatory papilla of tongue
+gustatory epithelium,gustatory epithelium,UBERON:0002926,UBERON_0002926,True,
+abdominal aorta,abdominal aorta,UBERON:0001516,UBERON_0001516,True,
+uveal,uvea,UBERON:0001768,UBERON_0011892,False,anterior uvea
+foveal,fovea centralis,UBERON:0001786,UBERON_0018107,False,foveola of retina
+frontal lobe,frontal lobe,UBERON:0016525,UBERON_0016525,True,
+pineal gland,pineal body,UBERON:0001905,UBERON_0002368,False,endocrine gland
+olfactory bulbs,olfactory bulb,UBERON:0002264,UBERON_0002264,True,
+mesencephalon,midbrain,UBERON:0001891,UBERON_0013147,False,early mesencephalic vesicle
+prosencephalon,forebrain,UBERON:0001890,UBERON_0036218,False,secondary prosencephalon
+diaphragmatic,diaphragm,UBERON:0001103,UBERON_0001103,True,
+Diaphragm,diaphragm,UBERON:0001103,UBERON_0001103,True,
+PPF,pleuroperitoneal membrane,UBERON:0009133,UBERON_0003962,False,pterygopalatine ganglion
+Diaphragms,diaphragm,UBERON:0001103,UBERON_0004495,False,skeletal muscle tissue of diaphragm
+diaphragms,diaphragm,UBERON:0001103,UBERON_0001103,True,
+Diaphragmatic,diaphragm,UBERON:0001103,UBERON_0004495,False,skeletal muscle tissue of diaphragm
+Dia,diaphragm,UBERON:0001103,UBERON_0001103,True,
+smooth muscles,smooth muscle tissue,UBERON:0001135,UBERON_0001135,True,
+body walls,body wall,UBERON:0000309,UBERON_0017648,False,ventral body wall
+atrioventricular canal,atrioventricular canal,UBERON:0002087,UBERON_0002087,True,
+atrioventricular-canal,atrioventricular canal,UBERON:0002087,UBERON_0002087,True,
+pulmonary mesenchyme,lung mesenchyme,UBERON:0004883,UBERON_0004883,True,
+ostium primum,foramen primum,UBERON:0009149,UBERON_0004154,False,atrial septum primum
+compact layer,myocardial compact layer,UBERON:0004125,UBERON_0004125,True,
+left lobe of ... liver,left lobe of liver,UBERON:0001115,UBERON_0001115,True,
+chest,chest,UBERON:0001443,UBERON_0004464,False,musculature of thorax
+valve,valve,UBERON:0003978,UBERON_0000946,False,cardiac valve
+tracheobronchial tree,tracheobronchial tree,UBERON:0007196,UBERON_0001901,False,epithelium of trachea
+central tendonous,central tendon of diaphragm,UBERON:0006670,UBERON_0006670,True,
+esophageal mesentery,mesentery of oesophagus,UBERON:0003283,UBERON_0003283,True,
+phrenic nerve,phrenic nerve,UBERON:0001884,UBERON_0001884,True,
+gonadal,gonad,UBERON:0000991,UBERON_0000992,False,ovary
+endocardial cushions,endocardial cushion,UBERON:0002062,UBERON_0002062,True,
+newborn period,neonate stage,UBERON:0007221,UBERON_0007221,True,
+Li,liver,UBERON:0002107,UBERON_0002107,True,
+left lung,left lung,UBERON:0002168,UBERON_0008951,False,left lung lobe
+ligamentous,ligament,UBERON:0000211,UBERON_0000211,True,
+bowel,intestine,UBERON:0000160,UBERON_0002108,False,small intestine
+costal,rib,UBERON:0002228,UBERON_0002236,False,costal cartilage
+dermomyotome,dermomyotome,UBERON:0004290,-,False,-
+PPFs,pleuroperitoneal membrane,UBERON:0009133,UBERON_0006279,False,pleuroperitoneal canal
+pleuroperitoneal fold,pleuroperitoneal membrane,UBERON:0009133,UBERON_0009133,True,
+pleuroperitoneal folds,pleuroperitoneal membrane,UBERON:0009133,UBERON_0009133,True,
+coronary,coronary vessel,UBERON:0005985,UBERON_0001621,False,coronary artery
+Lu,lung,UBERON:0002048,UBERON_0002048,True,
+bronchial ... smooth muscle,bronchus smooth muscle,UBERON:0004242,UBERON_0004242,True,
+sm,smooth muscle tissue,UBERON:0001135,UBERON_0001135,True,
+sternal,sternum,UBERON:0000975,UBERON_0000975,True,
+crural,leg,UBERON:0000978,-,False,-
+extraembryonic tissues,extraembryonic tissue,UBERON:0005292,UBERON_0005292,True,
+anterior visceral endoderm,anterior visceral endoderm,UBERON:0004044,UBERON_0004044,True,
+anterior definitive endoderm,anterior definitive endoderm,UBERON:0004046,UBERON_0004046,True,
+extraembryonic tissue,extraembryonic tissue,UBERON:0005292,UBERON_0005292,True,
+mesoderm derivatives,mesoderm-derived structure,UBERON:0004120,UBERON_0004755,False,skeletal tissue
+Extraembryonic tissues,extraembryonic tissue,UBERON:0005292,UBERON_0009002,False,placental membrane
+Extraembryonic mesoderm,extraembryonic mesoderm,UBERON:0005728,UBERON_0005728,True,
+extraembryonic mesoderm,extraembryonic mesoderm,UBERON:0005728,UBERON_0005728,True,
+paraxial mesoderm,paraxial mesoderm,UBERON:0003077,UBERON_2002235,False,presumptive ventral mesoderm
+neuroectoderm,neurectoderm,UBERON:0002346,UBERON_0003714,False,neural tissue
+AVE,anterior visceral endoderm,UBERON:0004044,UBERON_0004044,True,
+n,primitive knot,UBERON:0003062,UBERON_2005272,False,immature gonad
+neurectoderm,neurectoderm,UBERON:0002346,UBERON_0002346,True,
+chorion,chorion,UBERON:0003124,UBERON_0003124,True,
+ps,primitive streak,UBERON:0004341,-,False,-
+ch,chorion,UBERON:0003124,UBERON_0003124,True,
+em,extraembryonic mesoderm,UBERON:0005728,UBERON_0001295,False,endometrium
+al,allantois,UBERON:0004340,UBERON_0003215,False,alveolus
+amnion,amnion,UBERON:0000305,UBERON_0005630,False,fetal membrane
+axial ... mesoderm,axial mesoderm,UBERON:0003068,UBERON_0003068,True,
+head folds,head fold of embryonic disc,UBERON:0009746,UBERON_0009746,True,
+primitive ... endoderm,inner cell mass derived hypoblast,UBERON:0008776,UBERON_0003256,False,obsolete endoderm of embryo
+visceral ... endoderm,visceral endoderm,UBERON:0004877,UBERON_0004877,True,
+process,anatomical projection,UBERON:0004529,UBERON_0004529,True,
+ectoplacental cone,ectoplacental cone,UBERON:0004364,UBERON_0004364,True,
+head fold,head fold of embryonic disc,UBERON:0009746,UBERON_0009746,True,
+decidua,decidua,UBERON:0002450,UBERON_0001295,False,endometrium
+ONL,outer nuclear layer of retina,UBERON:0001789,UBERON_0001789,True,
+adult stages,post-juvenile adult stage,UBERON:0000113,UBERON_0007023,False,adult organism
+INL,inner nuclear layer of retina,UBERON:0001791,UBERON_0001791,True,
+ONLs,outer nuclear layer of retina,UBERON:0001789,UBERON_0001789,True,
+ONL of ... retina,outer nuclear layer of retina,UBERON:0001789,UBERON_0001789,True,
+inner nuclear layer,inner nuclear layer of retina,UBERON:0001791,UBERON_0001791,True,
+RPE,pigmented layer of retina,UBERON:0001782,UBERON_0005424,False,presumptive retinal pigmented epithelium
+outer nuclear layer of ... retina,outer nuclear layer of retina,UBERON:0001789,UBERON_0001789,True,
+ganglion cell layer,ganglionic layer of retina,UBERON:0001792,UBERON_0001792,True,
+GCL,ganglionic layer of retina,UBERON:0001792,UBERON_0001792,True,
+Retinal,retina,UBERON:0000966,UBERON_0000966,True,
+dental,calcareous tooth,UBERON:0001091,UBERON_0011594,False,dentary tooth
+eyecup,optic cup,UBERON:0003072,UBERON_0007625,False,pigment epithelium of eye
+otolith,otolith,UBERON:0002280,UBERON_0002518,False,otolith organ
+urine,urine,UBERON:0001088,UBERON_0011143,False,upper urinary tract
+renal capsule,kidney capsule,UBERON:0002015,UBERON_0002015,True,
+urinary,urine,UBERON:0001088,UBERON_0004645,False,urinary bladder urothelium
+transitional epithelium,transitional epithelium,UBERON:0005910,UBERON_0004645,False,urinary bladder urothelium
+kidney collecting ducts,collecting duct of renal tubule,UBERON:0001232,UBERON_0001232,True,
+Urine,urine,UBERON:0001088,UBERON_0001255,False,urinary bladder
+collecting ducts,collecting duct of renal tubule,UBERON:0001232,UBERON_0001232,True,
+muscularis propria,muscular coat,UBERON:0006660,UBERON_0012367,False,muscle layer of intestine
+collecting duct,collecting duct of renal tubule,UBERON:0001232,UBERON_0001232,True,
+Left kidney,left kidney,UBERON:0004538,UBERON_0004539,False,right kidney
+renal collecting-duct,collecting duct of renal tubule,UBERON:0001232,UBERON_0005185,False,renal medulla collecting duct
+collecting-duct,collecting duct of renal tubule,UBERON:0001232,UBERON_0001232,True,
+proximal ... tubules,proximal tubule,UBERON:0004134,UBERON_0006534,False,renal convoluted tubule
+distal tubules,distal tubule,UBERON:0004135,UBERON_0004135,True,
+renal pelvis,renal pelvis,UBERON:0001224,UBERON_0001224,True,
+collecting system,renal collecting system,UBERON:0004100,UBERON_0004100,True,
+renal parenchyma,renal parenchyma,UBERON:0008987,UBERON_0008987,True,
+Collecting Ducts,collecting duct of renal tubule,UBERON:0001232,UBERON_0001232,True,
+Kidney Collecting Ducts,collecting duct of renal tubule,UBERON:0001232,UBERON_0001232,True,
+ureter,ureter,UBERON:0000056,UBERON_0000056,True,
+urothelium,urothelium,UBERON:0000365,UBERON_0004645,False,urinary bladder urothelium
+papilla,papilla,UBERON:2001995,UBERON_0001228,False,renal papilla
+testicles,testis,UBERON:0000473,UBERON_0005297,False,testis sex cord
+milk,milk,UBERON:0001913,UBERON_0001911,False,mammary gland
+Musculoskeletal,musculoskeletal system,UBERON:0002204,UBERON_0002204,True,
+brown fat,brown adipose tissue,UBERON:0001348,UBERON_0001348,True,
+white fat,white adipose tissue,UBERON:0001347,UBERON_0001347,True,
+Rectal,rectum,UBERON:0001052,UBERON_0003346,False,mucosa of rectum
+Brown fat,brown adipose tissue,UBERON:0001348,UBERON_0001348,True,
+wall of ... aorta,aorta wall,UBERON:0004663,UBERON_0004663,True,
+nasopharynx,nasopharynx,UBERON:0001728,UBERON_0001951,False,epithelium of nasopharynx
+cecum,caecum,UBERON:0001153,UBERON_0000314,False,cecum mucosa
+DG,dentate gyrus of hippocampal formation,UBERON:0001885,UBERON_0001885,True,
+Forebrain,forebrain,UBERON:0001890,UBERON_0002743,False,basal forebrain
+brain regions,regional part of brain,UBERON:0002616,UBERON_0002616,True,
+hippocampal field,hippocampal field,UBERON:0003876,UBERON_0001885,False,dentate gyrus of hippocampal formation
+Olfactory bulb,olfactory bulb,UBERON:0002264,UBERON_0005978,False,olfactory bulb outer nerve layer
+brain areas,regional part of brain,UBERON:0002616,UBERON_0002616,True,
+piriform cortex,piriform cortex,UBERON:0004725,UBERON_0022469,False,primary olfactory cortex
+Piriform Cortex,piriform cortex,UBERON:0004725,UBERON_0022469,False,primary olfactory cortex
+Olfactory Epithelium,olfactory epithelium,UBERON:0001997,UBERON_0001997,True,
+hippocampal CA3,CA3 field of hippocampus,UBERON:0003883,UBERON_0003883,True,
+hippocampal ... CA1,CA1 field of hippocampus,UBERON:0003881,UBERON_0003881,True,
+Head,head,UBERON:0000033,UBERON_0006056,False,posterior surface of head
+amygdala,amygdala,UBERON:0001876,UBERON_0002883,False,central amygdaloid nucleus
+CA1 pyramidal,pyramidal layer of CA1,UBERON:0014548,UBERON_0003881,False,CA1 field of hippocampus
+vomeronasal organ,vomeronasal organ,UBERON:0002255,UBERON_0002255,True,
+hippocampal pyramidal,hippocampus pyramidal layer,UBERON:0002313,UBERON_0002313,True,
+circuits,circuit part of central nervous system,UBERON:0024914,UBERON_0026547,False,intrinsic neuronal circuit
+Me,medulla oblongata,UBERON:0001896,-,False,-
+FB,forebrain,UBERON:0001890,UBERON_0002743,False,basal forebrain
+neural circuitries,circuit part of central nervous system,UBERON:0024914,UBERON_0024914,True,
+Cerebellum,cerebellum,UBERON:0002037,UBERON_0002037,True,
+circuitry,circuit part of central nervous system,UBERON:0024914,UBERON_0026547,False,intrinsic neuronal circuit
+Ce,cerebellum,UBERON:0002037,-,False,-
+bronchial epithelium,epithelium of bronchus,UBERON:0002031,UBERON_0002031,True,
+buccal,cheek,UBERON:0001567,UBERON_0006956,False,buccal mucosa
+bronchial epithelial,epithelium of bronchus,UBERON:0002031,UBERON_0002031,True,
+Tails,tail,UBERON:0002415,UBERON_3010204,False,ventral tail fin
+Neurologic,nervous system,UBERON:0001016,UBERON_0000073,False,regional part of nervous system
+Cortex,cortex,UBERON:0001851,UBERON_0000956,False,cerebral cortex
+life span,life cycle,UBERON:0000104,UBERON_0000104,True,
+femora,femur,UBERON:0000981,UBERON_0000981,True,
+Periodontal,periodontium,UBERON:0001758,UBERON_0008266,False,periodontal ligament
+fourth lumbar vertebra,lumbar vertebra 4,UBERON:0004620,UBERON_0004620,True,
+distal metaphysis,distal metaphysis,UBERON:0004377,UBERON_0004377,True,
+femoral epiphysis,epiphysis of femur,UBERON:0004384,UBERON_0004384,True,
+nasal septum,nasal septum,UBERON:0001706,UBERON_0001706,True,
+Femur,femur,UBERON:0000981,UBERON_0000981,True,
+diaphyseal,diaphysis,UBERON:0004769,UBERON_0016423,False,compact bone of diaphysis
+marrow,bone marrow,UBERON:0002371,UBERON_0002371,True,
+trabeculae,trabecula,UBERON:0000440,UBERON_0002483,False,trabecular bone tissue
+Marrow stromal,stroma of bone marrow,UBERON:0007195,UBERON_0007195,True,
+bone marrow stromal,stroma of bone marrow,UBERON:0007195,UBERON_0007195,True,
+trabecular bone,trabecular bone tissue,UBERON:0002483,UBERON_0002483,True,
+fifth lumbar vertebrae,lumbar vertebra 5,UBERON:0004621,UBERON_0004621,True,
+Trabecular Bone,trabecular bone tissue,UBERON:0002483,UBERON_0002483,True,
+metaphysis ... of long bones,metaphysis,UBERON:0001438,UBERON_0006865,False,metaphysis of femur
+bone marrow,bone marrow,UBERON:0002371,UBERON_0002371,True,
+metaphyseal,metaphysis,UBERON:0001438,UBERON_0001438,True,
+Bone marrow,bone marrow,UBERON:0002371,UBERON_0002371,True,
+Bone Marrow,bone marrow,UBERON:0002371,UBERON_0002371,True,
+Long Bones,long bone,UBERON:0002495,UBERON_0003606,False,limb long bone
+sympathetic nervous system,sympathetic nervous system,UBERON:0000013,UBERON_0000013,True,
+axial ... skeleton,axial skeletal system,UBERON:0011137,UBERON_0011137,True,
+Stromal,stroma,UBERON:0003891,UBERON_0006960,False,ovary stroma
+late-stage embryos,late embryo,UBERON:0000323,UBERON_0000323,True,
+dentin,dentine,UBERON:0001751,UBERON_0001751,True,
+Bones,bone element,UBERON:0001474,UBERON_0002481,False,bone tissue
+Dentin,dentine,UBERON:0001751,UBERON_0001751,True,
+Skeleton,skeleton,UBERON:0004288,UBERON_0001434,False,skeletal system
+appendicular skeleton,appendicular skeleton,UBERON:0002091,UBERON_0002091,True,
+femoral,femur,UBERON:0000981,UBERON_0000981,True,
+vertebral,vertebra,UBERON:0002412,UBERON_0001092,False,vertebral bone 1
+epiphysis ... of long bones,epiphysis,UBERON:0001437,UBERON_0004400,False,bone tissue of epiphysis
+osteoid,osteoid,UBERON:0008883,UBERON_0008883,True,
+macula,macula,UBERON:0000054,UBERON_0000053,False,macula lutea
+vestibular system,vestibular system,UBERON:0004681,UBERON_0006585,False,vestibular organ
+saccular macula,macula of saccule of membranous labyrinth,UBERON:0002212,UBERON_0002212,True,
+bv,blood vessel,UBERON:0001981,UBERON_0001981,True,
+base of ... cochlea,base of cochlear canal,UBERON:0014626,UBERON_0014626,True,
+intestinal epithelium,intestinal epithelium,UBERON:0001277,UBERON_0001277,True,
+ut,macula of utricle of membranous labyrinth,UBERON:0002214,UBERON_0000995,False,uterus
+saccular maculae,macula of saccule of membranous labyrinth,UBERON:0002212,UBERON_0002212,True,
+utricular maculae,macula of utricle of membranous labyrinth,UBERON:0002214,UBERON_0002214,True,
+otic epithelium,epithelium of otic placode,UBERON:0003249,UBERON_0006937,False,inner ear epithelium
+utricular,utricle of membranous labyrinth,UBERON:0001853,UBERON_0002214,False,macula of utricle of membranous labyrinth
+embryonic heads,embryonic head,UBERON:0008816,UBERON_0008816,True,
+Cristae,crista ampullaris,UBERON:0004721,-,False,-
+vestibule,vestibule,UBERON:0001349,UBERON_0006585,False,vestibular organ
+psc,posterior semicircular canal,UBERON:0001842,UBERON_0008933,False,primary somatosensory cortex
+posterior semicircular canals,posterior semicircular canal,UBERON:0001842,UBERON_0001842,True,
+lateral semicircular canal,lateral semicircular canal,UBERON:0001843,UBERON_0001843,True,
+posterior semicircular canal,posterior semicircular canal,UBERON:0001842,UBERON_0001842,True,
+lateral canal,lateral semicircular canal,UBERON:0001843,UBERON_0001843,True,
+semicircular canal,semicircular canal,UBERON:0001840,UBERON_0026586,False,vestibular canal
+anterior canal,anterior semicircular canal,UBERON:0001841,UBERON_0001841,True,
+asc,anterior semicircular canal,UBERON:0001841,UBERON_0001156,False,ascending colon
+lsc,lateral semicircular canal,UBERON:0001843,UBERON_0001843,True,
+lateral semicircular canals,lateral semicircular canal,UBERON:0001843,UBERON_0001843,True,
+shell,shell,UBERON:0006612,UBERON_0008270,False,mollusc shell
+anterior semicircular canal,anterior semicircular canal,UBERON:0001841,UBERON_0001841,True,
+anterior ... canals,anterior semicircular canal,UBERON:0001841,UBERON_0001841,True,
+lateral canals,lateral semicircular canal,UBERON:0001843,-,False,-
+Inner Ear,internal ear,UBERON:0001846,UBERON_0006585,False,vestibular organ
+otocyst,ear vesicle,UBERON:0003051,UBERON_0003051,True,
+Inner Ears,internal ear,UBERON:0001846,UBERON_0001846,True,
+vestibular sensory organs,vestibular organ,UBERON:0006585,UBERON_0006585,True,
+Vestibule,vestibule,UBERON:0001349,UBERON_0008330,False,vestibule of vagina
+sensory organs,sense organ,UBERON:0000020,UBERON_0004456,False,entire sense organ system
+sensory patches,macula,UBERON:0000054,UBERON_0006932,False,vestibular epithelium
+sensory organ,sense organ,UBERON:0000020,UBERON_0000020,True,
+Inner ears,internal ear,UBERON:0001846,UBERON_0002499,False,cochlear labyrinth
+cochlear duct,cochlear duct of membranous labyrinth,UBERON:0001855,UBERON_0001855,True,
+cochlea duct,cochlear duct of membranous labyrinth,UBERON:0001855,UBERON_0001855,True,
+cd,cochlear duct of membranous labyrinth,UBERON:0001855,UBERON_0001232,False,collecting duct of renal tubule
+Cochlea,cochlea,UBERON:0001844,UBERON_0002227,False,spiral organ of cochlea
+Cochleae,cochlea,UBERON:0001844,UBERON_0002227,False,spiral organ of cochlea
+maculae,macula,UBERON:0000054,UBERON_0002212,False,macula of saccule of membranous labyrinth
+endolymphatic ... sac,endolymphatic sac,UBERON:0002223,UBERON_0002223,True,
+apical ... cochlear,apex of cochlea,UBERON:0002819,UBERON_0014629,False,terminal part of the cochlear canal
+basal cochlear,base of cochlear canal,UBERON:0014626,UBERON_0014626,True,
+pericardial sac,pericardial sac,UBERON:0002406,UBERON_0002407,False,pericardium
+sense organ,sense organ,UBERON:0000020,UBERON_0000020,True,
+ed,endolymphatic duct,UBERON:0001860,-,False,-
+common crus,common crus,UBERON:2005411,UBERON_0013764,False,common crus of semicircular duct
+anterior ... semicircular canals,anterior semicircular canal,UBERON:0001841,UBERON_0001841,True,
+nephric duct,nephric duct,UBERON:0009201,UBERON_0009201,True,
+early embryos,early embryo,UBERON:0019248,UBERON_0019248,True,
+copulation plugs,mating plug,UBERON:0010148,UBERON_0012317,False,vagina orifice
+blastocyts,blastocyst,UBERON:0000358,UBERON_0000068,False,embryo stage
+8-cell embryos,8-cell stage embryo,UBERON:0019252,UBERON_0019252,True,
+Gonadal,gonad,UBERON:0000991,UBERON_0000992,False,ovary
+Livers,liver,UBERON:0002107,UBERON_0002107,True,
+abdominal fat,adipose tissue of abdominal region,UBERON:0007808,UBERON_0007808,True,
+fat pad,fat pad,UBERON:0003916,UBERON_0001347,False,white adipose tissue
+gonadal fat pads,gonadal fat pad,UBERON:0003428,UBERON_0003428,True,
+brain sites,regional part of brain,UBERON:0002616,UBERON_0002616,True,
+eyelid,eyelid,UBERON:0001711,UBERON_0001457,False,skin of eyelid
+somatic motor,somatic motor system,UBERON:0003945,UBERON_0000012,False,somatic nervous system
+pyramidal,dentate gyrus pyramidal layer,UBERON:0002929,UBERON_0002313,False,hippocampus pyramidal layer
+CA1 ... fields,CA1 field of hippocampus,UBERON:0003881,UBERON_0003881,True,
+CA3 fields,CA3 field of hippocampus,UBERON:0003883,UBERON_0003883,True,
+anklebone,tarsal bone,UBERON:0001447,UBERON_0015180,False,neck of talus
+mucosal,mucosa,UBERON:0000344,UBERON_0001199,False,mucosa of stomach
+gastrointestinal,gastrointestinal system,UBERON:0005409,UBERON_0001555,False,digestive tract
+gastric epithelial,epithelium of stomach,UBERON:0001276,UBERON_0001276,True,
+colon,colon,UBERON:0001155,UBERON_0000059,False,large intestine
+Life,life cycle,UBERON:0000104,UBERON_0007023,False,adult organism
+Gastrointestinal,gastrointestinal system,UBERON:0005409,UBERON_0005409,True,
+colorectal,colorectum,UBERON:0012652,UBERON_0013067,False,colorectal mucosa
+gastrointestinal tract,digestive tract,UBERON:0001555,UBERON_0005409,False,alimentary part of gastrointestinal system
+fecal,feces,UBERON:0001988,UBERON_0018543,False,lumen of intestine
+colonic mucosa,colonic mucosa,UBERON:0000317,UBERON_0000317,True,
+colonic,colon,UBERON:0001155,UBERON_0000059,False,large intestine
+NR,retinal neural layer,UBERON:0003902,UBERON_0003902,True,
+pineal glands,pineal body,UBERON:0001905,UBERON_0011768,False,pineal gland stalk
+pineal,pineal body,UBERON:0001905,UBERON_0001905,True,
+layer of ... retina,layer of retina,UBERON:0001781,UBERON_0001791,False,inner nuclear layer of retina
+late embryonic ... period,late embryonic stage,UBERON:0007220,UBERON_0000323,False,late embryo
+layer of retina,layer of retina,UBERON:0001781,UBERON_0001791,False,inner nuclear layer of retina
+body fluids,bodily fluid,UBERON:0006314,UBERON_0006314,True,
+sinus,paranasal sinus,UBERON:0001825,UBERON_0001825,True,
+tail vein,tail vein,UBERON:0003481,UBERON_0003481,True,
+neonatal period,neonate stage,UBERON:0007221,UBERON_0007221,True,
+epithelium of ... small intestine,epithelium of small intestine,UBERON:0001902,UBERON_0001277,False,intestinal epithelium
+decidual,decidua,UBERON:0002450,UBERON_0022355,False,basal layer of endometrium
+extraembryonic ... endoderm,extraembryonic endoderm,UBERON:0008945,UBERON_0008945,True,
+extraembryonic endoderm,extraembryonic endoderm,UBERON:0008945,UBERON_0003257,False,yolk sac endoderm
+trophectoderm,trophectoderm,UBERON:0004345,UBERON_0005291,False,embryonic tissue
+conceptuses,conceptus,UBERON:0004716,UBERON_0005631,False,extraembryonic membrane
+deciduas,decidua,UBERON:0002450,UBERON_0000453,False,decidua basalis
+extraembryonic structures,extraembryonic structure,UBERON:0000478,UBERON_0005292,False,extraembryonic tissue
+embryonic ... structures,embryonic structure,UBERON:0002050,UBERON_0002050,True,
+embryonic structures,embryonic structure,UBERON:0002050,UBERON_0002050,True,
+zona pellucida,zona pellucida,UBERON:0000086,UBERON_0000086,True,
+Trophectoderm,trophectoderm,UBERON:0004345,UBERON_0004345,True,
+conceptus,conceptus,UBERON:0004716,UBERON_0002050,False,embryonic structure
+chorionic ectoderm,chorionic ectoderm,UBERON:0003374,UBERON_0003374,True,
+nf,neural fold,UBERON:0005062,UBERON_0005062,True,
+Extraembryonic Tissues,extraembryonic tissue,UBERON:0005292,UBERON_0005292,True,
+Trophoblast,trophoblast,UBERON:0000088,UBERON_0009002,False,placental membrane
+ectoplacental cavities,ectoplacental cavity,UBERON:0008851,UBERON_0008851,True,
+ep,ectoplacental cone,UBERON:0004364,UBERON_0000483,False,epithelium
+ectoplacental cavity,ectoplacental cavity,UBERON:0008851,UBERON_0008851,True,
+ec,ectoplacental cavity,UBERON:0008851,UBERON_0012252,False,endocervical epithelium
+epc,ectoplacental cone,UBERON:0004364,UBERON_0002348,False,epicardium
+uterine horns,uterine horn,UBERON:0002247,UBERON_0002247,True,
+amniotic cavity,amniotic cavity,UBERON:0000301,UBERON_0000301,True,
+ac,amniotic cavity,UBERON:0000301,UBERON_0001235,False,adrenal cortex
+ve,visceral endoderm,UBERON:0004877,UBERON_0001638,False,vein
+ce,chorionic ectoderm,UBERON:0003374,UBERON_0012337,False,cauda equina
+Reichert's membrane,Reichert's membrane,UBERON:0004369,UBERON_0004369,True,
+rm,Reichert's membrane,UBERON:0004369,UBERON_0010199,False,bona-fide anatomical boundary
+exocoelomic cavity,extraembryonic coelom,UBERON:0003888,UBERON_0035677,False,primary yolk sac cavity
+ecc,extraembryonic coelom,UBERON:0003888,UBERON_0012252,False,endocervical epithelium
+Early Embryonic,early embryo,UBERON:0019248,UBERON_0019248,True,
+icm,inner cell mass,UBERON:0000087,UBERON_0000087,True,
+ne,neurectoderm,UBERON:0002346,UBERON_0034705,False,developing neuroepithelium
+chorionic,chorion,UBERON:0003124,UBERON_0003124,True,
+amniotic ... cavities,amniotic cavity,UBERON:0000301,UBERON_0000301,True,
+exocoelomic ... cavities,extraembryonic coelom,UBERON:0003888,UBERON_0003888,True,
+trophectoderm layer,trophectoderm,UBERON:0004345,UBERON_0004345,True,
+mesenteric fat pad,mesenteric fat pad,UBERON:0015143,UBERON_0014454,False,visceral abdominal adipose tissue
+MFP,mesenteric fat pad,UBERON:0015143,UBERON_0012282,False,mammary fat pad
+femoral fat pad,femoral fat pad,UBERON:0012283,UBERON_0012283,True,
+FFP,femoral fat pad,UBERON:0012283,UBERON_0001969,False,blood plasma
+RFP,retroperitoneal fat pad,UBERON:0010411,-,False,-
+retroperitoneal fat pad,retroperitoneal fat pad,UBERON:0010411,UBERON_0010411,True,
+gonadal fat pad,gonadal fat pad,UBERON:0003428,UBERON_0003428,True,
+carcass,carcass,UBERON:0008979,UBERON_0008979,True,
+GFP,gonadal fat pad,UBERON:0003428,-,False,-
+GI,gastrointestinal system,UBERON:0005409,UBERON_0005409,True,
+naso,olfactory apparatus,UBERON:0000004,UBERON_0001707,False,nasal cavity
+total body,multicellular organism,UBERON:0000468,UBERON_0000468,True,
+carcasses,carcass,UBERON:0008979,UBERON_0007023,False,adult organism
+Femoral fat pad,femoral fat pad,UBERON:0012283,UBERON_0012283,True,
+Carcasses,carcass,UBERON:0008979,UBERON_0008979,True,
+Carcass,carcass,UBERON:0008979,UBERON_0009953,False,post-embryonic organism
+gastrointestinal ... tract,digestive tract,UBERON:0001555,UBERON_0005409,False,alimentary part of gastrointestinal system
+mesenteric ... fat pads,mesenteric fat pad,UBERON:0015143,UBERON_0015143,True,
+femoral ... fat pads,femoral fat pad,UBERON:0012283,UBERON_0012283,True,
+retroperitoneal ... fat pads,retroperitoneal fat pad,UBERON:0010411,UBERON_0010411,True,
+gonadal ... fat pads,gonadal fat pad,UBERON:0003428,UBERON_0003428,True,
+reproductive organs,reproductive organ,UBERON:0003133,UBERON_0003133,True,
+testis cords,testis sex cord,UBERON:0005297,UBERON_0001343,False,seminiferous tubule of testis
+testis cord,testis sex cord,UBERON:0005297,UBERON_0005297,True,
+Testis cords,testis sex cord,UBERON:0005297,UBERON_0001343,False,seminiferous tubule of testis
+cords,testis sex cord,UBERON:0005297,UBERON_0002331,False,umbilical cord
+mesonephric,mesonephros,UBERON:0000080,UBERON_0003074,False,mesonephric duct
+field,anlage,UBERON:0007688,UBERON_0005733,False,limb field
+fields,anlage,UBERON:0007688,UBERON_0005733,False,limb field
+nephrogenous mesenchyme,nephrogenic mesenchyme,UBERON:0004208,UBERON_0003220,False,metanephric mesenchyme
+amnions,amnion,UBERON:0000305,UBERON_0005630,False,fetal membrane
+Gonad,gonad,UBERON:0000991,UBERON_0000990,False,reproductive system
+ovarian,female gonad,UBERON:0000992,UBERON_0000992,True,
+primordium,primordium,UBERON:0001048,UBERON_0001048,True,
+mesonephric tubules,mesonephric tubule,UBERON:0000083,UBERON_0006190,False,mesonephric distal tubule
+genital ridges,genital ridge,UBERON:0005294,UBERON_0005564,False,gonad primordium
+mesonephroi,mesonephros,UBERON:0000080,UBERON_0005331,False,mesonephric renal vesicle
+genital,genital system,UBERON:3011048,UBERON_0004175,False,internal genitalia
+mesonephric ... ducts,mesonephric duct,UBERON:0003074,UBERON_0003074,True,
+urogenital,genitourinary system,UBERON:0004122,UBERON_0000474,False,female reproductive system
+coelomic,coelom,UBERON:0011997,UBERON_0011997,True,
+stratified cuboidal epithelium,stratified cuboidal epithelium,UBERON:0007603,UBERON_0007603,True,
+stratified epithelium,multilaminar epithelium,UBERON:0000486,UBERON_0012329,False,keratinized stratified squamous epithelium
+ileum,ileum,UBERON:0002116,UBERON_0008345,False,ileal epithelium
+renal proximal convoluted tubule,proximal convoluted tubule,UBERON:0001287,UBERON_0005124,False,metanephric proximal convoluted tubule
+simple columnar epithelium,simple columnar epithelium,UBERON:0000485,UBERON_0000485,True,
+saphenous vein,saphenous vein,UBERON:0007318,UBERON_0001363,False,great saphenous vein
+simple squamous epithelium,simple squamous epithelium,UBERON:0000487,UBERON_0000487,True,
+yolk sac ... endoderm,yolk sac endoderm,UBERON:0003257,UBERON_0003257,True,
+simple columnar ... epithelium,simple columnar epithelium,UBERON:0000485,UBERON_0000485,True,
+allantoic blood vessels,umbilical blood vessel,UBERON:0010260,UBERON_0011694,False,embryo portion of umbilical artery
+endoderm of ... embryos,definitive endoderm,UBERON:0005439,UBERON_0000925,False,endoderm
+yolk sac endodermal,yolk sac endoderm,UBERON:0003257,UBERON_0003257,True,
+VE,visceral endoderm,UBERON:0004877,UBERON_0004877,True,
+Yolk sac blood islands,yolk sac blood island,UBERON:0011919,UBERON_0011919,True,
+Am,amnion,UBERON:0000305,UBERON_0005630,False,fetal membrane
+H,heart,UBERON:0000948,UBERON_0000948,True,
+paired dorsal aortae,pair of dorsal aortae,UBERON:0010190,UBERON_0010190,True,
+YS,yolk sac,UBERON:0001040,UBERON_0001040,True,
+embryonic endoderm,definitive endoderm,UBERON:0005439,UBERON_0000925,False,endoderm
+EE,definitive endoderm,UBERON:0005439,UBERON_0006920,False,esophagus squamous epithelium
+Yolk sac,yolk sac,UBERON:0001040,UBERON_0008852,False,visceral yolk sac
+allantoic,allantois,UBERON:0004340,UBERON_0002553,False,anatomical cavity
+definitive embryonic endoderm,definitive endoderm,UBERON:0005439,UBERON_0005439,True,
+embryonic endodermal,definitive endoderm,UBERON:0005439,UBERON_0005439,True,
+neural folds,neural fold,UBERON:0005062,UBERON_3000994,False,longitudinal dorsal folds
+NF,neural fold,UBERON:0005062,UBERON_0005062,True,
+Br,brain,UBERON:0000955,UBERON_0000955,True,
+extremities,appendage,UBERON:0000026,UBERON_0004480,False,musculature of limb
+Lv,liver,UBERON:0002107,UBERON_0002107,True,
+adipose,adipose tissue,UBERON:0001013,UBERON_0001013,True,
+Kd,kidney,UBERON:0002113,UBERON_0002113,True,
+Co,colon,UBERON:0001155,UBERON_0000059,False,large intestine
+Te,testis,UBERON:0000473,UBERON_0001893,False,telencephalon
+Ad,adipose tissue,UBERON:0001013,UBERON_0001013,True,
+femurs,femur,UBERON:0000981,UBERON_0000981,True,
+vertebrae,vertebra,UBERON:0002412,UBERON_0001092,False,vertebral bone 1
+splenic,spleen,UBERON:0002106,UBERON_0002106,True,
+Ht,heart,UBERON:0000948,UBERON_0000948,True,
+Ov,female gonad,UBERON:0000992,UBERON_0000992,True,
+SI,small intestine,UBERON:0002108,UBERON_0002108,True,
+St,stomach,UBERON:0000945,UBERON_0000945,True,
+BM,bone marrow,UBERON:0002371,UBERON_0002371,True,
+egg,egg,UBERON:0007379,UBERON_0003981,False,primordial ovarian follicle
+coronal suture,coronal suture,UBERON:0002489,UBERON_0003685,False,cranial suture
+calvarial,vault of skull,UBERON:0004339,UBERON_0011158,False,primary subdivision of skull
+meningeal layer,meninx,UBERON:0002360,UBERON_0010506,False,meningeal dura mater
+coronal sutures,coronal suture,UBERON:0002489,UBERON_0003685,False,cranial suture
+vibrissae,vibrissa follicle,UBERON:0010419,UBERON_0010419,True,
+skull vault,vault of skull,UBERON:0004339,UBERON_0004339,True,
+Vibrissae,strand of vibrissa hair,UBERON:0006378,UBERON_0010419,False,vibrissa follicle
+foramen,bone foramen,UBERON:0005744,UBERON_0005744,True,
+Calvarial,vault of skull,UBERON:0004339,UBERON_0004766,False,cranial bone
+rhombomeric,rhombomere,UBERON:0001892,UBERON_0018239,False,rhombomere boundary
+parietal ... bone,tetrapod parietal bone,UBERON:0000210,UBERON_0002229,False,interparietal bone
+whiskers,strand of vibrissa hair,UBERON:0006378,UBERON_0010419,False,vibrissa follicle
+calvaria,vault of skull,UBERON:0004339,UBERON_0004339,True,
+Coronal suture,coronal suture,UBERON:0002489,UBERON_0003685,False,cranial suture
+frontal,tetrapod frontal bone,UBERON:0000209,UBERON_0001870,False,frontal cortex
+Foramen,bone foramen,UBERON:0005744,UBERON_0005744,True,
+foramina,bone foramen,UBERON:0005744,UBERON_0013685,False,foramen of skull
+frontal bones,tetrapod frontal bone,UBERON:0000209,UBERON_0011627,False,orbital part of frontal bone
+frontal bone,tetrapod frontal bone,UBERON:0000209,UBERON_0011627,False,orbital part of frontal bone
+parietal bone,tetrapod parietal bone,UBERON:0000210,UBERON_0002229,False,interparietal bone
+nasal bones,nasal bone,UBERON:0001681,UBERON_0001681,True,
+cranial ... bones,cranial bone,UBERON:0004766,UBERON_0004766,True,
+Frontal Bone,tetrapod frontal bone,UBERON:0000209,UBERON_0011627,False,orbital part of frontal bone
+forehead,forehead,UBERON:0008200,UBERON_0016475,False,skin of forehead
+pb,tetrapod parietal bone,UBERON:0000210,UBERON_0004537,False,blood vasculature
+fb,tetrapod frontal bone,UBERON:0000209,UBERON_0001893,False,telencephalon
+Frontal Bones,tetrapod frontal bone,UBERON:0000209,UBERON_0004766,False,cranial bone
+rhombomeres,rhombomere,UBERON:0001892,UBERON_0003852,False,rhombencephalon neural crest
+cortex of ... thymus,cortex of thymus,UBERON:0002123,UBERON_0002123,True,
+oral cavities,oral cavity,UBERON:0000167,UBERON_0000167,True,
+Intestinal,intestine,UBERON:0000160,UBERON_0000160,True,
+teeth,calcareous tooth,UBERON:0001091,UBERON_0003672,False,dentition
+oral ... epithelia,oral epithelium,UBERON:0002424,UBERON_0002424,True,
+epidermoid,outer epithelium,UBERON:0007376,UBERON_0001003,False,skin epidermis
+corneal epithelia,corneal epithelium,UBERON:0001772,UBERON_0001772,True,
+maxillary,maxilla,UBERON:0002397,UBERON_0011597,False,bone of upper jaw
+stages of life,life cycle stage,UBERON:0000105,UBERON_0001062,False,anatomical entity
+Thymus,thymus,UBERON:0002370,UBERON_0002370,True,
+squamous epithelia,squamous epithelium,UBERON:0006914,UBERON_0006914,True,
+stratified epithelia,multilaminar epithelium,UBERON:0000486,UBERON_0002027,False,stratum corneum of epidermis
+ectodermally,ectoderm,UBERON:0000924,UBERON_0000924,True,
+oral ... glands,oral gland,UBERON:0010047,UBERON_0001829,False,major salivary gland
+primary teeth,deciduous tooth,UBERON:0007115,UBERON_0007115,True,
+lobule,lobule,UBERON:0009911,UBERON_0010368,False,pulmonary lobule
+lower incisors,lower jaw incisor,UBERON:0003451,UBERON_0003451,True,
+basal epidermis,stratum basale of epidermis,UBERON:0002025,UBERON_0002025,True,
+cranial neural crest–derived mesenchyme,mesenchyme derived from head neural crest,UBERON:0007213,UBERON_0007213,True,
+spinous ... layers of epidermis,stratum spinosum of epidermis,UBERON:0002026,UBERON_0002026,True,
+upper gastrointestinal tract,upper digestive tract,UBERON:0004908,UBERON_0004908,True,
+medulla of ... thymus,medulla of thymus,UBERON:0002124,UBERON_0002124,True,
+suprabasal epidermis,epidermis suprabasal layer,UBERON:0010402,UBERON_0010402,True,
+thymic epithelial,thymus epithelium,UBERON:0003846,UBERON_0003846,True,
+odonto,calcareous tooth,UBERON:0001091,UBERON_0011594,False,dentary tooth
+incisors,incisor tooth,UBERON:0001098,UBERON_0001098,True,
+stomatological,mouth,UBERON:0000165,UBERON_0000167,False,oral cavity
+eyelids,eyelid,UBERON:0001711,UBERON_0001457,False,skin of eyelid
+tips of ... tails,post-anal tail tip,UBERON:0010162,UBERON_8480071,False,skin of lobe of tail
+molars,molar tooth,UBERON:0003655,UBERON_0003655,True,
+stomachs,stomach,UBERON:0000945,UBERON_0001161,False,body of stomach
+external ears,external ear,UBERON:0001691,UBERON_0001691,True,
+pelage hairs,strand of pelage hair,UBERON:0010509,UBERON_0010509,True,
+pelage hair,strand of pelage hair,UBERON:0010509,UBERON_0010509,True,
+Teeth,calcareous tooth,UBERON:0001091,UBERON_0009680,False,set of upper jaw teeth
+pinnnae,pinna,UBERON:0001757,UBERON_0001691,False,external ear
+foreheads,forehead,UBERON:0008200,UBERON_0008200,True,
+maxillary incisors,upper jaw incisor,UBERON:0003450,UBERON_0018603,False,upper central incisor tooth
+maxillary ... molars,upper jaw molar,UBERON:0003666,UBERON_0013619,False,upper secondary molar tooth
+inner root sheath,hair inner root sheath,UBERON:0005941,UBERON_0005941,True,
+Hair Follicles,hair follicle,UBERON:0002073,UBERON_0002073,True,
+basal layer of epidermis,stratum basale of epidermis,UBERON:0002025,UBERON_0002025,True,
+ORS of hair follicles,hair outer root sheath,UBERON:0005942,UBERON_0005942,True,
+granular layers of epidermis,stratum granulosum of epidermis,UBERON:0002069,UBERON_0002069,True,
+ORS of ... hair follicle,hair outer root sheath,UBERON:0005942,UBERON_0005942,True,
+hair follicle bulb,bulb of hair follicle,UBERON:0005932,UBERON_0005932,True,
+subcutaneous fat,subcutaneous adipose tissue,UBERON:0002190,UBERON_0002190,True,
+hair shaft,hair shaft,UBERON:0002074,UBERON_0002074,True,
+ORS of ... hair follicles,hair outer root sheath,UBERON:0005942,UBERON_0005942,True,
+hair follicle bulbs,bulb of hair follicle,UBERON:0005932,UBERON_0005932,True,
+hair bulbs,bulb of hair follicle,UBERON:0005932,UBERON_0005932,True,
+tooth,calcareous tooth,UBERON:0001091,UBERON_0005176,False,tooth enamel organ
+epithelia of cornea,corneal epithelium,UBERON:0001772,UBERON_0001772,True,
+Tooth,calcareous tooth,UBERON:0001091,UBERON_0003675,False,tooth crown
+epithelia of ... salivary ... glands,salivary gland epithelium,UBERON:0004809,UBERON_0004809,True,
+epithelia of ... Hardarian glands,Harderian gland epithelium,UBERON:0004694,UBERON_0004187,False,Harderian gland
+Hassall's corpuscles,Hassall's corpuscle,UBERON:0003987,UBERON_0002124,False,medulla of thymus
+lobules,lobule,UBERON:0009911,UBERON_0001912,False,lobule of mammary gland
+Hassall's corpuscle,Hassall's corpuscle,UBERON:0003987,UBERON_0002124,False,medulla of thymus
+embryonic ectodermal,ectoderm,UBERON:0000924,UBERON_0003255,False,obsolete ectoderm of embryo
+pelage,strand of pelage hair,UBERON:0010509,UBERON_0002073,False,hair follicle
+coat of hair,coat of hair,UBERON:0010166,UBERON_0010509,False,strand of pelage hair
+cortico,cortex,UBERON:0001851,UBERON_0000956,False,cerebral cortex
+appendage,anatomical projection,UBERON:0004529,UBERON_0004710,False,pectoral appendage
+Appendages,anatomical projection,UBERON:0004529,UBERON_0002091,False,appendicular skeleton
+Thymi,thymus,UBERON:0002370,UBERON_0002370,True,
+tooth buds,tooth bud,UBERON:0008281,UBERON_0008281,True,
+tooth bud,tooth bud,UBERON:0008281,UBERON_0008281,True,
+L,liver,UBERON:0002107,UBERON_0002391,False,lymph
+molar ... teeth,molar tooth,UBERON:0003655,UBERON_0003655,True,
+M ... teeth,molar tooth,UBERON:0003655,UBERON_0001754,False,dental pulp
+incisor ... teeth,incisor tooth,UBERON:0001098,UBERON_0001098,True,
+I ... teeth,incisor tooth,UBERON:0001098,UBERON_0001098,True,
+foot pads,pedal autopod pad,UBERON:0013623,UBERON_0015484,False,epidermis of metapodial pad
+oral cavity,oral cavity,UBERON:0000167,UBERON_0000167,True,
+hair bulb,bulb of hair follicle,UBERON:0005932,UBERON_0005932,True,
+mandibular bone,mandible,UBERON:0001684,UBERON_0000401,False,mandibular ramus
+lymphoid tissue,lymphoid tissue,UBERON:0001744,UBERON_0001744,True,
+cornified layer,stratum corneum of epidermis,UBERON:0002027,UBERON_0002027,True,
+sebacious gland,sebaceous gland,UBERON:0001821,UBERON_0001821,True,
+pelvis,pelvis,UBERON:0002355,UBERON_0001270,False,bony pelvis
+hair-shaft,hair shaft,UBERON:0002074,UBERON_0002074,True,
+nails,nail,UBERON:0001705,UBERON_0005273,False,nail bed
+spinal column,vertebral column,UBERON:0001130,UBERON_0007257,False,intervertebral disk of sacral vertebra
+lives,life cycle,UBERON:0000104,UBERON_0002107,False,liver
+cartoid artery,carotid artery segment,UBERON:0005396,UBERON_0005396,True,
+Arterial,artery,UBERON:0001637,UBERON_0001637,True,
+venous,vein,UBERON:0001638,UBERON_0003920,False,venous blood vessel
+left common carotid artery,left common carotid artery plus branches,UBERON:0001536,UBERON_0001536,True,
+sebaceous glands,sebaceous gland,UBERON:0001821,UBERON_0001821,True,
+thrombus,blood clot,UBERON:0010210,UBERON_0001981,False,blood vessel
+carotid,carotid artery segment,UBERON:0005396,UBERON_0001530,False,common carotid artery plus branches
+Clot,blood clot,UBERON:0010210,UBERON_0010210,True,
+Thrombus,blood clot,UBERON:0010210,UBERON_0004151,False,cardiac chamber
+carotids,carotid artery segment,UBERON:0005396,UBERON_0001530,False,common carotid artery plus branches
+fibrin clot,blood clot,UBERON:0010210,UBERON_0010210,True,
+clot,blood clot,UBERON:0010210,UBERON_0010210,True,
+bullae,auditory bulla,UBERON:0008959,UBERON_8480050,False,skin of calf
+middle ear,middle ear,UBERON:0001756,UBERON_0001756,True,
+middle ear cavity,tympanic cavity,UBERON:0004114,UBERON_0004114,True,
+MEC,tympanic cavity,UBERON:0004114,UBERON_0007224,False,medial entorhinal cortex
+middle ears,middle ear,UBERON:0001756,UBERON_0001756,True,
+serous,serous fluid,UBERON:0007794,UBERON_0000042,False,serous membrane
+MECs,tympanic cavity,UBERON:0004114,UBERON_0003244,False,epithelium of mammary gland
+respiratory tract,respiratory tract,UBERON:0000065,UBERON_0000065,True,
+serous fluid,serous fluid,UBERON:0007794,UBERON_0035809,False,serous cavity
+exudate,exudate,UBERON:0007780,UBERON_0002402,False,pleural cavity
+tympanic membrane,tympanic membrane,UBERON:0002364,UBERON_0002364,True,
+outer ear canal,external acoustic meatus,UBERON:0001352,UBERON_0001691,False,external ear
+temporal bone,temporal bone,UBERON:0001678,UBERON_0001678,True,
+exudates,exudate,UBERON:0007780,UBERON_0006314,False,bodily fluid
+Nose,olfactory apparatus,UBERON:0000004,UBERON_0001707,False,nasal cavity
+OEC,external acoustic meatus,UBERON:0001352,UBERON_0001997,False,olfactory epithelium
+NS,nasal septum,UBERON:0001706,UBERON_0001016,False,nervous system
+TB,temporal bone,UBERON:0001678,UBERON_0002483,False,trabecular bone tissue
+NC,neural crest,UBERON:0002342,UBERON_0002342,True,
+eardrum,tympanic membrane,UBERON:0002364,UBERON_0002364,True,
+lymphatics,lymphatic vessel,UBERON:0001473,UBERON_0001473,True,
+eustachian tube,pharyngotympanic tube,UBERON:0002393,UBERON_0002393,True,
+ossicular,ossicle,UBERON:0010911,UBERON_0001686,False,auditory ossicle bone
+mucous,mucus,UBERON:0000912,UBERON_0001199,False,mucosa of stomach
+bronchiolar,bronchiole,UBERON:0002186,UBERON_0002186,True,
+Exudate,exudate,UBERON:0007780,UBERON_0002558,False,organ cavity
+alveolar septae,interalveolar septum,UBERON:0004893,UBERON_0004893,True,
+whole-body,multicellular organism,UBERON:0000468,UBERON_0000468,True,
+gastrointestinal systems,gastrointestinal system,UBERON:0005409,UBERON_0001555,False,digestive tract
+systemic,anatomical system,UBERON:0000467,UBERON_0004571,False,systemic arterial system
+upper respiratory tract,upper respiratory tract,UBERON:0001557,UBERON_0001557,True,
+Heads,head,UBERON:0000033,UBERON_0003128,False,cranium
+nasal turbinates,nasal concha,UBERON:0001762,UBERON_0035612,False,nasal turbinal
+oropharynx,oropharynx,UBERON:0001729,UBERON_0001729,True,
+nasopharyngeal,nasopharynx,UBERON:0001728,UBERON_0005022,False,mucosa of nasopharynx
+mandibles,mandible,UBERON:0001684,UBERON_0004768,False,bone of lower jaw
+Immune,immune system,UBERON:0002405,UBERON_0001744,False,lymphoid tissue
+snouts,snout,UBERON:0006333,UBERON_0006333,True,
+hematopoietic tissues,hemopoietic tissue,UBERON:0012429,UBERON_0012429,True,
+B,bronchiole,UBERON:0002186,UBERON_0004601,False,rib 1
+urogenital ... systems,genitourinary system,UBERON:0004122,UBERON_0000990,False,reproductive system
+middle ... ears,middle ear,UBERON:0001756,UBERON_0001756,True,
+tympanic ring,tympanic ring,UBERON:0002218,UBERON_0013173,False,anterior part of tympanic bone
+hind limbs,hindlimb,UBERON:0002103,UBERON_0002463,False,muscle of posterior compartment of hindlimb stylopod
+Middle Ear,middle ear,UBERON:0001756,UBERON_0009506,False,mesenchyme of middle ear
+GC,ganglionic layer of retina,UBERON:0001792,UBERON_0009039,False,lymph node germinal center
+pupils,pupil,UBERON:0001771,UBERON_8480063,False,dorsal iris
+optic vesicle,optic vesicle,UBERON:0004128,UBERON_0004128,True,
+embryonically,embryo,UBERON:0000922,UBERON_0000922,True,
+neuroretinal,layer of retina,UBERON:0001781,UBERON_0005425,False,presumptive neural retina
+Venous,vein,UBERON:0001638,UBERON_0003920,False,venous blood vessel
+AP-septal,aortico-pulmonary spiral septum,UBERON:0006207,UBERON_0002094,False,interventricular septum
+conotruncal,conotruncus,UBERON:0006060,UBERON_0002061,False,truncus arteriosus
+OFT,outflow tract,UBERON:0004145,UBERON_0005337,False,outflow tract of ventricle
+AP-septum,aortico-pulmonary spiral septum,UBERON:0006207,-,False,-
+6th ... PAAs,pharyngeal arch artery 6,UBERON:0003123,UBERON_0003123,True,
+4th ... PAAs,pharyngeal arch artery 4,UBERON:0003121,UBERON_0003121,True,
+6th PAAs,pharyngeal arch artery 6,UBERON:0003123,UBERON_0003123,True,
+6,pharyngeal arch artery 6,UBERON:0003123,UBERON_0016634,False,premotor cortex
+6th PAA,pharyngeal arch artery 6,UBERON:0003123,UBERON_0003123,True,
+sixth PAAs,pharyngeal arch artery 6,UBERON:0003123,UBERON_0003123,True,
+truncus,truncus arteriosus,UBERON:0002061,UBERON_0004479,False,musculature of trunk
+aortic sac,aortic sac,UBERON:0005432,UBERON_0004363,False,pharyngeal arch artery
+truncus artriosus,truncus arteriosus,UBERON:0002061,UBERON_0002061,True,
+cardiac neural crest,cardiac neural crest,UBERON:0000095,UBERON_0000095,True,
+4th PAAs,pharyngeal arch artery 4,UBERON:0003121,UBERON_0003121,True,
+truncus arteriosus,truncus arteriosus,UBERON:0002061,UBERON_0002061,True,
+cardiac OFT,outflow tract,UBERON:0004145,UBERON_0005337,False,outflow tract of ventricle
+PAAs,pharyngeal arch artery,UBERON:0004363,UBERON_0004363,True,
+late stage embryos,late embryo,UBERON:0000323,UBERON_0000323,True,
+secondary heart field,secondary heart field,UBERON:0009889,UBERON_0009889,True,
+SHF,secondary heart field,UBERON:0009889,UBERON_0009889,True,
+aortic arch arteries,pharyngeal arch artery,UBERON:0004363,UBERON_0001530,False,common carotid artery plus branches
+3rd ... pharyngeal arch arteries,pharyngeal arch artery 3,UBERON:0003120,UBERON_0003120,True,
+4th ... pharyngeal arch arteries,pharyngeal arch artery 4,UBERON:0003121,UBERON_0003121,True,
+third somite,somite 3,UBERON:2000732,-,False,-
+6th pharyngeal arch arteries,pharyngeal arch artery 6,UBERON:0003123,UBERON_0003123,True,
+aortico,aorta,UBERON:0000947,UBERON_0000947,True,
+descending part of ... aortic arch,descending trunk of arch of aorta,UBERON:0016920,UBERON_0002345,False,descending thoracic aorta
+truncal,truncus arteriosus,UBERON:0002061,UBERON_0000915,False,thoracic segment of trunk
+conal,conus arteriosus,UBERON:0003983,UBERON_0003983,True,
+neck region,cervical region,UBERON:0005434,UBERON_0005434,True,
+neural crest derived mesenchyme,mesenchyme derived from neural crest,UBERON:0014387,UBERON_0014387,True,
+pharyngeal arch arteries,pharyngeal arch artery,UBERON:0004363,UBERON_0004363,True,
+pharyngeal,pharynx,UBERON:0006562,UBERON_0006562,True,
+OFT cushion,conotruncal ridge,UBERON:0005967,UBERON_0002062,False,endocardial cushion
+neural crest-derived mesenchyme,mesenchyme derived from neural crest,UBERON:0014387,UBERON_0014387,True,
+mandibular,mandible,UBERON:0001684,UBERON_0003278,False,skeleton of lower jaw
+pulmonary trunk,pulmonary trunk,UBERON:0002333,UBERON_0002333,True,
+brachiocephalic ... arteries,brachiocephalic artery,UBERON:0001529,UBERON_0001529,True,
+left subclavian arteries,left subclavian artery,UBERON:0001584,UBERON_0001584,True,
+pharyngeal arch artery,pharyngeal arch artery,UBERON:0004363,UBERON_0004363,True,
+PT,pulmonary trunk,UBERON:0002333,-,False,-
+Ao,aorta,UBERON:0000947,UBERON_0000947,True,
+carotid arteries,carotid artery segment,UBERON:0005396,UBERON_0001530,False,common carotid artery plus branches
+left subclavian artery,left subclavian artery,UBERON:0001584,UBERON_0001584,True,
+right pulmonary arteries,right pulmonary artery,UBERON:0001651,UBERON_0001651,True,
+right ... subclavian arteries,right subclavian artery,UBERON:0001534,UBERON_0001534,True,
+left ... pulmonary arteries,left pulmonary artery,UBERON:0001652,UBERON_0001652,True,
+carotid duct,carotid duct,UBERON:0010198,UBERON_0006668,False,carotid canal
+dorsal aorta,dorsal aorta,UBERON:0005805,UBERON_0010190,False,pair of dorsal aortae
+LSA,left subclavian artery,UBERON:0001584,UBERON_0001584,True,
+right subclavian artery,right subclavian artery,UBERON:0001534,UBERON_0001534,True,
+RSA,right subclavian artery,UBERON:0001534,UBERON_0001534,True,
+brachiocephalic artery,brachiocephalic artery,UBERON:0001529,UBERON_0001529,True,
+TA,truncus arteriosus,UBERON:0002061,UBERON_0004499,False,skeletal muscle tissue of tibialis anterior
+Aorta,aorta,UBERON:0000947,UBERON_0000947,True,
+conotruncal ridges,conotruncal ridge,UBERON:0005967,UBERON_0010018,False,spiral valve of conus arteriosus
+Aortic sac,aortic sac,UBERON:0005432,UBERON_0005432,True,
+Aortic Sac,aortic sac,UBERON:0005432,UBERON_0005432,True,
+aortico-pulmonary septation complex,aortico-pulmonary spiral septum,UBERON:0006207,UBERON_0004142,False,outflow tract septum
+aortico-pulmonary septal,aortico-pulmonary spiral septum,UBERON:0006207,UBERON_0004142,False,outflow tract septum
+aortico-pulmonary ... septum,aortico-pulmonary spiral septum,UBERON:0006207,UBERON_0006207,True,
+AP septum,aortico-pulmonary spiral septum,UBERON:0006207,UBERON_0006207,True,
+AP septal,aortico-pulmonary spiral septum,UBERON:0006207,UBERON_0002094,False,interventricular septum
+AS,aortic sac,UBERON:0005432,UBERON_0001801,False,anterior segment of eyeball
+third pharyngeal pouch endoderm,pharyngeal pouch 3,UBERON:0007124,UBERON_0007124,True,
+superior mediastinum,superior mediastinum,UBERON:0008818,UBERON_0002224,False,thoracic cavity
+Pharyngeal,pharynx,UBERON:0006562,UBERON_0006562,True,
+thymic primordia,thymus primordium,UBERON:0005562,UBERON_0005562,True,
+parathyroids,parathyroid gland,UBERON:0001132,UBERON_0001132,True,
+thyroids,thyroid gland,UBERON:0002046,UBERON_0002046,True,
+thyroid glands,thyroid gland,UBERON:0002046,UBERON_0002046,True,
+conus,conus arteriosus,UBERON:0003983,UBERON_0007699,False,tract of spinal cord
+CNC,cardiac neural crest,UBERON:0000095,UBERON_0003099,False,cranial neural crest
+otic placode,otic placode,UBERON:0003069,UBERON_0003249,False,epithelium of otic placode
+fourth aortic arch artery,pharyngeal arch artery 4,UBERON:0003121,UBERON_0003121,True,
+outflow tract cushions,conotruncal ridge,UBERON:0005967,UBERON_0002062,False,endocardial cushion
+aortico-pulmonary septum,aortico-pulmonary spiral septum,UBERON:0006207,UBERON_0006207,True,
+4th PAA,pharyngeal arch artery 4,UBERON:0003121,UBERON_0003121,True,
+carotid ... arteries,carotid artery segment,UBERON:0005396,UBERON_0001530,False,common carotid artery plus branches
+3rd ... PAAs,pharyngeal arch artery 3,UBERON:0003120,UBERON_0003120,True,
+two- ... cell stage,2 cell stage,UBERON:0007232,UBERON_0019249,False,2-cell stage embryo
+two-cell stage,2 cell stage,UBERON:0007232,UBERON_0019249,False,2-cell stage embryo
+two-cell ... stages,2 cell stage,UBERON:0007232,UBERON_0019249,False,2-cell stage embryo
+four-cell ... stages,4 cell stage,UBERON:0007233,UBERON_0019251,False,4-cell stage embryo
+eight- ... cell stage,8 cell stage,UBERON:0007236,UBERON_0019252,False,8-cell stage embryo
+early ... embryos,early embryo,UBERON:0019248,UBERON_0019248,True,
+one-cell stage,zygote stage,UBERON:0000106,UBERON_0000922,False,embryo
+shaft of femur,diaphysis of femur,UBERON:0006862,UBERON_0006862,True,
+bone marrow cavity,bone marrow cavity,UBERON:0002484,UBERON_0002484,True,
+AER,apical ectodermal ridge,UBERON:0004356,UBERON_0004356,True,
+bone shaft,diaphysis,UBERON:0004769,UBERON_0016423,False,compact bone of diaphysis
+cortical bone,compact bone tissue,UBERON:0001439,UBERON_0001439,True,
+bm,bone marrow cavity,UBERON:0002484,UBERON_0002371,False,bone marrow
+secondary ossification center,secondary ossification center,UBERON:0010357,UBERON_0003958,False,long bone epiphyseal ossification zone
+digit rays,digit plus metapodial segment,UBERON:5002544,UBERON_0006875,False,embryonic handplate
+hand plate,handplate,UBERON:0006875,UBERON_0006875,True,
+limb mesechyme,limb mesenchyme,UBERON:0009749,UBERON_0010328,False,limb bud mesenchyme
+Distal femurs,distal epiphysis of femur,UBERON:0004406,UBERON_0006864,False,distal metaphysis of femur
+hindlimb skeletons,hindlimb skeleton,UBERON:0001441,UBERON_0001441,True,
+proximal femur,proximal epiphysis of femur,UBERON:0004412,UBERON_0007119,False,neck of femur
+limb skeletons,skeleton of limb,UBERON:0004381,UBERON_0002091,False,appendicular skeleton
+scapula,scapula,UBERON:0006849,UBERON_0004651,False,scapula spine
+appendicular skeletal,appendicular skeleton,UBERON:0002091,UBERON_0002091,True,
+distal tip of ... digit,distal segment of digit,UBERON:0009551,UBERON_0014886,False,distal epiphysis of distal phalanx of manual digit
+hypertrophic zone of ... growth plate,long bone epiphyseal plate hypertrophic zone,UBERON:0006772,UBERON_0006772,True,
+autopods,autopod region,UBERON:0002470,UBERON_0006717,False,autopodial skeleton
+scapular,scapula,UBERON:0006849,UBERON_0004651,False,scapula spine
+stylopods,stylopod,UBERON:0002472,UBERON_0004463,False,musculature of hindlimb stylopod
+joint articulations,articulation,UBERON:0004905,UBERON_0002217,False,synovial joint
+last phalanx,distal phalanx,UBERON:0004300,UBERON_0004300,True,
+digit III,digit 3,UBERON:0006050,UBERON_5103623,False,manual digit 3 digitopodial skeleton
+distal tips of ... digit,distal segment of digit,UBERON:0009551,UBERON_0014886,False,distal epiphysis of distal phalanx of manual digit
+fibulae,fibula,UBERON:0001446,UBERON_0001446,True,
+Interdigital,interdigital region,UBERON:0006012,UBERON_0009586,False,mesenchyme of interdigital region between manual digits 1 and 2
+digits of ... forelimb,manual digit,UBERON:0002389,UBERON_5002389,False,manual digit plus metapodial segment
+digits of ... hindlimb,pedal digit,UBERON:0001466,-,False,-
+distal phalanx,distal phalanx,UBERON:0004300,UBERON_0004300,True,
+terminal phalanx,distal phalanx,UBERON:0004300,UBERON_0004337,False,distal phalanx of manual digit 1
+skeletal element,skeletal element,UBERON:0004765,UBERON_0004755,False,skeletal tissue
+interdigitally,interdigital region,UBERON:0006012,UBERON_0009587,False,mesenchyme of interdigital region between manual digits 2 and 3
+digit 1,digit 1,UBERON:0006048,UBERON_5112261,False,manual major digit (Aves) digitopodial skeleton
+digit of ... forelimbs,manual digit,UBERON:0002389,UBERON_0014483,False,distal phalanx of digit 1
+forelimb digits,manual digit,UBERON:0002389,UBERON_0003447,False,digit nerve of manus
+hindlimb bud,hindlimb bud,UBERON:0005418,UBERON_0005418,True,
+forelimb mesenchyme,forelimb mesenchyme,UBERON:0003859,UBERON_0003859,True,
+limb skeleton,skeleton of limb,UBERON:0004381,UBERON_0002091,False,appendicular skeleton
+humerus,humerus,UBERON:0000976,UBERON_0000976,True,
+Limb Buds,limb bud,UBERON:0004347,UBERON_0004347,True,
+humeri,humerus,UBERON:0000976,UBERON_0000976,True,
+cartilage elements,cartilage element,UBERON:0007844,UBERON_0007844,True,
+diaphyseal region,diaphysis,UBERON:0004769,UBERON_0016423,False,compact bone of diaphysis
+endochondral,endochondral element,UBERON:0010363,UBERON_0006773,False,long bone epiphyseal plate ossification zone
+mineralized cartilage,mineralized cartilage tissue,UBERON:4000088,UBERON_4000088,True,
+site of hypertrophic cartilage,hypertrophic cartilage zone,UBERON:0008187,UBERON_0006772,False,long bone epiphyseal plate hypertrophic zone
+anlagen,anlage,UBERON:0007688,UBERON_0003084,False,heart primordium
+void,anatomical space,UBERON:0000464,-,False,-
+trabecular ... bone,trabecular bone tissue,UBERON:0002483,UBERON_0002483,True,
+final phalanx,distal phalanx,UBERON:0004300,UBERON_0004337,False,distal phalanx of manual digit 1
+final phalanges,distal phalanx,UBERON:0004300,UBERON_0004300,True,
+limb digits,digit,UBERON:0002544,UBERON_0004311,False,distal phalanx of manual digit 2
+distal phalanges,distal phalanx,UBERON:0004300,UBERON_0004300,True,
+digit ray,digit plus metapodial segment,UBERON:5002544,UBERON_0009551,False,distal segment of digit
+primordial,primordium,UBERON:0001048,UBERON_0003981,False,primordial ovarian follicle
+3/4 interdigit,interdigital region between digits 3 and 4,UBERON:0006022,UBERON_0009598,False,mesenchyme of interdigital region between digits 3 and 4
+webbing between ... digits,webbed interdigital region,UBERON:0006015,UBERON_0008438,False,webbed interdigital region between manual digits
+viscera,viscus,UBERON:0002075,UBERON_0017672,False,abdominal viscera
+adipose tissues,adipose tissue,UBERON:0001013,UBERON_0001013,True,
+Forelimbs,forelimb,UBERON:0002102,UBERON_0008785,False,upper limb segment
+skeletons of forelimbs,forelimb skeleton,UBERON:0001440,UBERON_0001440,True,
+skeletons of ... hindlimbs,hindlimb skeleton,UBERON:0001441,UBERON_0003464,False,hindlimb bone
+Limb Skeleton,skeleton of limb,UBERON:0004381,UBERON_0004381,True,
+limb skeletal,skeleton of limb,UBERON:0004381,UBERON_0002091,False,appendicular skeleton
+Mesenchymal,mesenchyme,UBERON:0003104,UBERON_0009142,False,entire embryonic mesenchyme
+limb bud mesenchyme,limb bud mesenchyme,UBERON:0010328,UBERON_0010328,True,
+Forelimb,forelimb,UBERON:0002102,UBERON_0014791,False,musculature of forelimb stylopod
+phalanx,phalanx,UBERON:0003221,UBERON_0004311,False,distal phalanx of manual digit 2
+skeletal tissues,skeletal tissue,UBERON:0004755,UBERON_0004755,True,
+bone tissue,bone tissue,UBERON:0002481,UBERON_0002481,True,
+cartilaginous elements,cartilage element,UBERON:0007844,UBERON_0007844,True,
+mesenchyme of ... hand plate,mesenchyme of handplate,UBERON:0009523,UBERON_0006875,False,embryonic handplate
+Humeri,humerus,UBERON:0000976,UBERON_0000976,True,
+Distal ulna,distal epiphysis of ulna,UBERON:0004408,UBERON_0004408,True,
+Mineralized cartilage,mineralized cartilage tissue,UBERON:4000088,UBERON_4000088,True,
+distal ulna,distal epiphysis of ulna,UBERON:0004408,UBERON_0004408,True,
+distal ... radius,distal epiphysis of radius,UBERON:0004407,-,False,-
+proximal ulna,proximal epiphysis of ulna,UBERON:0006822,UBERON_0006822,True,
+proximal ... radius,proximal epiphysis of radius,UBERON:0004413,UBERON_0004413,True,
+distal femurs,distal epiphysis of femur,UBERON:0004406,UBERON_0006864,False,distal metaphysis of femur
+proximal radius,proximal epiphysis of radius,UBERON:0004413,-,False,-
+ducts,duct,UBERON:0000058,UBERON_0035049,False,excretory duct of salivary gland
+mammary,breast,UBERON:0000310,UBERON_0001911,False,mammary gland
+TEBs,mammary duct terminal end bud,UBERON:0005313,UBERON_0005313,True,
+Mammary,breast,UBERON:0000310,UBERON_0001911,False,mammary gland
+mammary mesenchymes,mesenchyme of mammary gland,UBERON:0003326,UBERON_0003584,False,mammary gland connective tissue
+ductal,duct,UBERON:0000058,UBERON_0015766,False,epithelium of duct of salivary gland
+lifetime,life cycle,UBERON:0000104,UBERON_0000104,True,
+Lifetime,life cycle,UBERON:0000104,UBERON_0000104,True,
+terminal end bud,mammary duct terminal end bud,UBERON:0005313,UBERON_0005313,True,
+TEB,mammary duct terminal end bud,UBERON:0005313,UBERON_0005313,True,
+mammary epithelial,epithelium of mammary gland,UBERON:0003244,UBERON_0003244,True,
+Ovarian,female gonad,UBERON:0000992,UBERON_0000992,True,
+mammary fat pad,mammary fat pad,UBERON:0012282,UBERON_0012282,True,
+ductal epithelial,epithelial layer of duct,UBERON:0034969,UBERON_0034969,True,
+ductal ... epithelial,epithelial layer of duct,UBERON:0034969,UBERON_0034969,True,
+ductal ... epithelium,epithelial layer of duct,UBERON:0034969,UBERON_0034969,True,
+terminal end buds,mammary duct terminal end bud,UBERON:0005313,UBERON_0005313,True,
+alveolus,alveolus,UBERON:0003215,UBERON_0002299,False,alveolus of lung
+mammary fat pads,mammary fat pad,UBERON:0012282,UBERON_0012282,True,
+Mammary epithelial,epithelium of mammary gland,UBERON:0003244,UBERON_0003244,True,
+inguinoabdominal,inguinal part of abdomen,UBERON:0008337,UBERON_0008337,True,
+Perinatal,perinatal stage,UBERON:0012101,UBERON_0001987,False,placenta
+Terminal end buds,mammary duct terminal end bud,UBERON:0005313,UBERON_0005313,True,
+duct,duct,UBERON:0000058,UBERON_0000058,True,
+ovarian follicles,ovarian follicle,UBERON:0001305,UBERON_0001305,True,
+inner medullary collecting duct,inner medullary collecting duct,UBERON:0004205,UBERON_0004205,True,
+cortex of ... kidney,cortex of kidney,UBERON:0001225,UBERON_0001225,True,
+kidney cortex,cortex of kidney,UBERON:0001225,UBERON_0001225,True,
+kidney epithelial,kidney epithelium,UBERON:0004819,UBERON_0004819,True,
+tubules,tube,UBERON:0000025,UBERON_0009773,False,renal tubule
+kidney collecting duct epithelial,kidney collecting duct epithelium,UBERON:0014388,UBERON_0014388,True,
+tubule,tube,UBERON:0000025,UBERON_0009773,False,renal tubule
+white ... fat,white adipose tissue,UBERON:0001347,UBERON_0001347,True,
+renal tubule,renal tubule,UBERON:0009773,UBERON_0009773,True,
+proximal tubule,proximal tubule,UBERON:0004134,UBERON_0004810,False,nephron tubule epithelium
+proximal tubules,proximal tubule,UBERON:0004134,UBERON_0004810,False,nephron tubule epithelium
+cortex of kidneys,cortex of kidney,UBERON:0001225,UBERON_0001225,True,
+collecting ducts of ... renal medulla,renal medulla collecting duct,UBERON:0005185,UBERON_0004205,False,inner medullary collecting duct
+pancreatic islets,islet of Langerhans,UBERON:0000006,UBERON_0000006,True,
+tubular,tube,UBERON:0000025,UBERON_0007684,False,uriniferous tubule
+kidney medulla,renal medulla,UBERON:0000362,UBERON_0000362,True,
+kidney cortical,cortex of kidney,UBERON:0001225,UBERON_0001225,True,
+proximal tubular,proximal tubule,UBERON:0004134,UBERON_0004810,False,nephron tubule epithelium
+kidney proximal tubules,proximal tubule,UBERON:0004134,UBERON_0004810,False,nephron tubule epithelium
+Kidney Cortex,cortex of kidney,UBERON:0001225,UBERON_0001225,True,
+Kidney cortices,cortex of kidney,UBERON:0001225,UBERON_0001225,True,
+seminiferous tubules,seminiferous tubule of testis,UBERON:0001343,UBERON_0001343,True,
+epididymus,epididymis,UBERON:0001301,UBERON_0008824,False,duct of epididymis
+kidney tubules,nephron tubule,UBERON:0001231,UBERON_0009773,False,renal tubule
+Kidney Epithelial,kidney epithelium,UBERON:0004819,UBERON_0004819,True,
+Testis,testis,UBERON:0000473,UBERON_0005297,False,testis sex cord
+LNs,lymph node,UBERON:0000029,UBERON_0000029,True,
+LN,lymph node,UBERON:0000029,UBERON_0000029,True,
+lymph node,lymph node,UBERON:0000029,UBERON_0001745,False,secondary nodular lymphoid tissue
+Lymph nodes,lymph node,UBERON:0000029,UBERON_0000029,True,
+ureteric,ureter,UBERON:0000056,UBERON_0005081,False,ureter ureteric bud
+paramesonephric duct,Mullerian duct,UBERON:0003890,UBERON_0003890,True,
+paramesonephric ducts,Mullerian duct,UBERON:0003890,UBERON_0003890,True,
+paramesonephric ... ducts,Mullerian duct,UBERON:0003890,UBERON_0003890,True,
+ureteric tips,ureteric bud tip,UBERON:0006364,UBERON_0006364,True,
+ureteric tip,ureteric bud tip,UBERON:0006364,UBERON_0006364,True,
+metanephric mesenchyme,metanephric mesenchyme,UBERON:0003220,UBERON_0003220,True,
+collecting ducts ... of ... kidney,collecting duct of renal tubule,UBERON:0001232,UBERON_0004203,False,cortical collecting duct
+S-shaped bodies,S-shaped body,UBERON:0004199,UBERON_0010535,False,primitive metanephric nephron
+renal ... tubules,renal tubule,UBERON:0009773,UBERON_0009773,True,
+renal vesicles,renal vesicle,UBERON:0004209,UBERON_0005147,False,metanephric renal vesicle
+renal ... glomeruli,renal glomerulus,UBERON:0000074,UBERON_0000074,True,
+nephron,nephron,UBERON:0001285,UBERON_0001231,False,nephron tubule
+tubules of ... kidney,renal tubule,UBERON:0009773,UBERON_0009773,True,
+ureteric bud tips,ureteric bud tip,UBERON:0006364,UBERON_0006364,True,
+nephrons,nephron,UBERON:0001285,UBERON_0005110,False,metanephric nephron
+midgut,midgut,UBERON:0001045,UBERON_0003352,False,epithelium of midgut
+Nephron,nephron,UBERON:0001285,UBERON_0001231,False,nephron tubule
+imaginal discs,imaginal disc,UBERON:0000939,UBERON_6001658,False,insect ventral prothoracic disc primordium
+cuticle,cuticle,UBERON:0001002,UBERON_0001002,True,
+imaginal disc,imaginal disc,UBERON:0000939,UBERON_6001649,False,insect imaginal disc primordium
+ureteric buds,ureteric bud,UBERON:0000084,UBERON_0005080,False,metanephric ureteric bud
+capping mesenchyme,metanephric cap,UBERON:0005107,UBERON_0010335,False,maxillary process mesenchyme from head mesenchyme
+collecting-duct system,renal collecting system,UBERON:0004100,UBERON_0001232,False,collecting duct of renal tubule
+Ureteric bud tips,ureteric bud tip,UBERON:0006364,UBERON_0006364,True,
+renal ... glomerular,renal glomerulus,UBERON:0000074,UBERON_0000074,True,
+capping metanephric mesenchyme,metanephric cap,UBERON:0005107,UBERON_0005080,False,metanephric ureteric bud
+medulla of ... kidney,renal medulla,UBERON:0000362,UBERON_0000362,True,
+comma-shaped bodies,comma-shaped body,UBERON:0004198,UBERON_0004198,True,
+ureteric stalk,ureteric bud trunk,UBERON:0012238,UBERON_0005080,False,metanephric ureteric bud
+ureteric bud-tip,ureteric bud tip,UBERON:0006364,UBERON_0006364,True,
+stalks ... of ... ureteric bud,ureteric bud trunk,UBERON:0012238,UBERON_0005312,False,primary ureteric bud
+tips of ... ureteric bud,ureteric bud tip,UBERON:0006364,UBERON_0006364,True,
+otic vesicle,ear vesicle,UBERON:0003051,UBERON_0003051,True,
+apical ectodermal ridges,apical ectodermal ridge,UBERON:0004356,UBERON_0004356,True,
+pharyngeal pouches,pharyngeal pouch,UBERON:0004117,UBERON_0004117,True,
+urogenital system,genitourinary system,UBERON:0004122,UBERON_0004122,True,
+Testes,testis,UBERON:0000473,UBERON_0005212,False,Leydig cell region of testis
+Testicular,testis,UBERON:0000473,UBERON_0000473,True,
+Ovaries,female gonad,UBERON:0000992,UBERON_0000992,True,
+layer of cells,cell layer,UBERON:0000119,UBERON_0034969,False,epithelial layer of duct
+adult life,post-juvenile adult stage,UBERON:0000113,UBERON_0007023,False,adult organism
+epididymal,epididymis,UBERON:0001301,UBERON_0001301,True,
+seminiferous tubule,seminiferous tubule of testis,UBERON:0001343,UBERON_0001343,True,
+islets,islet of Langerhans,UBERON:0000006,UBERON_0000006,True,
+Islets,islet of Langerhans,UBERON:0000006,UBERON_0000006,True,
+Adipose Tissue,adipose tissue,UBERON:0001013,UBERON_0001013,True,
+WAT,white adipose tissue,UBERON:0001347,UBERON_0001347,True,
+white adipose tissue,white adipose tissue,UBERON:0001347,UBERON_0001347,True,
+Adipose tissue,adipose tissue,UBERON:0001013,UBERON_0001347,False,white adipose tissue
+white ... adipose tissue,white adipose tissue,UBERON:0001347,UBERON_0001347,True,
+islet,islet of Langerhans,UBERON:0000006,UBERON_0000006,True,
+duodenal,duodenum,UBERON:0002114,UBERON_0002114,True,
+Pancreatic Islets,islet of Langerhans,UBERON:0000006,UBERON_0000006,True,
+pancreatic islet,islet of Langerhans,UBERON:0000006,UBERON_0000006,True,
+hypothalamic,hypothalamus,UBERON:0001898,UBERON_0001898,True,
+Islet,islet of Langerhans,UBERON:0000006,UBERON_0000006,True,
+Islets of Langerhans,islet of Langerhans,UBERON:0000006,UBERON_0000006,True,
+pancreatic islets of Langerhans,islet of Langerhans,UBERON:0000006,UBERON_0000006,True,
+PPs,Peyer's patch,UBERON:0001211,UBERON_0003454,False,small intestine Peyer's patch
+LFs,lymphoid follicle,UBERON:0000444,UBERON_0000444,True,
+PP,Peyer's patch,UBERON:0001211,UBERON_0003454,False,small intestine Peyer's patch
+colonic mucosal,colonic mucosa,UBERON:0000317,UBERON_0000317,True,
+GALT,gut-associated lymphoid tissue,UBERON:0001962,UBERON_0001962,True,
+lymphoïd tissue,lymphoid tissue,UBERON:0001744,UBERON_0001744,True,
+gut associated lymphoid tissue,gut-associated lymphoid tissue,UBERON:0001962,UBERON_0001962,True,
+GI tract,digestive tract,UBERON:0001555,UBERON_0001555,True,
+germinal centres,germinal center,UBERON:0010754,UBERON_0009039,False,lymph node germinal center
+gut mucosal,gastrointestinal system mucosa,UBERON:0004786,UBERON_0001242,False,intestinal mucosa
+immune organe,immune organ,UBERON:0005057,UBERON_0001744,False,lymphoid tissue
+gut lumen,lumen of digestive tract,UBERON:0006909,UBERON_0011565,False,lumen of gastrointestinal system
+enteric,intestine,UBERON:0000160,UBERON_0000160,True,
+barrier,anatomical wall,UBERON:0000060,UBERON_0000483,False,epithelium
+LF,lymphoid follicle,UBERON:0000444,UBERON_0003673,False,ligamentum flavum
+Peyer's patches,Peyer's patch,UBERON:0001211,UBERON_0001962,False,gut-associated lymphoid tissue
+lymphoid follicle,lymphoid follicle,UBERON:0000444,UBERON_0001249,False,spleen lymphoid follicle
+Peyer's Patches,Peyer's patch,UBERON:0001211,UBERON_0003454,False,small intestine Peyer's patch
+small intestines,small intestine,UBERON:0002108,UBERON_0002108,True,
+ileal,ileum,UBERON:0002116,UBERON_0008345,False,ileal epithelium
+serosal,serous membrane,UBERON:0000042,UBERON_0000042,True,
+Ileal,ileum,UBERON:0002116,UBERON_0008345,False,ileal epithelium
+lymphoid follicles,lymphoid follicle,UBERON:0000444,UBERON_0004042,False,spleen secondary B follicle
+Peyer's patch,Peyer's patch,UBERON:0001211,UBERON_0003454,False,small intestine Peyer's patch
+digestive tract,digestive tract,UBERON:0001555,UBERON_0001555,True,
+Ileum,ileum,UBERON:0002116,UBERON_0008345,False,ileal epithelium
+small bowel,small intestine,UBERON:0002108,UBERON_0002108,True,
+ileum mucosa,ileal mucosa,UBERON:0000331,UBERON_0000331,True,
+Neurological,nervous system,UBERON:0001016,UBERON_0001017,False,central nervous system
+Spinocerebellar,spinoocerebellum,UBERON:0014643,UBERON_0005413,False,spinocerebellar tract
+neurologically,nervous system,UBERON:0001016,UBERON_0001017,False,central nervous system
+spinocerebellar,spinoocerebellum,UBERON:0014643,UBERON_0005413,False,spinocerebellar tract
+neurology,nervous system,UBERON:0001016,UBERON_0001017,False,central nervous system
+peripheral retina,peripheral region of retina,UBERON:0013682,UBERON_0013682,True,
+Ganglion,ganglion,UBERON:0000045,UBERON_0003338,False,ganglion of peripheral nervous system
+vitreal,vitreous humor,UBERON:0001797,UBERON_0001798,False,vitreous body
+gangion,ganglion,UBERON:0000045,UBERON_0003338,False,ganglion of peripheral nervous system
+peripheral ... retina,peripheral region of retina,UBERON:0013682,UBERON_0013682,True,
+peripheral ... retinal,peripheral region of retina,UBERON:0013682,UBERON_0013682,True,
+gut epithelia,digestive tract epithelium,UBERON:0003929,UBERON_0001277,False,intestinal epithelium
+Eyeballs,eyeball of camera-type eye,UBERON:0010230,UBERON_0000049,False,spherical lensed eye
+gut ... epithelia,digestive tract epithelium,UBERON:0003929,UBERON_0001277,False,intestinal epithelium
+skin epithelia,skin epithelium,UBERON:0019204,UBERON_0012329,False,keratinized stratified squamous epithelium
+dentate subgranular zone,dentate gyrus subgranular zone,UBERON:0009952,UBERON_0009952,True,
+CA3,CA3 field of hippocampus,UBERON:0003883,UBERON_0003883,True,
+CA1,CA1 field of hippocampus,UBERON:0003881,UBERON_0003881,True,
+CA2,CA2 field of hippocampus,UBERON:0003882,UBERON_0003882,True,
+granule cell layer of ... cerebellum,granular layer of cerebellar cortex,UBERON:0002956,UBERON_0002956,True,
+CO,cerebral cortex,UBERON:0000956,UBERON_0000059,False,large intestine
+CA3 regions,CA3 field of hippocampus,UBERON:0003883,UBERON_0003883,True,
+CA2 ... regions,CA2 field of hippocampus,UBERON:0003882,UBERON_0003882,True,
+Hb,hindbrain,UBERON:0002028,UBERON_0008993,False,habenular nucleus
+dura,dura mater,UBERON:0002363,UBERON_0010506,False,meningeal dura mater
+bregma,bregma,UBERON:0013406,UBERON_0003685,False,cranial suture
+eggs,egg,UBERON:0007379,UBERON_8450001,False,egg follicle

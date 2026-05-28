@@ -1,0 +1,975 @@
+Label,ontology_id,id_label,mention_id,source_file
+neuron,CL:0000540,neuron,CL_basic_2014_02_21_Instance_21967,11319941.txt.knowtator.xml
+Neuron,CL:0000540,neuron,CL_basic_2014_02_21_Instance_21969,11319941.txt.knowtator.xml
+neurons,CL:0000540,neuron,CL_basic_2014_02_21_Instance_21977,11319941.txt.knowtator.xml
+striatal ... neuron,CL:0002613,striatum neuron,CL_basic_2014_02_21_Instance_30002,11319941.txt.knowtator.xml
+medium spiny neurons,CL:1001474,medium spiny neuron,CL_basic_2014_02_21_Instance_30025,11319941.txt.knowtator.xml
+Striatal neurons,CL:0002613,striatum neuron,CL_basic_2014_02_21_Instance_30031,11319941.txt.knowtator.xml
+neuronal,CL:0000540,neuron,CL_basic_2014_02_21_Instance_21983,11319941.txt.knowtator.xml
+striatal neuron,CL:0002613,striatum neuron,CL_basic_2014_02_21_Instance_30014,11319941.txt.knowtator.xml
+striatal neurons,CL:0002613,striatum neuron,CL_basic_2014_02_21_Instance_30050,11319941.txt.knowtator.xml
+pyramidal ... cell,CL:0000598,pyramidal cell,CL_basic_2014_02_21_Instance_22253,11319941.txt.knowtator.xml
+Striatal Neuron,CL:0002613,striatum neuron,CL_basic_2014_02_21_Instance_30091,11319941.txt.knowtator.xml
+striatal neuronal,CL:0002613,striatum neuron,CL_basic_2014_02_21_Instance_30072,11319941.txt.knowtator.xml
+interneurons,CL:0000099,interneuron,CL_basic_2014_02_21_Instance_13369,11319941.txt.knowtator.xml
+cholinergic neurons,CL:0000108,cholinergic neuron,CL_basic_2014_02_21_Instance_13443,11319941.txt.knowtator.xml
+Striatal ... Neuron,CL:0002613,striatum neuron,CL_basic_2014_02_21_Instance_30145,11319941.txt.knowtator.xml
+Granule cell,CL:0000120,granule cell,CL_basic_2014_02_21_Instance_13449,11319941.txt.knowtator.xml
+retinal ganglion cells,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_13451,11319941.txt.knowtator.xml
+granule cell,CL:0000120,granule cell,CL_basic_2014_02_21_Instance_13445,11319941.txt.knowtator.xml
+pyramidal cell,CL:0000598,pyramidal cell,CL_basic_2014_02_21_Instance_13461,11319941.txt.knowtator.xml
+striatal ... neurons,CL:0002613,striatum neuron,CL_basic_2014_02_21_Instance_30210,11319941.txt.knowtator.xml
+Neurons,CL:0000540,neuron,CL_basic_2014_02_21_Instance_13505,11319941.txt.knowtator.xml
+retinal ganglion cell,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_13515,11532192.txt.knowtator.xml
+rod ... photoreceptors,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_22281,11532192.txt.knowtator.xml
+macrophages,CL:0000235,macrophage,CL_basic_2014_02_21_Instance_13517,11532192.txt.knowtator.xml
+cone photoreceptors,CL:0000573,retinal cone cell,CL_basic_2014_02_21_Instance_22283,11532192.txt.knowtator.xml
+rods,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_22285,11532192.txt.knowtator.xml
+cones,CL:0000573,retinal cone cell,CL_basic_2014_02_21_Instance_22287,11532192.txt.knowtator.xml
+embryonic stem ... cells,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_30287,11597317.txt.knowtator.xml
+ES ... cells,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_plus_nested_test_Instance_10001,11597317.txt.knowtator.xml
+ES cell,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_30291,11597317.txt.knowtator.xml
+ES cells,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_30293,11597317.txt.knowtator.xml
+germ cells,CL:0000586,germ cell,CL_basic_2014_02_21_Instance_13589,11604102.txt.knowtator.xml
+germ cell,CL:0000586,germ cell,CL_basic_2014_02_21_Instance_13591,11604102.txt.knowtator.xml
+spermatocytes,CL:0000017,spermatocyte,CL_basic_2014_02_21_Instance_13585,11604102.txt.knowtator.xml
+somatic ... cells,CL:0002371,somatic cell,CL_basic_2014_02_21_Instance_30298,11604102.txt.knowtator.xml
+Sertoli cell,CL:0000216,Sertoli cell,CL_basic_2014_02_21_Instance_13593,11604102.txt.knowtator.xml
+oocyte,CL:0000023,oocyte,CL_basic_2014_02_21_Instance_13613,11604102.txt.knowtator.xml
+spermatogonia,CL:0000020,spermatogonium,CL_basic_2014_02_21_Instance_22295,11604102.txt.knowtator.xml
+primordial germ cells,CL:0000670,primordial germ cell,CL_basic_2014_02_21_Instance_13583,11604102.txt.knowtator.xml
+male germ cells,CL:0000015,male germ cell,CL_basic_2014_02_21_Instance_13577,11604102.txt.knowtator.xml
+sperm,CL:0000019,sperm,CL_basic_2014_02_21_Instance_13579,11604102.txt.knowtator.xml
+oligodendrocyte,CL:0000128,oligodendrocyte,CL_basic_2014_02_21_Instance_22307,11897010.txt.knowtator.xml
+endoderm cells,CL:0000223,endodermal cell,CL_basic_2014_02_21_Instance_23685,12079497.txt.knowtator.xml
+eukaryotic cells,CL:0000255,eukaryotic cell,CL_basic_2014_02_21_Instance_23693,12079497.txt.knowtator.xml
+Zygotic,CL:0000365,zygote,CL_basic_2014_02_21_Instance_30344,12079497.txt.knowtator.xml
+primary giant cells,CL:0002497,primary trophoblast giant cell,CL_basic_2014_02_21_Instance_30358,12079497.txt.knowtator.xml
+ES ... cell,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_plus_nested_test_Instance_10021,12079497.txt.knowtator.xml
+Embryonic stem cells,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_30302,12079497.txt.knowtator.xml
+embryonic stem ... cell,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_30308,12079497.txt.knowtator.xml
+blastomeres,CL:0000353,blastoderm cell,CL_basic_2014_02_21_Instance_23679,12079497.txt.knowtator.xml
+primary fiber cells,CL:0002228,primary lens fiber,CL_basic_2014_02_21_Instance_30448,12546709.txt.knowtator.xml
+lens fiber cells,CL:0011004,lens fiber cell,CL_basic_2014_02_21_Instance_30451,12546709.txt.knowtator.xml
+lens epithelial cells,CL:0002224,lens epithelial cell,CL_basic_2014_02_21_Instance_30444,12546709.txt.knowtator.xml
+promelocytic,CL:0000836,promyelocyte,CL_basic_2014_02_21_Instance_30465,12546709.txt.knowtator.xml
+lens epithelial cell,CL:0002224,lens epithelial cell,CL_basic_2014_02_21_Instance_30453,12546709.txt.knowtator.xml
+epithelial cells,CL:0000066,epithelial cell,CL_basic_2014_02_21_Instance_13623,12546709.txt.knowtator.xml
+muscle cell,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_13639,12546709.txt.knowtator.xml
+osteoblasts,CL:0000062,osteoblast,CL_basic_2014_02_21_Instance_13755,12546709.txt.knowtator.xml
+B lymphocytes,CL:0000236,B cell,CL_basic_2014_02_21_Instance_13759,12546709.txt.knowtator.xml
+epithelial cell,CL:0000066,epithelial cell,CL_basic_2014_02_21_Instance_13737,12546709.txt.knowtator.xml
+macrophage,CL:0000235,macrophage,CL_basic_2014_02_21_Instance_13761,12546709.txt.knowtator.xml
+primary lens fibers,CL:0002228,primary lens fiber,CL_basic_2014_02_21_Instance_30405,12546709.txt.knowtator.xml
+outer hair cell,CL:0000601,outer hair cell,CL_basic_2014_02_21_Instance_13893,12585968.txt.knowtator.xml
+outer hair cells,CL:0000601,outer hair cell,CL_basic_2014_02_21_Instance_13895,12585968.txt.knowtator.xml
+hair cells,CL:0000855,sensory hair cell,CL_basic_2014_02_21_Instance_13899,12585968.txt.knowtator.xml
+hair cell,CL:0000855,sensory hair cell,CL_basic_2014_02_21_Instance_13911,12585968.txt.knowtator.xml
+inner hair cells,CL:0000589,cochlear inner hair cell,CL_basic_2014_02_21_Instance_13905,12585968.txt.knowtator.xml
+embryonic ... cell,CL:0002321,embryonic cell,CL_basic_2014_02_21_Instance_30945,12585968.txt.knowtator.xml
+sensory neurons,CL:0000101,sensory neuron,CL_basic_2014_02_21_Instance_13919,12585968.txt.knowtator.xml
+OHC,CL:0000601,outer hair cell,CL_basic_2014_02_21_Instance_30567,12585968.txt.knowtator.xml
+pillar cells,CL:1000191,pillar cell,CL_basic_2014_02_21_Instance_13923,12585968.txt.knowtator.xml
+Deiters' cells,CL:0000635,Deiter's cell,CL_basic_2014_02_21_Instance_22363,12585968.txt.knowtator.xml
+supporting cells,CL:0000630,supportive cell,CL_basic_2014_02_21_Instance_22365,12585968.txt.knowtator.xml
+inner ... hair cells,CL:0000589,cochlear inner hair cell,CL_basic_2014_02_21_Instance_22371,12585968.txt.knowtator.xml
+primary neurons,CL:0000530,primary neuron,CL_basic_2014_02_21_Instance_14011,12585968.txt.knowtator.xml
+supporting cell,CL:0000630,supportive cell,CL_basic_2014_02_21_Instance_22385,12585968.txt.knowtator.xml
+IHC's,CL:0000589,cochlear inner hair cell,CL_basic_2014_02_21_Instance_70145,12585968.txt.knowtator.xml
+motoneurons,CL:0000100,motor neuron,CL_basic_2014_02_21_Instance_14073,12585968.txt.knowtator.xml
+sensory neuron,CL:0000101,sensory neuron,CL_basic_2014_02_21_Instance_14089,12585968.txt.knowtator.xml
+IHC,CL:0000589,cochlear inner hair cell,CL_basic_2014_02_21_Instance_11065,12585968.txt.knowtator.xml
+inner hair cell,CL:0000589,cochlear inner hair cell,CL_basic_2014_02_21_Instance_13873,12585968.txt.knowtator.xml
+spiral ... neurons,CL:0011113,spiral ganglion neuron,CL_basic_2014_02_21_plus_nested_Instance_864,12585968.txt.knowtator.xml
+HaC,CL:0000855,sensory hair cell,CL_basic_2014_02_21_plus_nested_Instance_858,12585968.txt.knowtator.xml
+spiral neurons,CL:0011113,spiral ganglion neuron,CL_basic_2014_02_21_plus_nested_Instance_882,12585968.txt.knowtator.xml
+spiral neuron,CL:0011113,spiral ganglion neuron,CL_basic_2014_02_21_plus_nested_Instance_910,12585968.txt.knowtator.xml
+inner ear hair cell,CL:0000202,auditory hair cell,CL_basic_2014_02_21_Instance_30484,12585968.txt.knowtator.xml
+spiral ganglion cells,CL:0011113,spiral ganglion neuron,CL_basic_2014_02_21_Instance_30496,12585968.txt.knowtator.xml
+vestibular hair cell,CL:0000609,vestibular hair cell,CL_basic_2014_02_21_Instance_13871,12585968.txt.knowtator.xml
+vestibular ... sensory neurons,CL:0000609,vestibular hair cell,CL_basic_2014_02_21_Instance_30591,12585968.txt.knowtator.xml
+cochlear sensory neurons,CL:0000202,auditory hair cell,CL_basic_2014_02_21_Instance_30595,12585968.txt.knowtator.xml
+red blood cells,CL:0000232,erythrocyte,CL_basic_2014_02_21_Instance_22683,12925238.txt.knowtator.xml
+platelets,CL:0000233,platelet,CL_basic_2014_02_21_Instance_21603,12925238.txt.knowtator.xml
+red blood cell,CL:0000232,erythrocyte,CL_basic_2014_02_21_Instance_22689,12925238.txt.knowtator.xml
+leukocytes,CL:0000738,leukocyte,CL_basic_2014_02_21_Instance_22723,12925238.txt.knowtator.xml
+Red blood cells,CL:0000232,erythrocyte,CL_basic_2014_02_21_Instance_21657,12925238.txt.knowtator.xml
+erythrocytes,CL:0000232,erythrocyte,CL_basic_2014_02_21_Instance_12477,12925238.txt.knowtator.xml
+neutrophiles,CL:0000775,neutrophil,CL_basic_2014_02_21_Instance_22761,12925238.txt.knowtator.xml
+eosinophiles,CL:0000771,eosinophil,CL_basic_2014_02_21_Instance_22767,12925238.txt.knowtator.xml
+basophiles,CL:0000767,basophil,CL_basic_2014_02_21_Instance_22769,12925238.txt.knowtator.xml
+lymphocytes,CL:0000542,lymphocyte,CL_basic_2014_02_21_Instance_22763,12925238.txt.knowtator.xml
+monocytes,CL:0000576,monocyte,CL_basic_2014_02_21_Instance_22765,12925238.txt.knowtator.xml
+platelet,CL:0000233,platelet,CL_basic_2014_02_21_Instance_22775,12925238.txt.knowtator.xml
+Platelet,CL:0000233,platelet,CL_basic_2014_02_21_Instance_22785,12925238.txt.knowtator.xml
+cardiomyocytes,CL:0000746,cardiac muscle cell,CL_basic_2014_02_21_Instance_12563,12925238.txt.knowtator.xml
+erythrocyte,CL:0000232,erythrocyte,CL_basic_2014_02_21_Instance_22891,12925238.txt.knowtator.xml
+leucocytes,CL:0000738,leukocyte,CL_basic_2014_02_21_Instance_22941,12925238.txt.knowtator.xml
+spermatid,CL:0000018,spermatid,CL_basic_2014_02_21_Instance_14121,14611657.txt.knowtator.xml
+olfactory neuron,CL:0000207,olfactory receptor cell,CL_basic_2014_02_21_Instance_22405,14611657.txt.knowtator.xml
+T-cell,CL:0000084,T cell,CL_basic_2014_02_21_Instance_22407,14611657.txt.knowtator.xml
+erythroid cells,CL:0000764,erythroid lineage cell,CL_basic_2014_02_21_Instance_22589,14611657.txt.knowtator.xml
+olfactory neurons,CL:0000207,olfactory receptor cell,CL_basic_2014_02_21_Instance_22409,14611657.txt.knowtator.xml
+v,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_11147,14624252.txt.knowtator.xml
+v ... cells,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_11149,14624252.txt.knowtator.xml
+Pericyte,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30922,14624252.txt.knowtator.xml
+vascular smooth muscle cells,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_11143,14624252.txt.knowtator.xml
+support cells,CL:0000630,supportive cell,CL_basic_2014_02_21_Instance_23003,14624252.txt.knowtator.xml
+v ... cell,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_11155,14624252.txt.knowtator.xml
+vascular endothelial cell,CL:0000071,blood vessel endothelial cell,CL_basic_2014_02_21_Instance_11163,14624252.txt.knowtator.xml
+V ... Cells,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_11165,14624252.txt.knowtator.xml
+V ... cell,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_11173,14624252.txt.knowtator.xml
+V,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_11243,14624252.txt.knowtator.xml
+fibroblast,CL:0000057,fibroblast,CL_basic_2014_02_21_Instance_22461,14624252.txt.knowtator.xml
+vascular smooth muscle cell,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_11305,14624252.txt.knowtator.xml
+VSMC,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_11323,14624252.txt.knowtator.xml
+V ... Cell,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_11311,14624252.txt.knowtator.xml
+Vascular Smooth Muscle Cell,CL:0000359,vascular associated smooth muscle cell,CL_basic_2014_02_21_Instance_14189,14624252.txt.knowtator.xml
+kidney mesangial cells,CL:0000650,mesangial cell,CL_basic_2014_02_21_Instance_14213,14624252.txt.knowtator.xml
+mesenchymal cell,CL:0000134,mesenchymal cell,CL_basic_2014_02_21_Instance_14215,14624252.txt.knowtator.xml
+smooth muscle cell,CL:0000192,smooth muscle cell,CL_basic_2014_02_21_Instance_14235,14624252.txt.knowtator.xml
+fibroblasts,CL:0000057,fibroblast,CL_basic_2014_02_21_Instance_14245,14624252.txt.knowtator.xml
+T cell,CL:0000084,T cell,CL_basic_2014_02_21_Instance_14263,14624252.txt.knowtator.xml
+endothelial cells,CL:0000115,endothelial cell,CL_basic_2014_02_21_Instance_14267,14624252.txt.knowtator.xml
+pericytes,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30634,14624252.txt.knowtator.xml
+p,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30636,14624252.txt.knowtator.xml
+p cells,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30641,14624252.txt.knowtator.xml
+retinal ... cells,CL:0009004,retinal cell,CL_basic_2014_02_21_Instance_30653,14624252.txt.knowtator.xml
+p cell,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30661,14624252.txt.knowtator.xml
+P Cells,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30674,14624252.txt.knowtator.xml
+P,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30712,14624252.txt.knowtator.xml
+pericyte,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30720,14624252.txt.knowtator.xml
+retinal cells,CL:0009004,retinal cell,CL_basic_2014_02_21_Instance_30779,14624252.txt.knowtator.xml
+Pericytes,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30879,14624252.txt.knowtator.xml
+P Cell,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30901,14624252.txt.knowtator.xml
+Vascular Smooth Muscle Cells of ... Coronary Arteries,CL:0002592,smooth muscle cell of the coronary artery,CL_basic_2014_02_21_Instance_30896,14624252.txt.knowtator.xml
+perictyes,CL:0000669,pericyte cell,CL_basic_2014_02_21_Instance_30915,14624252.txt.knowtator.xml
+ES,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_30930,14675480.txt.knowtator.xml
+trophoblast giant cells,CL:0002488,trophoblast giant cell,CL_basic_2014_02_21_Instance_30939,14675480.txt.knowtator.xml
+embryonic ... cells,CL:0002321,embryonic cell,CL_basic_2014_02_21_Instance_30949,14675480.txt.knowtator.xml
+giant cells,CL:0002488,trophoblast giant cell,CL_basic_2014_02_21_Instance_30951,14675480.txt.knowtator.xml
+embryonic stem cells,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_30965,14675480.txt.knowtator.xml
+smooth muscle cells,CL:0000192,smooth muscle cell,CL_basic_2014_02_21_Instance_11933,14675480.txt.knowtator.xml
+blood cells,CL:0000081,blood cell,CL_basic_2014_02_21_Instance_11957,14675480.txt.knowtator.xml
+trophoblast cells,CL:0000351,trophoblast cell,CL_basic_2014_02_21_Instance_11955,14675480.txt.knowtator.xml
+diploid ... cells,CL:0000415,diploid cell,CL_basic_2014_02_21_Instance_11325,14675480.txt.knowtator.xml
+mononuclear cell,CL:0000842,mononuclear cell,CL_basic_2014_02_21_Instance_22499,14691534.txt.knowtator.xml
+prostate epithelial cells,CL:0002231,epithelial cell of prostate,CL_basic_2014_02_21_Instance_30991,14691534.txt.knowtator.xml
+hemopoietic stem cells,CL:0000037,hematopoietic stem cell,CL_basic_2014_02_21_Instance_14293,14691534.txt.knowtator.xml
+primary cells,CL:0000001,primary cultured cell,CL_basic_2014_02_21_Instance_30984,14691534.txt.knowtator.xml
+blood ... cells,CL:0000081,blood cell,CL_basic_2014_02_21_Instance_30988,14691534.txt.knowtator.xml
+mononuclear cells,CL:0000842,mononuclear cell,CL_basic_2014_02_21_Instance_14303,14691534.txt.knowtator.xml
+blood ... cell,CL:0000081,blood cell,CL_basic_2014_02_21_Instance_11327,14691534.txt.knowtator.xml
+red cells,CL:0000232,erythrocyte,CL_basic_2014_02_21_Instance_31010,14691534.txt.knowtator.xml
+primary cell,CL:0000001,primary cultured cell,CL_basic_2014_02_21_Instance_31014,14691534.txt.knowtator.xml
+neuronal cells,CL:0000540,neuron,CL_basic_2014_02_21_Instance_22991,14723793.txt.knowtator.xml
+cortical astrocytes,CL:0002605,astrocyte of the cerebral cortex,CL_basic_2014_02_21_Instance_31028,14723793.txt.knowtator.xml
+Neuronal cell,CL:0000540,neuron,CL_basic_2014_02_21_Instance_22989,14723793.txt.knowtator.xml
+Cortical astrocytes,CL:0002605,astrocyte of the cerebral cortex,CL_basic_2014_02_21_Instance_31034,14723793.txt.knowtator.xml
+hippocampus neurons,CL:0002608,hippocampal neuron,CL_basic_2014_02_21_Instance_60356,14723793.txt.knowtator.xml
+Hippocampal neuron,CL:0002608,hippocampal neuron,CL_basic_2014_02_21_Instance_60396,14723793.txt.knowtator.xml
+hippocampal neurons,CL:0002608,hippocampal neuron,CL_basic_2014_02_21_Instance_60404,14723793.txt.knowtator.xml
+hair follicle melanocytes,CL:0002483,hair follicle melanocyte,CL_basic_2014_02_21_Instance_31050,14737183.txt.knowtator.xml
+pigment cells,CL:0000147,pigment cell,CL_basic_2014_02_21_Instance_14465,14737183.txt.knowtator.xml
+melanocytes,CL:0000148,melanocyte,CL_basic_2014_02_21_Instance_14467,14737183.txt.knowtator.xml
+dermal papillae cells,CL:0000346,hair follicle dermal papilla cell,CL_basic_2014_02_21_Instance_11331,14737183.txt.knowtator.xml
+melanoblasts,CL:0000541,melanoblast,CL_basic_2014_02_21_Instance_14463,14737183.txt.knowtator.xml
+pigment cell,CL:0000147,pigment cell,CL_basic_2014_02_21_Instance_14477,14737183.txt.knowtator.xml
+melanocyte,CL:0000148,melanocyte,CL_basic_2014_02_21_Instance_14481,14737183.txt.knowtator.xml
+embryonic cells,CL:0002321,embryonic cell,CL_basic_2014_02_21_Instance_31057,14737183.txt.knowtator.xml
+hair melanocyte,CL:0002483,hair follicle melanocyte,CL_basic_2014_02_21_Instance_31067,14737183.txt.knowtator.xml
+keratinocytes,CL:0000312,keratinocyte,CL_basic_2014_02_21_Instance_14471,14737183.txt.knowtator.xml
+melanoblast,CL:0000541,melanoblast,CL_basic_2014_02_21_Instance_14489,14737183.txt.knowtator.xml
+mesenchymal cells,CL:0000134,mesenchymal cell,CL_basic_2014_02_21_Instance_14483,14737183.txt.knowtator.xml
+hair ... melanocyte,CL:0002483,hair follicle melanocyte,CL_basic_2014_02_21_Instance_70167,14737183.txt.knowtator.xml
+pigment-cell,CL:0000147,pigment cell,CL_basic_2014_02_21_Instance_22521,14737183.txt.knowtator.xml
+dermal papilla cells,CL:0000346,hair follicle dermal papilla cell,CL_basic_2014_02_21_Instance_11329,14737183.txt.knowtator.xml
+type I AECs,CL:0002062,type I pneumocyte,CL_basic_2014_02_21_Instance_31156,15005800.txt.knowtator.xml
+type II AECs,CL:0002063,type II pneumocyte,CL_basic_2014_02_21_Instance_31158,15005800.txt.knowtator.xml
+endothelial cell,CL:0000115,endothelial cell,CL_basic_2014_02_21_Instance_12063,15005800.txt.knowtator.xml
+AECs,CL:0010003,epithelial cell of alveolus of lung,CL_basic_2014_02_21_Instance_31164,15005800.txt.knowtator.xml
+lung epithelial cell,CL:0000082,epithelial cell of lung,CL_basic_2014_02_21_Instance_12077,15005800.txt.knowtator.xml
+type I cells,CL:0002062,type I pneumocyte,CL_basic_2014_02_21_Instance_31160,15005800.txt.knowtator.xml
+lung epithelial cells,CL:0000082,epithelial cell of lung,CL_basic_2014_02_21_Instance_12073,15005800.txt.knowtator.xml
+type I ... AECs,CL:0002062,type I pneumocyte,CL_basic_2014_02_21_Instance_31168,15005800.txt.knowtator.xml
+type I alveolar epithelial cells,CL:0002062,type I pneumocyte,CL_basic_2014_02_21_Instance_31087,15005800.txt.knowtator.xml
+type II ... AECs,CL:0002063,type II pneumocyte,CL_basic_2014_02_21_core+extensions+nested_Instance_20292,15005800.txt.knowtator.xml
+type II alveolar epithelial cells,CL:0002063,type II pneumocyte,CL_basic_2014_02_21_Instance_31097,15005800.txt.knowtator.xml
+t2 ... epithelial cells,CL:0002063,type II pneumocyte,CL_basic_2014_02_21_core+extensions+nested_Instance_20302,15005800.txt.knowtator.xml
+t1 ... epithelial cells,CL:0002062,type I pneumocyte,CL_basic_2014_02_21_core+extensions+nested_Instance_20300,15005800.txt.knowtator.xml
+cultured ... cells,CL:0000010,cultured cell,CL_basic_2014_02_21_Instance_31095,15005800.txt.knowtator.xml
+cuboidal ... type II AECs,CL:0002063,type II pneumocyte,CL_basic_2014_02_21_Instance_31111,15005800.txt.knowtator.xml
+lung type I AECs,CL:0002062,type I pneumocyte,CL_basic_2014_02_21_Instance_31117,15005800.txt.knowtator.xml
+type I AEC,CL:0002062,type I pneumocyte,CL_basic_2014_02_21_Instance_31119,15005800.txt.knowtator.xml
+type I,CL:0002062,type I pneumocyte,CL_basic_2014_02_21_Instance_31113,15005800.txt.knowtator.xml
+type I cell,CL:0002062,type I pneumocyte,CL_basic_2014_02_21_Instance_31139,15005800.txt.knowtator.xml
+mesenchyme cells,CL:0000134,mesenchymal cell,CL_basic_2014_02_21_Instance_12001,15005800.txt.knowtator.xml
+type II ... epithelial cells,CL:0002063,type II pneumocyte,CL_basic_2014_02_21_Instance_31133,15005800.txt.knowtator.xml
+type I ... epithelial cells,CL:0002062,type I pneumocyte,CL_basic_2014_02_21_Instance_31137,15005800.txt.knowtator.xml
+epithelial ... cells,CL:0000066,epithelial cell,CL_basic_2014_02_21_Instance_12003,15005800.txt.knowtator.xml
+zygotic,CL:0000365,zygote,CL_basic_2014_02_21_Instance_70174,15018652.txt.knowtator.xml
+oocytes,CL:0000023,oocyte,CL_basic_2014_02_21_Instance_12163,15018652.txt.knowtator.xml
+eggs,CL:0000025,egg cell,CL_basic_2014_02_21_Instance_12247,15018652.txt.knowtator.xml
+egg,CL:0000025,egg cell,CL_basic_2014_02_21_Instance_12251,15018652.txt.knowtator.xml
+gallbladder epithelial cells,CL:1000415,epithelial cell of gall bladder,CL_basic_2014_02_21_Instance_31222,15040800.txt.knowtator.xml
+renal epithelial cells,CL:0002518,kidney epithelial cell,CL_basic_2014_02_21_Instance_31224,15040800.txt.knowtator.xml
+enterocytes,CL:0000584,enterocyte,CL_basic_2014_02_21_Instance_14577,15040800.txt.knowtator.xml
+mitral cells of ... olfactory bulb,CL:1001502,mitral cell,CL_basic_2014_02_21_Instance_31228,15061865.txt.knowtator.xml
+dopamine cells,CL:0000700,dopaminergic neuron,CL_basic_2014_02_21_Instance_11337,15061865.txt.knowtator.xml
+dopaminergic cells,CL:0000700,dopaminergic neuron,CL_basic_2014_02_21_Instance_11339,15061865.txt.knowtator.xml
+dopaminergic cell,CL:0000700,dopaminergic neuron,CL_basic_2014_02_21_Instance_11341,15061865.txt.knowtator.xml
+Kidney ... cells,CL:1000497,kidney cell,CL_basic_2014_02_21_Instance_31233,15070402.txt.knowtator.xml
+myoblast,CL:0000056,myoblast,CL_basic_2014_02_21_Instance_12419,15238161.txt.knowtator.xml
+slow fibres,CL:0000189,slow muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20795,15238161.txt.knowtator.xml
+myoblasts,CL:0000056,myoblast,CL_basic_2014_02_21_Instance_12415,15238161.txt.knowtator.xml
+slow fibre,CL:0000189,slow muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20801,15238161.txt.knowtator.xml
+Myoblast,CL:0000056,myoblast,CL_basic_2014_02_21_Instance_12417,15238161.txt.knowtator.xml
+myocytes,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_12427,15238161.txt.knowtator.xml
+slow muscle fibres,CL:0000189,slow muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20813,15238161.txt.knowtator.xml
+Slow fibres,CL:0000189,slow muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20810,15238161.txt.knowtator.xml
+myoblast cell,CL:0000056,myoblast,CL_basic_2014_02_21_Instance_12439,15238161.txt.knowtator.xml
+fast fibres,CL:0000190,fast muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20837,15238161.txt.knowtator.xml
+slow ... fibres,CL:0000189,slow muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20834,15238161.txt.knowtator.xml
+muscle fibre,CL:0000187,muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20900,15238161.txt.knowtator.xml
+muscle fibres,CL:0000187,muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20897,15238161.txt.knowtator.xml
+muscle cells,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_12479,15238161.txt.knowtator.xml
+myocyte,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_12483,15238161.txt.knowtator.xml
+myoblasts,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_12533,15238161.txt.knowtator.xml
+blastomeric cells,CL:0000353,blastoderm cell,CL_basic_2014_02_21_Instance_12701,15238161.txt.knowtator.xml
+slow myoblast,CL:0000857,slow muscle myoblast,CL_basic_2014_02_21_Instance_11345,15238161.txt.knowtator.xml
+myotubes,CL:0002372,myotube,CL_basic_2014_02_21_Instance_31263,15238161.txt.knowtator.xml
+adaxial ... cells,CL:0007016,adaxial cell,CL_basic_2014_02_21_Instance_31249,15238161.txt.knowtator.xml
+cells in culture,CL:0000010,cultured cell,CL_basic_2014_02_21_Instance_31286,15238161.txt.knowtator.xml
+myotube,CL:0002372,myotube,CL_basic_2014_02_21_Instance_31295,15238161.txt.knowtator.xml
+slow ... muscle fibres,CL:0000189,slow muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20728,15238161.txt.knowtator.xml
+slow muscle fibre,CL:0000189,slow muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20723,15238161.txt.knowtator.xml
+fast muscle fibres,CL:0000190,fast muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20731,15238161.txt.knowtator.xml
+muscle ... cells,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_12273,15238161.txt.knowtator.xml
+fast ... fibres,CL:0000190,fast muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20768,15238161.txt.knowtator.xml
+hematopoietic cells,CL:0000988,hematopoietic cell,CL_basic_2014_02_21_plus_nested_Instance_13603,15314655.txt.knowtator.xml
+hematopoietic progenitor cells,CL:0008001,hematopoietic precursor cell,CL_basic_2014_02_21_plus_nested_Instance_13616,15314655.txt.knowtator.xml
+erythroid,CL:0000764,erythroid lineage cell,CL_basic_2014_02_21_Instance_22679,15314655.txt.knowtator.xml
+cells in circulation,CL:0000080,circulating cell,CL_basic_2014_02_21_plus_nested_Instance_13639,15314655.txt.knowtator.xml
+circulating cells,CL:0000080,circulating cell,CL_basic_2014_02_21_Instance_21963,15314655.txt.knowtator.xml
+circulating ... cells,CL:0000080,circulating cell,CL_basic_2014_02_21_plus_nested_Instance_13636,15314655.txt.knowtator.xml
+Cells in Circulation,CL:0000080,circulating cell,CL_basic_2014_02_21_plus_nested_Instance_13651,15314655.txt.knowtator.xml
+RBCs,CL:0000232,erythrocyte,CL_basic_2014_02_21_Instance_22703,15314655.txt.knowtator.xml
+stem cell,CL:0000034,stem cell,CL_basic_2014_02_21_Instance_22705,15314655.txt.knowtator.xml
+mesodermal cells,CL:0000222,mesodermal cell,CL_basic_2014_02_21_Instance_22707,15314655.txt.knowtator.xml
+proerythroblasts,CL:0000547,proerythroblast,CL_basic_2014_02_21_Instance_22721,15314655.txt.knowtator.xml
+T-cells,CL:0000084,T cell,CL_basic_2014_02_21_Instance_22715,15314655.txt.knowtator.xml
+hematopoietic stem cell,CL:0000037,hematopoietic stem cell,CL_basic_2014_02_21_Instance_14607,15314655.txt.knowtator.xml
+Erythroid Cells,CL:0000764,erythroid lineage cell,CL_basic_2014_02_21_Instance_22743,15314655.txt.knowtator.xml
+white blood cells,CL:0000738,leukocyte,CL_basic_2014_02_21_Instance_14613,15314655.txt.knowtator.xml
+fibroblast cell,CL:0000057,fibroblast,CL_basic_2014_02_21_Instance_22737,15314655.txt.knowtator.xml
+stem cells,CL:0000034,stem cell,CL_basic_2014_02_21_Instance_14623,15314655.txt.knowtator.xml
+hematopoietic stem cells,CL:0000037,hematopoietic stem cell,CL_basic_2014_02_21_Instance_14625,15314655.txt.knowtator.xml
+Erythroid progenitor cells,CL:0000038,erythroid progenitor cell,CL_basic_2014_02_21_Instance_14635,15314655.txt.knowtator.xml
+myeloid cells,CL:0000763,myeloid cell,CL_basic_2014_02_21_Instance_14631,15314655.txt.knowtator.xml
+proerythroblast,CL:0000547,proerythroblast,CL_basic_2014_02_21_Instance_14659,15314655.txt.knowtator.xml
+erythroid progenitor cells,CL:0000038,erythroid progenitor cell,CL_basic_2014_02_21_Instance_14655,15314655.txt.knowtator.xml
+promyelocytic,CL:0000836,promyelocyte,CL_basic_2014_02_21_Instance_60124,15314655.txt.knowtator.xml
+reticulocyte,CL:0000558,reticulocyte,CL_basic_2014_02_21_Instance_14669,15314655.txt.knowtator.xml
+blood cell,CL:0000081,blood cell,CL_basic_2014_02_21_Instance_14687,15314655.txt.knowtator.xml
+Erythrocytes,CL:0000232,erythrocyte,CL_basic_2014_02_21_Instance_14761,15314655.txt.knowtator.xml
+erythroid cell,CL:0000764,erythroid lineage cell,CL_basic_2014_02_21_Instance_22569,15314655.txt.knowtator.xml
+red ... blood cells,CL:0000232,erythrocyte,CL_basic_2014_02_21_Instance_22571,15314655.txt.knowtator.xml
+stem ... cells,CL:0000034,stem cell,CL_basic_2014_02_21_Instance_22573,15314655.txt.knowtator.xml
+myeloid,CL:0000763,myeloid cell,CL_basic_2014_02_21_Instance_22621,15314655.txt.knowtator.xml
+Erythroid,CL:0000764,erythroid lineage cell,CL_basic_2014_02_21_plus_nested_Instance_13544,15314655.txt.knowtator.xml
+apoptotic cells,CL:0000445,apoptosis fated cell,CL_basic_2014_02_21_Instance_22675,15314655.txt.knowtator.xml
+BC,CL:0000646,basal cell,CL_basic_2014_02_21_plus_nested_Instance_139,15320950.txt.knowtator.xml
+strial marginal cells,CL:0002492,strial marginal cell,CL_basic_2014_02_21_plus_nested_Instance_148,15320950.txt.knowtator.xml
+intermediate cells,CL:0002486,strial intermediate cell,CL_basic_2014_02_21_plus_nested_Instance_14017,15320950.txt.knowtator.xml
+Intermediate cells,CL:0002486,strial intermediate cell,CL_basic_2014_02_21_plus_nested_Instance_185,15320950.txt.knowtator.xml
+Marginal cells,CL:0002492,strial marginal cell,CL_basic_2014_02_21_plus_nested_Instance_170,15320950.txt.knowtator.xml
+type I ... fibrocytes,CL:0002670,type 1 otic fibrocyte,CL_basic_2014_02_21_plus_nested_Instance_213,15320950.txt.knowtator.xml
+type ... II fibrocytes,CL:0002666,type 2 otic fibrocyte,CL_basic_2014_02_21_plus_nested_Instance_217,15320950.txt.knowtator.xml
+marginal cells,CL:0002492,strial marginal cell,CL_basic_2014_02_21_plus_nested_Instance_240,15320950.txt.knowtator.xml
+marginal ... cell,CL:0002492,strial marginal cell,CL_basic_2014_02_21_plus_nested_Instance_243,15320950.txt.knowtator.xml
+marginal cell,CL:0002492,strial marginal cell,CL_basic_2014_02_21_plus_nested_Instance_265,15320950.txt.knowtator.xml
+SMC,CL:0002492,strial marginal cell,CL_basic_2014_02_21_plus_nested_Instance_336,15320950.txt.knowtator.xml
+basal cell,CL:0000646,basal cell,CL_basic_2014_02_21_Instance_14791,15320950.txt.knowtator.xml
+strial intermediate cells,CL:0002486,strial intermediate cell,CL_basic_2014_02_21_plus_nested_Instance_380,15320950.txt.knowtator.xml
+basal cells,CL:0000646,basal cell,CL_basic_2014_02_21_Instance_14825,15320950.txt.knowtator.xml
+vestibular hair cells,CL:0000609,vestibular hair cell,CL_basic_2014_02_21_Instance_14833,15320950.txt.knowtator.xml
+vestibular dark cells,CL:0000846,vestibular dark cell,CL_basic_2014_02_21_Instance_14835,15320950.txt.knowtator.xml
+sensory hair cells,CL:0000855,sensory hair cell,CL_basic_2014_02_21_Instance_14859,15320950.txt.knowtator.xml
+VHC,CL:0000609,vestibular hair cell,CL_basic_2014_02_21_Instance_11381,15320950.txt.knowtator.xml
+VDC,CL:0000846,vestibular dark cell,CL_basic_2014_02_21_Instance_11383,15320950.txt.knowtator.xml
+stria marginal cells,CL:0002492,strial marginal cell,CL_basic_2014_02_21_plus_nested_Instance_96,15320950.txt.knowtator.xml
+thyroid gland epithelial cells,CL:0002257,epithelial cell of thyroid gland,CL_basic_2014_02_21_plus_nested_Instance_114,15320950.txt.knowtator.xml
+Muscle fiber,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_31395,15328533.txt.knowtator.xml
+type I fibers,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_31399,15328533.txt.knowtator.xml
+type IIa,CL:0002214,type IIa muscle cell,CL_basic_2014_02_21_Instance_31384,15328533.txt.knowtator.xml
+type I,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_31388,15328533.txt.knowtator.xml
+Muscle Fiber,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_31414,15328533.txt.knowtator.xml
+muscle fiber,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_31417,15328533.txt.knowtator.xml
+type I muscle fibers,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_31410,15328533.txt.knowtator.xml
+type II,CL:0002212,type II muscle cell,CL_basic_2014_02_21_Instance_31428,15328533.txt.knowtator.xml
+muscle fibers,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_31420,15328533.txt.knowtator.xml
+type I fiber,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_31447,15328533.txt.knowtator.xml
+type I ... fibers,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_31463,15328533.txt.knowtator.xml
+type ... II fibers,CL:0002212,type II muscle cell,CL_basic_2014_02_21_Instance_31467,15328533.txt.knowtator.xml
+Type I,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_31450,15328533.txt.knowtator.xml
+slow ... fibers,CL:0000189,slow muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20849,15328533.txt.knowtator.xml
+glycolytic ... fibers,CL:0000190,fast muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20855,15328533.txt.knowtator.xml
+oxidative ... fibers,CL:0002210,red muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20852,15328533.txt.knowtator.xml
+oxidative fibers,CL:0002210,red muscle cell,CL_basic_2014_02_21_Instance_31491,15328533.txt.knowtator.xml
+oxidative muscle fibers,CL:0002210,red muscle cell,CL_basic_2014_02_21_Instance_31497,15328533.txt.knowtator.xml
+fast ... fibers,CL:0000190,fast muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20858,15328533.txt.knowtator.xml
+slow fiber,CL:0000189,slow muscle cell,CL_basic_2014_02_21_Instance_31537,15328533.txt.knowtator.xml
+type II fiber,CL:0002212,type II muscle cell,CL_basic_2014_02_21_Instance_31529,15328533.txt.knowtator.xml
+motor neuron,CL:0000100,motor neuron,CL_basic_2014_02_21_Instance_14991,15328533.txt.knowtator.xml
+zygotes,CL:0000365,zygote,CL_basic_2014_02_21_Instance_14993,15328533.txt.knowtator.xml
+motoneuron,CL:0000100,motor neuron,CL_basic_2014_02_21_Instance_14985,15328533.txt.knowtator.xml
+type I muscle fiber,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_31595,15328533.txt.knowtator.xml
+adipocyte,CL:0000136,fat cell,CL_basic_2014_02_21_Instance_14987,15328533.txt.knowtator.xml
+Skeletal muscle fibers,CL:0008002,skeletal muscle fiber,CL_basic_2014_02_21_Instance_31317,15328533.txt.knowtator.xml
+type II ... fibers,CL:0002212,type II muscle cell,CL_basic_2014_02_21_Instance_31343,15328533.txt.knowtator.xml
+Type II fibers,CL:0002212,type II muscle cell,CL_basic_2014_02_21_Instance_31349,15328533.txt.knowtator.xml
+Type I fibers,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_31638,15328533.txt.knowtator.xml
+Oxidative Type I Fibers,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_31632,15328533.txt.knowtator.xml
+Type IIb fibers,CL:0002215,type IIb muscle cell,CL_basic_2014_02_21_Instance_31358,15328533.txt.knowtator.xml
+IIa,CL:0002214,type IIa muscle cell,CL_basic_2014_02_21_Instance_31352,15328533.txt.knowtator.xml
+Type I Fibers,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_31641,15328533.txt.knowtator.xml
+IIb,CL:0002215,type IIb muscle cell,CL_basic_2014_02_21_Instance_31355,15328533.txt.knowtator.xml
+type IIb,CL:0002215,type IIb muscle cell,CL_basic_2014_02_21_Instance_31380,15328533.txt.knowtator.xml
+type ... IIb,CL:0002215,type IIb muscle cell,CL_basic_2014_02_21_Instance_31369,15328533.txt.knowtator.xml
+glycolytic fibers,CL:0000190,fast muscle cell,CL_basic_2014_02_21_Instance_31709,15328538.txt.knowtator.xml
+muscle ... fibers,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_31672,15328538.txt.knowtator.xml
+fast-twitch glycolytic fibers,CL:0000190,fast muscle cell,CL_basic_2014_02_21_Instance_31676,15328538.txt.knowtator.xml
+cardiac myocyte,CL:0000746,cardiac muscle cell,CL_basic_2014_02_21_Instance_31659,15328538.txt.knowtator.xml
+Muscle Fibers,CL:0000187,muscle cell,CL_basic_2014_02_21_Instance_31718,15328538.txt.knowtator.xml
+type IIA fibers,CL:0002214,type IIa muscle cell,CL_basic_2014_02_21_Instance_31665,15328538.txt.knowtator.xml
+apoptotic cell,CL:0000445,apoptosis fated cell,CL_basic_2014_02_21_Instance_23017,15345036.txt.knowtator.xml
+Apoptotic cells,CL:0000445,apoptosis fated cell,CL_basic_2014_02_21_Instance_23023,15345036.txt.knowtator.xml
+epithelial cells with cilia,CL:0000067,ciliated epithelial cell,CL_basic_2014_02_21_plus_nested_Instance_14786,15345036.txt.knowtator.xml
+primary lens fiber cells,CL:0002228,primary lens fiber,CL_basic_2014_02_21_plus_nested_Instance_14732,15345036.txt.knowtator.xml
+monocyte,CL:0000576,monocyte,CL_basic_2014_02_21_Instance_15147,15345036.txt.knowtator.xml
+photoreceptor cells,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_15167,15345036.txt.knowtator.xml
+peritoneal macrophages,CL:0000581,peritoneal macrophage,CL_basic_2014_02_21_Instance_15211,15345036.txt.knowtator.xml
+Macrophage,CL:0000235,macrophage,CL_basic_2014_02_21_Instance_15257,15345036.txt.knowtator.xml
+pigmented cells,CL:0000147,pigment cell,CL_basic_2014_02_21_Instance_23259,15345036.txt.knowtator.xml
+apoptotic ... cells,CL:0000445,apoptosis fated cell,CL_basic_2014_02_21_Instance_23269,15345036.txt.knowtator.xml
+mesenchymal ... cells,CL:0000134,mesenchymal cell,CL_basic_2014_02_21_Instance_23273,15345036.txt.knowtator.xml
+megakaryocytes,CL:0000556,megakaryocyte,CL_basic_2014_02_21_Instance_23309,15345036.txt.knowtator.xml
+Macrophages,CL:0000235,macrophage,CL_basic_2014_02_21_Instance_23321,15345036.txt.knowtator.xml
+retinal cell,CL:0009004,retinal cell,CL_basic_2014_02_21_Instance_40013,15345036.txt.knowtator.xml
+thymocytes,CL:0000893,thymocyte,CL_basic_2014_02_21_Instance_40017,15345036.txt.knowtator.xml
+ES-cell,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_40043,15345036.txt.knowtator.xml
+elicited ... macrophages,CL:0000861,elicited macrophage,CL_basic_2014_02_21_Instance_40029,15345036.txt.knowtator.xml
+elicited macrophages,CL:0000861,elicited macrophage,CL_basic_2014_02_21_Instance_40038,15345036.txt.knowtator.xml
+M,CL:0000235,macrophage,CL_basic_2014_02_21_Instance_40054,15345036.txt.knowtator.xml
+lens cells,CL:0002222,vertebrate lens cell,CL_basic_2014_02_21_Instance_40082,15345036.txt.knowtator.xml
+neural ... cells,CL:0002319,neural cell,CL_basic_2014_02_21_Instance_40078,15345036.txt.knowtator.xml
+phagocytes,CL:0000234,phagocyte,CL_basic_2014_02_21_Instance_15001,15345036.txt.knowtator.xml
+neutrophils,CL:0000775,neutrophil,CL_basic_2014_02_21_Instance_15075,15345036.txt.knowtator.xml
+early erythroblast,CL:0000549,basophilic erythroblast,CL_basic_2014_02_21_Instance_15049,15345036.txt.knowtator.xml
+pigmented epithelial cells,CL:0000529,pigmented epithelial cell,CL_basic_2014_02_21_Instance_15055,15345036.txt.knowtator.xml
+condensing ... mesenchymal cells,CL:0000335,mesenchyme condensation cell,CL_basic_2014_02_21_Instance_40092,15492776.txt.knowtator.xml
+hypertrophic chondrocytes,CL:0000743,hypertrophic chondrocyte,CL_basic_2014_02_21_Instance_15313,15492776.txt.knowtator.xml
+mononuclear cells,CL:0000226,single nucleate cell,CL_basic_2014_02_21_Instance_23925,15492776.txt.knowtator.xml
+articular cartilage cells,CL:1001607,articular chondrocyte,CL_basic_2014_02_21_Instance_40096,15492776.txt.knowtator.xml
+chondrocytes,CL:0000138,chondrocyte,CL_basic_2014_02_21_Instance_15341,15492776.txt.knowtator.xml
+cartilage cells,CL:0000138,chondrocyte,CL_basic_2014_02_21_Instance_23347,15492776.txt.knowtator.xml
+synoviocytes,CL:0000214,synovial cell,CL_basic_2014_02_21_Instance_23351,15492776.txt.knowtator.xml
+culture cells,CL:0000010,cultured cell,CL_basic_2014_02_21_Instance_40113,15492776.txt.knowtator.xml
+synovial cells,CL:0000214,synovial cell,CL_basic_2014_02_21_Instance_23369,15492776.txt.knowtator.xml
+motor neurons,CL:0000100,motor neuron,CL_basic_2014_02_21_plus_nested_Instance_428,15550985.txt.knowtator.xml
+Motor Neurons,CL:0000100,motor neuron,CL_basic_2014_02_21_Instance_15435,15550985.txt.knowtator.xml
+proprioceptive neuron,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_Instance_40118,15550985.txt.knowtator.xml
+proprioceptive neurons,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_Instance_40126,15550985.txt.knowtator.xml
+glia,CL:0000125,glial cell,CL_basic_2014_02_21_Instance_23927,15550985.txt.knowtator.xml
+Motor Neuron,CL:0000100,motor neuron,CL_basic_2014_02_21_Instance_15495,15550985.txt.knowtator.xml
+DRG proprioceptive neurons,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_Instance_40177,15550985.txt.knowtator.xml
+type II pneumocytes,CL:0002063,type II pneumocyte,CL_basic_2014_02_21_Instance_70131,15560850.txt.knowtator.xml
+CNS neurons,CL:0000117,CNS neuron (sensu Vertebrata),CL_basic_2014_02_21_Instance_23425,15588329.txt.knowtator.xml
+granule neurons,CL:0000120,granule cell,CL_basic_2014_02_21_Instance_23941,15588329.txt.knowtator.xml
+neuronal cell,CL:0000540,neuron,CL_basic_2014_02_21_Instance_23445,15588329.txt.knowtator.xml
+granule neuron,CL:0000120,granule cell,CL_basic_2014_02_21_Instance_23947,15588329.txt.knowtator.xml
+Neuronal,CL:0000540,neuron,CL_basic_2014_02_21_Instance_23455,15588329.txt.knowtator.xml
+cerebellar neuronal,CL:1001611,cerebellar neuron,CL_basic_2014_02_21_Instance_40194,15588329.txt.knowtator.xml
+Primary cell,CL:0000001,primary cultured cell,CL_basic_2014_02_21_Instance_40201,15588329.txt.knowtator.xml
+Purkinje neuron,CL:0000121,Purkinje cell,CL_basic_2014_02_21_Instance_23461,15588329.txt.knowtator.xml
+cerebellar granule neuron,CL:0001031,cerebellar granule cell,CL_basic_2014_02_21_Instance_40212,15588329.txt.knowtator.xml
+mesoderm ... cells,CL:0000222,mesodermal cell,CL_basic_2014_02_21_Instance_24287,15619330.txt.knowtator.xml
+cells of ... mesoderm,CL:0000222,mesodermal cell,CL_basic_2014_02_21_Instance_24279,15619330.txt.knowtator.xml
+cells of ... ectoderm,CL:0000221,ectodermal cell,CL_basic_2014_02_21_Instance_24281,15619330.txt.knowtator.xml
+nucleated cells,CL:0002242,nucleate cell,CL_basic_2014_02_21_Instance_40253,15619330.txt.knowtator.xml
+endoderm ... cells,CL:0000223,endodermal cell,CL_basic_2014_02_21_Instance_11591,15619330.txt.knowtator.xml
+embryonic stem cell,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_40217,15619330.txt.knowtator.xml
+cells of ... trophectoderm,CL:1000274,trophectodermal cell,CL_basic_2014_02_21_Instance_24263,15619330.txt.knowtator.xml
+Cells of ... endoderm,CL:0000223,endodermal cell,CL_basic_2014_02_21_Instance_24271,15619330.txt.knowtator.xml
+cells of ... endoderm,CL:0000223,endodermal cell,CL_basic_2014_02_21_Instance_24277,15619330.txt.knowtator.xml
+Cells of ... trophectoderm,CL:1000274,trophectodermal cell,CL_basic_2014_02_21_Instance_24265,15619330.txt.knowtator.xml
+Cells of ... epiblast,CL:0000352,epiblast cell,CL_basic_2014_02_21_Instance_24269,15619330.txt.knowtator.xml
+keratinocyte,CL:0000312,keratinocyte,CL_basic_2014_02_21_Instance_15879,15630473.txt.knowtator.xml
+hepatocytes,CL:0000182,hepatocyte,CL_basic_2014_02_21_Instance_15899,15630473.txt.knowtator.xml
+spinous layer cells,CL:0000649,prickle cell,CL_basic_2014_02_21_Instance_40320,15630473.txt.knowtator.xml
+spinous ... layer cells,CL:0000649,prickle cell,CL_basic_2014_02_21_Instance_40324,15630473.txt.knowtator.xml
+hair cell,CL:0002559,hair follicle cell,CL_basic_2014_02_21_Instance_40296,15630473.txt.knowtator.xml
+basal epidermal cells,CL:0002187,basal cell of epidermis,CL_basic_2014_02_21_Instance_40298,15630473.txt.knowtator.xml
+epithelial ... cell,CL:0000066,epithelial cell,CL_basic_2014_02_21_Instance_15957,15630473.txt.knowtator.xml
+motile ... cells,CL:0000219,motile cell,CL_basic_2014_02_21_Instance_11399,15630473.txt.knowtator.xml
+granular layer cells,CL:0000712,stratum granulosum cell,CL_basic_2014_02_21_Instance_11401,15630473.txt.knowtator.xml
+Keratinocytes,CL:0000312,keratinocyte,CL_basic_2014_02_21_Instance_21915,15630473.txt.knowtator.xml
+ectodermal cells,CL:0000221,ectodermal cell,CL_basic_2014_02_21_Instance_15815,15630473.txt.knowtator.xml
+Müller cells,CL:0000636,Mueller cell,CL_basic_2014_02_21_Instance_21957,15676071.txt.knowtator.xml
+cone,CL:0000573,retinal cone cell,CL_basic_2014_02_21_Instance_22221,15676071.txt.knowtator.xml
+photoreceptor,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_21959,15676071.txt.knowtator.xml
+Rod,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_22223,15676071.txt.knowtator.xml
+bipolar cell,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_21953,15676071.txt.knowtator.xml
+rod,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_22219,15676071.txt.knowtator.xml
+photoreceptors,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_21997,15676071.txt.knowtator.xml
+r,CL:0000604,retinal rod cell,CL_basic_2014_02_21_plus_nested_Instance_15458,15676071.txt.knowtator.xml
+Photoreceptors,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_22003,15676071.txt.knowtator.xml
+h,CL:0000745,horizontal cell,CL_basic_2014_02_21_plus_nested_Instance_15452,15676071.txt.knowtator.xml
+rod photoreceptors,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_22013,15676071.txt.knowtator.xml
+Photoreceptor cells,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_15991,15676071.txt.knowtator.xml
+Photoreceptor,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_22041,15676071.txt.knowtator.xml
+horizontal cells,CL:0000745,horizontal cell,CL_basic_2014_02_21_Instance_16009,15676071.txt.knowtator.xml
+bipolar cells,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_16005,15676071.txt.knowtator.xml
+horizontal cell,CL:0000745,horizontal cell,CL_basic_2014_02_21_Instance_16023,15676071.txt.knowtator.xml
+rod bipolar cells,CL:0000751,rod bipolar cell,CL_basic_2014_02_21_Instance_16017,15676071.txt.knowtator.xml
+photoreceptors R1,CL:0000687,R1 photoreceptor cell,CL_basic_2014_02_21_Instance_22125,15676071.txt.knowtator.xml
+photoreceptors ... R6,CL:0000705,R6 photoreceptor cell,CL_basic_2014_02_21_Instance_22127,15676071.txt.knowtator.xml
+R1 ... photoreceptors,CL:0000687,R1 photoreceptor cell,CL_basic_2014_02_21_Instance_22129,15676071.txt.knowtator.xml
+R6 photoreceptors,CL:0000705,R6 photoreceptor cell,CL_basic_2014_02_21_Instance_22131,15676071.txt.knowtator.xml
+off ... bipolar cells,CL:0000750,OFF-bipolar cell,CL_basic_2014_02_21_Instance_11405,15676071.txt.knowtator.xml
+H,CL:0000745,horizontal cell,CL_basic_2014_02_21_Instance_11407,15676071.txt.knowtator.xml
+on ... bipolar cells,CL:0000749,ON-bipolar cell,CL_basic_2014_02_21_Instance_11403,15676071.txt.knowtator.xml
+B,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_11409,15676071.txt.knowtator.xml
+Cone,CL:0000573,retinal cone cell,CL_basic_2014_02_21_Instance_22199,15676071.txt.knowtator.xml
+horizontal ... cells,CL:0000745,horizontal cell,CL_basic_2014_02_21_Instance_21949,15676071.txt.knowtator.xml
+horizontal ... cell,CL:0000745,horizontal cell,CL_basic_2014_02_21_Instance_21951,15676071.txt.knowtator.xml
+hepatocyte,CL:0000182,hepatocyte,CL_basic_2014_02_21_Instance_16071,15760270.txt.knowtator.xml
+granule cell neurons,CL:0000120,granule cell,CL_basic_2014_02_21_Instance_16063,15760270.txt.knowtator.xml
+astrocytes,CL:0000127,astrocyte,CL_basic_2014_02_21_Instance_16085,15760270.txt.knowtator.xml
+pyramidal neurons,CL:0000598,pyramidal cell,CL_basic_2014_02_21_Instance_16083,15760270.txt.knowtator.xml
+slow-twitch ... muscle fibers,CL:0000189,slow muscle cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20872,15760270.txt.knowtator.xml
+microglial,CL:0000129,microglial cell,CL_basic_2014_02_21_Instance_40383,15760270.txt.knowtator.xml
+type I ... muscle fibers,CL:0002211,type I muscle cell,CL_basic_2014_02_21_Instance_70410,15760270.txt.knowtator.xml
+cerebral cortical neuronal,CL:0010012,cerebral cortex neuron,CL_basic_2014_02_21_Instance_40398,15760270.txt.knowtator.xml
+oxidative ... muscle fibers,CL:0002210,red muscle cell,CL_basic_2014_02_21_Instance_70413,15760270.txt.knowtator.xml
+Purkinje ... cell neurons,CL:0000121,Purkinje cell,CL_basic_2014_02_21_Instance_40377,15760270.txt.knowtator.xml
+cortical neurons,CL:0010012,cerebral cortex neuron,CL_basic_2014_02_21_Instance_40401,15760270.txt.knowtator.xml
+neurons of ... cerebral cortex,CL:0010012,cerebral cortex neuron,CL_basic_2014_02_21_Instance_40404,15760270.txt.knowtator.xml
+ESC,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_40421,15760270.txt.knowtator.xml
+ES Cell,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_40414,15760270.txt.knowtator.xml
+neonatal cardiac myocytes,CL:0002495,fetal cardiomyocyte,CL_basic_2014_02_21_Instance_40425,15760270.txt.knowtator.xml
+glial,CL:0000125,glial cell,CL_basic_2014_02_21_Instance_23949,15760270.txt.knowtator.xml
+cardiac myocytes,CL:0000746,cardiac muscle cell,CL_basic_2014_02_21_Instance_16029,15760270.txt.knowtator.xml
+astrocytic,CL:0000127,astrocyte,CL_basic_2014_02_21_Instance_23511,15760270.txt.knowtator.xml
+Hepatocytes,CL:0000182,hepatocyte,CL_basic_2014_02_21_Instance_23535,15760270.txt.knowtator.xml
+lymphocytic,CL:0000542,lymphocyte,CL_basic_2014_02_21_Instance_23515,15760270.txt.knowtator.xml
+phagocytic cells,CL:0000234,phagocyte,CL_basic_2014_02_21_Instance_23517,15760270.txt.knowtator.xml
+EB,CL:0000765,erythroblast,CL_basic_2014_02_21_plus_nested_Instance_443,15784609.txt.knowtator.xml
+erythroblast,CL:0000765,erythroblast,CL_basic_2014_02_21_Instance_23581,15784609.txt.knowtator.xml
+ES-cells,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_40438,15784609.txt.knowtator.xml
+RBC,CL:0000232,erythrocyte,CL_basic_2014_02_21_Instance_23621,15784609.txt.knowtator.xml
+erythroblasts,CL:0000765,erythroblast,CL_basic_2014_02_21_Instance_23625,15784609.txt.knowtator.xml
+immune cell,CL:0000738,leukocyte,CL_basic_2014_02_21_Instance_16107,15784609.txt.knowtator.xml
+podocyte,CL:0000653,glomerular visceral epithelial cell,CL_basic_2014_02_21_Instance_23617,15784609.txt.knowtator.xml
+basophilic,CL:0000767,basophil,CL_basic_2014_02_21_Instance_40469,15784609.txt.knowtator.xml
+cells of ... early embryo,CL:0000007,early embryonic cell,CL_basic_2014_02_21_Instance_40454,15784609.txt.knowtator.xml
+sinusoidal endothelial cells,CL:0002262,endothelial cell of sinusoid,CL_basic_2014_02_21_Instance_40463,15784609.txt.knowtator.xml
+podocytes,CL:0000653,glomerular visceral epithelial cell,CL_basic_2014_02_21_Instance_16135,15784609.txt.knowtator.xml
+Pyramidal neurons,CL:0000598,pyramidal cell,CL_basic_2014_02_21_Instance_16337,15819996.txt.knowtator.xml
+radial glial cells,CL:0000681,radial glial cell,CL_basic_2014_02_21_Instance_16377,15819996.txt.knowtator.xml
+glial cell,CL:0000125,glial cell,CL_basic_2014_02_21_Instance_16447,15819996.txt.knowtator.xml
+Astrocytes,CL:0000127,astrocyte,CL_basic_2014_02_21_Instance_16441,15819996.txt.knowtator.xml
+astroglial ... cell,CL:0000127,astrocyte,CL_basic_2014_02_21_Instance_12585,15819996.txt.knowtator.xml
+adrenal chromaffin cells,CL:1000426,chromaffin cell of adrenal gland,CL_basic_2014_02_21_Instance_40503,15819996.txt.knowtator.xml
+cultured cells,CL:0000010,cultured cell,CL_basic_2014_02_21_Instance_40542,15819996.txt.knowtator.xml
+foreskin fibroblasts,CL:1001608,foreskin fibroblast,CL_basic_2014_02_21_Instance_40549,15819996.txt.knowtator.xml
+Cultured cells,CL:0000010,cultured cell,CL_basic_2014_02_21_Instance_40555,15819996.txt.knowtator.xml
+Neuronal cells,CL:0000540,neuron,CL_basic_2014_02_21_Instance_23633,15819996.txt.knowtator.xml
+astroglial,CL:0000127,astrocyte,CL_basic_2014_02_21_Instance_70200,15819996.txt.knowtator.xml
+Purkinje-cells,CL:0000121,Purkinje cell,CL_basic_2014_02_21_Instance_23665,15819996.txt.knowtator.xml
+astrocytic cell,CL:0000127,astrocyte,CL_basic_2014_02_21_Instance_23657,15819996.txt.knowtator.xml
+Purkinje-cell,CL:0000121,Purkinje cell,CL_basic_2014_02_21_Instance_23663,15819996.txt.knowtator.xml
+Endodermal ... cells,CL:0000223,endodermal cell,CL_basic_2014_02_21_Instance_23761,15819996.txt.knowtator.xml
+cerebellar Purkinje-cells,CL:0000121,Purkinje cell,CL_basic_2014_02_21_Instance_23771,15819996.txt.knowtator.xml
+astrocyte,CL:0000127,astrocyte,CL_basic_2014_02_21_Instance_23773,15819996.txt.knowtator.xml
+Purkinje-cells of ... cerebellum,CL:0000121,Purkinje cell,CL_basic_2014_02_21_Instance_23763,15819996.txt.knowtator.xml
+glial cells,CL:0000125,glial cell,CL_basic_2014_02_21_Instance_16253,15819996.txt.knowtator.xml
+neuronal ... cell,CL:0000540,neuron,CL_basic_2014_02_21_Instance_24175,15819996.txt.knowtator.xml
+pyramidal neuron,CL:0000598,pyramidal cell,CL_basic_2014_02_21_Instance_16281,15819996.txt.knowtator.xml
+neuronal ... cells,CL:0000540,neuron,CL_basic_2014_02_21_Instance_24177,15819996.txt.knowtator.xml
+astroglial cell,CL:0000127,astrocyte,CL_basic_2014_02_21_Instance_11413,15819996.txt.knowtator.xml
+cells of ... stratum granulosum,CL:0000712,stratum granulosum cell,CL_basic_2014_02_21_Instance_11415,15819996.txt.knowtator.xml
+astroglial cells,CL:0000127,astrocyte,CL_basic_2014_02_21_Instance_11417,15819996.txt.knowtator.xml
+Purkinje cells,CL:0000121,Purkinje cell,CL_basic_2014_02_21_Instance_16321,15819996.txt.knowtator.xml
+peptidergic neurons,CL:0000110,peptidergic neuron,CL_basic_2014_02_21_Instance_16493,15836427.txt.knowtator.xml
+afferent sensory neurons,CL:0000101,sensory neuron,CL_basic_2014_02_21_Instance_16523,15836427.txt.knowtator.xml
+dorsal root ganglion ... sensory ... neurons,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_Instance_40622,15836427.txt.knowtator.xml
+DRG sensory neurons,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_Instance_40643,15836427.txt.knowtator.xml
+sensory neurons of dorsal root ganglia,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_Instance_40649,15836427.txt.knowtator.xml
+spinal motor neurons,CL:0011001,spinal cord motor neuron,CL_basic_2014_02_21_Instance_40631,15836427.txt.knowtator.xml
+proprioceptive sensory neuron,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_Instance_40671,15836427.txt.knowtator.xml
+proprioceptive sensory neurons,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_Instance_40677,15836427.txt.knowtator.xml
+nociceptive ... neurons,CL:0000198,pain receptor cell,CL_basic_2014_02_21_Instance_40657,15836427.txt.knowtator.xml
+proprioceptive DRG neurons,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_Instance_40704,15836427.txt.knowtator.xml
+proprioceptive afferent cell,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_Instance_40690,15836427.txt.knowtator.xml
+neuroblasts,CL:0000031,neuroblast,CL_basic_2014_02_21_Instance_16665,15836427.txt.knowtator.xml
+DRG ... sensory ... neurons,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20577,15836427.txt.knowtator.xml
+neuroblast,CL:0000031,neuroblast,CL_basic_2014_02_21_Instance_16661,15836427.txt.knowtator.xml
+sensory neurons of ... DRG,CL:1001451,sensory neuron of dorsal root ganglion,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20603,15836427.txt.knowtator.xml
+cerebellar granule cell,CL:0001031,cerebellar granule cell,CL_basic_2014_02_21_Instance_40761,15850489.txt.knowtator.xml
+Schwann cells,CL:0002573,Schwann cell,CL_basic_2014_02_21_Instance_40925,15876356.txt.knowtator.xml
+Hippocampal neurons,CL:0002608,hippocampal neuron,CL_basic_2014_02_21_Instance_40916,15876356.txt.knowtator.xml
+Schwann cell,CL:0002573,Schwann cell,CL_basic_2014_02_21_Instance_40802,15876356.txt.knowtator.xml
+myelinating Schwann cells,CL:0000218,myelinating Schwann cell,CL_basic_2014_02_21_Instance_40808,15876356.txt.knowtator.xml
+cerebellar granule cells,CL:0001031,cerebellar granule cell,CL_basic_2014_02_21_Instance_40789,15876356.txt.knowtator.xml
+spermatozoa,CL:0000019,sperm,CL_basic_2014_02_21_Instance_23969,15876356.txt.knowtator.xml
+Schwann-cell,CL:0002573,Schwann cell,CL_basic_2014_02_21_Instance_40848,15876356.txt.knowtator.xml
+cultured primary ... cells,CL:0000001,primary cultured cell,CL_basic_2014_02_21_Instance_40835,15876356.txt.knowtator.xml
+Purkinje cell,CL:0000121,Purkinje cell,CL_basic_2014_02_21_Instance_16745,15876356.txt.knowtator.xml
+Primary ... cell,CL:0000001,primary cultured cell,CL_basic_2014_02_21_Instance_40889,15876356.txt.knowtator.xml
+pro-myelinating Schwann cells,CL:0000218,myelinating Schwann cell,CL_basic_2014_02_21_Instance_16763,15876356.txt.knowtator.xml
+pro-myelinating Schwann cell,CL:0000218,myelinating Schwann cell,CL_basic_2014_02_21_Instance_16765,15876356.txt.knowtator.xml
+Primary ... cells,CL:0000001,primary cultured cell,CL_basic_2014_02_21_Instance_40897,15876356.txt.knowtator.xml
+radial glia,CL:0000681,radial glial cell,CL_basic_2014_02_21_Instance_24319,15882093.txt.knowtator.xml
+radial glial,CL:0000681,radial glial cell,CL_basic_2014_02_21_Instance_24321,15882093.txt.knowtator.xml
+neural stem cells,CL:0000047,neuronal stem cell,CL_basic_2014_02_21_Instance_40946,15882093.txt.knowtator.xml
+Radial Glia,CL:0000681,radial glial cell,CL_basic_2014_02_21_Instance_24329,15882093.txt.knowtator.xml
+neural stem cell,CL:0000047,neuronal stem cell,CL_basic_2014_02_21_Instance_40950,15882093.txt.knowtator.xml
+Radial Glial,CL:0000681,radial glial cell,CL_basic_2014_02_21_Instance_24325,15882093.txt.knowtator.xml
+Stem Cell,CL:0000034,stem cell,CL_basic_2014_02_21_Instance_24137,15882093.txt.knowtator.xml
+mast cells,CL:0000097,mast cell,CL_basic_2014_02_21_Instance_17181,15921521.txt.knowtator.xml
+mast cell,CL:0000097,mast cell,CL_basic_2014_02_21_Instance_17187,15921521.txt.knowtator.xml
+neutrophil,CL:0000775,neutrophil,CL_basic_2014_02_21_Instance_17189,15921521.txt.knowtator.xml
+immune cells,CL:0000738,leukocyte,CL_basic_2014_02_21_Instance_17185,15921521.txt.knowtator.xml
+Mast cell,CL:0000097,mast cell,CL_basic_2014_02_21_Instance_17129,15921521.txt.knowtator.xml
+goblet cell,CL:0000160,goblet cell,CL_basic_2014_02_21_Instance_17145,15921521.txt.knowtator.xml
+Hematopoietic cell,CL:0000988,hematopoietic cell,CL_basic_2014_02_21_Instance_40994,15921521.txt.knowtator.xml
+goblet cells,CL:0000160,goblet cell,CL_basic_2014_02_21_Instance_17143,15921521.txt.knowtator.xml
+Paneth cell,CL:0000510,paneth cell,CL_basic_2014_02_21_Instance_11429,15921521.txt.knowtator.xml
+lymphocyte,CL:0000542,lymphocyte,CL_basic_2014_02_21_Instance_17159,15921521.txt.knowtator.xml
+taste receptor cells,CL:0000209,taste receptor cell,CL_basic_2014_02_21_Instance_17195,15938754.txt.knowtator.xml
+natural killer cell,CL:0000623,natural killer cell,CL_basic_2014_02_21_Instance_17197,15938754.txt.knowtator.xml
+taste cells,CL:0000209,taste receptor cell,CL_basic_2014_02_21_Instance_11431,15938754.txt.knowtator.xml
+TRCs,CL:0000209,taste receptor cell,CL_basic_2014_02_21_plus_nested_Instance_30443,15938754.txt.knowtator.xml
+PMNs,CL:0000094,granulocyte,CL_basic_2014_02_21_Instance_41020,16026622.txt.knowtator.xml
+polymorphonuclear leukocytes,CL:0000094,granulocyte,CL_basic_2014_02_21_Instance_41014,16026622.txt.knowtator.xml
+PMN,CL:0000094,granulocyte,CL_basic_2014_02_21_Instance_41033,16026622.txt.knowtator.xml
+dendritic cells,CL:0000451,dendritic cell,CL_basic_2014_02_21_Instance_17291,16026622.txt.knowtator.xml
+T cells,CL:0000084,T cell,CL_basic_2014_02_21_Instance_17293,16026622.txt.knowtator.xml
+inflammatory cell,CL:0009002,inflammatory cell,CL_basic_2014_02_21_Instance_41113,16026622.txt.knowtator.xml
+Reticulocyte,CL:0000558,reticulocyte,CL_basic_2014_02_21_Instance_24195,16027110.txt.knowtator.xml
+neurones,CL:0000540,neuron,CL_basic_2014_02_21_Instance_17355,16098226.txt.knowtator.xml
+neural cell,CL:0002319,neural cell,CL_basic_2014_02_21_Instance_41187,16098226.txt.knowtator.xml
+Hepatocyte,CL:0000182,hepatocyte,CL_basic_2014_02_21_Instance_17377,16103912.txt.knowtator.xml
+myotubules,CL:0002372,myotube,CL_basic_2014_02_21_Instance_41195,16103912.txt.knowtator.xml
+muscle precursor cell,CL:0000680,muscle precursor cell,CL_basic_2014_02_21_Instance_17371,16103912.txt.knowtator.xml
+Myotubules,CL:0002372,myotube,CL_basic_2014_02_21_Instance_41192,16103912.txt.knowtator.xml
+muscle precursor cells,CL:0000680,muscle precursor cell,CL_basic_2014_02_21_Instance_17369,16103912.txt.knowtator.xml
+PCGs,CL:0000670,primordial germ cell,CL_basic_2014_02_21_Instance_41220,16109169.txt.knowtator.xml
+Primordial Germ Cells,CL:0000670,primordial germ cell,CL_basic_2014_02_21_Instance_12941,16109169.txt.knowtator.xml
+extraembryonic cells,CL:0000349,extraembryonic cell,CL_basic_2014_02_21_Instance_12931,16109169.txt.knowtator.xml
+PGCs,CL:0000670,primordial germ cell,CL_basic_2014_02_21_Instance_11441,16109169.txt.knowtator.xml
+Primitive germ cells,CL:0000670,primordial germ cell,CL_basic_2014_02_21_Instance_11439,16109169.txt.knowtator.xml
+blue ... photoreceptors,CL:0000495,blue sensitive photoreceptor cell,CL_basic_2014_02_21_core+extensions+nested_backup_Instance_20941,16110338.txt.knowtator.xml
+Rod Photoreceptor,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_24631,16110338.txt.knowtator.xml
+Rod ... photoreceptors,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_23953,16110338.txt.knowtator.xml
+cone cells,CL:0000573,retinal cone cell,CL_basic_2014_02_21_Instance_24673,16110338.txt.knowtator.xml
+cone,CL:0000306,crystallin accumulating cell,CL_basic_2014_02_21_Instance_17461,16110338.txt.knowtator.xml
+Cones,CL:0000573,retinal cone cell,CL_basic_2014_02_21_Instance_24669,16110338.txt.knowtator.xml
+photoreceptor cell,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_17385,16110338.txt.knowtator.xml
+Rods,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_24363,16110338.txt.knowtator.xml
+cells of ... retina,CL:0009004,retinal cell,CL_basic_2014_02_21_Instance_41245,16110338.txt.knowtator.xml
+immature astrocytes,CL:0002626,immature astrocyte,CL_basic_2014_02_21_Instance_41248,16110338.txt.knowtator.xml
+BP,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_41255,16110338.txt.knowtator.xml
+Photoreceptor Cell,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_24449,16110338.txt.knowtator.xml
+rod photoreceptor,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_24469,16110338.txt.knowtator.xml
+rod photoreceptor cells,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_24471,16110338.txt.knowtator.xml
+photoreceptors,CL:0000287,eye photoreceptor cell,CL_basic_2014_02_21_Instance_26285,16110338.txt.knowtator.xml
+Müller glia,CL:0011107,Muller cell,CL_basic_2014_02_21_Instance_70446,16110338.txt.knowtator.xml
+Müller Glial,CL:0011107,Muller cell,CL_basic_2014_02_21_Instance_70435,16110338.txt.knowtator.xml
+MG,CL:0011107,Muller cell,CL_basic_2014_02_21_Instance_70458,16110338.txt.knowtator.xml
+Müller glial,CL:0011107,Muller cell,CL_basic_2014_02_21_Instance_70452,16110338.txt.knowtator.xml
+collecting duct cells,CL:1001225,kidney collecting duct cell,CL_basic_2014_02_21_Instance_41275,16121255.txt.knowtator.xml
+renal collecting-duct cells,CL:1001225,kidney collecting duct cell,CL_basic_2014_02_21_Instance_41277,16121255.txt.knowtator.xml
+kidney cells,CL:1000497,kidney cell,CL_basic_2014_02_21_Instance_41265,16121255.txt.knowtator.xml
+collecting-duct principal cells,CL:1001431,kidney collecting duct principal cell,CL_basic_2014_02_21_plus_nested_Instance_30835,16121255.txt.knowtator.xml
+renal cell,CL:1000497,kidney cell,CL_basic_2014_02_21_Instance_41283,16121255.txt.knowtator.xml
+kidney cell,CL:1000497,kidney cell,CL_basic_2014_02_21_Instance_41285,16121255.txt.knowtator.xml
+kidney ... cell,CL:1000497,kidney cell,CL_basic_2014_02_21_Instance_41279,16121255.txt.knowtator.xml
+eosinophilic,CL:0000771,eosinophil,CL_basic_2014_02_21_Instance_41314,16121256.txt.knowtator.xml
+MC,CL:1001502,mitral cell,CL_basic_2014_02_21_Instance_41412,16216087.txt.knowtator.xml
+GC,CL:0000120,granule cell,CL_basic_2014_02_21_Instance_11459,16216087.txt.knowtator.xml
+mitral cells,CL:1001502,mitral cell,CL_basic_2014_02_21_Instance_41409,16216087.txt.knowtator.xml
+olfactory sensory neurons,CL:0000207,olfactory receptor cell,CL_basic_2014_02_21_Instance_17797,16216087.txt.knowtator.xml
+granule cells,CL:0000120,granule cell,CL_basic_2014_02_21_Instance_17805,16216087.txt.knowtator.xml
+output neurons,CL:0000527,efferent neuron,CL_basic_2014_02_21_Instance_17779,16216087.txt.knowtator.xml
+pyramidal cells,CL:0000598,pyramidal cell,CL_basic_2014_02_21_Instance_17809,16216087.txt.knowtator.xml
+olfactory bulb mitral ... cells,CL:1001502,mitral cell,CL_basic_2014_02_21_Instance_41361,16216087.txt.knowtator.xml
+neurons of forebrain areas,CL:0012001,neuron of the forebrain,CL_basic_2014_02_21_Instance_41374,16216087.txt.knowtator.xml
+forebrain neurons,CL:0012001,neuron of the forebrain,CL_basic_2014_02_21_Instance_41349,16216087.txt.knowtator.xml
+neurons of ... forebrain,CL:0012001,neuron of the forebrain,CL_basic_2014_02_21_Instance_41355,16216087.txt.knowtator.xml
+hippocampal ... neurons,CL:0002608,hippocampal neuron,CL_basic_2014_02_21_Instance_41397,16216087.txt.knowtator.xml
+hippocampal pyramidal neurons,CL:1001571,hippocampal pyramidal neuron,CL_basic_2014_02_21_Instance_41381,16216087.txt.knowtator.xml
+mitral ... cells,CL:1001502,mitral cell,CL_basic_2014_02_21_Instance_41388,16216087.txt.knowtator.xml
+bronchial epithelial cells,CL:0002328,bronchial epithelial cell,CL_basic_2014_02_21_Instance_41439,16255782.txt.knowtator.xml
+epidermal cells,CL:0000362,epidermal cell,CL_basic_2014_02_21_Instance_11815,16255782.txt.knowtator.xml
+B cell,CL:0000236,B cell,CL_basic_2014_02_21_Instance_11817,16255782.txt.knowtator.xml
+microglia,CL:0000129,microglial cell,CL_basic_2014_02_21_Instance_17909,16279840.txt.knowtator.xml
+Glial,CL:0000125,glial cell,CL_basic_2014_02_21_Instance_25101,16279840.txt.knowtator.xml
+activated astrocytes,CL:0002627,mature astrocyte,CL_basic_2014_02_21_Instance_41465,16279840.txt.knowtator.xml
+activated microglia,CL:0002629,mature microglial cell,CL_basic_2014_02_21_Instance_41473,16279840.txt.knowtator.xml
+bone marrow mesenchymal cells,CL:0002540,mesenchymal stem cell of the bone marrow,CL_basic_2014_02_21_Instance_41571,16362077.txt.knowtator.xml
+bone marrow mesenchymal stem cells,CL:0002540,mesenchymal stem cell of the bone marrow,CL_basic_2014_02_21_Instance_41573,16362077.txt.knowtator.xml
+osteoclasts,CL:0000092,osteoclast,CL_basic_2014_02_21_Instance_18003,16362077.txt.knowtator.xml
+bone marrow stromal cells,CL:0010001,stromal cell of bone marrow,CL_basic_2014_02_21_Instance_41567,16362077.txt.knowtator.xml
+bone marrow ... cells,CL:0002092,bone marrow cell,CL_basic_2014_02_21_Instance_41576,16362077.txt.knowtator.xml
+osteoblast,CL:0000062,osteoblast,CL_basic_2014_02_21_Instance_18005,16362077.txt.knowtator.xml
+osteoclast,CL:0000092,osteoclast,CL_basic_2014_02_21_Instance_18007,16362077.txt.knowtator.xml
+primary ... cells,CL:0000001,primary cultured cell,CL_basic_2014_02_21_Instance_41595,16362077.txt.knowtator.xml
+bone marrow mesenchymal stem cell,CL:0002540,mesenchymal stem cell of the bone marrow,CL_basic_2014_02_21_Instance_41607,16362077.txt.knowtator.xml
+Osteoclasts,CL:0000092,osteoclast,CL_basic_2014_02_21_Instance_41624,16362077.txt.knowtator.xml
+Marrow stromal cells,CL:0010001,stromal cell of bone marrow,CL_basic_2014_02_21_Instance_41629,16362077.txt.knowtator.xml
+Osteoblast,CL:0000062,osteoblast,CL_basic_2014_02_21_Instance_18033,16362077.txt.knowtator.xml
+Cultured ... Cells,CL:0000010,cultured cell,CL_basic_2014_02_21_Instance_41620,16362077.txt.knowtator.xml
+Osteoclast,CL:0000092,osteoclast,CL_basic_2014_02_21_Instance_18035,16362077.txt.knowtator.xml
+cells with ... nuclei,CL:0002242,nucleate cell,CL_basic_2014_02_21_Instance_41632,16362077.txt.knowtator.xml
+Embryonic Cell,CL:0002321,embryonic cell,CL_basic_2014_02_21_Instance_41634,16362077.txt.knowtator.xml
+Adipocyte,CL:0000136,fat cell,CL_basic_2014_02_21_Instance_18057,16362077.txt.knowtator.xml
+adipocytes,CL:0000136,fat cell,CL_basic_2014_02_21_Instance_18065,16362077.txt.knowtator.xml
+bone marrow ... cell,CL:0002092,bone marrow cell,CL_basic_2014_02_21_plus_nested_Instance_31141,16362077.txt.knowtator.xml
+Fibroblasts,CL:0000057,fibroblast,CL_basic_2014_02_21_Instance_70157,16362077.txt.knowtator.xml
+stromal cells,CL:0000499,stromal cell,CL_basic_2014_02_21_Instance_18183,16362077.txt.knowtator.xml
+Osteoblasts,CL:0000062,osteoblast,CL_basic_2014_02_21_Instance_18205,16362077.txt.knowtator.xml
+Stromal Cells,CL:0000499,stromal cell,CL_basic_2014_02_21_Instance_18209,16362077.txt.knowtator.xml
+bone marrow mesenchymal cell,CL:0002540,mesenchymal stem cell of the bone marrow,CL_basic_2014_02_21_Instance_41515,16362077.txt.knowtator.xml
+bone cells,CL:0001035,bone cell,CL_basic_2014_02_21_Instance_41505,16362077.txt.knowtator.xml
+bone cell,CL:0001035,bone cell,CL_basic_2014_02_21_Instance_41507,16362077.txt.knowtator.xml
+oligodendrocytes,CL:0000128,oligodendrocyte,CL_basic_2014_02_21_Instance_17973,16362077.txt.knowtator.xml
+F,CL:0000057,fibroblast,CL_basic_2014_02_21_Instance_41544,16362077.txt.knowtator.xml
+Hair cell,CL:0000855,sensory hair cell,CL_basic_2014_02_21_Instance_18341,16410827.txt.knowtator.xml
+Hair Cell,CL:0000855,sensory hair cell,CL_basic_2014_02_21_Instance_18395,16410827.txt.knowtator.xml
+inner phalangeal cells,CL:0005015,inner phalangeal cell,CL_basic_2014_02_21_Instance_41663,16410827.txt.knowtator.xml
+inner phalangeal supporting cells,CL:0005015,inner phalangeal cell,CL_basic_2014_02_21_Instance_41651,16410827.txt.knowtator.xml
+Fibroblast,CL:0000057,fibroblast,CL_basic_2014_02_21_Instance_18265,16410827.txt.knowtator.xml
+SCs,CL:0000630,supportive cell,CL_basic_2014_02_21_Instance_25207,16410827.txt.knowtator.xml
+IHCs,CL:0000589,cochlear inner hair cell,CL_basic_2014_02_21_Instance_25201,16410827.txt.knowtator.xml
+OHCs,CL:0000601,outer hair cell,CL_basic_2014_02_21_Instance_25203,16410827.txt.knowtator.xml
+hair ... cell,CL:0000855,sensory hair cell,CL_basic_2014_02_21_Instance_25213,16410827.txt.knowtator.xml
+Deiter's supporting cells,CL:0000635,Deiter's cell,CL_basic_2014_02_21_Instance_25231,16410827.txt.knowtator.xml
+Hair ... Cell,CL:0000855,sensory hair cell,CL_basic_2014_02_21_Instance_25225,16410827.txt.knowtator.xml
+Supporting Cell,CL:0000630,supportive cell,CL_basic_2014_02_21_Instance_25227,16410827.txt.knowtator.xml
+Deiter's cells,CL:0000635,Deiter's cell,CL_basic_2014_02_21_Instance_25241,16410827.txt.knowtator.xml
+Outer hair cells,CL:0000601,outer hair cell,CL_basic_2014_02_21_Instance_18315,16410827.txt.knowtator.xml
+Dieter's cells,CL:0000635,Deiter's cell,CL_basic_2014_02_21_Instance_25253,16410827.txt.knowtator.xml
+Platelets,CL:0000233,platelet,CL_basic_2014_02_21_Instance_13043,16433929.txt.knowtator.xml
+Sperm,CL:0000019,sperm,CL_basic_2014_02_21_Instance_13085,16433929.txt.knowtator.xml
+embryonic stems cells,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_41680,16433929.txt.knowtator.xml
+early embryonic cells,CL:0000007,early embryonic cell,CL_basic_2014_02_21_Instance_41721,16433929.txt.knowtator.xml
+granular cells,CL:0000120,granule cell,CL_basic_2014_02_21_Instance_26097,16504143.txt.knowtator.xml
+multipotent ... stem cells,CL:0000048,multi fate stem cell,CL_basic_2014_02_21_Instance_11469,16504174.txt.knowtator.xml
+Embryonic stem ... cells,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_41784,16504174.txt.knowtator.xml
+germcells,CL:0000586,germ cell,CL_basic_2014_02_21_Instance_13167,16504174.txt.knowtator.xml
+somatic cells,CL:0002371,somatic cell,CL_basic_2014_02_21_Instance_41810,16504174.txt.knowtator.xml
+germline stem cells,CL:0000014,germ line stem cell,CL_basic_2014_02_21_Instance_13197,16504174.txt.knowtator.xml
+Embryonic stem cell,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_41768,16504174.txt.knowtator.xml
+primary ... cell,CL:0000001,primary cultured cell,CL_basic_2014_02_21_Instance_41898,16504174.txt.knowtator.xml
+gastric epithelial cells,CL:0002178,epithelial cell of stomach,CL_basic_2014_02_21_Instance_41921,16517939.txt.knowtator.xml
+leukocyte,CL:0000738,leukocyte,CL_basic_2014_02_21_Instance_18545,16517939.txt.knowtator.xml
+cultured cell,CL:0000010,cultured cell,CL_basic_2014_02_21_Instance_41925,16517939.txt.knowtator.xml
+male germ cell,CL:0000015,male germ cell,CL_basic_2014_02_21_Instance_18567,16517939.txt.knowtator.xml
+amacrine,CL:0000561,amacrine cell,CL_basic_2014_02_21_Instance_25453,16539743.txt.knowtator.xml
+multipotent ... cells,CL:0000048,multi fate stem cell,CL_basic_2014_02_21_Instance_11471,16539743.txt.knowtator.xml
+retinal progenitor cells,CL:0002672,retinal progenitor cell,CL_basic_2014_02_21_Instance_41936,16539743.txt.knowtator.xml
+neuroblastic,CL:0000031,neuroblast,CL_basic_2014_02_21_Instance_41961,16539743.txt.knowtator.xml
+retinal photoreceptor cells,CL:0010009,camera type eye photoreceptor cell,CL_basic_2014_02_21_plus_nested_Instance_742,16539743.txt.knowtator.xml
+retinal photoreceptors,CL:0010009,camera type eye photoreceptor cell,CL_basic_2014_02_21_plus_nested_Instance_770,16539743.txt.knowtator.xml
+retinal photoreceptor,CL:0010009,camera type eye photoreceptor cell,CL_basic_2014_02_21_plus_nested_Instance_780,16539743.txt.knowtator.xml
+ganglion cells,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_26267,16539743.txt.knowtator.xml
+ganglion cell,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_26265,16539743.txt.knowtator.xml
+Rod photoreceptor,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_25407,16539743.txt.knowtator.xml
+Cone photoreceptors,CL:0000573,retinal cone cell,CL_basic_2014_02_21_Instance_25421,16539743.txt.knowtator.xml
+pinealocytes,CL:0000652,pinealocyte,CL_basic_2014_02_21_Instance_18569,16539743.txt.knowtator.xml
+cone photoreceptor,CL:0000573,retinal cone cell,CL_basic_2014_02_21_Instance_25431,16539743.txt.knowtator.xml
+amacrine cells,CL:0000561,amacrine cell,CL_basic_2014_02_21_Instance_18581,16539743.txt.knowtator.xml
+epithelial cells of ... intestine,CL:0002563,intestinal epithelial cell,CL_basic_2014_02_21_Instance_42015,16611361.txt.knowtator.xml
+epithelial cells ... of ... intestines,CL:0002563,intestinal epithelial cell,CL_basic_2014_02_21_Instance_42047,16611361.txt.knowtator.xml
+epithelial cells of ... small intestine,CL:0002254,epithelial cell of small intestine,CL_basic_2014_02_21_Instance_42039,16611361.txt.knowtator.xml
+epithelial cells of ... intestines,CL:0002563,intestinal epithelial cell,CL_basic_2014_02_21_Instance_42043,16611361.txt.knowtator.xml
+trophoblast giant cell,CL:0002488,trophoblast giant cell,CL_basic_2014_02_21_Instance_42226,16628246.txt.knowtator.xml
+ES Cells,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_42228,16628246.txt.knowtator.xml
+tgc,CL:0002488,trophoblast giant cell,CL_basic_2014_02_21_Instance_42246,16628246.txt.knowtator.xml
+TGCs,CL:0002488,trophoblast giant cell,CL_basic_2014_02_21_Instance_42254,16628246.txt.knowtator.xml
+TGC,CL:0002488,trophoblast giant cell,CL_basic_2014_02_21_Instance_42256,16628246.txt.knowtator.xml
+diploid ... cell,CL:0000415,diploid cell,CL_basic_2014_02_21_Instance_26103,16628246.txt.knowtator.xml
+trophoblast ... cells,CL:0000351,trophoblast cell,CL_basic_2014_02_21_Instance_25515,16628246.txt.knowtator.xml
+trophoblast ... cell,CL:0000351,trophoblast cell,CL_basic_2014_02_21_Instance_25517,16628246.txt.knowtator.xml
+secondary TGCs,CL:0002498,secondary trophoblast giant cell,CL_basic_2014_02_21_Instance_42156,16628246.txt.knowtator.xml
+primary TGCs,CL:0002497,primary trophoblast giant cell,CL_basic_2014_02_21_Instance_42148,16628246.txt.knowtator.xml
+secondary giant cell,CL:0002498,secondary trophoblast giant cell,CL_basic_2014_02_21_Instance_42150,16628246.txt.knowtator.xml
+giant cell,CL:0002488,trophoblast giant cell,CL_basic_2014_02_21_Instance_42172,16628246.txt.knowtator.xml
+pancreatic beta cell,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_19011,16670015.txt.knowtator.xml
+Sertoli cells,CL:0000216,Sertoli cell,CL_basic_2014_02_21_Instance_25847,16700629.txt.knowtator.xml
+Sertoli,CL:0000216,Sertoli cell,CL_basic_2014_02_21_Instance_25841,16700629.txt.knowtator.xml
+Sertoli Cell,CL:0000216,Sertoli cell,CL_basic_2014_02_21_Instance_25851,16700629.txt.knowtator.xml
+vascular endothelial cells,CL:0000071,blood vessel endothelial cell,CL_basic_2014_02_21_Instance_11479,16700629.txt.knowtator.xml
+follicle cells,CL:0000477,follicle cell,CL_basic_2014_02_21_Instance_25857,16700629.txt.knowtator.xml
+chondrocyte,CL:0000138,chondrocyte,CL_basic_2014_02_21_Instance_25861,16700629.txt.knowtator.xml
+endothelial ... cells,CL:0000115,endothelial cell,CL_basic_2014_02_21_Instance_25873,16700629.txt.knowtator.xml
+somatic cell,CL:0002371,somatic cell,CL_basic_2014_02_21_Instance_42285,16700629.txt.knowtator.xml
+in vitro cell,CL:0001034,cell in vitro,CL_basic_2014_02_21_Instance_42277,16700629.txt.knowtator.xml
+Somatic cells,CL:0002371,somatic cell,CL_basic_2014_02_21_Instance_42279,16700629.txt.knowtator.xml
+gametic,CL:0000300,gamete,CL_basic_2014_02_21_Instance_70580,16700629.txt.knowtator.xml
+polygonal cells,CL:0000398,polygonal cell,CL_basic_2014_02_21_Instance_25789,16700629.txt.knowtator.xml
+Blood cells,CL:0000081,blood cell,CL_basic_2014_02_21_Instance_25791,16700629.txt.knowtator.xml
+absorptive ... cells,CL:0000212,absorptive cell,CL_basic_2014_02_21_Instance_25281,16787536.txt.knowtator.xml
+squamous cells,CL:0000076,squamous epithelial cell,CL_basic_2014_02_21_Instance_25893,16787536.txt.knowtator.xml
+epiblast cells,CL:0000352,epiblast cell,CL_basic_2014_02_21_Instance_19039,16787536.txt.knowtator.xml
+Clara cell,CL:0000158,Clara cell,CL_basic_2014_02_21_Instance_19041,16787536.txt.knowtator.xml
+hematopoietic cell,CL:0000988,hematopoietic cell,CL_basic_2014_02_21_Instance_42308,16787536.txt.knowtator.xml
+gamete,CL:0000300,gamete,CL_basic_2014_02_21_Instance_70584,16800892.txt.knowtator.xml
+fibroblastic cell,CL:0000057,fibroblast,CL_basic_2014_02_21_Instance_25901,16870721.txt.knowtator.xml
+cap cells,CL:0000676,cap cell,CL_basic_2014_02_21_Instance_19205,16968134.txt.knowtator.xml
+animal ... cells,CL:0000548,animal cell,CL_basic_2014_02_21_Instance_11497,16968134.txt.knowtator.xml
+osteoprogenitor cells,CL:0007010,preosteoblast,CL_basic_2014_02_21_Instance_60128,16968134.txt.knowtator.xml
+osteoblastic,CL:0000062,osteoblast,CL_basic_2014_02_21_Instance_25939,16968134.txt.knowtator.xml
+keratinizing ... cells,CL:0000311,keratin accumulating cell,CL_basic_2014_02_21_Instance_42624,17002498.txt.knowtator.xml
+TEC,CL:0002293,epithelial cell of thymus,CL_basic_2014_02_21_Instance_42627,17002498.txt.knowtator.xml
+basal cells of ... epidermis,CL:0002187,basal cell of epidermis,CL_basic_2014_02_21_Instance_42635,17002498.txt.knowtator.xml
+cells of ... ORS of hair follicles,CL:0002561,outer root sheath cell,CL_basic_2014_02_21_Instance_42641,17002498.txt.knowtator.xml
+TECs,CL:0002293,epithelial cell of thymus,CL_basic_2014_02_21_Instance_42630,17002498.txt.knowtator.xml
+embryonic ... stem cells,CL:0002322,embryonic stem cell,CL_basic_2014_02_21_Instance_42633,17002498.txt.knowtator.xml
+thymocyte,CL:0000893,thymocyte,CL_basic_2014_02_21_Instance_42644,17002498.txt.knowtator.xml
+medullary TECs,CL:0002365,medullary thymic epithelial cell,CL_basic_2014_02_21_Instance_42647,17002498.txt.knowtator.xml
+medullary ... TECs,CL:0002365,medullary thymic epithelial cell,CL_basic_2014_02_21_Instance_42670,17002498.txt.knowtator.xml
+cells of ... stratified epithelia,CL:0000079,stratified epithelial cell,CL_basic_2014_02_21_Instance_25883,17002498.txt.knowtator.xml
+cortical TECs,CL:0002364,cortical thymic epithelial cell,CL_basic_2014_02_21_Instance_42673,17002498.txt.knowtator.xml
+cortical ... TECs,CL:0002364,cortical thymic epithelial cell,CL_basic_2014_02_21_Instance_42708,17002498.txt.knowtator.xml
+ectodermal ... cells,CL:0000221,ectodermal cell,CL_basic_2014_02_21_Instance_26089,17002498.txt.knowtator.xml
+cells of ... epidermis,CL:0000362,epidermal cell,CL_basic_2014_02_21_Instance_26075,17002498.txt.knowtator.xml
+TECs of cortex,CL:0002364,cortical thymic epithelial cell,CL_basic_2014_02_21_Instance_42761,17002498.txt.knowtator.xml
+thymic epithelial cell,CL:0002293,epithelial cell of thymus,CL_basic_2014_02_21_Instance_42752,17002498.txt.knowtator.xml
+TECs of ... medulla,CL:0002365,medullary thymic epithelial cell,CL_basic_2014_02_21_Instance_42764,17002498.txt.knowtator.xml
+basal cells of epidermis,CL:0002187,basal cell of epidermis,CL_basic_2014_02_21_Instance_42571,17002498.txt.knowtator.xml
+epidermal cell,CL:0000362,epidermal cell,CL_basic_2014_02_21_Instance_19465,17002498.txt.knowtator.xml
+ameloblasts,CL:0000059,ameloblast,CL_basic_2014_02_21_Instance_19489,17002498.txt.knowtator.xml
+thymic epithelial cells,CL:0002293,epithelial cell of thymus,CL_basic_2014_02_21_Instance_42585,17002498.txt.knowtator.xml
+basal ... cells,CL:0000646,basal cell,CL_basic_2014_02_21_Instance_42595,17002498.txt.knowtator.xml
+Cortical ... TEC,CL:0002364,cortical thymic epithelial cell,CL_basic_2014_02_21_Instance_42598,17002498.txt.knowtator.xml
+ORS cells,CL:0002561,outer root sheath cell,CL_basic_2014_02_21_Instance_42592,17002498.txt.knowtator.xml
+medullary TEC,CL:0002365,medullary thymic epithelial cell,CL_basic_2014_02_21_Instance_42601,17002498.txt.knowtator.xml
+enucleating ... cells,CL:0000225,anucleate cell,CL_basic_2014_02_21_Instance_11499,17020410.txt.knowtator.xml
+hair-shaft ... cells,CL:0002559,hair follicle cell,CL_basic_2014_02_21_Instance_42798,17020410.txt.knowtator.xml
+T,CL:0000084,T cell,CL_basic_2014_02_21_Instance_10241,17029558.txt.knowtator.xml
+mature neutrophil,CL:0000096,mature neutrophil,CL_basic_2014_02_21_Instance_19823,17029558.txt.knowtator.xml
+eosinophil leukocytes,CL:0000771,eosinophil,CL_basic_2014_02_21_Instance_19827,17029558.txt.knowtator.xml
+immature neutrophils,CL:0000776,immature neutrophil,CL_basic_2014_02_21_Instance_19821,17029558.txt.knowtator.xml
+granulocytes,CL:0000094,granulocyte,CL_basic_2014_02_21_Instance_19829,17029558.txt.knowtator.xml
+granulocyte,CL:0000094,granulocyte,CL_basic_2014_02_21_Instance_19833,17029558.txt.knowtator.xml
+B,CL:0000646,basal cell,CL_basic_2014_02_21_Instance_11501,17029558.txt.knowtator.xml
+MC,CL:0000057,fibroblast,CL_basic_2014_02_21_Instance_11507,17029558.txt.knowtator.xml
+N,CL:0000775,neutrophil,CL_basic_2014_02_21_Instance_11509,17029558.txt.knowtator.xml
+C,CL:0000138,chondrocyte,CL_basic_2014_02_21_Instance_11503,17029558.txt.knowtator.xml
+O,CL:0000137,osteocyte,CL_basic_2014_02_21_Instance_11511,17029558.txt.knowtator.xml
+neutrophil leucocytes,CL:0000775,neutrophil,CL_basic_2014_02_21_Instance_19731,17029558.txt.knowtator.xml
+neutrophil leukocytes,CL:0000775,neutrophil,CL_basic_2014_02_21_Instance_19723,17029558.txt.knowtator.xml
+neutrophil leukocyte,CL:0000775,neutrophil,CL_basic_2014_02_21_Instance_19737,17029558.txt.knowtator.xml
+mucous cells,CL:0000319,mucus secreting cell,CL_basic_2014_02_21_Instance_19745,17029558.txt.knowtator.xml
+ciliated epithelial cells,CL:0000067,ciliated epithelial cell,CL_basic_2014_02_21_Instance_19741,17029558.txt.knowtator.xml
+basal epithelial cell,CL:0000646,basal cell,CL_basic_2014_02_21_Instance_26127,17029558.txt.knowtator.xml
+basal epithelial cells,CL:0000646,basal cell,CL_basic_2014_02_21_Instance_26123,17029558.txt.knowtator.xml
+ciliated ... cells,CL:0000064,ciliated cell,CL_basic_2014_02_21_Instance_26135,17029558.txt.knowtator.xml
+Granulocytes,CL:0000094,granulocyte,CL_basic_2014_02_21_Instance_19775,17029558.txt.knowtator.xml
+chrondrocyte,CL:0000138,chondrocyte,CL_basic_2014_02_21_Instance_26147,17029558.txt.knowtator.xml
+eosinophil,CL:0000771,eosinophil,CL_basic_2014_02_21_Instance_26139,17029558.txt.knowtator.xml
+immature ... neutrophil,CL:0000776,immature neutrophil,CL_basic_2014_02_21_Instance_26149,17029558.txt.knowtator.xml
+osteocytes,CL:0000137,osteocyte,CL_basic_2014_02_21_Instance_19787,17029558.txt.knowtator.xml
+eosiniphilic,CL:0000771,eosinophil,CL_basic_2014_02_21_Instance_50011,17029558.txt.knowtator.xml
+osteocyte,CL:0000137,osteocyte,CL_basic_2014_02_21_Instance_19799,17029558.txt.knowtator.xml
+inflammatory cells,CL:0009002,inflammatory cell,CL_basic_2014_02_21_Instance_50017,17029558.txt.knowtator.xml
+myeloid cell,CL:0000763,myeloid cell,CL_basic_2014_02_21_Instance_19795,17029558.txt.knowtator.xml
+Neutrophils,CL:0000775,neutrophil,CL_basic_2014_02_21_Instance_19817,17029558.txt.knowtator.xml
+photosensory neurons,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_26197,17069463.txt.knowtator.xml
+cerebral cortex neurons,CL:0010012,cerebral cortex neuron,CL_basic_2014_02_21_Instance_50058,17069463.txt.knowtator.xml
+photosensory ... neurons,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_26195,17069463.txt.knowtator.xml
+GC,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_10253,17069463.txt.knowtator.xml
+Primary cells,CL:0000001,primary cultured cell,CL_basic_2014_02_21_Instance_50144,17069463.txt.knowtator.xml
+photosensory neurons of ... retina,CL:0010009,camera type eye photoreceptor cell,CL_basic_2014_02_21_plus_nested_Instance_550,17069463.txt.knowtator.xml
+receptoral ... neurons,CL:0000006,neuronal receptor cell,CL_basic_2014_02_21_Instance_10257,17069463.txt.knowtator.xml
+rod photoreceptor neuronal,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_26211,17069463.txt.knowtator.xml
+receptoral neurons,CL:0000006,neuronal receptor cell,CL_basic_2014_02_21_Instance_10261,17069463.txt.knowtator.xml
+photosensory ... neurons of ... retina,CL:0010009,camera type eye photoreceptor cell,CL_basic_2014_02_21_plus_nested_Instance_540,17069463.txt.knowtator.xml
+Receptoral ... Neurons,CL:0000006,neuronal receptor cell,CL_basic_2014_02_21_Instance_10259,17069463.txt.knowtator.xml
+photosensory neuron,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_26237,17069463.txt.knowtator.xml
+photoreceptor neurons,CL:0000210,photoreceptor cell,CL_basic_2014_02_21_Instance_26239,17069463.txt.knowtator.xml
+dopaminergic neurons,CL:0000700,dopaminergic neuron,CL_basic_2014_02_21_Instance_19897,17069463.txt.knowtator.xml
+rod photosensory neurons,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_26109,17069463.txt.knowtator.xml
+ganglion cells of ... retina,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_26165,17069463.txt.knowtator.xml
+rod ... photoreceptor,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_26179,17069463.txt.knowtator.xml
+dopaminergic neuronal,CL:0000700,dopaminergic neuron,CL_basic_2014_02_21_Instance_50037,17069463.txt.knowtator.xml
+cone ... photoreceptor,CL:0000573,retinal cone cell,CL_basic_2014_02_21_Instance_26181,17069463.txt.knowtator.xml
+pluripotent ... stem cells,CL:0002248,pluripotent stem cell,CL_basic_2014_02_21_Instance_50175,17078885.txt.knowtator.xml
+pluripotent ... cells,CL:0002248,pluripotent stem cell,CL_basic_2014_02_21_Instance_50364,17083276.txt.knowtator.xml
+Embryonic Cells,CL:0002321,embryonic cell,CL_basic_2014_02_21_Instance_50252,17083276.txt.knowtator.xml
+Pluripotent ... Cells,CL:0002248,pluripotent stem cell,CL_basic_2014_02_21_Instance_50254,17083276.txt.knowtator.xml
+pluripotent cells,CL:0002248,pluripotent stem cell,CL_basic_2014_02_21_Instance_50268,17083276.txt.knowtator.xml
+embryonic cell,CL:0002321,embryonic cell,CL_basic_2014_02_21_Instance_50286,17083276.txt.knowtator.xml
+osteoblast cells,CL:0000062,osteoblast,CL_basic_2014_02_21_Instance_26535,17194222.txt.knowtator.xml
+fibroblastic,CL:0000057,fibroblast,CL_basic_2014_02_21_Instance_26545,17194222.txt.knowtator.xml
+fibroblastic cells,CL:0000057,fibroblast,CL_basic_2014_02_21_Instance_26551,17194222.txt.knowtator.xml
+Osteoprogenitor cells,CL:0007010,preosteoblast,CL_basic_2014_02_21_Instance_50453,17194222.txt.knowtator.xml
+ductal epithelial cells,CL:0000068,duct epithelial cell,CL_basic_2014_02_21_Instance_26621,17201918.txt.knowtator.xml
+Mammary epithelial cell,CL:0002327,mammary epithelial cell,CL_basic_2014_02_21_Instance_50510,17201918.txt.knowtator.xml
+ductal epithelial cell,CL:0000068,duct epithelial cell,CL_basic_2014_02_21_Instance_26631,17201918.txt.knowtator.xml
+stromal cell,CL:0000499,stromal cell,CL_basic_2014_02_21_Instance_11525,17201918.txt.knowtator.xml
+secretory ... cells,CL:0000151,secretory cell,CL_basic_2014_02_21_Instance_26567,17201918.txt.knowtator.xml
+mammary epithelial cells,CL:0002327,mammary epithelial cell,CL_basic_2014_02_21_Instance_50471,17201918.txt.knowtator.xml
+mammary epithelial cell,CL:0002327,mammary epithelial cell,CL_basic_2014_02_21_Instance_50485,17201918.txt.knowtator.xml
+alveolar epithelial cells,CL:0010003,epithelial cell of alveolus of lung,CL_basic_2014_02_21_Instance_50487,17201918.txt.knowtator.xml
+Apoptotic ... cells,CL:0000445,apoptosis fated cell,CL_basic_2014_02_21_Instance_26569,17201918.txt.knowtator.xml
+S,CL:0000499,stromal cell,CL_basic_2014_02_21_Instance_11135,17201918.txt.knowtator.xml
+alveolar epithelial cell,CL:0010003,epithelial cell of alveolus of lung,CL_basic_2014_02_21_Instance_50491,17201918.txt.knowtator.xml
+DEC,CL:0000068,duct epithelial cell,CL_basic_2014_02_21_Instance_11141,17201918.txt.knowtator.xml
+ductal ... epithelial cells,CL:0000068,duct epithelial cell,CL_basic_2014_02_21_Instance_26615,17201918.txt.knowtator.xml
+mammary stem cells,CL:0002451,mammary stem cell,CL_basic_2014_02_21_Instance_50499,17201918.txt.knowtator.xml
+kidney epithelial cells,CL:0002518,kidney epithelial cell,CL_basic_2014_02_21_Instance_50514,17206865.txt.knowtator.xml
+Kidney Cells,CL:1000497,kidney cell,CL_basic_2014_02_21_Instance_50538,17206865.txt.knowtator.xml
+dermal fibroblasts,CL:0002551,fibroblast of dermis,CL_basic_2014_02_21_Instance_50529,17206865.txt.knowtator.xml
+kidney collecting duct epithelial cells,CL:1000454,kidney collecting duct epithelial cell,CL_basic_2014_02_21_Instance_50535,17206865.txt.knowtator.xml
+inner medullary ... cells,CL:1000617,kidney inner medulla cell,CL_basic_2014_02_21_Instance_50543,17206865.txt.knowtator.xml
+collecting duct ... cells,CL:1001225,kidney collecting duct cell,CL_basic_2014_02_21_Instance_50546,17206865.txt.knowtator.xml
+tubule cells,CL:1000507,kidney tubule cell,CL_basic_2014_02_21_Instance_50569,17206865.txt.knowtator.xml
+kidney epithelial cell,CL:0002518,kidney epithelial cell,CL_basic_2014_02_21_Instance_50571,17206865.txt.knowtator.xml
+kidney cortical ... cells,CL:0002681,kidney cortical cell,CL_basic_2014_02_21_Instance_50577,17206865.txt.knowtator.xml
+kidney epithelial cellular,CL:0002518,kidney epithelial cell,CL_basic_2014_02_21_Instance_50575,17206865.txt.knowtator.xml
+Kidney Epithelial Cells,CL:0002518,kidney epithelial cell,CL_basic_2014_02_21_Instance_50583,17206865.txt.knowtator.xml
+kidney cortex epithelial cells,CL:0002584,renal cortical epithelial cell,CL_basic_2014_02_21_Instance_50598,17206865.txt.knowtator.xml
+ciliated cells,CL:0000064,ciliated cell,CL_basic_2014_02_21_Instance_50589,17206865.txt.knowtator.xml
+brown fat adipocytes,CL:0000449,brown fat cell,CL_basic_2014_02_21_Instance_11133,17206865.txt.knowtator.xml
+white ... fat adipocytes,CL:0000448,white fat cell,CL_basic_2014_02_21_Instance_11131,17206865.txt.knowtator.xml
+regulatory T cell,CL:0000815,regulatory T cell,CL_basic_2014_02_21_Instance_11533,17244351.txt.knowtator.xml
+Epithelial cells,CL:0000066,epithelial cell,CL_basic_2014_02_21_Instance_22985,17425782.txt.knowtator.xml
+cells of ... kidney,CL:1000497,kidney cell,CL_basic_2014_02_21_Instance_50607,17425782.txt.knowtator.xml
+Sertoli Cells,CL:0000216,Sertoli cell,CL_basic_2014_02_21_Instance_21001,17447844.txt.knowtator.xml
+Spermatocytes,CL:0000017,spermatocyte,CL_basic_2014_02_21_Instance_21015,17447844.txt.knowtator.xml
+Spermatocyte,CL:0000017,spermatocyte,CL_basic_2014_02_21_Instance_21009,17447844.txt.knowtator.xml
+male ... germ cells,CL:0000015,male germ cell,CL_basic_2014_02_21_Instance_11535,17447844.txt.knowtator.xml
+Gametes,CL:0000300,gamete,CL_basic_2014_02_21_Instance_20587,17447844.txt.knowtator.xml
+zygote,CL:0000365,zygote,CL_basic_2014_02_21_Instance_20589,17447844.txt.knowtator.xml
+gonocytes,CL:0000670,primordial germ cell,CL_basic_2014_02_21_Instance_11537,17447844.txt.knowtator.xml
+gametes,CL:0000300,gamete,CL_basic_2014_02_21_Instance_20585,17447844.txt.knowtator.xml
+ovular,CL:0000025,egg cell,CL_basic_2014_02_21_plus_nested_test_Instance_4,17447844.txt.knowtator.xml
+Leydig cells,CL:0000178,Leydig cell,CL_basic_2014_02_21_Instance_20633,17447844.txt.knowtator.xml
+spermatids,CL:0000018,spermatid,CL_basic_2014_02_21_Instance_20625,17447844.txt.knowtator.xml
+primary spermatocytes,CL:0000656,primary spermatocyte,CL_basic_2014_02_21_Instance_20667,17447844.txt.knowtator.xml
+multinucleate cells,CL:0000228,multinucleate cell,CL_basic_2014_02_21_Instance_20677,17447844.txt.knowtator.xml
+Germ Cell,CL:0000586,germ cell,CL_basic_2014_02_21_Instance_20671,17447844.txt.knowtator.xml
+Germ Cells,CL:0000586,germ cell,CL_basic_2014_02_21_Instance_12601,17447844.txt.knowtator.xml
+multinucleated cells,CL:0000228,multinucleate cell,CL_basic_2014_02_21_Instance_10093,17447844.txt.knowtator.xml
+spermatocyte,CL:0000017,spermatocyte,CL_basic_2014_02_21_Instance_20717,17447844.txt.knowtator.xml
+germ-cell,CL:0000586,germ cell,CL_basic_2014_02_21_Instance_10119,17447844.txt.knowtator.xml
+peritubular myoid cells,CL:0002481,peritubular myoid cell,CL_basic_2014_02_21_Instance_50625,17447844.txt.knowtator.xml
+SC,CL:0000216,Sertoli cell,CL_basic_2014_02_21_Instance_50650,17447844.txt.knowtator.xml
+peritubular myoid cell,CL:0002481,peritubular myoid cell,CL_basic_2014_02_21_Instance_50664,17447844.txt.knowtator.xml
+β-cell,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10135,17465682.txt.knowtator.xml
+β-cells,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10139,17465682.txt.knowtator.xml
+beta cells,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10143,17465682.txt.knowtator.xml
+Beta-Cell,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10149,17465682.txt.knowtator.xml
+pancreatic β-cells,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10163,17465682.txt.knowtator.xml
+α-cells,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10171,17465682.txt.knowtator.xml
+pancreatic β-cell,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10201,17465682.txt.knowtator.xml
+β-Cell,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10225,17465682.txt.knowtator.xml
+WAT adipocytes,CL:0000448,white fat cell,CL_basic_2014_02_21_Instance_50691,17465682.txt.knowtator.xml
+β cell,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10499,17503968.txt.knowtator.xml
+β cells,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10495,17503968.txt.knowtator.xml
+β ... cells,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10515,17503968.txt.knowtator.xml
+α cells,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10269,17503968.txt.knowtator.xml
+α Cells,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10267,17503968.txt.knowtator.xml
+α-cell,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10273,17503968.txt.knowtator.xml
+pancreatic islet α cells,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10847,17503968.txt.knowtator.xml
+α- ... cell,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10271,17503968.txt.knowtator.xml
+α cells of ... pancreatic islets of Langerhans,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10277,17503968.txt.knowtator.xml
+β- ... cell,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10535,17503968.txt.knowtator.xml
+Islet α cells,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10289,17503968.txt.knowtator.xml
+pancreatic δ cells,CL:0000173,pancreatic D cell,CL_basic_2014_02_21_Instance_10557,17503968.txt.knowtator.xml
+α ... cells,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10301,17503968.txt.knowtator.xml
+δ cells,CL:0000173,pancreatic D cell,CL_basic_2014_02_21_Instance_10561,17503968.txt.knowtator.xml
+pancreatic α cells,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10313,17503968.txt.knowtator.xml
+α-Cell,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10315,17503968.txt.knowtator.xml
+α cells of ... islets,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10375,17503968.txt.knowtator.xml
+α cell,CL:0000171,pancreatic A cell,CL_basic_2014_02_21_Instance_10397,17503968.txt.knowtator.xml
+insulin-secreting ... cells,CL:0000168,insulin secreting cell,CL_basic_2014_02_21_Instance_50703,17503968.txt.knowtator.xml
+Islet β cells,CL:0000169,type B pancreatic cell,CL_basic_2014_02_21_Instance_10493,17503968.txt.knowtator.xml
+naïve ... T-cells,CL:0000898,naive T cell,CL_basic_2014_02_21_Instance_50733,17565376.txt.knowtator.xml
+naive ... T-cells,CL:0000898,naive T cell,CL_basic_2014_02_21_Instance_50718,17565376.txt.knowtator.xml
+regulatory ... T-cells,CL:0000815,regulatory T cell,CL_basic_2014_02_21_Instance_10675,17565376.txt.knowtator.xml
+memory T-cells,CL:0000813,memory T cell,CL_basic_2014_02_21_Instance_10677,17565376.txt.knowtator.xml
+B- ... cells,CL:0000236,B cell,CL_basic_2014_02_21_Instance_10691,17565376.txt.knowtator.xml
+T- ... cells,CL:0000084,T cell,CL_basic_2014_02_21_Instance_10689,17565376.txt.knowtator.xml
+B-cells,CL:0000236,B cell,CL_basic_2014_02_21_Instance_10133,17565376.txt.knowtator.xml
+polymorphonuclear neutrophils,CL:0000096,mature neutrophil,CL_basic_2014_02_21_Instance_10701,17565376.txt.knowtator.xml
+Th1,CL:0000545,T-helper 1 cell,CL_basic_2014_02_21_Instance_11059,17565376.txt.knowtator.xml
+M cells,CL:0000682,M cell of gut,CL_basic_2014_02_21_Instance_10703,17565376.txt.knowtator.xml
+M-cell,CL:0000682,M cell of gut,CL_basic_2014_02_21_Instance_10705,17565376.txt.knowtator.xml
+PMN,CL:0000096,mature neutrophil,CL_basic_2014_02_21_Instance_21115,17565376.txt.knowtator.xml
+T helper ... 1,CL:0000545,T-helper 1 cell,CL_basic_2014_02_21_Instance_10599,17565376.txt.knowtator.xml
+M cell,CL:0000682,M cell of gut,CL_basic_2014_02_21_Instance_21117,17565376.txt.knowtator.xml
+memory ... T-cells,CL:0000813,memory T cell,CL_basic_2014_02_21_Instance_10617,17565376.txt.knowtator.xml
+Th2,CL:0000546,T-helper 2 cell,CL_basic_2014_02_21_Instance_10631,17565376.txt.knowtator.xml
+B-cell,CL:0000236,B cell,CL_basic_2014_02_21_Instance_10635,17565376.txt.knowtator.xml
+T -cells,CL:0000084,T cell,CL_basic_2014_02_21_Instance_21171,17565376.txt.knowtator.xml
+antigen presenting cells,CL:0000145,professional antigen presenting cell,CL_basic_2014_02_21_Instance_11129,17565376.txt.knowtator.xml
+Purkinje cells of ... cerebellum,CL:0000121,Purkinje cell,CL_basic_2014_02_21_Instance_21183,17590087.txt.knowtator.xml
+cerebellar Purkinje cells,CL:0000121,Purkinje cell,CL_basic_2014_02_21_Instance_21173,17590087.txt.knowtator.xml
+ganglion ... cells,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_10747,17608565.txt.knowtator.xml
+rod ... cells,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_10761,17608565.txt.knowtator.xml
+amacrine ... cells,CL:0000561,amacrine cell,CL_basic_2014_02_21_Instance_10757,17608565.txt.knowtator.xml
+Ganglion ... Cells,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_10789,17608565.txt.knowtator.xml
+Rod ... Cells,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_10791,17608565.txt.knowtator.xml
+ganglion neurons,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_10783,17608565.txt.knowtator.xml
+Bipolar Cells,CL:0000748,retinal bipolar neuron,CL_basic_2014_02_21_Instance_10793,17608565.txt.knowtator.xml
+retinal bipolar ... cells,CL:0000748,retinal bipolar neuron,CL_basic_2014_02_21_Instance_10821,17608565.txt.knowtator.xml
+RPC,CL:0002672,retinal progenitor cell,CL_basic_2014_02_21_Instance_50756,17608565.txt.knowtator.xml
+retinal ... ganglion ... cells,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_10823,17608565.txt.knowtator.xml
+RPCs,CL:0002672,retinal progenitor cell,CL_basic_2014_02_21_Instance_50760,17608565.txt.knowtator.xml
+retinal progenitor cell,CL:0002672,retinal progenitor cell,CL_basic_2014_02_21_Instance_50752,17608565.txt.knowtator.xml
+retinal ... rod cells,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_10825,17608565.txt.knowtator.xml
+cone bipolar cells,CL:0000752,cone retinal bipolar cell,CL_basic_2014_02_21_Instance_10853,17608565.txt.knowtator.xml
+ON bipolar cells,CL:0000749,ON-bipolar cell,CL_basic_2014_02_21_Instance_10855,17608565.txt.knowtator.xml
+gangion cells,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_10849,17608565.txt.knowtator.xml
+rod ... bipolar cells,CL:0000751,rod bipolar cell,CL_basic_2014_02_21_Instance_10851,17608565.txt.knowtator.xml
+Retinal Cell,CL:0009004,retinal cell,CL_basic_2014_02_21_Instance_60030,17608565.txt.knowtator.xml
+rod ... cell,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_10859,17608565.txt.knowtator.xml
+lens fibres,CL:0011004,lens fiber cell,CL_basic_2014_02_21_Instance_60053,17608565.txt.knowtator.xml
+amacrine ... cell,CL:0000561,amacrine cell,CL_basic_2014_02_21_Instance_10905,17608565.txt.knowtator.xml
+horizontal ... neurons,CL:0000745,horizontal cell,CL_basic_2014_02_21_Instance_10911,17608565.txt.knowtator.xml
+CNS Neurons,CL:0000117,CNS neuron (sensu Vertebrata),CL_basic_2014_02_21_Instance_10925,17608565.txt.knowtator.xml
+cholinergic ... neurons,CL:0000108,cholinergic neuron,CL_basic_2014_02_21_Instance_10939,17608565.txt.knowtator.xml
+amacrine neurons,CL:0000561,amacrine cell,CL_basic_2014_02_21_Instance_21207,17608565.txt.knowtator.xml
+Ganglion ... Cell,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_10961,17608565.txt.knowtator.xml
+Rod ... Cell,CL:0000604,retinal rod cell,CL_basic_2014_02_21_Instance_10963,17608565.txt.knowtator.xml
+rod bipolar ... cells,CL:0000751,rod bipolar cell,CL_basic_2014_02_21_Instance_10969,17608565.txt.knowtator.xml
+amacrine cell,CL:0000561,amacrine cell,CL_basic_2014_02_21_Instance_21335,17608565.txt.knowtator.xml
+bipolar ... cells,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_11069,17608565.txt.knowtator.xml
+bipolar ... neurons,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_11077,17608565.txt.knowtator.xml
+bipolar neurons,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_11083,17608565.txt.knowtator.xml
+bipolars,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_11081,17608565.txt.knowtator.xml
+Bipolar cell,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_11087,17608565.txt.knowtator.xml
+m,CL:0011107,Muller cell,CL_basic_2014_02_21_Instance_70476,17608565.txt.knowtator.xml
+Müller cells,CL:0011107,Muller cell,CL_basic_2014_02_21_Instance_70479,17608565.txt.knowtator.xml
+Müller glia cell,CL:0011107,Muller cell,CL_basic_2014_02_21_Instance_70467,17608565.txt.knowtator.xml
+bipolar,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_11097,17608565.txt.knowtator.xml
+Müller ... cells,CL:0011107,Muller cell,CL_basic_2014_02_21_Instance_70473,17608565.txt.knowtator.xml
+bipolar ... cell,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_11103,17608565.txt.knowtator.xml
+c,CL:0000573,retinal cone cell,CL_basic_2014_02_21_Instance_11117,17608565.txt.knowtator.xml
+Bipolar Cell,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_11113,17608565.txt.knowtator.xml
+a,CL:0000561,amacrine cell,CL_basic_2014_02_21_Instance_11125,17608565.txt.knowtator.xml
+g ... cells,CL:0000740,retinal ganglion cell,CL_basic_2014_02_21_Instance_11127,17608565.txt.knowtator.xml
+b,CL:0000103,bipolar neuron,CL_basic_2014_02_21_Instance_11121,17608565.txt.knowtator.xml
+nerve cell,CL:0000540,neuron,CL_basic_2014_02_21_Instance_21557,17677002.txt.knowtator.xml
+spermatagonial,CL:0000020,spermatogonium,CL_basic_2014_02_21_Instance_10975,17677002.txt.knowtator.xml
+Sg,CL:0000020,spermatogonium,CL_basic_2014_02_21_Instance_60097,17696610.txt.knowtator.xml
+spore,CL:0002369,fungal spore,CL_basic_2014_02_21_Instance_60100,17696610.txt.knowtator.xml
+primordial oocytes,CL:0000654,primary oocyte,CL_basic_2014_02_21_Instance_60104,17696610.txt.knowtator.xml
+spermatocyes,CL:0000017,spermatocyte,CL_basic_2014_02_21_Instance_70120,17696610.txt.knowtator.xml
+Oocytes,CL:0000023,oocyte,CL_basic_2014_02_21_Instance_21793,17696610.txt.knowtator.xml
+Oocyte,CL:0000023,oocyte,CL_basic_2014_02_21_Instance_21833,17696610.txt.knowtator.xml

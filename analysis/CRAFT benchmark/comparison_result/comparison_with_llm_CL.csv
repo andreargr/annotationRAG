@@ -1,0 +1,975 @@
+Label,id_label,GS_ontology_id,LLM_CL_id,match,LLM_CL_label
+neuron,neuron,CL:0000540,CL_0000540,True,
+Neuron,neuron,CL:0000540,CL_0000540,True,
+neurons,neuron,CL:0000540,CL_0000540,True,
+striatal ... neuron,striatum neuron,CL:0002613,CL_0002613,True,
+medium spiny neurons,medium spiny neuron,CL:1001474,CL_1001474,True,
+Striatal neurons,striatum neuron,CL:0002613,CL_1001474,False,medium spiny neuron
+neuronal,neuron,CL:0000540,CL_0000540,True,
+striatal neuron,striatum neuron,CL:0002613,CL_1001474,False,medium spiny neuron
+striatal neurons,striatum neuron,CL:0002613,CL_0002613,True,
+pyramidal ... cell,pyramidal cell,CL:0000598,CL_0000598,True,
+Striatal Neuron,striatum neuron,CL:0002613,CL_4023026,False,direct pathway medium spiny neuron
+striatal neuronal,striatum neuron,CL:0002613,CL_1001474,False,medium spiny neuron
+interneurons,interneuron,CL:0000099,CL_0008031,False,cortical interneuron
+cholinergic neurons,cholinergic neuron,CL:0000108,CL_0000108,True,
+Striatal ... Neuron,striatum neuron,CL:0002613,CL_1001474,False,medium spiny neuron
+Granule cell,granule cell,CL:0000120,CL_0001033,False,hippocampal granule cell
+retinal ganglion cells,retinal ganglion cell,CL:0000740,CL_0000740,True,
+granule cell,granule cell,CL:0000120,CL_0001031,False,cerebellar granule cell
+pyramidal cell,pyramidal cell,CL:0000598,CL_4023111,False,cerebral cortex pyramidal neuron
+striatal ... neurons,striatum neuron,CL:0002613,CL_1001474,False,medium spiny neuron
+Neurons,neuron,CL:0000540,CL_0000540,True,
+retinal ganglion cell,retinal ganglion cell,CL:0000740,CL_0000740,True,
+rod ... photoreceptors,retinal rod cell,CL:0000604,CL_0000210,False,photoreceptor cell
+macrophages,macrophage,CL:0000235,CL_0000235,True,
+cone photoreceptors,retinal cone cell,CL:0000573,CL_0000490,False,photopic photoreceptor cell
+rods,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+cones,retinal cone cell,CL:0000573,CL_0000490,False,photopic photoreceptor cell
+embryonic stem ... cells,embryonic stem cell,CL:0002322,CL_0002322,True,
+ES ... cells,embryonic stem cell,CL:0002322,CL_0002322,True,
+ES cell,embryonic stem cell,CL:0002322,CL_0002322,True,
+ES cells,embryonic stem cell,CL:0002322,CL_0002322,True,
+germ cells,germ cell,CL:0000586,CL_0000586,True,
+germ cell,germ cell,CL:0000586,CL_0000586,True,
+spermatocytes,spermatocyte,CL:0000017,CL_0000017,True,
+somatic ... cells,somatic cell,CL:0002371,-,False,-
+Sertoli cell,Sertoli cell,CL:0000216,CL_0000216,True,
+oocyte,oocyte,CL:0000023,CL_0000023,True,
+spermatogonia,spermatogonium,CL:0000020,CL_0000020,True,
+primordial germ cells,primordial germ cell,CL:0000670,CL_0000670,True,
+male germ cells,male germ cell,CL:0000015,CL_0000015,True,
+sperm,sperm,CL:0000019,CL_0000019,True,
+oligodendrocyte,oligodendrocyte,CL:0000128,CL_0000128,True,
+endoderm cells,endodermal cell,CL:0000223,CL_0000223,True,
+eukaryotic cells,eukaryotic cell,CL:0000255,CL_0000255,True,
+Zygotic,zygote,CL:0000365,CL_0000365,True,
+primary giant cells,primary trophoblast giant cell,CL:0002497,CL_0000647,False,multinucleated giant cell
+ES ... cell,embryonic stem cell,CL:0002322,CL_0002322,True,
+Embryonic stem cells,embryonic stem cell,CL:0002322,CL_0002322,True,
+embryonic stem ... cell,embryonic stem cell,CL:0002322,CL_0002322,True,
+blastomeres,blastoderm cell,CL:0000353,CL_0000007,False,early embryonic cell (metazoa)
+primary fiber cells,primary lens fiber,CL:0002228,CL_0011004,False,lens fiber cell
+lens fiber cells,lens fiber cell,CL:0011004,CL_0011004,True,
+lens epithelial cells,lens epithelial cell,CL:0002224,CL_0002224,True,
+promelocytic,promyelocyte,CL:0000836,CL_0000836,True,
+lens epithelial cell,lens epithelial cell,CL:0002224,CL_0002224,True,
+epithelial cells,epithelial cell,CL:0000066,CL_0000066,True,
+muscle cell,muscle cell,CL:0000187,CL_0000187,True,
+osteoblasts,osteoblast,CL:0000062,CL_0000062,True,
+B lymphocytes,B cell,CL:0000236,CL_0000945,False,lymphocyte of B lineage
+epithelial cell,epithelial cell,CL:0000066,CL_0000066,True,
+macrophage,macrophage,CL:0000235,CL_0000235,True,
+primary lens fibers,primary lens fiber,CL:0002228,CL_0011004,False,lens fiber cell
+outer hair cell,outer hair cell,CL:0000601,CL_0000601,True,
+outer hair cells,outer hair cell,CL:0000601,CL_0000601,True,
+hair cells,sensory hair cell,CL:0000855,CL_0000202,False,auditory hair cell
+hair cell,sensory hair cell,CL:0000855,CL_0000609,False,vestibular hair cell
+inner hair cells,cochlear inner hair cell,CL:0000589,CL_0000589,True,
+embryonic ... cell,embryonic cell,CL:0002321,CL_0002321,True,
+sensory neurons,sensory neuron,CL:0000101,CL_0000101,True,
+OHC,outer hair cell,CL:0000601,CL_0000601,True,
+pillar cells,pillar cell,CL:1000191,CL_0002490,False,organ of Corti supporting cell
+Deiters' cells,Deiter's cell,CL:0000635,CL_0000635,True,
+supporting cells,supportive cell,CL:0000630,CL_0000630,True,
+inner ... hair cells,cochlear inner hair cell,CL:0000589,CL_0000589,True,
+primary neurons,primary neuron,CL:0000530,CL_0000540,False,neuron
+supporting cell,supportive cell,CL:0000630,CL_0000630,True,
+IHC's,cochlear inner hair cell,CL:0000589,CL_0000589,True,
+motoneurons,motor neuron,CL:0000100,CL_0000100,True,
+sensory neuron,sensory neuron,CL:0000101,CL_0000101,True,
+IHC,cochlear inner hair cell,CL:0000589,-,False,-
+inner hair cell,cochlear inner hair cell,CL:0000589,CL_0000589,True,
+spiral ... neurons,spiral ganglion neuron,CL:0011113,CL_0011113,True,
+HaC,sensory hair cell,CL:0000855,CL_0000855,True,
+spiral neurons,spiral ganglion neuron,CL:0011113,CL_0011113,True,
+spiral neuron,spiral ganglion neuron,CL:0011113,CL_0011113,True,
+inner ear hair cell,auditory hair cell,CL:0000202,CL_0000589,False,cochlear inner hair cell
+spiral ganglion cells,spiral ganglion neuron,CL:0011113,CL_0011113,True,
+vestibular hair cell,vestibular hair cell,CL:0000609,CL_0000609,True,
+vestibular ... sensory neurons,vestibular hair cell,CL:0000609,CL_4023112,False,vestibular afferent neuron
+cochlear sensory neurons,auditory hair cell,CL:0000202,CL_0011113,False,spiral ganglion neuron
+red blood cells,erythrocyte,CL:0000232,CL_0000232,True,
+platelets,platelet,CL:0000233,CL_0000233,True,
+red blood cell,erythrocyte,CL:0000232,CL_0000232,True,
+leukocytes,leukocyte,CL:0000738,CL_0000738,True,
+Red blood cells,erythrocyte,CL:0000232,CL_0000232,True,
+erythrocytes,erythrocyte,CL:0000232,CL_0000232,True,
+neutrophiles,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil
+eosinophiles,eosinophil,CL:0000771,CL_0000771,True,
+basophiles,basophil,CL:0000767,CL_0000767,True,
+lymphocytes,lymphocyte,CL:0000542,CL_0000542,True,
+monocytes,monocyte,CL:0000576,CL_0000576,True,
+platelet,platelet,CL:0000233,CL_0000233,True,
+Platelet,platelet,CL:0000233,CL_0000233,True,
+cardiomyocytes,cardiac muscle cell,CL:0000746,CL_0000746,True,
+erythrocyte,erythrocyte,CL:0000232,CL_0000232,True,
+leucocytes,leukocyte,CL:0000738,CL_0000738,True,
+spermatid,spermatid,CL:0000018,CL_0000018,True,
+olfactory neuron,olfactory receptor cell,CL:0000207,CL_0000207,True,
+T-cell,T cell,CL:0000084,CL_0000492,False,CD4-positive helper T cell
+erythroid cells,erythroid lineage cell,CL:0000764,CL_0000232,False,erythrocyte
+olfactory neurons,olfactory receptor cell,CL:0000207,CLO_0000207,False,immortal umbilical vein-derived fibroblast cell line cell
+v,vascular associated smooth muscle cell,CL:0000359,CL_0002288,False,type V taste receptor cell
+v ... cells,vascular associated smooth muscle cell,CL:0000359,-,False,-
+Pericyte,pericyte cell,CL:0000669,CL_0000669,True,
+vascular smooth muscle cells,vascular associated smooth muscle cell,CL:0000359,CL_0000192,False,smooth muscle cell
+support cells,supportive cell,CL:0000630,CL_0000630,True,
+v ... cell,vascular associated smooth muscle cell,CL:0000359,CL_0000000,False,cell
+vascular endothelial cell,blood vessel endothelial cell,CL:0000071,CL_0000115,False,endothelial cell
+V ... Cells,vascular associated smooth muscle cell,CL:0000359,-,False,-
+V ... cell,vascular associated smooth muscle cell,CL:0000359,CL_0000000,False,cell
+V,vascular associated smooth muscle cell,CL:0000359,CL_0002288,False,type V taste receptor cell
+fibroblast,fibroblast,CL:0000057,CL_0000057,True,
+vascular smooth muscle cell,vascular associated smooth muscle cell,CL:0000359,CL_0019018,False,blood vessel smooth muscle cell
+VSMC,vascular associated smooth muscle cell,CL:0000359,CLO_0000192,False,immortal lung-derived fibroblast cell line cell
+V ... Cell,vascular associated smooth muscle cell,CL:0000359,CL_0000000,False,cell
+Vascular Smooth Muscle Cell,vascular associated smooth muscle cell,CL:0000359,CL_0000192,False,smooth muscle cell
+kidney mesangial cells,mesangial cell,CL:0000650,CL_1000742,False,glomerular mesangial cell
+mesenchymal cell,mesenchymal cell,CL:0000134,CL_0008019,False,mesenchymal cell
+smooth muscle cell,smooth muscle cell,CL:0000192,CL_0000192,True,
+fibroblasts,fibroblast,CL:0000057,CL_0000057,True,
+T cell,T cell,CL:0000084,CL_0000542,False,lymphocyte
+endothelial cells,endothelial cell,CL:0000115,CL_0000115,True,
+pericytes,pericyte cell,CL:0000669,CL_0000669,True,
+p,pericyte cell,CL:0000669,-,False,-
+p cells,pericyte cell,CL:0000669,PANTO_0002500,False,-
+retinal ... cells,retinal cell,CL:0009004,CL_0009004,True,
+p cell,pericyte cell,CL:0000669,CL_0000740,False,retinal ganglion cell
+P Cells,pericyte cell,CL:0000669,CL_4023188,False,midget ganglion cell of retina
+P,pericyte cell,CL:0000669,-,False,-
+pericyte,pericyte cell,CL:0000669,CL_0000669,True,
+retinal cells,retinal cell,CL:0009004,CL_0009004,True,
+Pericytes,pericyte cell,CL:0000669,CL_0000669,True,
+P Cell,pericyte cell,CL:0000669,CL_4023188,False,midget ganglion cell of retina
+Vascular Smooth Muscle Cells of ... Coronary Arteries,smooth muscle cell of the coronary artery,CL:0002592,CL_0002592,True,
+perictyes,pericyte cell,CL:0000669,CL_0000669,True,
+ES,embryonic stem cell,CL:0002322,CL_0002322,True,
+trophoblast giant cells,trophoblast giant cell,CL:0002488,CL_0002488,True,
+embryonic ... cells,embryonic cell,CL:0002321,CL_0002321,True,
+giant cells,trophoblast giant cell,CL:0002488,CL_0000647,False,multinucleated giant cell
+embryonic stem cells,embryonic stem cell,CL:0002322,CL_0002322,True,
+smooth muscle cells,smooth muscle cell,CL:0000192,CL_0000192,True,
+blood cells,blood cell,CL:0000081,CL_0000081,True,
+trophoblast cells,trophoblast cell,CL:0000351,CL_0000351,True,
+diploid ... cells,diploid cell,CL:0000415,CL_0000415,True,
+mononuclear cell,mononuclear cell,CL:0000842,CL_2000001,False,peripheral blood mononuclear cell
+prostate epithelial cells,epithelial cell of prostate,CL:0002231,CL_0002231,True,
+hemopoietic stem cells,hematopoietic stem cell,CL:0000037,CL_0000037,True,
+primary cells,primary cultured cell,CL:0000001,CL_0000001,True,
+blood ... cells,blood cell,CL:0000081,CL_0000081,True,
+mononuclear cells,mononuclear cell,CL:0000842,CL_2000001,False,peripheral blood mononuclear cell
+blood ... cell,blood cell,CL:0000081,CL_0000081,True,
+red cells,erythrocyte,CL:0000232,CL_0000232,True,
+primary cell,primary cultured cell,CL:0000001,CL_0000001,True,
+neuronal cells,neuron,CL:0000540,CL_0000540,True,
+cortical astrocytes,astrocyte of the cerebral cortex,CL:0002605,CL_0002605,True,
+Neuronal cell,neuron,CL:0000540,CL_0000540,True,
+Cortical astrocytes,astrocyte of the cerebral cortex,CL:0002605,CL_0002605,True,
+hippocampus neurons,hippocampal neuron,CL:0002608,CL_0002608,True,
+Hippocampal neuron,hippocampal neuron,CL:0002608,CL_0002608,True,
+hippocampal neurons,hippocampal neuron,CL:0002608,CL_0002608,True,
+hair follicle melanocytes,hair follicle melanocyte,CL:0002483,CL_0002483,True,
+pigment cells,pigment cell,CL:0000147,CL_0000148,False,melanocyte
+melanocytes,melanocyte,CL:0000148,CL_0000148,True,
+dermal papillae cells,hair follicle dermal papilla cell,CL:0000346,CL_0000346,True,
+melanoblasts,melanoblast,CL:0000541,CL_0000541,True,
+pigment cell,pigment cell,CL:0000147,CL_0000148,False,melanocyte
+melanocyte,melanocyte,CL:0000148,CL_0000148,True,
+embryonic cells,embryonic cell,CL:0002321,CL_0002321,True,
+hair melanocyte,hair follicle melanocyte,CL:0002483,CL_0002483,True,
+keratinocytes,keratinocyte,CL:0000312,CL_0000312,True,
+melanoblast,melanoblast,CL:0000541,CL_0000541,True,
+mesenchymal cells,mesenchymal cell,CL:0000134,CL_0000134,True,
+hair ... melanocyte,hair follicle melanocyte,CL:0002483,CL_0002483,True,
+pigment-cell,pigment cell,CL:0000147,CL_0000148,False,melanocyte
+dermal papilla cells,hair follicle dermal papilla cell,CL:0000346,CL_0000346,True,
+type I AECs,type I pneumocyte,CL:0002062,CL_0002062,True,
+type II AECs,type II pneumocyte,CL:0002063,CL_0002063,True,
+endothelial cell,endothelial cell,CL:0000115,CL_0000115,True,
+AECs,epithelial cell of alveolus of lung,CL:0010003,CL_0010003,True,
+lung epithelial cell,epithelial cell of lung,CL:0000082,CL_0000082,True,
+type I cells,type I pneumocyte,CL:0002062,CL_0002062,True,
+lung epithelial cells,epithelial cell of lung,CL:0000082,CL_0000082,True,
+type I ... AECs,type I pneumocyte,CL:0002062,CL_0002062,True,
+type I alveolar epithelial cells,type I pneumocyte,CL:0002062,CL_0002062,True,
+type II ... AECs,type II pneumocyte,CL:0002063,CL_0002063,True,
+type II alveolar epithelial cells,type II pneumocyte,CL:0002063,CL_0002063,True,
+t2 ... epithelial cells,type II pneumocyte,CL:0002063,CL_0002063,True,
+t1 ... epithelial cells,type I pneumocyte,CL:0002062,CL_0000066,False,epithelial cell
+cultured ... cells,cultured cell,CL:0000010,CL_0000010,True,
+cuboidal ... type II AECs,type II pneumocyte,CL:0002063,CL_0002063,True,
+lung type I AECs,type I pneumocyte,CL:0002062,CL_0010003,False,obsolete epithelial cell of alveolus of lung
+type I AEC,type I pneumocyte,CL:0002062,CL_0002062,True,
+type I,type I pneumocyte,CL:0002062,CL_0002062,True,pulmonary alveolar type 1 cell
+type I cell,type I pneumocyte,CL:0002062,CL_0002062,True,
+mesenchyme cells,mesenchymal cell,CL:0000134,CL_0008019,False,mesenchymal cell
+type II ... epithelial cells,type II pneumocyte,CL:0002063,CL_0002063,True,
+type I ... epithelial cells,type I pneumocyte,CL:0002062,CL_0002062,True,
+epithelial ... cells,epithelial cell,CL:0000066,CL_0000066,True,
+zygotic,zygote,CL:0000365,CL_0000365,True,
+oocytes,oocyte,CL:0000023,CL_0000023,True,
+eggs,egg cell,CL:0000025,CL_0000023,False,oocyte
+egg,egg cell,CL:0000025,CL_0000023,False,oocyte
+gallbladder epithelial cells,epithelial cell of gall bladder,CL:1000415,CL_1000415,True,
+renal epithelial cells,kidney epithelial cell,CL:0002518,CL_0002584,False,renal cortical epithelial cell
+enterocytes,enterocyte,CL:0000584,CL_1000339,False,enterocyte of epithelium proper of small intestine
+mitral cells of ... olfactory bulb,mitral cell,CL:1001502,CL_1001502,True,
+dopamine cells,dopaminergic neuron,CL:0000700,CL_0000700,True,
+dopaminergic cells,dopaminergic neuron,CL:0000700,CL_0000700,True,
+dopaminergic cell,dopaminergic neuron,CL:0000700,CL_0000700,True,
+Kidney ... cells,kidney cell,CL:1000497,CL_0002518,False,kidney epithelial cell
+myoblast,myoblast,CL:0000056,CL_0000515,False,skeletal muscle myoblast
+slow fibres,slow muscle cell,CL:0000189,CL_0002211,False,type I muscle cell
+myoblasts,myoblast,CL:0000056,CL_0000515,False,skeletal muscle myoblast
+slow fibre,slow muscle cell,CL:0000189,CL_0002211,False,type I muscle cell
+Myoblast,myoblast,CL:0000056,CL_0000515,False,skeletal muscle myoblast
+myocytes,muscle cell,CL:0000187,CL_0000187,True,
+slow muscle fibres,slow muscle cell,CL:0000189,CL_0002211,False,type I muscle cell
+Slow fibres,slow muscle cell,CL:0000189,CL_0008002,False,skeletal muscle fiber
+myoblast cell,myoblast,CL:0000056,CL_0000515,False,skeletal muscle myoblast
+fast fibres,fast muscle cell,CL:0000190,CL_0002212,False,type II muscle cell
+slow ... fibres,slow muscle cell,CL:0000189,CL_0008002,False,skeletal muscle fiber
+muscle fibre,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber
+muscle fibres,muscle cell,CL:0000187,CLO_0000187,False,immortal animal ovary-derived fibroblast cell line cell
+muscle cells,muscle cell,CL:0000187,CL_0000187,True,
+myocyte,muscle cell,CL:0000187,CL_0000187,True,
+myoblasts,muscle cell,CL:0000187,CL_0000515,False,skeletal muscle myoblast
+blastomeric cells,blastoderm cell,CL:0000353,CL_0000353,True,
+slow myoblast,slow muscle myoblast,CL:0000857,CL_0000857,True,
+myotubes,myotube,CL:0002372,CL_0008003,False,somatic muscle myotube
+adaxial ... cells,adaxial cell,CL:0007016,CL_0007016,True,
+cells in culture,cultured cell,CL:0000010,CL_0000010,True,
+myotube,myotube,CL:0002372,CL_0008003,False,somatic muscle myotube
+slow ... muscle fibres,slow muscle cell,CL:0000189,CL_0002211,False,type I muscle cell
+slow muscle fibre,slow muscle cell,CL:0000189,CL_0002211,False,type I muscle cell
+fast muscle fibres,fast muscle cell,CL:0000190,CL_0002212,False,type II muscle cell
+muscle ... cells,muscle cell,CL:0000187,CL_0000187,True,
+fast ... fibres,fast muscle cell,CL:0000190,CL_0002212,False,type II muscle cell
+hematopoietic cells,hematopoietic cell,CL:0000988,CL_0000988,True,
+hematopoietic progenitor cells,hematopoietic precursor cell,CL:0008001,CL_0000837,False,hematopoietic multipotent progenitor cell
+erythroid,erythroid lineage cell,CL:0000764,CL_0000038,False,erythroid progenitor cell
+cells in circulation,circulating cell,CL:0000080,CL_0000081,False,blood cell
+circulating cells,circulating cell,CL:0000080,CL_0000080,True,
+circulating ... cells,circulating cell,CL:0000080,CL_0000080,True,
+Cells in Circulation,circulating cell,CL:0000080,CL_0000738,False,leukocyte
+RBCs,erythrocyte,CL:0000232,CL_0000232,True,
+stem cell,stem cell,CL:0000034,CL_0000034,True,
+mesodermal cells,mesodermal cell,CL:0000222,CL_0000222,True,
+proerythroblasts,proerythroblast,CL:0000547,CL_0000547,True,
+T-cells,T cell,CL:0000084,CL_0000542,False,lymphocyte
+hematopoietic stem cell,hematopoietic stem cell,CL:0000037,CL_0000037,True,
+Erythroid Cells,erythroid lineage cell,CL:0000764,CL_0000764,True,
+white blood cells,leukocyte,CL:0000738,CL_0000738,True,
+fibroblast cell,fibroblast,CL:0000057,CL_0000057,True,
+stem cells,stem cell,CL:0000034,CL_0000034,True,
+hematopoietic stem cells,hematopoietic stem cell,CL:0000037,CL_0000037,True,
+Erythroid progenitor cells,erythroid progenitor cell,CL:0000038,CL_0000038,True,
+myeloid cells,myeloid cell,CL:0000763,CL_0000763,True,
+proerythroblast,proerythroblast,CL:0000547,CL_0000547,True,
+erythroid progenitor cells,erythroid progenitor cell,CL:0000038,CL_0000038,True,
+promyelocytic,promyelocyte,CL:0000836,CL_0000836,True,
+reticulocyte,reticulocyte,CL:0000558,CL_0000558,True,
+blood cell,blood cell,CL:0000081,CL_0000081,True,
+Erythrocytes,erythrocyte,CL:0000232,CL_0000232,True,
+erythroid cell,erythroid lineage cell,CL:0000764,CL_0000232,False,erythrocyte
+red ... blood cells,erythrocyte,CL:0000232,CL_0000232,True,
+stem ... cells,stem cell,CL:0000034,CL_0000034,True,
+myeloid,myeloid cell,CL:0000763,CL_0000763,True,
+Erythroid,erythroid lineage cell,CL:0000764,CL_0000764,True,
+apoptotic cells,apoptosis fated cell,CL:0000445,CL_0000445,True,
+BC,basal cell,CL:0000646,CL_0000945,False,lymphocyte of B lineage
+strial marginal cells,strial marginal cell,CL:0002492,CL_0002492,True,
+intermediate cells,strial intermediate cell,CL:0002486,CL_0002486,True,
+Intermediate cells,strial intermediate cell,CL:0002486,CL_0002209,False,intermediate epitheliocyte
+Marginal cells,strial marginal cell,CL:0002492,CL_0002492,True,
+type I ... fibrocytes,type 1 otic fibrocyte,CL:0002670,CL_0000135,False,circulating fibrocyte
+type ... II fibrocytes,type 2 otic fibrocyte,CL:0002666,CL_0000135,False,circulating fibrocyte
+marginal cells,strial marginal cell,CL:0002492,CL_0002492,True,
+marginal ... cell,strial marginal cell,CL:0002492,CL_0000845,False,marginal zone B cell of spleen
+marginal cell,strial marginal cell,CL:0002492,CL_0002491,False,auditory epithelial cell
+SMC,strial marginal cell,CL:0002492,CL_0000192,False,smooth muscle cell
+basal cell,basal cell,CL:0000646,CL_0002187,False,basal cell of epidermis
+strial intermediate cells,strial intermediate cell,CL:0002486,CL_0002486,True,
+basal cells,basal cell,CL:0000646,CL_0000646,True,
+vestibular hair cells,vestibular hair cell,CL:0000609,CL_0000609,True,
+vestibular dark cells,vestibular dark cell,CL:0000846,CL_0000846,True,
+sensory hair cells,sensory hair cell,CL:0000855,CL_0000855,True,
+VHC,vestibular hair cell,CL:0000609,-,False,-
+VDC,vestibular dark cell,CL:0000846,-,False,-
+stria marginal cells,strial marginal cell,CL:0002492,CL_0002492,True,
+thyroid gland epithelial cells,epithelial cell of thyroid gland,CL:0002257,CL_0002258,False,thyroid follicular cell
+Muscle fiber,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber
+type I fibers,type I muscle cell,CL:0002211,CL_0002211,True,
+type IIa,type IIa muscle cell,CL:0002214,CL_0002214,True,
+type I,type I muscle cell,CL:0002211,CL_0002062,False,pulmonary alveolar type 1 cell
+Muscle Fiber,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber
+muscle fiber,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber
+type I muscle fibers,type I muscle cell,CL:0002211,CL_0008002,False,skeletal muscle fiber
+type II,type II muscle cell,CL:0002212,CL_0002063,False,pulmonary alveolar type 2 cell
+muscle fibers,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber
+type I fiber,type I muscle cell,CL:0002211,CL_0002211,True,
+type I ... fibers,type I muscle cell,CL:0002211,CL_0002211,True,
+type ... II fibers,type II muscle cell,CL:0002212,CL_0002212,True,
+Type I,type I muscle cell,CL:0002211,CL_0002062,False,pulmonary alveolar type 1 cell
+slow ... fibers,slow muscle cell,CL:0000189,CLO_0008002,False,NCI-H1573 cell
+glycolytic ... fibers,fast muscle cell,CL:0000190,CL_0008002,False,skeletal muscle fiber
+oxidative ... fibers,red muscle cell,CL:0002210,CL_0002211,False,type I muscle cell
+oxidative fibers,red muscle cell,CL:0002210,CL_0008002,False,skeletal muscle fiber
+oxidative muscle fibers,red muscle cell,CL:0002210,CL_0002211,False,type I muscle cell
+fast ... fibers,fast muscle cell,CL:0000190,CL_0000190,True,
+slow fiber,slow muscle cell,CL:0000189,CL_0008002,False,skeletal muscle fiber
+type II fiber,type II muscle cell,CL:0002212,CL_0002212,True,
+motor neuron,motor neuron,CL:0000100,CL_0008039,False,lower motor neuron
+zygotes,zygote,CL:0000365,CL_0000365,True,
+motoneuron,motor neuron,CL:0000100,CL_0000100,True,
+type I muscle fiber,type I muscle cell,CL:0002211,CL_0002211,True,
+adipocyte,fat cell,CL:0000136,CL_0000136,True,
+Skeletal muscle fibers,skeletal muscle fiber,CL:0008002,CL_0008002,True,
+type II ... fibers,type II muscle cell,CL:0002212,CL_0008002,False,skeletal muscle fiber
+Type II fibers,type II muscle cell,CL:0002212,CL_0002212,True,
+Type I fibers,type I muscle cell,CL:0002211,CL_0002211,True,
+Oxidative Type I Fibers,type I muscle cell,CL:0002211,CL_0002211,True,
+Type IIb fibers,type IIb muscle cell,CL:0002215,CL_0002215,True,
+IIa,type IIa muscle cell,CL:0002214,CL_0002214,True,
+Type I Fibers,type I muscle cell,CL:0002211,CL_0002211,True,
+IIb,type IIb muscle cell,CL:0002215,CL_0002215,True,
+type IIb,type IIb muscle cell,CL:0002215,CL_0002215,True,
+type ... IIb,type IIb muscle cell,CL:0002215,CL_0008002,False,skeletal muscle fiber
+glycolytic fibers,fast muscle cell,CL:0000190,CL_0002215,False,type IIb muscle cell
+muscle ... fibers,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber
+fast-twitch glycolytic fibers,fast muscle cell,CL:0000190,CL_0002215,False,type IIb muscle cell
+cardiac myocyte,cardiac muscle cell,CL:0000746,CL_0000746,True,
+Muscle Fibers,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber
+type IIA fibers,type IIa muscle cell,CL:0002214,CL_0002214,True,
+apoptotic cell,apoptosis fated cell,CL:0000445,CL_0000445,True,
+Apoptotic cells,apoptosis fated cell,CL:0000445,CL_0000445,True,
+epithelial cells with cilia,ciliated epithelial cell,CL:0000067,CL_0000067,True,
+primary lens fiber cells,primary lens fiber,CL:0002228,CL_0002228,True,
+monocyte,monocyte,CL:0000576,CL_0000576,True,
+photoreceptor cells,photoreceptor cell,CL:0000210,CL_0000210,True,
+peritoneal macrophages,peritoneal macrophage,CL:0000581,CL_0000581,True,
+Macrophage,macrophage,CL:0000235,CL_0000235,True,
+pigmented cells,pigment cell,CL:0000147,CL_0000148,False,melanocyte
+apoptotic ... cells,apoptosis fated cell,CL:0000445,CL_0000445,True,
+mesenchymal ... cells,mesenchymal cell,CL:0000134,CL_0000134,True,
+megakaryocytes,megakaryocyte,CL:0000556,CL_0000556,True,
+Macrophages,macrophage,CL:0000235,CL_0000235,True,
+retinal cell,retinal cell,CL:0009004,CL_0009004,True,
+thymocytes,thymocyte,CL:0000893,CL_0000893,True,
+ES-cell,embryonic stem cell,CL:0002322,CL_0002322,True,
+elicited ... macrophages,elicited macrophage,CL:0000861,CL_0000861,True,
+elicited macrophages,elicited macrophage,CL:0000861,CL_0000861,True,
+M,macrophage,CL:0000235,CL_0000235,True,
+lens cells,vertebrate lens cell,CL:0002222,CL_0002224,False,lens epithelial cell
+neural ... cells,neural cell,CL:0002319,CL_0002319,True,
+phagocytes,phagocyte,CL:0000234,CL_0000234,True,
+neutrophils,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil
+early erythroblast,basophilic erythroblast,CL:0000549,CL_0000765,False,erythroblast
+pigmented epithelial cells,pigmented epithelial cell,CL:0000529,CL_0002586,False,retinal pigment epithelial cell
+condensing ... mesenchymal cells,mesenchyme condensation cell,CL:0000335,CL_0000335,True,
+hypertrophic chondrocytes,hypertrophic chondrocyte,CL:0000743,CL_0000743,True,
+mononuclear cells,single nucleate cell,CL:0000226,CL_2000001,False,peripheral blood mononuclear cell
+articular cartilage cells,articular chondrocyte,CL:1001607,CL_1001607,True,
+chondrocytes,chondrocyte,CL:0000138,CL_0000138,True,
+cartilage cells,chondrocyte,CL:0000138,CL_0000138,True,
+synoviocytes,synovial cell,CL:0000214,CL_0000214,True,
+culture cells,cultured cell,CL:0000010,CL_0000010,True,
+synovial cells,synovial cell,CL:0000214,CL_0002301,False,type B synovial cell
+motor neurons,motor neuron,CL:0000100,CL_0000100,True,
+Motor Neurons,motor neuron,CL:0000100,CL_0000100,True,
+proprioceptive neuron,sensory neuron of dorsal root ganglion,CL:1001451,CL_0000526,False,afferent neuron
+proprioceptive neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_0000101,False,sensory neuron
+glia,glial cell,CL:0000125,CL_0000125,True,
+Motor Neuron,motor neuron,CL:0000100,CL_0008039,False,lower motor neuron
+DRG proprioceptive neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,
+type II pneumocytes,type II pneumocyte,CL:0002063,CL_0002063,True,
+CNS neurons,CNS neuron (sensu Vertebrata),CL:0000117,CL_2000029,False,central nervous system neuron
+granule neurons,granule cell,CL:0000120,CL_0001032,False,cortical granule cell
+neuronal cell,neuron,CL:0000540,CL_0000540,True,
+granule neuron,granule cell,CL:0000120,CL_0000120,True,
+Neuronal,neuron,CL:0000540,CL_0000540,True,
+cerebellar neuronal,cerebellar neuron,CL:1001611,CL_1001611,True,
+Primary cell,primary cultured cell,CL:0000001,CL_0000001,True,
+Purkinje neuron,Purkinje cell,CL:0000121,CL_0000617,False,GABAergic neuron
+cerebellar granule neuron,cerebellar granule cell,CL:0001031,CL_0001031,True,
+mesoderm ... cells,mesodermal cell,CL:0000222,CL_0000222,True,
+cells of ... mesoderm,mesodermal cell,CL:0000222,CL_0000222,True,
+cells of ... ectoderm,ectodermal cell,CL:0000221,CL_0000221,True,
+nucleated cells,nucleate cell,CL:0002242,CL_0000255,False,eukaryotic cell
+endoderm ... cells,endodermal cell,CL:0000223,CL_0000223,True,
+embryonic stem cell,embryonic stem cell,CL:0002322,CL_0002322,True,
+cells of ... trophectoderm,trophectodermal cell,CL:1000274,CL_1000274,True,
+Cells of ... endoderm,endodermal cell,CL:0000223,CL_0000223,True,
+cells of ... endoderm,endodermal cell,CL:0000223,CL_0000223,True,
+Cells of ... trophectoderm,trophectodermal cell,CL:1000274,CL_0000351,False,trophoblast cell
+Cells of ... epiblast,epiblast cell,CL:0000352,CL_0000352,True,
+keratinocyte,keratinocyte,CL:0000312,CL_0000312,True,
+hepatocytes,hepatocyte,CL:0000182,CL_0000182,True,
+spinous layer cells,prickle cell,CL:0000649,CL_0000649,True,
+spinous ... layer cells,prickle cell,CL:0000649,CL_0000312,False,keratinocyte
+hair cell,hair follicle cell,CL:0002559,CL_0000609,False,vestibular hair cell
+basal epidermal cells,basal cell of epidermis,CL:0002187,CL_0002187,True,
+epithelial ... cell,epithelial cell,CL:0000066,CL_0000066,True,
+motile ... cells,motile cell,CL:0000219,CL_0000219,True,
+granular layer cells,stratum granulosum cell,CL:0000712,CL_0001031,False,cerebellar granule cell
+Keratinocytes,keratinocyte,CL:0000312,CL_0000312,True,
+ectodermal cells,ectodermal cell,CL:0000221,CL_0000221,True,
+Müller cells,Mueller cell,CL:0000636,CL_0000125,False,glial cell
+cone,retinal cone cell,CL:0000573,CL_0000490,False,photopic photoreceptor cell
+photoreceptor,photoreceptor cell,CL:0000210,CL_0000210,True,
+Rod,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+bipolar cell,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron
+rod,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+photoreceptors,photoreceptor cell,CL:0000210,CL_0000210,True,photoreceptor cell
+r,retinal rod cell,CL:0000604,-,False,-
+Photoreceptors,photoreceptor cell,CL:0000210,CL_0000604,False,retinal rod cell
+h,horizontal cell,CL:0000745,CL_0002674,False,H minus
+rod photoreceptors,retinal rod cell,CL:0000604,CL_0000210,False,photoreceptor cell
+Photoreceptor cells,photoreceptor cell,CL:0000210,CL_0000210,True,
+Photoreceptor,photoreceptor cell,CL:0000210,CL_0000210,True,
+horizontal cells,horizontal cell,CL:0000745,CL_0000745,True,
+bipolar cells,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron
+horizontal cell,horizontal cell,CL:0000745,CL_0000745,True,
+rod bipolar cells,rod bipolar cell,CL:0000751,CL_0000751,True,
+photoreceptors R1,R1 photoreceptor cell,CL:0000687,CL_0000687,True,
+photoreceptors ... R6,R6 photoreceptor cell,CL:0000705,CL_0000705,True,
+R1 ... photoreceptors,R1 photoreceptor cell,CL:0000687,CL_0000210,False,photoreceptor cell
+R6 photoreceptors,R6 photoreceptor cell,CL:0000705,CL_0000705,True,
+off ... bipolar cells,OFF-bipolar cell,CL:0000750,CL_0000750,True,
+H,horizontal cell,CL:0000745,CL_0007017,False,Stiftchenzellen
+on ... bipolar cells,ON-bipolar cell,CL:0000749,CL_0000748,False,retinal bipolar neuron
+B,bipolar neuron,CL:0000103,CL_0000236,False,B cell
+Cone,retinal cone cell,CL:0000573,CL_0000210,False,photoreceptor cell
+horizontal ... cells,horizontal cell,CL:0000745,CL_0004217,False,H1 horizontal cell
+horizontal ... cell,horizontal cell,CL:0000745,CL_0000745,True,
+hepatocyte,hepatocyte,CL:0000182,CL_0000182,True,
+granule cell neurons,granule cell,CL:0000120,CL_0001033,False,hippocampal granule cell
+astrocytes,astrocyte,CL:0000127,CL_0000127,True,
+pyramidal neurons,pyramidal cell,CL:0000598,CL_4023111,False,cerebral cortex pyramidal neuron
+slow-twitch ... muscle fibers,slow muscle cell,CL:0000189,CL_0008002,False,skeletal muscle fiber
+microglial,microglial cell,CL:0000129,CL_0000129,True,
+type I ... muscle fibers,type I muscle cell,CL:0002211,CL_0002211,True,
+cerebral cortical neuronal,cerebral cortex neuron,CL:0010012,CL_0010012,True,
+oxidative ... muscle fibers,red muscle cell,CL:0002210,CL_0008002,False,skeletal muscle fiber
+Purkinje ... cell neurons,Purkinje cell,CL:0000121,CL_0000121,True,
+cortical neurons,cerebral cortex neuron,CL:0010012,CL_0010012,True,
+neurons of ... cerebral cortex,cerebral cortex neuron,CL:0010012,CL_0010012,True,
+ESC,embryonic stem cell,CL:0002322,CL_0002322,True,
+ES Cell,embryonic stem cell,CL:0002322,CL_0002322,True,
+neonatal cardiac myocytes,fetal cardiomyocyte,CL:0002495,CL_0000746,False,cardiac muscle cell
+glial,glial cell,CL:0000125,CL_0000125,True,
+cardiac myocytes,cardiac muscle cell,CL:0000746,CL_0000746,True,
+astrocytic,astrocyte,CL:0000127,CL_0000127,True,
+Hepatocytes,hepatocyte,CL:0000182,CL_0000182,True,
+lymphocytic,lymphocyte,CL:0000542,CL_0000542,True,
+phagocytic cells,phagocyte,CL:0000234,CL_0000863,False,M1 macrophage
+EB,erythroblast,CL:0000765,CL_0002322,False,embryonic stem cell
+erythroblast,erythroblast,CL:0000765,CL_0000765,True,
+ES-cells,embryonic stem cell,CL:0002322,CL_0002322,True,
+RBC,erythrocyte,CL:0000232,CL_0000232,True,
+erythroblasts,erythroblast,CL:0000765,CL_0000765,True,
+immune cell,leukocyte,CL:0000738,CL_0000738,True,
+podocyte,glomerular visceral epithelial cell,CL:0000653,CL_0000653,True,
+basophilic,basophil,CL:0000767,CL_0000767,True,
+cells of ... early embryo,early embryonic cell,CL:0000007,CL_0000007,True,
+sinusoidal endothelial cells,endothelial cell of sinusoid,CL:0002262,CL_1000398,False,endothelial cell of hepatic sinusoid
+podocytes,glomerular visceral epithelial cell,CL:0000653,CL_0000653,True,
+Pyramidal neurons,pyramidal cell,CL:0000598,CL_4023111,False,cerebral cortex pyramidal neuron
+radial glial cells,radial glial cell,CL:0000681,CL_0000681,True,
+glial cell,glial cell,CL:0000125,CL_0000125,True,
+Astrocytes,astrocyte,CL:0000127,CL_0000127,True,
+astroglial ... cell,astrocyte,CL:0000127,CL_0000127,True,
+adrenal chromaffin cells,chromaffin cell of adrenal gland,CL:1000426,CL_0000336,False,adrenal medulla chromaffin cell
+cultured cells,cultured cell,CL:0000010,CL_0000010,True,
+foreskin fibroblasts,foreskin fibroblast,CL:1001608,CL_0002551,False,fibroblast of dermis
+Cultured cells,cultured cell,CL:0000010,CL_0000010,True,
+Neuronal cells,neuron,CL:0000540,CL_0000540,True,
+astroglial,astrocyte,CL:0000127,CL_0000127,True,
+Purkinje-cells,Purkinje cell,CL:0000121,CL_0000121,True,
+astrocytic cell,astrocyte,CL:0000127,CL_0000127,True,
+Purkinje-cell,Purkinje cell,CL:0000121,CL_0000121,True,
+Endodermal ... cells,endodermal cell,CL:0000223,CL_0000223,True,
+cerebellar Purkinje-cells,Purkinje cell,CL:0000121,CL_0000617,False,GABAergic neuron
+astrocyte,astrocyte,CL:0000127,CL_0000127,True,
+Purkinje-cells of ... cerebellum,Purkinje cell,CL:0000121,CL_0000617,False,GABAergic neuron
+glial cells,glial cell,CL:0000125,CL_0000125,True,
+neuronal ... cell,neuron,CL:0000540,CL_0000540,True,
+pyramidal neuron,pyramidal cell,CL:0000598,CL_4023111,False,cerebral cortex pyramidal neuron
+neuronal ... cells,neuron,CL:0000540,CL_0000540,True,
+astroglial cell,astrocyte,CL:0000127,CL_0000127,True,
+cells of ... stratum granulosum,stratum granulosum cell,CL:0000712,CL_0000312,False,keratinocyte
+astroglial cells,astrocyte,CL:0000127,CL_0000127,True,
+Purkinje cells,Purkinje cell,CL:0000121,CL_0000617,False,GABAergic neuron
+peptidergic neurons,peptidergic neuron,CL:0000110,CL_0000110,True,
+afferent sensory neurons,sensory neuron,CL:0000101,CL_1001451,False,sensory neuron of dorsal root ganglion
+dorsal root ganglion ... sensory ... neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,
+DRG sensory neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,
+sensory neurons of dorsal root ganglia,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,
+spinal motor neurons,spinal cord motor neuron,CL:0011001,CL_0008038,False,alpha motor neuron
+proprioceptive sensory neuron,sensory neuron of dorsal root ganglion,CL:1001451,CL_0000526,False,afferent neuron
+proprioceptive sensory neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_0000531,False,primary sensory neuron (sensu Teleostei)
+nociceptive ... neurons,pain receptor cell,CL:0000198,CL_0000198,True,
+proprioceptive DRG neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,
+proprioceptive afferent cell,sensory neuron of dorsal root ganglion,CL:1001451,CL_0000526,False,afferent neuron
+neuroblasts,neuroblast,CL:0000031,CL_0011020,False,neural progenitor cell
+DRG ... sensory ... neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,
+neuroblast,neuroblast,CL:0000031,CL_0000031,True,
+sensory neurons of ... DRG,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,
+cerebellar granule cell,cerebellar granule cell,CL:0001031,CL_0001031,True,
+Schwann cells,Schwann cell,CL:0002573,CL_0002573,True,
+Hippocampal neurons,hippocampal neuron,CL:0002608,CL_0002608,True,
+Schwann cell,Schwann cell,CL:0002573,CL_0002573,True,
+myelinating Schwann cells,myelinating Schwann cell,CL:0000218,CL_0000218,True,
+cerebellar granule cells,cerebellar granule cell,CL:0001031,CL_0001031,True,
+spermatozoa,sperm,CL:0000019,CLO_0000019,False,immortal cell line cell
+Schwann-cell,Schwann cell,CL:0002573,CL_0002573,True,
+cultured primary ... cells,primary cultured cell,CL:0000001,CL_0000001,True,
+Purkinje cell,Purkinje cell,CL:0000121,CL_0000121,True,
+Primary ... cell,primary cultured cell,CL:0000001,CL_0000001,True,
+pro-myelinating Schwann cells,myelinating Schwann cell,CL:0000218,CL_0002375,False,Schwann cell precursor
+pro-myelinating Schwann cell,myelinating Schwann cell,CL:0000218,CL_0002573,False,Schwann cell
+Primary ... cells,primary cultured cell,CL:0000001,CL_0000001,True,
+radial glia,radial glial cell,CL:0000681,CL_0000681,True,
+radial glial,radial glial cell,CL:0000681,CL_0000681,True,
+neural stem cells,neuronal stem cell,CL:0000047,CL_0000047,True,
+Radial Glia,radial glial cell,CL:0000681,CL_0000681,True,
+neural stem cell,neuronal stem cell,CL:0000047,CL_0000047,True,
+Radial Glial,radial glial cell,CL:0000681,CL_0000681,True,
+Stem Cell,stem cell,CL:0000034,CL_0000034,True,
+mast cells,mast cell,CL:0000097,CL_0000097,True,
+mast cell,mast cell,CL:0000097,CL_0000097,True,
+neutrophil,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil
+immune cells,leukocyte,CL:0000738,CL_0000738,True,
+Mast cell,mast cell,CL:0000097,CL_0000097,True,
+goblet cell,goblet cell,CL:0000160,CL_0000160,True,
+Hematopoietic cell,hematopoietic cell,CL:0000988,CL_0000988,True,
+goblet cells,goblet cell,CL:0000160,CL_0000160,True,
+Paneth cell,paneth cell,CL:0000510,CL_1000345,False,paneth cell of epithelium of crypt of Lieberkuhn of small intestine
+lymphocyte,lymphocyte,CL:0000542,CL_0000542,True,
+taste receptor cells,taste receptor cell,CL:0000209,CL_0000209,True,
+natural killer cell,natural killer cell,CL:0000623,CL_0000623,True,
+taste cells,taste receptor cell,CL:0000209,CL_0002286,False,type II taste cell
+TRCs,taste receptor cell,CL:0000209,CL_0009105,False,T cell zone reticular cell
+PMNs,granulocyte,CL:0000094,CL_0000096,False,mature neutrophil
+polymorphonuclear leukocytes,granulocyte,CL:0000094,CL_0000094,True,
+PMN,granulocyte,CL:0000094,CL_0000096,False,mature neutrophil
+dendritic cells,dendritic cell,CL:0000451,CL_0000451,True,
+T cells,T cell,CL:0000084,CL_0002419,False,mature T cell
+inflammatory cell,inflammatory cell,CL:0009002,CL_0009002,True,
+Reticulocyte,reticulocyte,CL:0000558,CL_0000558,True,
+neurones,neuron,CL:0000540,CL_0000540,True,
+neural cell,neural cell,CL:0002319,CL_0000126,False,macroglial cell
+Hepatocyte,hepatocyte,CL:0000182,CL_0000182,True,
+myotubules,myotube,CL:0002372,CL_0008003,False,somatic muscle myotube
+muscle precursor cell,muscle precursor cell,CL:0000680,CL_0000056,False,myoblast
+Myotubules,myotube,CL:0002372,CL_0008003,False,somatic muscle myotube
+muscle precursor cells,muscle precursor cell,CL:0000680,CL_0000515,False,skeletal muscle myoblast
+PCGs,primordial germ cell,CL:0000670,-,False,-
+Primordial Germ Cells,primordial germ cell,CL:0000670,CL_0000670,True,
+extraembryonic cells,extraembryonic cell,CL:0000349,CL_0000349,True,
+PGCs,primordial germ cell,CL:0000670,CL_0000670,True,
+Primitive germ cells,primordial germ cell,CL:0000670,CL_0000670,True,
+blue ... photoreceptors,blue sensitive photoreceptor cell,CL:0000495,CL_0000488,False,visible light photoreceptor cell
+Rod Photoreceptor,retinal rod cell,CL:0000604,CL_0000489,False,scotopic photoreceptor cell
+Rod ... photoreceptors,retinal rod cell,CL:0000604,CL_0000490,False,photopic photoreceptor cell
+cone cells,retinal cone cell,CL:0000573,CL_0000210,False,photoreceptor cell
+cone,crystallin accumulating cell,CL:0000306,CL_0000490,False,photopic photoreceptor cell
+Cones,retinal cone cell,CL:0000573,CL_0000210,False,photoreceptor cell
+photoreceptor cell,photoreceptor cell,CL:0000210,CL_0000210,True,
+Rods,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+cells of ... retina,retinal cell,CL:0009004,CL_0009004,True,
+immature astrocytes,immature astrocyte,CL:0002626,CL_0002626,True,
+BP,bipolar neuron,CL:0000103,CL_0011020,False,neural progenitor cell
+Photoreceptor Cell,photoreceptor cell,CL:0000210,CL_0000210,True,
+rod photoreceptor,retinal rod cell,CL:0000604,CL_0000489,False,scotopic photoreceptor cell
+rod photoreceptor cells,retinal rod cell,CL:0000604,CL_0000210,False,photoreceptor cell
+photoreceptors,eye photoreceptor cell,CL:0000287,CL_0000210,False,photoreceptor cell
+Müller glia,Muller cell,CL:0011107,CL_0000125,False,glial cell
+Müller Glial,Muller cell,CL:0011107,CL_0000636,False,Mueller cell
+MG,Muller cell,CL:0011107,CL_0000129,False,microglial cell
+Müller glial,Muller cell,CL:0011107,CL_0000125,False,glial cell
+collecting duct cells,kidney collecting duct cell,CL:1001225,CL_1001431,False,kidney collecting duct principal cell
+renal collecting-duct cells,kidney collecting duct cell,CL:1001225,CL_1000454,False,kidney collecting duct epithelial cell
+kidney cells,kidney cell,CL:1000497,CL_1000497,True,
+collecting-duct principal cells,kidney collecting duct principal cell,CL:1001431,CL_1001431,True,
+renal cell,kidney cell,CL:1000497,CL_0002584,False,renal cortical epithelial cell
+kidney cell,kidney cell,CL:1000497,CL_0002518,False,kidney epithelial cell
+kidney ... cell,kidney cell,CL:1000497,CL_1000497,True,
+eosinophilic,eosinophil,CL:0000771,CL_0000771,True,
+MC,mitral cell,CL:1001502,CL_0000097,False,mast cell
+GC,granule cell,CL:0000120,CL_0000844,False,germinal center B cell
+mitral cells,mitral cell,CL:1001502,-,False,-
+olfactory sensory neurons,olfactory receptor cell,CL:0000207,CL_0000847,False,ciliated olfactory receptor neuron
+granule cells,granule cell,CL:0000120,CL_0001031,False,cerebellar granule cell
+output neurons,efferent neuron,CL:0000527,CL_0000540,False,neuron
+pyramidal cells,pyramidal cell,CL:0000598,CL_0000598,True,
+olfactory bulb mitral ... cells,mitral cell,CL:1001502,CL_1001502,True,
+neurons of forebrain areas,neuron of the forebrain,CL:0012001,CL_0012001,True,
+forebrain neurons,neuron of the forebrain,CL:0012001,CL_0012001,True,
+neurons of ... forebrain,neuron of the forebrain,CL:0012001,CL_0012001,True,
+hippocampal ... neurons,hippocampal neuron,CL:0002608,CL_0002608,True,
+hippocampal pyramidal neurons,hippocampal pyramidal neuron,CL:1001571,CL_1001571,True,
+mitral ... cells,mitral cell,CL:1001502,CLO_0000626,False,immortal ferret brain-derived cell line cell
+bronchial epithelial cells,bronchial epithelial cell,CL:0002328,CL_0002328,True,
+epidermal cells,epidermal cell,CL:0000362,CL_0000312,False,keratinocyte
+B cell,B cell,CL:0000236,CL_0000236,True,
+microglia,microglial cell,CL:0000129,CL_0000129,True,
+Glial,glial cell,CL:0000125,CL_0000125,True,
+activated astrocytes,mature astrocyte,CL:0002627,CL_0000127,False,astrocyte
+activated microglia,mature microglial cell,CL:0002629,CL_0002629,True,
+bone marrow mesenchymal cells,mesenchymal stem cell of the bone marrow,CL:0002540,CL_0002540,True,
+bone marrow mesenchymal stem cells,mesenchymal stem cell of the bone marrow,CL:0002540,CL_0002540,True,
+osteoclasts,osteoclast,CL:0000092,CL_0000092,True,
+bone marrow stromal cells,stromal cell of bone marrow,CL:0010001,CL_0002540,False,mesenchymal stem cell of the bone marrow
+bone marrow ... cells,bone marrow cell,CL:0002092,CL_0002092,True,
+osteoblast,osteoblast,CL:0000062,CL_0000062,True,
+osteoclast,osteoclast,CL:0000092,CL_0000092,True,
+primary ... cells,primary cultured cell,CL:0000001,CL_0000001,True,
+bone marrow mesenchymal stem cell,mesenchymal stem cell of the bone marrow,CL:0002540,CL_0002540,True,
+Osteoclasts,osteoclast,CL:0000092,CL_0000092,True,
+Marrow stromal cells,stromal cell of bone marrow,CL:0010001,CL_0002540,False,mesenchymal stem cell of the bone marrow
+Osteoblast,osteoblast,CL:0000062,CL_0000062,True,
+Cultured ... Cells,cultured cell,CL:0000010,CL_0000010,True,
+Osteoclast,osteoclast,CL:0000092,CL_0000092,True,
+cells with ... nuclei,nucleate cell,CL:0002242,-,False,-
+Embryonic Cell,embryonic cell,CL:0002321,CL_0002321,True,
+Adipocyte,fat cell,CL:0000136,CL_0000136,True,
+adipocytes,fat cell,CL:0000136,CL_0000136,True,
+bone marrow ... cell,bone marrow cell,CL:0002092,CL_0002092,True,
+Fibroblasts,fibroblast,CL:0000057,CL_0000057,True,
+stromal cells,stromal cell,CL:0000499,CL_0000499,True,
+Osteoblasts,osteoblast,CL:0000062,CL_0000062,True,
+Stromal Cells,stromal cell,CL:0000499,CL_0000499,True,
+bone marrow mesenchymal cell,mesenchymal stem cell of the bone marrow,CL:0002540,CL_0002540,True,
+bone cells,bone cell,CL:0001035,CL_0001035,True,
+bone cell,bone cell,CL:0001035,CL_0000062,False,osteoblast
+oligodendrocytes,oligodendrocyte,CL:0000128,CL_0000128,True,
+F,fibroblast,CL:0000057,CL_0000057,True,
+Hair cell,sensory hair cell,CL:0000855,CL_0000855,True,
+Hair Cell,sensory hair cell,CL:0000855,CL_0000589,False,cochlear inner hair cell
+inner phalangeal cells,inner phalangeal cell,CL:0005015,CL_0002490,False,organ of Corti supporting cell
+inner phalangeal supporting cells,inner phalangeal cell,CL:0005015,CL_0002490,False,organ of Corti supporting cell
+Fibroblast,fibroblast,CL:0000057,CL_0000057,True,
+SCs,supportive cell,CL:0000630,CL_0000034,False,stem cell
+IHCs,cochlear inner hair cell,CL:0000589,CL_0000589,True,
+OHCs,outer hair cell,CL:0000601,CL_0000601,True,
+hair ... cell,sensory hair cell,CL:0000855,CL_0000589,False,cochlear inner hair cell
+Deiter's supporting cells,Deiter's cell,CL:0000635,CL_0000635,True,
+Hair ... Cell,sensory hair cell,CL:0000855,CL_0000589,False,cochlear inner hair cell
+Supporting Cell,supportive cell,CL:0000630,CL_0000630,True,
+Deiter's cells,Deiter's cell,CL:0000635,CL_0000635,True,
+Outer hair cells,outer hair cell,CL:0000601,CL_0000601,True,
+Dieter's cells,Deiter's cell,CL:0000635,CL_0000001,False,primary cultured cell
+Platelets,platelet,CL:0000233,CL_0000233,True,
+Sperm,sperm,CL:0000019,CL_0011013,False,motile sperm cell
+embryonic stems cells,embryonic stem cell,CL:0002322,CL_0002322,True,
+early embryonic cells,early embryonic cell,CL:0000007,CL_0000007,True,
+granular cells,granule cell,CL:0000120,CL_0000501,False,granulosa cell
+multipotent ... stem cells,multi fate stem cell,CL:0000048,CL_0000048,True,
+Embryonic stem ... cells,embryonic stem cell,CL:0002322,CL_0002322,True,
+germcells,germ cell,CL:0000586,CL_0000586,True,
+somatic cells,somatic cell,CL:0002371,-,False,-
+germline stem cells,germ line stem cell,CL:0000014,CL_0000014,True,
+Embryonic stem cell,embryonic stem cell,CL:0002322,CL_0002322,True,
+primary ... cell,primary cultured cell,CL:0000001,CL_0000001,True,
+gastric epithelial cells,epithelial cell of stomach,CL:0002178,CL_0002178,True,
+leukocyte,leukocyte,CL:0000738,CL_0000738,True,
+cultured cell,cultured cell,CL:0000010,CL_0000010,True,
+male germ cell,male germ cell,CL:0000015,CL_0000015,True,
+amacrine,amacrine cell,CL:0000561,CL_0000561,True,
+multipotent ... cells,multi fate stem cell,CL:0000048,CL_0000837,False,hematopoietic multipotent progenitor cell
+retinal progenitor cells,retinal progenitor cell,CL:0002672,CL_0002672,True,
+neuroblastic,neuroblast,CL:0000031,CL_0000031,True,
+retinal photoreceptor cells,camera type eye photoreceptor cell,CL:0010009,CL_0000210,False,photoreceptor cell
+retinal photoreceptors,camera type eye photoreceptor cell,CL:0010009,CL_0000210,False,photoreceptor cell
+retinal photoreceptor,camera type eye photoreceptor cell,CL:0010009,CL_0000210,False,photoreceptor cell
+ganglion cells,retinal ganglion cell,CL:0000740,CL_0000740,True,
+ganglion cell,retinal ganglion cell,CL:0000740,CL_0000740,True,
+Rod photoreceptor,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+Cone photoreceptors,retinal cone cell,CL:0000573,CL_0000490,False,photopic photoreceptor cell
+pinealocytes,pinealocyte,CL:0000652,CL_0000652,True,
+cone photoreceptor,retinal cone cell,CL:0000573,CL_0000490,False,photopic photoreceptor cell
+amacrine cells,amacrine cell,CL:0000561,CL_0000561,True,
+epithelial cells of ... intestine,intestinal epithelial cell,CL:0002563,CL_0002563,True,
+epithelial cells ... of ... intestines,intestinal epithelial cell,CL:0002563,CL_0002563,True,
+epithelial cells of ... small intestine,epithelial cell of small intestine,CL:0002254,CL_0002563,False,intestinal epithelial cell
+epithelial cells of ... intestines,intestinal epithelial cell,CL:0002563,CL_0002563,True,
+trophoblast giant cell,trophoblast giant cell,CL:0002488,CL_0002497,False,primary trophoblast giant cell
+ES Cells,embryonic stem cell,CL:0002322,CL_0002322,True,
+tgc,trophoblast giant cell,CL:0002488,CL_0002497,False,primary trophoblast giant cell
+TGCs,trophoblast giant cell,CL:0002488,CL_0002497,False,primary trophoblast giant cell
+TGC,trophoblast giant cell,CL:0002488,CL_0002497,False,primary trophoblast giant cell
+diploid ... cell,diploid cell,CL:0000415,CL_0000415,True,
+trophoblast ... cells,trophoblast cell,CL:0000351,CL_0000351,True,
+trophoblast ... cell,trophoblast cell,CL:0000351,CL_0000351,True,
+secondary TGCs,secondary trophoblast giant cell,CL:0002498,CL_0002498,True,
+primary TGCs,primary trophoblast giant cell,CL:0002497,CL_0002497,True,
+secondary giant cell,secondary trophoblast giant cell,CL:0002498,CL_0000647,False,multinucleated giant cell
+giant cell,trophoblast giant cell,CL:0002488,CL_0000647,False,multinucleated giant cell
+pancreatic beta cell,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell
+Sertoli cells,Sertoli cell,CL:0000216,CL_0000216,True,
+Sertoli,Sertoli cell,CL:0000216,CL_0000216,True,
+Sertoli Cell,Sertoli cell,CL:0000216,CL_0000216,True,
+vascular endothelial cells,blood vessel endothelial cell,CL:0000071,CL_0000115,False,endothelial cell
+follicle cells,follicle cell,CL:0000477,CL_0000501,False,granulosa cell
+chondrocyte,chondrocyte,CL:0000138,CL_0000138,True,
+endothelial ... cells,endothelial cell,CL:0000115,CL_0000115,True,
+somatic cell,somatic cell,CL:0002371,-,False,-
+in vitro cell,cell in vitro,CL:0001034,CL_0000010,False,cultured cell
+Somatic cells,somatic cell,CL:0002371,CL_0000066,False,epithelial cell
+gametic,gamete,CL:0000300,CL_0000019,False,sperm
+polygonal cells,polygonal cell,CL:0000398,CL_0000066,False,epithelial cell
+Blood cells,blood cell,CL:0000081,CL_0000081,True,
+absorptive ... cells,absorptive cell,CL:0000212,CL_1000334,False,enterocyte of epithelium of small intestine
+squamous cells,squamous epithelial cell,CL:0000076,CL_0000076,True,
+epiblast cells,epiblast cell,CL:0000352,CL_0000352,True,
+Clara cell,Clara cell,CL:0000158,CL_1000272,False,lung secretory cell
+hematopoietic cell,hematopoietic cell,CL:0000988,CL_0000988,True,
+gamete,gamete,CL:0000300,CLO_0000019,False,immortal cell line cell
+fibroblastic cell,fibroblast,CL:0000057,CL_0000057,True,
+cap cells,cap cell,CL:0000676,CL_0000676,True,
+animal ... cells,animal cell,CL:0000548,CL_0001034,False,cell in vitro
+osteoprogenitor cells,preosteoblast,CL:0007010,CL_0001040,False,non-terminally differentiated osteoblast
+osteoblastic,osteoblast,CL:0000062,CL_0000062,True,
+keratinizing ... cells,keratin accumulating cell,CL:0000311,CL_0000312,False,keratinocyte
+TEC,epithelial cell of thymus,CL:0002293,CL_0002293,True,
+basal cells of ... epidermis,basal cell of epidermis,CL:0002187,CL_0000646,False,basal cell
+cells of ... ORS of hair follicles,outer root sheath cell,CL:0002561,CL_0002561,True,
+TECs,epithelial cell of thymus,CL:0002293,CL_0002293,True,
+embryonic ... stem cells,embryonic stem cell,CL:0002322,CL_0002322,True,
+thymocyte,thymocyte,CL:0000893,CL_0002420,False,immature T cell
+medullary TECs,medullary thymic epithelial cell,CL:0002365,CL_0002365,True,
+medullary ... TECs,medullary thymic epithelial cell,CL:0002365,CL_0002365,True,
+cells of ... stratified epithelia,stratified epithelial cell,CL:0000079,CL_0000079,True,
+cortical TECs,cortical thymic epithelial cell,CL:0002364,CL_0002364,True,
+cortical ... TECs,cortical thymic epithelial cell,CL:0002364,CL_0002364,True,
+ectodermal ... cells,ectodermal cell,CL:0000221,CL_0000221,True,
+cells of ... epidermis,epidermal cell,CL:0000362,CL_0000312,False,keratinocyte
+TECs of cortex,cortical thymic epithelial cell,CL:0002364,CL_0002364,True,
+thymic epithelial cell,epithelial cell of thymus,CL:0002293,CL_0002293,True,
+TECs of ... medulla,medullary thymic epithelial cell,CL:0002365,CL_0002365,True,
+basal cells of epidermis,basal cell of epidermis,CL:0002187,CL_0000646,False,basal cell
+epidermal cell,epidermal cell,CL:0000362,CL_0000312,False,keratinocyte
+ameloblasts,ameloblast,CL:0000059,CL_0000059,True,
+thymic epithelial cells,epithelial cell of thymus,CL:0002293,CL_0002293,True,
+basal ... cells,basal cell,CL:0000646,CL_0000646,True,
+Cortical ... TEC,cortical thymic epithelial cell,CL:0002364,CL_0002364,True,
+ORS cells,outer root sheath cell,CL:0002561,CL_0002561,True,
+medullary TEC,medullary thymic epithelial cell,CL:0002365,CL_0002365,True,
+enucleating ... cells,anucleate cell,CL:0000225,CL_0000765,False,erythroblast
+hair-shaft ... cells,hair follicle cell,CL:0002559,CL_0010000,False,keratinized cell of hair follicle
+T,T cell,CL:0000084,CL_0000542,False,lymphocyte
+mature neutrophil,mature neutrophil,CL:0000096,CL_0000775,False,neutrophil
+eosinophil leukocytes,eosinophil,CL:0000771,CL_0000041,False,mature eosinophil
+immature neutrophils,immature neutrophil,CL:0000776,CL_0000776,True,
+granulocytes,granulocyte,CL:0000094,CL_0000766,False,myeloid leukocyte
+granulocyte,granulocyte,CL:0000094,CL_0000094,True,
+B,basal cell,CL:0000646,CL_0000236,False,B cell
+MC,fibroblast,CL:0000057,CL_0000097,False,mast cell
+N,neutrophil,CL:0000775,-,False,-
+C,chondrocyte,CL:0000138,CL_0000236,False,B cell
+O,osteocyte,CL:0000137,-,False,-
+neutrophil leucocytes,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil
+neutrophil leukocytes,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil
+neutrophil leukocyte,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil
+mucous cells,mucus secreting cell,CL:0000319,CL_0000651,False,obsolete mucous neck cell
+ciliated epithelial cells,ciliated epithelial cell,CL:0000067,CL_0000067,True,
+basal epithelial cell,basal cell,CL:0000646,CL_0002187,False,basal cell of epidermis
+basal epithelial cells,basal cell,CL:0000646,CL_0000646,True,
+ciliated ... cells,ciliated cell,CL:0000064,CL_0000067,False,ciliated epithelial cell
+Granulocytes,granulocyte,CL:0000094,CL_0000094,True,
+chrondrocyte,chondrocyte,CL:0000138,CL_0000138,True,
+eosinophil,eosinophil,CL:0000771,CL_0000771,True,
+immature ... neutrophil,immature neutrophil,CL:0000776,CL_0000776,True,
+osteocytes,osteocyte,CL:0000137,CL_0000137,True,
+eosiniphilic,eosinophil,CL:0000771,CL_0000041,False,mature eosinophil
+osteocyte,osteocyte,CL:0000137,CL_0000137,True,
+inflammatory cells,inflammatory cell,CL:0009002,CL_0000738,False,leukocyte
+myeloid cell,myeloid cell,CL:0000763,CL_0000763,True,
+Neutrophils,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil
+photosensory neurons,photoreceptor cell,CL:0000210,CL_0000210,True,
+cerebral cortex neurons,cerebral cortex neuron,CL:0010012,CL_0010012,True,
+photosensory ... neurons,photoreceptor cell,CL:0000210,CL_0000210,True,
+GC,retinal ganglion cell,CL:0000740,CL_0000844,False,germinal center B cell
+Primary cells,primary cultured cell,CL:0000001,CL_0000001,True,
+photosensory neurons of ... retina,camera type eye photoreceptor cell,CL:0010009,CL_0000210,False,photoreceptor cell
+receptoral ... neurons,neuronal receptor cell,CL:0000006,CL_0000101,False,sensory neuron
+rod photoreceptor neuronal,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+receptoral neurons,neuronal receptor cell,CL:0000006,CL_0000101,False,sensory neuron
+photosensory ... neurons of ... retina,camera type eye photoreceptor cell,CL:0010009,CL_0000573,False,retinal cone cell
+Receptoral ... Neurons,neuronal receptor cell,CL:0000006,CL_0000101,False,sensory neuron
+photosensory neuron,photoreceptor cell,CL:0000210,CL_0000573,False,retinal cone cell
+photoreceptor neurons,photoreceptor cell,CL:0000210,CL_0000210,True,
+dopaminergic neurons,dopaminergic neuron,CL:0000700,CL_0000700,True,
+rod photosensory neurons,retinal rod cell,CL:0000604,CL_0000604,True,
+ganglion cells of ... retina,retinal ganglion cell,CL:0000740,CL_0000740,True,
+rod ... photoreceptor,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+dopaminergic neuronal,dopaminergic neuron,CL:0000700,CL_0000700,True,
+cone ... photoreceptor,retinal cone cell,CL:0000573,CL_0000210,False,photoreceptor cell
+pluripotent ... stem cells,pluripotent stem cell,CL:0002248,CL_0002248,True,
+pluripotent ... cells,pluripotent stem cell,CL:0002248,CL_0002248,True,
+Embryonic Cells,embryonic cell,CL:0002321,CL_0002321,True,
+Pluripotent ... Cells,pluripotent stem cell,CL:0002248,CL_0002248,True,
+pluripotent cells,pluripotent stem cell,CL:0002248,CL_0002248,True,
+embryonic cell,embryonic cell,CL:0002321,CL_0002321,True,
+osteoblast cells,osteoblast,CL:0000062,CL_0000062,True,
+fibroblastic,fibroblast,CL:0000057,CL_0000057,True,
+fibroblastic cells,fibroblast,CL:0000057,CL_0000057,True,
+Osteoprogenitor cells,preosteoblast,CL:0007010,CL_0000062,False,osteoblast
+ductal epithelial cells,duct epithelial cell,CL:0000068,CL_0000068,True,
+Mammary epithelial cell,mammary epithelial cell,CL:0002327,CL_0002327,True,
+ductal epithelial cell,duct epithelial cell,CL:0000068,CL_0000068,True,
+stromal cell,stromal cell,CL:0000499,CL_0000499,True,
+secretory ... cells,secretory cell,CL:0000151,CL_0000151,True,
+mammary epithelial cells,mammary epithelial cell,CL:0002327,CL_0002327,True,
+mammary epithelial cell,mammary epithelial cell,CL:0002327,CL_0002326,False,luminal epithelial cell of mammary gland
+alveolar epithelial cells,epithelial cell of alveolus of lung,CL:0010003,CL_0010003,True,
+Apoptotic ... cells,apoptosis fated cell,CL:0000445,CL_0000445,True,
+S,stromal cell,CL:0000499,CL_0002281,False,type S enteroendocrine cell
+alveolar epithelial cell,epithelial cell of alveolus of lung,CL:0010003,CL_0010003,True,
+DEC,duct epithelial cell,CL:0000068,CL_2000002,False,decidual cell
+ductal ... epithelial cells,duct epithelial cell,CL:0000068,CL_0000068,True,
+mammary stem cells,mammary stem cell,CL:0002451,CL_0002451,True,
+kidney epithelial cells,kidney epithelial cell,CL:0002518,CL_0002584,False,renal cortical epithelial cell
+Kidney Cells,kidney cell,CL:1000497,CL_1000497,True,
+dermal fibroblasts,fibroblast of dermis,CL:0002551,CL_0002620,False,skin fibroblast
+kidney collecting duct epithelial cells,kidney collecting duct epithelial cell,CL:1000454,CL_1000454,True,
+inner medullary ... cells,kidney inner medulla cell,CL:1000617,CL_1000547,False,kidney inner medulla collecting duct epithelial cell
+collecting duct ... cells,kidney collecting duct cell,CL:1001225,CL_1000454,False,kidney collecting duct epithelial cell
+tubule cells,kidney tubule cell,CL:1000507,CL_1000507,True,
+kidney epithelial cell,kidney epithelial cell,CL:0002518,CL_0002584,False,renal cortical epithelial cell
+kidney cortical ... cells,kidney cortical cell,CL:0002681,CL_0002584,False,renal cortical epithelial cell
+kidney epithelial cellular,kidney epithelial cell,CL:0002518,CL_0002518,True,
+Kidney Epithelial Cells,kidney epithelial cell,CL:0002518,CL_0002518,True,
+kidney cortex epithelial cells,renal cortical epithelial cell,CL:0002584,CL_0002584,True,
+ciliated cells,ciliated cell,CL:0000064,CL_0005012,False,multiciliated epithelial cell
+brown fat adipocytes,brown fat cell,CL:0000449,CL_0000449,True,
+white ... fat adipocytes,white fat cell,CL:0000448,CL_0000448,True,
+regulatory T cell,regulatory T cell,CL:0000815,CL_0000815,True,
+Epithelial cells,epithelial cell,CL:0000066,CL_0000066,True,
+cells of ... kidney,kidney cell,CL:1000497,CL_0002518,False,kidney epithelial cell
+Sertoli Cells,Sertoli cell,CL:0000216,CL_0000216,True,
+Spermatocytes,spermatocyte,CL:0000017,CL_0000017,True,
+Spermatocyte,spermatocyte,CL:0000017,CL_0000017,True,
+male ... germ cells,male germ cell,CL:0000015,CL_0000015,True,
+Gametes,gamete,CL:0000300,CLO_0000019,False,immortal cell line cell
+zygote,zygote,CL:0000365,CL_0000365,True,
+gonocytes,primordial germ cell,CL:0000670,CL_0002238,False,male gonocyte
+gametes,gamete,CL:0000300,CLO_0000019,False,immortal cell line cell
+ovular,egg cell,CL:0000025,CL_0000023,False,oocyte
+Leydig cells,Leydig cell,CL:0000178,CL_0000178,True,
+spermatids,spermatid,CL:0000018,CL_4030036,False,early spermatid
+primary spermatocytes,primary spermatocyte,CL:0000656,CL_0000656,True,
+multinucleate cells,multinucleate cell,CL:0000228,CL_0000647,False,multinucleated giant cell
+Germ Cell,germ cell,CL:0000586,CL_0000586,True,
+Germ Cells,germ cell,CL:0000586,CL_0000586,True,
+multinucleated cells,multinucleate cell,CL:0000228,CL_0000647,False,multinucleated giant cell
+spermatocyte,spermatocyte,CL:0000017,CL_0000017,True,
+germ-cell,germ cell,CL:0000586,CL_0000586,True,
+peritubular myoid cells,peritubular myoid cell,CL:0002481,CL_0002481,True,
+SC,Sertoli cell,CL:0000216,CL_0000034,False,stem cell
+peritubular myoid cell,peritubular myoid cell,CL:0002481,CL_0002481,True,
+β-cell,type B pancreatic cell,CL:0000169,CL_0000169,True,
+β-cells,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell
+beta cells,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell
+Beta-Cell,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell
+pancreatic β-cells,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell
+α-cells,pancreatic A cell,CL:0000171,CL_0000170,False,glucagon secreting cell
+pancreatic β-cell,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell
+β-Cell,type B pancreatic cell,CL:0000169,CL_0000169,True,
+WAT adipocytes,white fat cell,CL:0000448,CL_0000448,True,
+β cell,type B pancreatic cell,CL:0000169,CL_0000169,True,
+β cells,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell
+β ... cells,type B pancreatic cell,CL:0000169,CL_0000169,True,
+α cells,pancreatic A cell,CL:0000171,CL_0000170,False,glucagon secreting cell
+α Cells,pancreatic A cell,CL:0000171,CL_0000171,True,
+α-cell,pancreatic A cell,CL:0000171,CL_0000171,True,
+pancreatic islet α cells,pancreatic A cell,CL:0000171,CL_0000171,True,
+α- ... cell,pancreatic A cell,CL:0000171,CL_0000170,False,glucagon secreting cell
+α cells of ... pancreatic islets of Langerhans,pancreatic A cell,CL:0000171,CL_0000171,True,
+β- ... cell,type B pancreatic cell,CL:0000169,CL_0000169,True,
+Islet α cells,pancreatic A cell,CL:0000171,CL_0000171,True,
+pancreatic δ cells,pancreatic D cell,CL:0000173,CL_0000173,True,
+α ... cells,pancreatic A cell,CL:0000171,CL_0000171,True,
+δ cells,pancreatic D cell,CL:0000173,CL_0000172,False,somatostatin secreting cell
+pancreatic α cells,pancreatic A cell,CL:0000171,CL_0000171,True,
+α-Cell,pancreatic A cell,CL:0000171,CL_0000171,True,
+α cells of ... islets,pancreatic A cell,CL:0000171,CL_0000171,True,
+α cell,pancreatic A cell,CL:0000171,CL_0000170,False,glucagon secreting cell
+insulin-secreting ... cells,insulin secreting cell,CL:0000168,CL_0000169,False,type B pancreatic cell
+Islet β cells,type B pancreatic cell,CL:0000169,CL_0000169,True,
+naïve ... T-cells,naive T cell,CL:0000898,CL_0000898,True,
+naive ... T-cells,naive T cell,CL:0000898,CL_0000898,True,
+regulatory ... T-cells,regulatory T cell,CL:0000815,CL_0000815,True,
+memory T-cells,memory T cell,CL:0000813,CL_0000897,False,"CD4-positive, alpha-beta memory T cell"
+B- ... cells,B cell,CL:0000236,CL_0000236,True,
+T- ... cells,T cell,CL:0000084,CL_0000542,False,lymphocyte
+B-cells,B cell,CL:0000236,CL_0000236,True,
+polymorphonuclear neutrophils,mature neutrophil,CL:0000096,CL_0000096,True,
+Th1,T-helper 1 cell,CL:0000545,CL_0000545,True,
+M cells,M cell of gut,CL:0000682,CL_0000682,True,
+M-cell,M cell of gut,CL:0000682,CL_1000353,False,microfold cell of epithelium of small intestine
+PMN,mature neutrophil,CL:0000096,CL_0000096,True,mature neutrophil
+T helper ... 1,T-helper 1 cell,CL:0000545,CL_0000545,True,
+M cell,M cell of gut,CL:0000682,CL_1000353,False,microfold cell of epithelium of small intestine
+memory ... T-cells,memory T cell,CL:0000813,CL_0000813,True,
+Th2,T-helper 2 cell,CL:0000546,CL_0000546,True,
+B-cell,B cell,CL:0000236,CL_0000945,False,lymphocyte of B lineage
+T -cells,T cell,CL:0000084,CL_0002419,False,mature T cell
+antigen presenting cells,professional antigen presenting cell,CL:0000145,CL_0000451,False,dendritic cell
+Purkinje cells of ... cerebellum,Purkinje cell,CL:0000121,CL_0000121,True,
+cerebellar Purkinje cells,Purkinje cell,CL:0000121,CL_0000121,True,
+ganglion ... cells,retinal ganglion cell,CL:0000740,CL_0000740,True,
+rod ... cells,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+amacrine ... cells,amacrine cell,CL:0000561,CL_0000561,True,
+Ganglion ... Cells,retinal ganglion cell,CL:0000740,CL_0000740,True,
+Rod ... Cells,retinal rod cell,CL:0000604,CL_0000490,False,photopic photoreceptor cell
+ganglion neurons,retinal ganglion cell,CL:0000740,CL_1001451,False,sensory neuron of dorsal root ganglion
+Bipolar Cells,retinal bipolar neuron,CL:0000748,CL_0000748,True,
+retinal bipolar ... cells,retinal bipolar neuron,CL:0000748,CL_0000748,True,
+RPC,retinal progenitor cell,CL:0002672,CL_0002672,True,
+retinal ... ganglion ... cells,retinal ganglion cell,CL:0000740,CL_0000740,True,
+RPCs,retinal progenitor cell,CL:0002672,CL_0002672,True,
+retinal progenitor cell,retinal progenitor cell,CL:0002672,CL_0002672,True,
+retinal ... rod cells,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+cone bipolar cells,cone retinal bipolar cell,CL:0000752,CL_0004213,False,type 3a cone bipolar cell
+ON bipolar cells,ON-bipolar cell,CL:0000749,CL_0000748,False,retinal bipolar neuron
+gangion cells,retinal ganglion cell,CL:0000740,CL_0000740,True,
+rod ... bipolar cells,rod bipolar cell,CL:0000751,CL_0000751,True,
+Retinal Cell,retinal cell,CL:0009004,CL_0009004,True,
+rod ... cell,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+lens fibres,lens fiber cell,CL:0011004,CL_0011004,True,
+amacrine ... cell,amacrine cell,CL:0000561,CL_0000561,True,
+horizontal ... neurons,horizontal cell,CL:0000745,CL_0000745,True,
+CNS Neurons,CNS neuron (sensu Vertebrata),CL:0000117,CL_2000029,False,central nervous system neuron
+cholinergic ... neurons,cholinergic neuron,CL:0000108,CL_0000108,True,
+amacrine neurons,amacrine cell,CL:0000561,CL_0000561,True,
+Ganglion ... Cell,retinal ganglion cell,CL:0000740,CL_0000740,True,
+Rod ... Cell,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell
+rod bipolar ... cells,rod bipolar cell,CL:0000751,CL_0000751,True,
+amacrine cell,amacrine cell,CL:0000561,CL_0000561,True,
+bipolar ... cells,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron
+bipolar ... neurons,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron
+bipolar neurons,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron
+bipolars,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron
+Bipolar cell,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron
+m,Muller cell,CL:0011107,CL_0000682,False,M cell of gut
+Müller cells,Muller cell,CL:0011107,CL_0000125,False,glial cell
+Müller glia cell,Muller cell,CL:0011107,CL_0000636,False,Mueller cell
+bipolar,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron
+Müller ... cells,Muller cell,CL:0011107,CL_0000125,False,glial cell
+bipolar ... cell,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron
+c,retinal cone cell,CL:0000573,CL_0000236,False,B cell
+Bipolar Cell,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron
+a,amacrine cell,CL:0000561,-,False,-
+g ... cells,retinal ganglion cell,CL:0000740,-,False,-
+b,bipolar neuron,CL:0000103,CL_0000236,False,B cell
+nerve cell,neuron,CL:0000540,CL_0000540,True,
+spermatagonial,spermatogonium,CL:0000020,CL_0000020,True,
+Sg,spermatogonium,CL:0000020,CL_0000020,True,
+spore,fungal spore,CL:0002369,CL_0002369,True,
+primordial oocytes,primary oocyte,CL:0000654,CL_0000654,True,
+spermatocyes,spermatocyte,CL:0000017,CL_0000656,False,primary spermatocyte
+Oocytes,oocyte,CL:0000023,CL_0000023,True,
+Oocyte,oocyte,CL:0000023,CL_0000023,True,

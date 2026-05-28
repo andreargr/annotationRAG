@@ -1,0 +1,975 @@
+Label,id_label,GS_ontology_id,LLM_CL_id,match,LLM_CL_label,relation,reason
+neuron,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+Neuron,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+neurons,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+striatal ... neuron,striatum neuron,CL:0002613,CL_0002613,True,,exact_match,LLM prediction matches gold standard exactly
+medium spiny neurons,medium spiny neuron,CL:1001474,CL_1001474,True,,exact_match,LLM prediction matches gold standard exactly
+Striatal neurons,striatum neuron,CL:0002613,CL_1001474,False,medium spiny neuron,llm_better,medium spiny neuron is the dominant neuron of the striatum (>95%)
+neuronal,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+striatal neuron,striatum neuron,CL:0002613,CL_1001474,False,medium spiny neuron,llm_better,medium spiny neuron is the dominant neuron of the striatum (>95%)
+striatal neurons,striatum neuron,CL:0002613,CL_0002613,True,,exact_match,LLM prediction matches gold standard exactly
+pyramidal ... cell,pyramidal cell,CL:0000598,CL_0000598,True,,exact_match,LLM prediction matches gold standard exactly
+Striatal Neuron,striatum neuron,CL:0002613,CL_4023026,False,direct pathway medium spiny neuron,incorrect,no valid semantic relation found
+striatal neuronal,striatum neuron,CL:0002613,CL_1001474,False,medium spiny neuron,llm_better,medium spiny neuron is the dominant neuron of the striatum (>95%)
+interneurons,interneuron,CL:0000099,CL_0008031,False,cortical interneuron,broader,cortical interneuron is a subtype of interneuron
+cholinergic neurons,cholinergic neuron,CL:0000108,CL_0000108,True,,exact_match,LLM prediction matches gold standard exactly
+Striatal ... Neuron,striatum neuron,CL:0002613,CL_1001474,False,medium spiny neuron,llm_better,medium spiny neuron is the dominant neuron of the striatum (>95%)
+Granule cell,granule cell,CL:0000120,CL_0001033,False,hippocampal granule cell,incorrect,no valid semantic relation found
+retinal ganglion cells,retinal ganglion cell,CL:0000740,CL_0000740,True,,exact_match,LLM prediction matches gold standard exactly
+granule cell,granule cell,CL:0000120,CL_0001031,False,cerebellar granule cell,incorrect,no valid semantic relation found
+pyramidal cell,pyramidal cell,CL:0000598,CL_4023111,False,cerebral cortex pyramidal neuron,incorrect,no valid semantic relation found
+striatal ... neurons,striatum neuron,CL:0002613,CL_1001474,False,medium spiny neuron,llm_better,medium spiny neuron is the dominant neuron of the striatum (>95%)
+Neurons,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+retinal ganglion cell,retinal ganglion cell,CL:0000740,CL_0000740,True,,exact_match,LLM prediction matches gold standard exactly
+rod ... photoreceptors,retinal rod cell,CL:0000604,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of retinal rod cell
+macrophages,macrophage,CL:0000235,CL_0000235,True,,exact_match,LLM prediction matches gold standard exactly
+cone photoreceptors,retinal cone cell,CL:0000573,CL_0000490,False,photopic photoreceptor cell,broader,photopic photoreceptor cell is a subtype of retinal cone cell
+rods,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+cones,retinal cone cell,CL:0000573,CL_0000490,False,photopic photoreceptor cell,incorrect,no valid semantic relation found
+embryonic stem ... cells,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+ES ... cells,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+ES cell,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+ES cells,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+germ cells,germ cell,CL:0000586,CL_0000586,True,,exact_match,LLM prediction matches gold standard exactly
+germ cell,germ cell,CL:0000586,CL_0000586,True,,exact_match,LLM prediction matches gold standard exactly
+spermatocytes,spermatocyte,CL:0000017,CL_0000017,True,,exact_match,LLM prediction matches gold standard exactly
+somatic ... cells,somatic cell,CL:0002371,-,False,-,incorrect,LLM returned no prediction
+Sertoli cell,Sertoli cell,CL:0000216,CL_0000216,True,,exact_match,LLM prediction matches gold standard exactly
+oocyte,oocyte,CL:0000023,CL_0000023,True,,exact_match,LLM prediction matches gold standard exactly
+spermatogonia,spermatogonium,CL:0000020,CL_0000020,True,,exact_match,LLM prediction matches gold standard exactly
+primordial germ cells,primordial germ cell,CL:0000670,CL_0000670,True,,exact_match,LLM prediction matches gold standard exactly
+male germ cells,male germ cell,CL:0000015,CL_0000015,True,,exact_match,LLM prediction matches gold standard exactly
+sperm,sperm,CL:0000019,CL_0000019,True,,exact_match,LLM prediction matches gold standard exactly
+oligodendrocyte,oligodendrocyte,CL:0000128,CL_0000128,True,,exact_match,LLM prediction matches gold standard exactly
+endoderm cells,endodermal cell,CL:0000223,CL_0000223,True,,exact_match,LLM prediction matches gold standard exactly
+eukaryotic cells,eukaryotic cell,CL:0000255,CL_0000255,True,,exact_match,LLM prediction matches gold standard exactly
+Zygotic,zygote,CL:0000365,CL_0000365,True,,exact_match,LLM prediction matches gold standard exactly
+primary giant cells,primary trophoblast giant cell,CL:0002497,CL_0000647,False,multinucleated giant cell,incorrect,no valid semantic relation found
+ES ... cell,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+Embryonic stem cells,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+embryonic stem ... cell,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+blastomeres,blastoderm cell,CL:0000353,CL_0000007,False,early embryonic cell (metazoa),incorrect,no valid semantic relation found
+primary fiber cells,primary lens fiber,CL:0002228,CL_0011004,False,lens fiber cell,synonym,lens fiber cell = primary lens fiber
+lens fiber cells,lens fiber cell,CL:0011004,CL_0011004,True,,exact_match,LLM prediction matches gold standard exactly
+lens epithelial cells,lens epithelial cell,CL:0002224,CL_0002224,True,,exact_match,LLM prediction matches gold standard exactly
+promelocytic,promyelocyte,CL:0000836,CL_0000836,True,,exact_match,LLM prediction matches gold standard exactly
+lens epithelial cell,lens epithelial cell,CL:0002224,CL_0002224,True,,exact_match,LLM prediction matches gold standard exactly
+epithelial cells,epithelial cell,CL:0000066,CL_0000066,True,,exact_match,LLM prediction matches gold standard exactly
+muscle cell,muscle cell,CL:0000187,CL_0000187,True,,exact_match,LLM prediction matches gold standard exactly
+osteoblasts,osteoblast,CL:0000062,CL_0000062,True,,exact_match,LLM prediction matches gold standard exactly
+B lymphocytes,B cell,CL:0000236,CL_0000945,False,lymphocyte of B lineage,synonym,B cell = lymphocyte of B lineage
+epithelial cell,epithelial cell,CL:0000066,CL_0000066,True,,exact_match,LLM prediction matches gold standard exactly
+macrophage,macrophage,CL:0000235,CL_0000235,True,,exact_match,LLM prediction matches gold standard exactly
+primary lens fibers,primary lens fiber,CL:0002228,CL_0011004,False,lens fiber cell,synonym,lens fiber cell = primary lens fiber
+outer hair cell,outer hair cell,CL:0000601,CL_0000601,True,,exact_match,LLM prediction matches gold standard exactly
+outer hair cells,outer hair cell,CL:0000601,CL_0000601,True,,exact_match,LLM prediction matches gold standard exactly
+hair cells,sensory hair cell,CL:0000855,CL_0000202,False,auditory hair cell,broader,auditory hair cell is subtype of sensory hair cell
+hair cell,sensory hair cell,CL:0000855,CL_0000609,False,vestibular hair cell,broader,vestibular hair cell is subtype of sensory hair cell
+inner hair cells,cochlear inner hair cell,CL:0000589,CL_0000589,True,,exact_match,LLM prediction matches gold standard exactly
+embryonic ... cell,embryonic cell,CL:0002321,CL_0002321,True,,exact_match,LLM prediction matches gold standard exactly
+sensory neurons,sensory neuron,CL:0000101,CL_0000101,True,,exact_match,LLM prediction matches gold standard exactly
+OHC,outer hair cell,CL:0000601,CL_0000601,True,,exact_match,LLM prediction matches gold standard exactly
+pillar cells,pillar cell,CL:1000191,CL_0002490,False,organ of Corti supporting cell,broader,organ of Corti supporting cell is parent of pillar cell
+Deiters' cells,Deiter's cell,CL:0000635,CL_0000635,True,,exact_match,LLM prediction matches gold standard exactly
+supporting cells,supportive cell,CL:0000630,CL_0000630,True,,exact_match,LLM prediction matches gold standard exactly
+inner ... hair cells,cochlear inner hair cell,CL:0000589,CL_0000589,True,,exact_match,LLM prediction matches gold standard exactly
+primary neurons,primary neuron,CL:0000530,CL_0000540,False,neuron,broader,neuron is parent of primary neuron
+supporting cell,supportive cell,CL:0000630,CL_0000630,True,,exact_match,LLM prediction matches gold standard exactly
+IHC's,cochlear inner hair cell,CL:0000589,CL_0000589,True,,exact_match,LLM prediction matches gold standard exactly
+motoneurons,motor neuron,CL:0000100,CL_0000100,True,,exact_match,LLM prediction matches gold standard exactly
+sensory neuron,sensory neuron,CL:0000101,CL_0000101,True,,exact_match,LLM prediction matches gold standard exactly
+IHC,cochlear inner hair cell,CL:0000589,-,False,-,incorrect,LLM returned no prediction
+inner hair cell,cochlear inner hair cell,CL:0000589,CL_0000589,True,,exact_match,LLM prediction matches gold standard exactly
+spiral ... neurons,spiral ganglion neuron,CL:0011113,CL_0011113,True,,exact_match,LLM prediction matches gold standard exactly
+HaC,sensory hair cell,CL:0000855,CL_0000855,True,,exact_match,LLM prediction matches gold standard exactly
+spiral neurons,spiral ganglion neuron,CL:0011113,CL_0011113,True,,exact_match,LLM prediction matches gold standard exactly
+spiral neuron,spiral ganglion neuron,CL:0011113,CL_0011113,True,,exact_match,LLM prediction matches gold standard exactly
+inner ear hair cell,auditory hair cell,CL:0000202,CL_0000589,False,cochlear inner hair cell,incorrect,no valid semantic relation found
+spiral ganglion cells,spiral ganglion neuron,CL:0011113,CL_0011113,True,,exact_match,LLM prediction matches gold standard exactly
+vestibular hair cell,vestibular hair cell,CL:0000609,CL_0000609,True,,exact_match,LLM prediction matches gold standard exactly
+vestibular ... sensory neurons,vestibular hair cell,CL:0000609,CL_4023112,False,vestibular afferent neuron,incorrect,LLM predicted a concept that is too general
+cochlear sensory neurons,auditory hair cell,CL:0000202,CL_0011113,False,spiral ganglion neuron,incorrect,no valid semantic relation found
+red blood cells,erythrocyte,CL:0000232,CL_0000232,True,,exact_match,LLM prediction matches gold standard exactly
+platelets,platelet,CL:0000233,CL_0000233,True,,exact_match,LLM prediction matches gold standard exactly
+red blood cell,erythrocyte,CL:0000232,CL_0000232,True,,exact_match,LLM prediction matches gold standard exactly
+leukocytes,leukocyte,CL:0000738,CL_0000738,True,,exact_match,LLM prediction matches gold standard exactly
+Red blood cells,erythrocyte,CL:0000232,CL_0000232,True,,exact_match,LLM prediction matches gold standard exactly
+erythrocytes,erythrocyte,CL:0000232,CL_0000232,True,,exact_match,LLM prediction matches gold standard exactly
+neutrophiles,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil,synonym,"typo of neutrophil, mature neutrophil is the canonical CL term"
+eosinophiles,eosinophil,CL:0000771,CL_0000771,True,,exact_match,LLM prediction matches gold standard exactly
+basophiles,basophil,CL:0000767,CL_0000767,True,,exact_match,LLM prediction matches gold standard exactly
+lymphocytes,lymphocyte,CL:0000542,CL_0000542,True,,exact_match,LLM prediction matches gold standard exactly
+monocytes,monocyte,CL:0000576,CL_0000576,True,,exact_match,LLM prediction matches gold standard exactly
+platelet,platelet,CL:0000233,CL_0000233,True,,exact_match,LLM prediction matches gold standard exactly
+Platelet,platelet,CL:0000233,CL_0000233,True,,exact_match,LLM prediction matches gold standard exactly
+cardiomyocytes,cardiac muscle cell,CL:0000746,CL_0000746,True,,exact_match,LLM prediction matches gold standard exactly
+erythrocyte,erythrocyte,CL:0000232,CL_0000232,True,,exact_match,LLM prediction matches gold standard exactly
+leucocytes,leukocyte,CL:0000738,CL_0000738,True,,exact_match,LLM prediction matches gold standard exactly
+spermatid,spermatid,CL:0000018,CL_0000018,True,,exact_match,LLM prediction matches gold standard exactly
+olfactory neuron,olfactory receptor cell,CL:0000207,CL_0000207,True,,exact_match,LLM prediction matches gold standard exactly
+T-cell,T cell,CL:0000084,CL_0000492,False,CD4-positive helper T cell,incorrect,no valid semantic relation found
+erythroid cells,erythroid lineage cell,CL:0000764,CL_0000232,False,erythrocyte,broader,erythrocyte is a terminal differentiation of erythroid lineage cell
+olfactory neurons,olfactory receptor cell,CL:0000207,CLO_0000207,False,immortal umbilical vein-derived fibroblast cell line cell,incorrect,no valid semantic relation found
+v,vascular associated smooth muscle cell,CL:0000359,CL_0002288,False,type V taste receptor cell,incorrect,no valid semantic relation found
+v ... cells,vascular associated smooth muscle cell,CL:0000359,-,False,-,incorrect,LLM returned no prediction
+Pericyte,pericyte cell,CL:0000669,CL_0000669,True,,exact_match,LLM prediction matches gold standard exactly
+vascular smooth muscle cells,vascular associated smooth muscle cell,CL:0000359,CL_0000192,False,smooth muscle cell,broader,smooth muscle cell is parent of vascular associated smooth muscle cell
+support cells,supportive cell,CL:0000630,CL_0000630,True,,exact_match,LLM prediction matches gold standard exactly
+v ... cell,vascular associated smooth muscle cell,CL:0000359,CL_0000000,False,cell,incorrect,no valid semantic relation found
+vascular endothelial cell,blood vessel endothelial cell,CL:0000071,CL_0000115,False,endothelial cell,broader,endothelial cell is parent of blood vessel endothelial cell
+V ... Cells,vascular associated smooth muscle cell,CL:0000359,-,False,-,incorrect,LLM returned no prediction
+V ... cell,vascular associated smooth muscle cell,CL:0000359,CL_0000000,False,cell,incorrect,no valid semantic relation found
+V,vascular associated smooth muscle cell,CL:0000359,CL_0002288,False,type V taste receptor cell,incorrect,no valid semantic relation found
+fibroblast,fibroblast,CL:0000057,CL_0000057,True,,exact_match,LLM prediction matches gold standard exactly
+vascular smooth muscle cell,vascular associated smooth muscle cell,CL:0000359,CL_0019018,False,blood vessel smooth muscle cell,synonym,blood vessel smooth muscle cell = vascular smooth muscle cell
+VSMC,vascular associated smooth muscle cell,CL:0000359,CLO_0000192,False,immortal lung-derived fibroblast cell line cell,incorrect,no valid semantic relation found
+V ... Cell,vascular associated smooth muscle cell,CL:0000359,CL_0000000,False,cell,incorrect,no valid semantic relation found
+Vascular Smooth Muscle Cell,vascular associated smooth muscle cell,CL:0000359,CL_0000192,False,smooth muscle cell,broader,smooth muscle cell is parent of vascular associated smooth muscle cell
+kidney mesangial cells,mesangial cell,CL:0000650,CL_1000742,False,glomerular mesangial cell,llm_better,glomerular mesangial cell is more specific for kidney context
+mesenchymal cell,mesenchymal cell,CL:0000134,CL_0008019,False,mesenchymal cell,synonym,LLM label identical to GS label
+smooth muscle cell,smooth muscle cell,CL:0000192,CL_0000192,True,,exact_match,LLM prediction matches gold standard exactly
+fibroblasts,fibroblast,CL:0000057,CL_0000057,True,,exact_match,LLM prediction matches gold standard exactly
+T cell,T cell,CL:0000084,CL_0000542,False,lymphocyte,broader,lymphocyte is parent of T cell
+endothelial cells,endothelial cell,CL:0000115,CL_0000115,True,,exact_match,LLM prediction matches gold standard exactly
+pericytes,pericyte cell,CL:0000669,CL_0000669,True,,exact_match,LLM prediction matches gold standard exactly
+p,pericyte cell,CL:0000669,-,False,-,incorrect,LLM returned no prediction
+p cells,pericyte cell,CL:0000669,PANTO_0002500,False,-,incorrect,LLM returned no prediction
+retinal ... cells,retinal cell,CL:0009004,CL_0009004,True,,exact_match,LLM prediction matches gold standard exactly
+p cell,pericyte cell,CL:0000669,CL_0000740,False,retinal ganglion cell,incorrect,no valid semantic relation found
+P Cells,pericyte cell,CL:0000669,CL_4023188,False,midget ganglion cell of retina,incorrect,no valid semantic relation found
+P,pericyte cell,CL:0000669,-,False,-,incorrect,LLM returned no prediction
+pericyte,pericyte cell,CL:0000669,CL_0000669,True,,exact_match,LLM prediction matches gold standard exactly
+retinal cells,retinal cell,CL:0009004,CL_0009004,True,,exact_match,LLM prediction matches gold standard exactly
+Pericytes,pericyte cell,CL:0000669,CL_0000669,True,,exact_match,LLM prediction matches gold standard exactly
+P Cell,pericyte cell,CL:0000669,CL_4023188,False,midget ganglion cell of retina,incorrect,no valid semantic relation found
+Vascular Smooth Muscle Cells of ... Coronary Arteries,smooth muscle cell of the coronary artery,CL:0002592,CL_0002592,True,,exact_match,LLM prediction matches gold standard exactly
+perictyes,pericyte cell,CL:0000669,CL_0000669,True,,exact_match,LLM prediction matches gold standard exactly
+ES,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+trophoblast giant cells,trophoblast giant cell,CL:0002488,CL_0002488,True,,exact_match,LLM prediction matches gold standard exactly
+embryonic ... cells,embryonic cell,CL:0002321,CL_0002321,True,,exact_match,LLM prediction matches gold standard exactly
+giant cells,trophoblast giant cell,CL:0002488,CL_0000647,False,multinucleated giant cell,incorrect,no valid semantic relation found
+embryonic stem cells,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+smooth muscle cells,smooth muscle cell,CL:0000192,CL_0000192,True,,exact_match,LLM prediction matches gold standard exactly
+blood cells,blood cell,CL:0000081,CL_0000081,True,,exact_match,LLM prediction matches gold standard exactly
+trophoblast cells,trophoblast cell,CL:0000351,CL_0000351,True,,exact_match,LLM prediction matches gold standard exactly
+diploid ... cells,diploid cell,CL:0000415,CL_0000415,True,,exact_match,LLM prediction matches gold standard exactly
+mononuclear cell,mononuclear cell,CL:0000842,CL_2000001,False,peripheral blood mononuclear cell,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+prostate epithelial cells,epithelial cell of prostate,CL:0002231,CL_0002231,True,,exact_match,LLM prediction matches gold standard exactly
+hemopoietic stem cells,hematopoietic stem cell,CL:0000037,CL_0000037,True,,exact_match,LLM prediction matches gold standard exactly
+primary cells,primary cultured cell,CL:0000001,CL_0000001,True,,exact_match,LLM prediction matches gold standard exactly
+blood ... cells,blood cell,CL:0000081,CL_0000081,True,,exact_match,LLM prediction matches gold standard exactly
+mononuclear cells,mononuclear cell,CL:0000842,CL_2000001,False,peripheral blood mononuclear cell,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+blood ... cell,blood cell,CL:0000081,CL_0000081,True,,exact_match,LLM prediction matches gold standard exactly
+red cells,erythrocyte,CL:0000232,CL_0000232,True,,exact_match,LLM prediction matches gold standard exactly
+primary cell,primary cultured cell,CL:0000001,CL_0000001,True,,exact_match,LLM prediction matches gold standard exactly
+neuronal cells,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+cortical astrocytes,astrocyte of the cerebral cortex,CL:0002605,CL_0002605,True,,exact_match,LLM prediction matches gold standard exactly
+Neuronal cell,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+Cortical astrocytes,astrocyte of the cerebral cortex,CL:0002605,CL_0002605,True,,exact_match,LLM prediction matches gold standard exactly
+hippocampus neurons,hippocampal neuron,CL:0002608,CL_0002608,True,,exact_match,LLM prediction matches gold standard exactly
+Hippocampal neuron,hippocampal neuron,CL:0002608,CL_0002608,True,,exact_match,LLM prediction matches gold standard exactly
+hippocampal neurons,hippocampal neuron,CL:0002608,CL_0002608,True,,exact_match,LLM prediction matches gold standard exactly
+hair follicle melanocytes,hair follicle melanocyte,CL:0002483,CL_0002483,True,,exact_match,LLM prediction matches gold standard exactly
+pigment cells,pigment cell,CL:0000147,CL_0000148,False,melanocyte,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+melanocytes,melanocyte,CL:0000148,CL_0000148,True,,exact_match,LLM prediction matches gold standard exactly
+dermal papillae cells,hair follicle dermal papilla cell,CL:0000346,CL_0000346,True,,exact_match,LLM prediction matches gold standard exactly
+melanoblasts,melanoblast,CL:0000541,CL_0000541,True,,exact_match,LLM prediction matches gold standard exactly
+pigment cell,pigment cell,CL:0000147,CL_0000148,False,melanocyte,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+melanocyte,melanocyte,CL:0000148,CL_0000148,True,,exact_match,LLM prediction matches gold standard exactly
+embryonic cells,embryonic cell,CL:0002321,CL_0002321,True,,exact_match,LLM prediction matches gold standard exactly
+hair melanocyte,hair follicle melanocyte,CL:0002483,CL_0002483,True,,exact_match,LLM prediction matches gold standard exactly
+keratinocytes,keratinocyte,CL:0000312,CL_0000312,True,,exact_match,LLM prediction matches gold standard exactly
+melanoblast,melanoblast,CL:0000541,CL_0000541,True,,exact_match,LLM prediction matches gold standard exactly
+mesenchymal cells,mesenchymal cell,CL:0000134,CL_0000134,True,,exact_match,LLM prediction matches gold standard exactly
+hair ... melanocyte,hair follicle melanocyte,CL:0002483,CL_0002483,True,,exact_match,LLM prediction matches gold standard exactly
+pigment-cell,pigment cell,CL:0000147,CL_0000148,False,melanocyte,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+dermal papilla cells,hair follicle dermal papilla cell,CL:0000346,CL_0000346,True,,exact_match,LLM prediction matches gold standard exactly
+type I AECs,type I pneumocyte,CL:0002062,CL_0002062,True,,exact_match,LLM prediction matches gold standard exactly
+type II AECs,type II pneumocyte,CL:0002063,CL_0002063,True,,exact_match,LLM prediction matches gold standard exactly
+endothelial cell,endothelial cell,CL:0000115,CL_0000115,True,,exact_match,LLM prediction matches gold standard exactly
+AECs,epithelial cell of alveolus of lung,CL:0010003,CL_0010003,True,,exact_match,LLM prediction matches gold standard exactly
+lung epithelial cell,epithelial cell of lung,CL:0000082,CL_0000082,True,,exact_match,LLM prediction matches gold standard exactly
+type I cells,type I pneumocyte,CL:0002062,CL_0002062,True,,exact_match,LLM prediction matches gold standard exactly
+lung epithelial cells,epithelial cell of lung,CL:0000082,CL_0000082,True,,exact_match,LLM prediction matches gold standard exactly
+type I ... AECs,type I pneumocyte,CL:0002062,CL_0002062,True,,exact_match,LLM prediction matches gold standard exactly
+type I alveolar epithelial cells,type I pneumocyte,CL:0002062,CL_0002062,True,,exact_match,LLM prediction matches gold standard exactly
+type II ... AECs,type II pneumocyte,CL:0002063,CL_0002063,True,,exact_match,LLM prediction matches gold standard exactly
+type II alveolar epithelial cells,type II pneumocyte,CL:0002063,CL_0002063,True,,exact_match,LLM prediction matches gold standard exactly
+t2 ... epithelial cells,type II pneumocyte,CL:0002063,CL_0002063,True,,exact_match,LLM prediction matches gold standard exactly
+t1 ... epithelial cells,type I pneumocyte,CL:0002062,CL_0000066,False,epithelial cell,incorrect,no valid semantic relation found
+cultured ... cells,cultured cell,CL:0000010,CL_0000010,True,,exact_match,LLM prediction matches gold standard exactly
+cuboidal ... type II AECs,type II pneumocyte,CL:0002063,CL_0002063,True,,exact_match,LLM prediction matches gold standard exactly
+lung type I AECs,type I pneumocyte,CL:0002062,CL_0010003,False,obsolete epithelial cell of alveolus of lung,incorrect,no valid semantic relation found
+type I AEC,type I pneumocyte,CL:0002062,CL_0002062,True,,exact_match,LLM prediction matches gold standard exactly
+type I,type I pneumocyte,CL:0002062,CL_0002062,True,pulmonary alveolar type 1 cell,exact_match,LLM prediction matches gold standard exactly
+type I cell,type I pneumocyte,CL:0002062,CL_0002062,True,,exact_match,LLM prediction matches gold standard exactly
+mesenchyme cells,mesenchymal cell,CL:0000134,CL_0008019,False,mesenchymal cell,synonym,mesenchyme cell = mesenchymal cell
+type II ... epithelial cells,type II pneumocyte,CL:0002063,CL_0002063,True,,exact_match,LLM prediction matches gold standard exactly
+type I ... epithelial cells,type I pneumocyte,CL:0002062,CL_0002062,True,,exact_match,LLM prediction matches gold standard exactly
+epithelial ... cells,epithelial cell,CL:0000066,CL_0000066,True,,exact_match,LLM prediction matches gold standard exactly
+zygotic,zygote,CL:0000365,CL_0000365,True,,exact_match,LLM prediction matches gold standard exactly
+oocytes,oocyte,CL:0000023,CL_0000023,True,,exact_match,LLM prediction matches gold standard exactly
+eggs,egg cell,CL:0000025,CL_0000023,False,oocyte,synonym,oocyte = egg cell in common usage
+egg,egg cell,CL:0000025,CL_0000023,False,oocyte,synonym,oocyte = egg cell in common usage
+gallbladder epithelial cells,epithelial cell of gall bladder,CL:1000415,CL_1000415,True,,exact_match,LLM prediction matches gold standard exactly
+renal epithelial cells,kidney epithelial cell,CL:0002518,CL_0002584,False,renal cortical epithelial cell,broader,renal cortical epithelial cell is subtype of kidney epithelial cell
+enterocytes,enterocyte,CL:0000584,CL_1000339,False,enterocyte of epithelium proper of small intestine,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+mitral cells of ... olfactory bulb,mitral cell,CL:1001502,CL_1001502,True,,exact_match,LLM prediction matches gold standard exactly
+dopamine cells,dopaminergic neuron,CL:0000700,CL_0000700,True,,exact_match,LLM prediction matches gold standard exactly
+dopaminergic cells,dopaminergic neuron,CL:0000700,CL_0000700,True,,exact_match,LLM prediction matches gold standard exactly
+dopaminergic cell,dopaminergic neuron,CL:0000700,CL_0000700,True,,exact_match,LLM prediction matches gold standard exactly
+Kidney ... cells,kidney cell,CL:1000497,CL_0002518,False,kidney epithelial cell,broader,kidney epithelial cell is subtype of kidney cell
+myoblast,myoblast,CL:0000056,CL_0000515,False,skeletal muscle myoblast,synonym,skeletal muscle myoblast is the canonical CL term
+slow fibres,slow muscle cell,CL:0000189,CL_0002211,False,type I muscle cell,incorrect,no valid semantic relation found
+myoblasts,myoblast,CL:0000056,CL_0000515,False,skeletal muscle myoblast,synonym,skeletal muscle myoblast is the canonical CL term
+slow fibre,slow muscle cell,CL:0000189,CL_0002211,False,type I muscle cell,incorrect,no valid semantic relation found
+Myoblast,myoblast,CL:0000056,CL_0000515,False,skeletal muscle myoblast,synonym,skeletal muscle myoblast is the canonical CL term
+myocytes,muscle cell,CL:0000187,CL_0000187,True,,exact_match,LLM prediction matches gold standard exactly
+slow muscle fibres,slow muscle cell,CL:0000189,CL_0002211,False,type I muscle cell,incorrect,no valid semantic relation found
+Slow fibres,slow muscle cell,CL:0000189,CL_0008002,False,skeletal muscle fiber,broader,skeletal muscle fiber is parent of slow muscle cell
+myoblast cell,myoblast,CL:0000056,CL_0000515,False,skeletal muscle myoblast,synonym,skeletal muscle myoblast is the canonical CL term
+fast fibres,fast muscle cell,CL:0000190,CL_0002212,False,type II muscle cell,incorrect,no valid semantic relation found
+slow ... fibres,slow muscle cell,CL:0000189,CL_0008002,False,skeletal muscle fiber,broader,skeletal muscle fiber is parent of slow muscle cell
+muscle fibre,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber,synonym,skeletal muscle fiber = muscle cell fiber variant
+muscle fibres,muscle cell,CL:0000187,CLO_0000187,False,immortal animal ovary-derived fibroblast cell line cell,incorrect,no valid semantic relation found
+muscle cells,muscle cell,CL:0000187,CL_0000187,True,,exact_match,LLM prediction matches gold standard exactly
+myocyte,muscle cell,CL:0000187,CL_0000187,True,,exact_match,LLM prediction matches gold standard exactly
+myoblasts,muscle cell,CL:0000187,CL_0000515,False,skeletal muscle myoblast,synonym,skeletal muscle myoblast is the canonical CL term
+blastomeric cells,blastoderm cell,CL:0000353,CL_0000353,True,,exact_match,LLM prediction matches gold standard exactly
+slow myoblast,slow muscle myoblast,CL:0000857,CL_0000857,True,,exact_match,LLM prediction matches gold standard exactly
+myotubes,myotube,CL:0002372,CL_0008003,False,somatic muscle myotube,synonym,somatic muscle myotube = myotube
+adaxial ... cells,adaxial cell,CL:0007016,CL_0007016,True,,exact_match,LLM prediction matches gold standard exactly
+cells in culture,cultured cell,CL:0000010,CL_0000010,True,,exact_match,LLM prediction matches gold standard exactly
+myotube,myotube,CL:0002372,CL_0008003,False,somatic muscle myotube,synonym,somatic muscle myotube = myotube
+slow ... muscle fibres,slow muscle cell,CL:0000189,CL_0002211,False,type I muscle cell,incorrect,no valid semantic relation found
+slow muscle fibre,slow muscle cell,CL:0000189,CL_0002211,False,type I muscle cell,incorrect,no valid semantic relation found
+fast muscle fibres,fast muscle cell,CL:0000190,CL_0002212,False,type II muscle cell,incorrect,no valid semantic relation found
+muscle ... cells,muscle cell,CL:0000187,CL_0000187,True,,exact_match,LLM prediction matches gold standard exactly
+fast ... fibres,fast muscle cell,CL:0000190,CL_0002212,False,type II muscle cell,incorrect,no valid semantic relation found
+hematopoietic cells,hematopoietic cell,CL:0000988,CL_0000988,True,,exact_match,LLM prediction matches gold standard exactly
+hematopoietic progenitor cells,hematopoietic precursor cell,CL:0008001,CL_0000837,False,hematopoietic multipotent progenitor cell,broader,hematopoietic multipotent progenitor cell is subtype of hematopoietic precursor cell
+erythroid,erythroid lineage cell,CL:0000764,CL_0000038,False,erythroid progenitor cell,synonym,erythroid progenitor cell = erythroid lineage cell
+cells in circulation,circulating cell,CL:0000080,CL_0000081,False,blood cell,broader,blood cell is parent of circulating cell
+circulating cells,circulating cell,CL:0000080,CL_0000080,True,,exact_match,LLM prediction matches gold standard exactly
+circulating ... cells,circulating cell,CL:0000080,CL_0000080,True,,exact_match,LLM prediction matches gold standard exactly
+Cells in Circulation,circulating cell,CL:0000080,CL_0000738,False,leukocyte,broader,leukocyte is subtype of circulating cell
+RBCs,erythrocyte,CL:0000232,CL_0000232,True,,exact_match,LLM prediction matches gold standard exactly
+stem cell,stem cell,CL:0000034,CL_0000034,True,,exact_match,LLM prediction matches gold standard exactly
+mesodermal cells,mesodermal cell,CL:0000222,CL_0000222,True,,exact_match,LLM prediction matches gold standard exactly
+proerythroblasts,proerythroblast,CL:0000547,CL_0000547,True,,exact_match,LLM prediction matches gold standard exactly
+T-cells,T cell,CL:0000084,CL_0000542,False,lymphocyte,broader,lymphocyte is parent of T cell
+hematopoietic stem cell,hematopoietic stem cell,CL:0000037,CL_0000037,True,,exact_match,LLM prediction matches gold standard exactly
+Erythroid Cells,erythroid lineage cell,CL:0000764,CL_0000764,True,,exact_match,LLM prediction matches gold standard exactly
+white blood cells,leukocyte,CL:0000738,CL_0000738,True,,exact_match,LLM prediction matches gold standard exactly
+fibroblast cell,fibroblast,CL:0000057,CL_0000057,True,,exact_match,LLM prediction matches gold standard exactly
+stem cells,stem cell,CL:0000034,CL_0000034,True,,exact_match,LLM prediction matches gold standard exactly
+hematopoietic stem cells,hematopoietic stem cell,CL:0000037,CL_0000037,True,,exact_match,LLM prediction matches gold standard exactly
+Erythroid progenitor cells,erythroid progenitor cell,CL:0000038,CL_0000038,True,,exact_match,LLM prediction matches gold standard exactly
+myeloid cells,myeloid cell,CL:0000763,CL_0000763,True,,exact_match,LLM prediction matches gold standard exactly
+proerythroblast,proerythroblast,CL:0000547,CL_0000547,True,,exact_match,LLM prediction matches gold standard exactly
+erythroid progenitor cells,erythroid progenitor cell,CL:0000038,CL_0000038,True,,exact_match,LLM prediction matches gold standard exactly
+promyelocytic,promyelocyte,CL:0000836,CL_0000836,True,,exact_match,LLM prediction matches gold standard exactly
+reticulocyte,reticulocyte,CL:0000558,CL_0000558,True,,exact_match,LLM prediction matches gold standard exactly
+blood cell,blood cell,CL:0000081,CL_0000081,True,,exact_match,LLM prediction matches gold standard exactly
+Erythrocytes,erythrocyte,CL:0000232,CL_0000232,True,,exact_match,LLM prediction matches gold standard exactly
+erythroid cell,erythroid lineage cell,CL:0000764,CL_0000232,False,erythrocyte,broader,erythrocyte is a terminal differentiation of erythroid lineage cell
+red ... blood cells,erythrocyte,CL:0000232,CL_0000232,True,,exact_match,LLM prediction matches gold standard exactly
+stem ... cells,stem cell,CL:0000034,CL_0000034,True,,exact_match,LLM prediction matches gold standard exactly
+myeloid,myeloid cell,CL:0000763,CL_0000763,True,,exact_match,LLM prediction matches gold standard exactly
+Erythroid,erythroid lineage cell,CL:0000764,CL_0000764,True,,exact_match,LLM prediction matches gold standard exactly
+apoptotic cells,apoptosis fated cell,CL:0000445,CL_0000445,True,,exact_match,LLM prediction matches gold standard exactly
+BC,basal cell,CL:0000646,CL_0000945,False,lymphocyte of B lineage,incorrect,no valid semantic relation found
+strial marginal cells,strial marginal cell,CL:0002492,CL_0002492,True,,exact_match,LLM prediction matches gold standard exactly
+intermediate cells,strial intermediate cell,CL:0002486,CL_0002486,True,,exact_match,LLM prediction matches gold standard exactly
+Intermediate cells,strial intermediate cell,CL:0002486,CL_0002209,False,intermediate epitheliocyte,incorrect,no valid semantic relation found
+Marginal cells,strial marginal cell,CL:0002492,CL_0002492,True,,exact_match,LLM prediction matches gold standard exactly
+type I ... fibrocytes,type 1 otic fibrocyte,CL:0002670,CL_0000135,False,circulating fibrocyte,incorrect,no valid semantic relation found
+type ... II fibrocytes,type 2 otic fibrocyte,CL:0002666,CL_0000135,False,circulating fibrocyte,incorrect,no valid semantic relation found
+marginal cells,strial marginal cell,CL:0002492,CL_0002492,True,,exact_match,LLM prediction matches gold standard exactly
+marginal ... cell,strial marginal cell,CL:0002492,CL_0000845,False,marginal zone B cell of spleen,incorrect,no valid semantic relation found
+marginal cell,strial marginal cell,CL:0002492,CL_0002491,False,auditory epithelial cell,incorrect,no valid semantic relation found
+SMC,strial marginal cell,CL:0002492,CL_0000192,False,smooth muscle cell,incorrect,no valid semantic relation found
+basal cell,basal cell,CL:0000646,CL_0002187,False,basal cell of epidermis,incorrect,no valid semantic relation found
+strial intermediate cells,strial intermediate cell,CL:0002486,CL_0002486,True,,exact_match,LLM prediction matches gold standard exactly
+basal cells,basal cell,CL:0000646,CL_0000646,True,,exact_match,LLM prediction matches gold standard exactly
+vestibular hair cells,vestibular hair cell,CL:0000609,CL_0000609,True,,exact_match,LLM prediction matches gold standard exactly
+vestibular dark cells,vestibular dark cell,CL:0000846,CL_0000846,True,,exact_match,LLM prediction matches gold standard exactly
+sensory hair cells,sensory hair cell,CL:0000855,CL_0000855,True,,exact_match,LLM prediction matches gold standard exactly
+VHC,vestibular hair cell,CL:0000609,-,False,-,incorrect,LLM returned no prediction
+VDC,vestibular dark cell,CL:0000846,-,False,-,incorrect,LLM returned no prediction
+stria marginal cells,strial marginal cell,CL:0002492,CL_0002492,True,,exact_match,LLM prediction matches gold standard exactly
+thyroid gland epithelial cells,epithelial cell of thyroid gland,CL:0002257,CL_0002258,False,thyroid follicular cell,broader,thyroid follicular cell is subtype of epithelial cell of thyroid gland
+Muscle fiber,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber,synonym,skeletal muscle fiber = muscle cell fiber variant
+type I fibers,type I muscle cell,CL:0002211,CL_0002211,True,,exact_match,LLM prediction matches gold standard exactly
+type IIa,type IIa muscle cell,CL:0002214,CL_0002214,True,,exact_match,LLM prediction matches gold standard exactly
+type I,type I muscle cell,CL:0002211,CL_0002062,False,pulmonary alveolar type 1 cell,incorrect,no valid semantic relation found
+Muscle Fiber,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber,synonym,skeletal muscle fiber = muscle cell fiber variant
+muscle fiber,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber,synonym,skeletal muscle fiber = muscle cell fiber variant
+type I muscle fibers,type I muscle cell,CL:0002211,CL_0008002,False,skeletal muscle fiber,incorrect,no valid semantic relation found
+type II,type II muscle cell,CL:0002212,CL_0002063,False,pulmonary alveolar type 2 cell,incorrect,no valid semantic relation found
+muscle fibers,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber,synonym,skeletal muscle fiber = muscle cell fiber variant
+type I fiber,type I muscle cell,CL:0002211,CL_0002211,True,,exact_match,LLM prediction matches gold standard exactly
+type I ... fibers,type I muscle cell,CL:0002211,CL_0002211,True,,exact_match,LLM prediction matches gold standard exactly
+type ... II fibers,type II muscle cell,CL:0002212,CL_0002212,True,,exact_match,LLM prediction matches gold standard exactly
+Type I,type I muscle cell,CL:0002211,CL_0002062,False,pulmonary alveolar type 1 cell,incorrect,no valid semantic relation found
+slow ... fibers,slow muscle cell,CL:0000189,CLO_0008002,False,NCI-H1573 cell,incorrect,no valid semantic relation found
+glycolytic ... fibers,fast muscle cell,CL:0000190,CL_0008002,False,skeletal muscle fiber,broader,skeletal muscle fiber is parent of fast muscle cell
+oxidative ... fibers,red muscle cell,CL:0002210,CL_0002211,False,type I muscle cell,incorrect,no valid semantic relation found
+oxidative fibers,red muscle cell,CL:0002210,CL_0008002,False,skeletal muscle fiber,broader,skeletal muscle fiber is parent of red muscle cell
+oxidative muscle fibers,red muscle cell,CL:0002210,CL_0002211,False,type I muscle cell,incorrect,no valid semantic relation found
+fast ... fibers,fast muscle cell,CL:0000190,CL_0000190,True,,exact_match,LLM prediction matches gold standard exactly
+slow fiber,slow muscle cell,CL:0000189,CL_0008002,False,skeletal muscle fiber,broader,skeletal muscle fiber is parent of slow muscle cell
+type II fiber,type II muscle cell,CL:0002212,CL_0002212,True,,exact_match,LLM prediction matches gold standard exactly
+motor neuron,motor neuron,CL:0000100,CL_0008039,False,lower motor neuron,broader,lower motor neuron is a subtype of motor neuron
+zygotes,zygote,CL:0000365,CL_0000365,True,,exact_match,LLM prediction matches gold standard exactly
+motoneuron,motor neuron,CL:0000100,CL_0000100,True,,exact_match,LLM prediction matches gold standard exactly
+type I muscle fiber,type I muscle cell,CL:0002211,CL_0002211,True,,exact_match,LLM prediction matches gold standard exactly
+adipocyte,fat cell,CL:0000136,CL_0000136,True,,exact_match,LLM prediction matches gold standard exactly
+Skeletal muscle fibers,skeletal muscle fiber,CL:0008002,CL_0008002,True,,exact_match,LLM prediction matches gold standard exactly
+type II ... fibers,type II muscle cell,CL:0002212,CL_0008002,False,skeletal muscle fiber,broader,skeletal muscle fiber is parent of type II muscle cell
+Type II fibers,type II muscle cell,CL:0002212,CL_0002212,True,,exact_match,LLM prediction matches gold standard exactly
+Type I fibers,type I muscle cell,CL:0002211,CL_0002211,True,,exact_match,LLM prediction matches gold standard exactly
+Oxidative Type I Fibers,type I muscle cell,CL:0002211,CL_0002211,True,,exact_match,LLM prediction matches gold standard exactly
+Type IIb fibers,type IIb muscle cell,CL:0002215,CL_0002215,True,,exact_match,LLM prediction matches gold standard exactly
+IIa,type IIa muscle cell,CL:0002214,CL_0002214,True,,exact_match,LLM prediction matches gold standard exactly
+Type I Fibers,type I muscle cell,CL:0002211,CL_0002211,True,,exact_match,LLM prediction matches gold standard exactly
+IIb,type IIb muscle cell,CL:0002215,CL_0002215,True,,exact_match,LLM prediction matches gold standard exactly
+type IIb,type IIb muscle cell,CL:0002215,CL_0002215,True,,exact_match,LLM prediction matches gold standard exactly
+type ... IIb,type IIb muscle cell,CL:0002215,CL_0008002,False,skeletal muscle fiber,incorrect,no valid semantic relation found
+glycolytic fibers,fast muscle cell,CL:0000190,CL_0002215,False,type IIb muscle cell,incorrect,no valid semantic relation found
+muscle ... fibers,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber,synonym,skeletal muscle fiber = muscle cell fiber variant
+fast-twitch glycolytic fibers,fast muscle cell,CL:0000190,CL_0002215,False,type IIb muscle cell,incorrect,no valid semantic relation found
+cardiac myocyte,cardiac muscle cell,CL:0000746,CL_0000746,True,,exact_match,LLM prediction matches gold standard exactly
+Muscle Fibers,muscle cell,CL:0000187,CL_0008002,False,skeletal muscle fiber,synonym,skeletal muscle fiber = muscle cell fiber variant
+type IIA fibers,type IIa muscle cell,CL:0002214,CL_0002214,True,,exact_match,LLM prediction matches gold standard exactly
+apoptotic cell,apoptosis fated cell,CL:0000445,CL_0000445,True,,exact_match,LLM prediction matches gold standard exactly
+Apoptotic cells,apoptosis fated cell,CL:0000445,CL_0000445,True,,exact_match,LLM prediction matches gold standard exactly
+epithelial cells with cilia,ciliated epithelial cell,CL:0000067,CL_0000067,True,,exact_match,LLM prediction matches gold standard exactly
+primary lens fiber cells,primary lens fiber,CL:0002228,CL_0002228,True,,exact_match,LLM prediction matches gold standard exactly
+monocyte,monocyte,CL:0000576,CL_0000576,True,,exact_match,LLM prediction matches gold standard exactly
+photoreceptor cells,photoreceptor cell,CL:0000210,CL_0000210,True,,exact_match,LLM prediction matches gold standard exactly
+peritoneal macrophages,peritoneal macrophage,CL:0000581,CL_0000581,True,,exact_match,LLM prediction matches gold standard exactly
+Macrophage,macrophage,CL:0000235,CL_0000235,True,,exact_match,LLM prediction matches gold standard exactly
+pigmented cells,pigment cell,CL:0000147,CL_0000148,False,melanocyte,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+apoptotic ... cells,apoptosis fated cell,CL:0000445,CL_0000445,True,,exact_match,LLM prediction matches gold standard exactly
+mesenchymal ... cells,mesenchymal cell,CL:0000134,CL_0000134,True,,exact_match,LLM prediction matches gold standard exactly
+megakaryocytes,megakaryocyte,CL:0000556,CL_0000556,True,,exact_match,LLM prediction matches gold standard exactly
+Macrophages,macrophage,CL:0000235,CL_0000235,True,,exact_match,LLM prediction matches gold standard exactly
+retinal cell,retinal cell,CL:0009004,CL_0009004,True,,exact_match,LLM prediction matches gold standard exactly
+thymocytes,thymocyte,CL:0000893,CL_0000893,True,,exact_match,LLM prediction matches gold standard exactly
+ES-cell,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+elicited ... macrophages,elicited macrophage,CL:0000861,CL_0000861,True,,exact_match,LLM prediction matches gold standard exactly
+elicited macrophages,elicited macrophage,CL:0000861,CL_0000861,True,,exact_match,LLM prediction matches gold standard exactly
+M,macrophage,CL:0000235,CL_0000235,True,,exact_match,LLM prediction matches gold standard exactly
+lens cells,vertebrate lens cell,CL:0002222,CL_0002224,False,lens epithelial cell,incorrect,no valid semantic relation found
+neural ... cells,neural cell,CL:0002319,CL_0002319,True,,exact_match,LLM prediction matches gold standard exactly
+phagocytes,phagocyte,CL:0000234,CL_0000234,True,,exact_match,LLM prediction matches gold standard exactly
+neutrophils,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil,incorrect,no valid semantic relation found
+early erythroblast,basophilic erythroblast,CL:0000549,CL_0000765,False,erythroblast,broader,erythroblast is parent of basophilic erythroblast
+pigmented epithelial cells,pigmented epithelial cell,CL:0000529,CL_0002586,False,retinal pigment epithelial cell,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+condensing ... mesenchymal cells,mesenchyme condensation cell,CL:0000335,CL_0000335,True,,exact_match,LLM prediction matches gold standard exactly
+hypertrophic chondrocytes,hypertrophic chondrocyte,CL:0000743,CL_0000743,True,,exact_match,LLM prediction matches gold standard exactly
+mononuclear cells,single nucleate cell,CL:0000226,CL_2000001,False,peripheral blood mononuclear cell,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+articular cartilage cells,articular chondrocyte,CL:1001607,CL_1001607,True,,exact_match,LLM prediction matches gold standard exactly
+chondrocytes,chondrocyte,CL:0000138,CL_0000138,True,,exact_match,LLM prediction matches gold standard exactly
+cartilage cells,chondrocyte,CL:0000138,CL_0000138,True,,exact_match,LLM prediction matches gold standard exactly
+synoviocytes,synovial cell,CL:0000214,CL_0000214,True,,exact_match,LLM prediction matches gold standard exactly
+culture cells,cultured cell,CL:0000010,CL_0000010,True,,exact_match,LLM prediction matches gold standard exactly
+synovial cells,synovial cell,CL:0000214,CL_0002301,False,type B synovial cell,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+motor neurons,motor neuron,CL:0000100,CL_0000100,True,,exact_match,LLM prediction matches gold standard exactly
+Motor Neurons,motor neuron,CL:0000100,CL_0000100,True,,exact_match,LLM prediction matches gold standard exactly
+proprioceptive neuron,sensory neuron of dorsal root ganglion,CL:1001451,CL_0000526,False,afferent neuron,incorrect,LLM predicted a concept that is too general
+proprioceptive neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_0000101,False,sensory neuron,broader,sensory neuron is parent of sensory neuron of dorsal root ganglion
+glia,glial cell,CL:0000125,CL_0000125,True,,exact_match,LLM prediction matches gold standard exactly
+Motor Neuron,motor neuron,CL:0000100,CL_0008039,False,lower motor neuron,broader,lower motor neuron is a subtype of motor neuron
+DRG proprioceptive neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,,exact_match,LLM prediction matches gold standard exactly
+type II pneumocytes,type II pneumocyte,CL:0002063,CL_0002063,True,,exact_match,LLM prediction matches gold standard exactly
+CNS neurons,CNS neuron (sensu Vertebrata),CL:0000117,CL_2000029,False,central nervous system neuron,synonym,central nervous system neuron = CNS neuron (sensu Vertebrata)
+granule neurons,granule cell,CL:0000120,CL_0001032,False,cortical granule cell,broader,cortical granule cell is subtype of granule cell
+neuronal cell,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+granule neuron,granule cell,CL:0000120,CL_0000120,True,,exact_match,LLM prediction matches gold standard exactly
+Neuronal,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+cerebellar neuronal,cerebellar neuron,CL:1001611,CL_1001611,True,,exact_match,LLM prediction matches gold standard exactly
+Primary cell,primary cultured cell,CL:0000001,CL_0000001,True,,exact_match,LLM prediction matches gold standard exactly
+Purkinje neuron,Purkinje cell,CL:0000121,CL_0000617,False,GABAergic neuron,broader,GABAergic neuron is parent of Purkinje cell
+cerebellar granule neuron,cerebellar granule cell,CL:0001031,CL_0001031,True,,exact_match,LLM prediction matches gold standard exactly
+mesoderm ... cells,mesodermal cell,CL:0000222,CL_0000222,True,,exact_match,LLM prediction matches gold standard exactly
+cells of ... mesoderm,mesodermal cell,CL:0000222,CL_0000222,True,,exact_match,LLM prediction matches gold standard exactly
+cells of ... ectoderm,ectodermal cell,CL:0000221,CL_0000221,True,,exact_match,LLM prediction matches gold standard exactly
+nucleated cells,nucleate cell,CL:0002242,CL_0000255,False,eukaryotic cell,broader,eukaryotic cell is parent of nucleate cell
+endoderm ... cells,endodermal cell,CL:0000223,CL_0000223,True,,exact_match,LLM prediction matches gold standard exactly
+embryonic stem cell,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+cells of ... trophectoderm,trophectodermal cell,CL:1000274,CL_1000274,True,,exact_match,LLM prediction matches gold standard exactly
+Cells of ... endoderm,endodermal cell,CL:0000223,CL_0000223,True,,exact_match,LLM prediction matches gold standard exactly
+cells of ... endoderm,endodermal cell,CL:0000223,CL_0000223,True,,exact_match,LLM prediction matches gold standard exactly
+Cells of ... trophectoderm,trophectodermal cell,CL:1000274,CL_0000351,False,trophoblast cell,broader,trophoblast cell is parent of trophectodermal cell
+Cells of ... epiblast,epiblast cell,CL:0000352,CL_0000352,True,,exact_match,LLM prediction matches gold standard exactly
+keratinocyte,keratinocyte,CL:0000312,CL_0000312,True,,exact_match,LLM prediction matches gold standard exactly
+hepatocytes,hepatocyte,CL:0000182,CL_0000182,True,,exact_match,LLM prediction matches gold standard exactly
+spinous layer cells,prickle cell,CL:0000649,CL_0000649,True,,exact_match,LLM prediction matches gold standard exactly
+spinous ... layer cells,prickle cell,CL:0000649,CL_0000312,False,keratinocyte,incorrect,no valid semantic relation found
+hair cell,hair follicle cell,CL:0002559,CL_0000609,False,vestibular hair cell,broader,vestibular hair cell is subtype of sensory hair cell
+basal epidermal cells,basal cell of epidermis,CL:0002187,CL_0002187,True,,exact_match,LLM prediction matches gold standard exactly
+epithelial ... cell,epithelial cell,CL:0000066,CL_0000066,True,,exact_match,LLM prediction matches gold standard exactly
+motile ... cells,motile cell,CL:0000219,CL_0000219,True,,exact_match,LLM prediction matches gold standard exactly
+granular layer cells,stratum granulosum cell,CL:0000712,CL_0001031,False,cerebellar granule cell,incorrect,no valid semantic relation found
+Keratinocytes,keratinocyte,CL:0000312,CL_0000312,True,,exact_match,LLM prediction matches gold standard exactly
+ectodermal cells,ectodermal cell,CL:0000221,CL_0000221,True,,exact_match,LLM prediction matches gold standard exactly
+Müller cells,Mueller cell,CL:0000636,CL_0000125,False,glial cell,broader,glial cell is parent of Mueller cell
+cone,retinal cone cell,CL:0000573,CL_0000490,False,photopic photoreceptor cell,incorrect,no valid semantic relation found
+photoreceptor,photoreceptor cell,CL:0000210,CL_0000210,True,,exact_match,LLM prediction matches gold standard exactly
+Rod,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+bipolar cell,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = bipolar neuron in retinal context
+rod,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+photoreceptors,photoreceptor cell,CL:0000210,CL_0000210,True,photoreceptor cell,exact_match,LLM prediction matches gold standard exactly
+r,retinal rod cell,CL:0000604,-,False,-,incorrect,LLM returned no prediction
+Photoreceptors,photoreceptor cell,CL:0000210,CL_0000604,False,retinal rod cell,incorrect,no valid semantic relation found
+h,horizontal cell,CL:0000745,CL_0002674,False,H minus,incorrect,no valid semantic relation found
+rod photoreceptors,retinal rod cell,CL:0000604,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of retinal rod cell
+Photoreceptor cells,photoreceptor cell,CL:0000210,CL_0000210,True,,exact_match,LLM prediction matches gold standard exactly
+Photoreceptor,photoreceptor cell,CL:0000210,CL_0000210,True,,exact_match,LLM prediction matches gold standard exactly
+horizontal cells,horizontal cell,CL:0000745,CL_0000745,True,,exact_match,LLM prediction matches gold standard exactly
+bipolar cells,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = bipolar neuron in retinal context
+horizontal cell,horizontal cell,CL:0000745,CL_0000745,True,,exact_match,LLM prediction matches gold standard exactly
+rod bipolar cells,rod bipolar cell,CL:0000751,CL_0000751,True,,exact_match,LLM prediction matches gold standard exactly
+photoreceptors R1,R1 photoreceptor cell,CL:0000687,CL_0000687,True,,exact_match,LLM prediction matches gold standard exactly
+photoreceptors ... R6,R6 photoreceptor cell,CL:0000705,CL_0000705,True,,exact_match,LLM prediction matches gold standard exactly
+R1 ... photoreceptors,R1 photoreceptor cell,CL:0000687,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of R1 photoreceptor cell
+R6 photoreceptors,R6 photoreceptor cell,CL:0000705,CL_0000705,True,,exact_match,LLM prediction matches gold standard exactly
+off ... bipolar cells,OFF-bipolar cell,CL:0000750,CL_0000750,True,,exact_match,LLM prediction matches gold standard exactly
+H,horizontal cell,CL:0000745,CL_0007017,False,Stiftchenzellen,incorrect,no valid semantic relation found
+on ... bipolar cells,ON-bipolar cell,CL:0000749,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = ON-bipolar cell
+B,bipolar neuron,CL:0000103,CL_0000236,False,B cell,incorrect,no valid semantic relation found
+Cone,retinal cone cell,CL:0000573,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of retinal cone cell
+horizontal ... cells,horizontal cell,CL:0000745,CL_0004217,False,H1 horizontal cell,incorrect,no valid semantic relation found
+horizontal ... cell,horizontal cell,CL:0000745,CL_0000745,True,,exact_match,LLM prediction matches gold standard exactly
+hepatocyte,hepatocyte,CL:0000182,CL_0000182,True,,exact_match,LLM prediction matches gold standard exactly
+granule cell neurons,granule cell,CL:0000120,CL_0001033,False,hippocampal granule cell,broader,hippocampal granule cell is subtype of granule cell
+astrocytes,astrocyte,CL:0000127,CL_0000127,True,,exact_match,LLM prediction matches gold standard exactly
+pyramidal neurons,pyramidal cell,CL:0000598,CL_4023111,False,cerebral cortex pyramidal neuron,incorrect,no valid semantic relation found
+slow-twitch ... muscle fibers,slow muscle cell,CL:0000189,CL_0008002,False,skeletal muscle fiber,broader,skeletal muscle fiber is parent of slow muscle cell
+microglial,microglial cell,CL:0000129,CL_0000129,True,,exact_match,LLM prediction matches gold standard exactly
+type I ... muscle fibers,type I muscle cell,CL:0002211,CL_0002211,True,,exact_match,LLM prediction matches gold standard exactly
+cerebral cortical neuronal,cerebral cortex neuron,CL:0010012,CL_0010012,True,,exact_match,LLM prediction matches gold standard exactly
+oxidative ... muscle fibers,red muscle cell,CL:0002210,CL_0008002,False,skeletal muscle fiber,broader,skeletal muscle fiber is parent of red muscle cell
+Purkinje ... cell neurons,Purkinje cell,CL:0000121,CL_0000121,True,,exact_match,LLM prediction matches gold standard exactly
+cortical neurons,cerebral cortex neuron,CL:0010012,CL_0010012,True,,exact_match,LLM prediction matches gold standard exactly
+neurons of ... cerebral cortex,cerebral cortex neuron,CL:0010012,CL_0010012,True,,exact_match,LLM prediction matches gold standard exactly
+ESC,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+ES Cell,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+neonatal cardiac myocytes,fetal cardiomyocyte,CL:0002495,CL_0000746,False,cardiac muscle cell,broader,cardiac muscle cell is parent of fetal cardiomyocyte
+glial,glial cell,CL:0000125,CL_0000125,True,,exact_match,LLM prediction matches gold standard exactly
+cardiac myocytes,cardiac muscle cell,CL:0000746,CL_0000746,True,,exact_match,LLM prediction matches gold standard exactly
+astrocytic,astrocyte,CL:0000127,CL_0000127,True,,exact_match,LLM prediction matches gold standard exactly
+Hepatocytes,hepatocyte,CL:0000182,CL_0000182,True,,exact_match,LLM prediction matches gold standard exactly
+lymphocytic,lymphocyte,CL:0000542,CL_0000542,True,,exact_match,LLM prediction matches gold standard exactly
+phagocytic cells,phagocyte,CL:0000234,CL_0000863,False,M1 macrophage,broader,M1 macrophage is subtype of phagocyte
+EB,erythroblast,CL:0000765,CL_0002322,False,embryonic stem cell,incorrect,no valid semantic relation found
+erythroblast,erythroblast,CL:0000765,CL_0000765,True,,exact_match,LLM prediction matches gold standard exactly
+ES-cells,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+RBC,erythrocyte,CL:0000232,CL_0000232,True,,exact_match,LLM prediction matches gold standard exactly
+erythroblasts,erythroblast,CL:0000765,CL_0000765,True,,exact_match,LLM prediction matches gold standard exactly
+immune cell,leukocyte,CL:0000738,CL_0000738,True,,exact_match,LLM prediction matches gold standard exactly
+podocyte,glomerular visceral epithelial cell,CL:0000653,CL_0000653,True,,exact_match,LLM prediction matches gold standard exactly
+basophilic,basophil,CL:0000767,CL_0000767,True,,exact_match,LLM prediction matches gold standard exactly
+cells of ... early embryo,early embryonic cell,CL:0000007,CL_0000007,True,,exact_match,LLM prediction matches gold standard exactly
+sinusoidal endothelial cells,endothelial cell of sinusoid,CL:0002262,CL_1000398,False,endothelial cell of hepatic sinusoid,synonym,endothelial cell of hepatic sinusoid = endothelial cell of sinusoid
+podocytes,glomerular visceral epithelial cell,CL:0000653,CL_0000653,True,,exact_match,LLM prediction matches gold standard exactly
+Pyramidal neurons,pyramidal cell,CL:0000598,CL_4023111,False,cerebral cortex pyramidal neuron,incorrect,no valid semantic relation found
+radial glial cells,radial glial cell,CL:0000681,CL_0000681,True,,exact_match,LLM prediction matches gold standard exactly
+glial cell,glial cell,CL:0000125,CL_0000125,True,,exact_match,LLM prediction matches gold standard exactly
+Astrocytes,astrocyte,CL:0000127,CL_0000127,True,,exact_match,LLM prediction matches gold standard exactly
+astroglial ... cell,astrocyte,CL:0000127,CL_0000127,True,,exact_match,LLM prediction matches gold standard exactly
+adrenal chromaffin cells,chromaffin cell of adrenal gland,CL:1000426,CL_0000336,False,adrenal medulla chromaffin cell,synonym,adrenal medulla chromaffin cell = chromaffin cell of adrenal gland
+cultured cells,cultured cell,CL:0000010,CL_0000010,True,,exact_match,LLM prediction matches gold standard exactly
+foreskin fibroblasts,foreskin fibroblast,CL:1001608,CL_0002551,False,fibroblast of dermis,broader,fibroblast of dermis is parent of foreskin fibroblast
+Cultured cells,cultured cell,CL:0000010,CL_0000010,True,,exact_match,LLM prediction matches gold standard exactly
+Neuronal cells,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+astroglial,astrocyte,CL:0000127,CL_0000127,True,,exact_match,LLM prediction matches gold standard exactly
+Purkinje-cells,Purkinje cell,CL:0000121,CL_0000121,True,,exact_match,LLM prediction matches gold standard exactly
+astrocytic cell,astrocyte,CL:0000127,CL_0000127,True,,exact_match,LLM prediction matches gold standard exactly
+Purkinje-cell,Purkinje cell,CL:0000121,CL_0000121,True,,exact_match,LLM prediction matches gold standard exactly
+Endodermal ... cells,endodermal cell,CL:0000223,CL_0000223,True,,exact_match,LLM prediction matches gold standard exactly
+cerebellar Purkinje-cells,Purkinje cell,CL:0000121,CL_0000617,False,GABAergic neuron,broader,GABAergic neuron is parent of Purkinje cell
+astrocyte,astrocyte,CL:0000127,CL_0000127,True,,exact_match,LLM prediction matches gold standard exactly
+Purkinje-cells of ... cerebellum,Purkinje cell,CL:0000121,CL_0000617,False,GABAergic neuron,broader,GABAergic neuron is parent of Purkinje cell
+glial cells,glial cell,CL:0000125,CL_0000125,True,,exact_match,LLM prediction matches gold standard exactly
+neuronal ... cell,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+pyramidal neuron,pyramidal cell,CL:0000598,CL_4023111,False,cerebral cortex pyramidal neuron,incorrect,no valid semantic relation found
+neuronal ... cells,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+astroglial cell,astrocyte,CL:0000127,CL_0000127,True,,exact_match,LLM prediction matches gold standard exactly
+cells of ... stratum granulosum,stratum granulosum cell,CL:0000712,CL_0000312,False,keratinocyte,broader,keratinocyte is parent of stratum granulosum cell
+astroglial cells,astrocyte,CL:0000127,CL_0000127,True,,exact_match,LLM prediction matches gold standard exactly
+Purkinje cells,Purkinje cell,CL:0000121,CL_0000617,False,GABAergic neuron,broader,GABAergic neuron is parent of Purkinje cell
+peptidergic neurons,peptidergic neuron,CL:0000110,CL_0000110,True,,exact_match,LLM prediction matches gold standard exactly
+afferent sensory neurons,sensory neuron,CL:0000101,CL_1001451,False,sensory neuron of dorsal root ganglion,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+dorsal root ganglion ... sensory ... neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,,exact_match,LLM prediction matches gold standard exactly
+DRG sensory neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,,exact_match,LLM prediction matches gold standard exactly
+sensory neurons of dorsal root ganglia,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,,exact_match,LLM prediction matches gold standard exactly
+spinal motor neurons,spinal cord motor neuron,CL:0011001,CL_0008038,False,alpha motor neuron,broader,alpha motor neuron is subtype of spinal cord motor neuron
+proprioceptive sensory neuron,sensory neuron of dorsal root ganglion,CL:1001451,CL_0000526,False,afferent neuron,incorrect,LLM predicted a concept that is too general
+proprioceptive sensory neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_0000531,False,primary sensory neuron (sensu Teleostei),incorrect,no valid semantic relation found
+nociceptive ... neurons,pain receptor cell,CL:0000198,CL_0000198,True,,exact_match,LLM prediction matches gold standard exactly
+proprioceptive DRG neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,,exact_match,LLM prediction matches gold standard exactly
+proprioceptive afferent cell,sensory neuron of dorsal root ganglion,CL:1001451,CL_0000526,False,incorrect,LLM predicted a concept that is too general
+neuroblasts,neuroblast,CL:0000031,CL_0011020,False,neural progenitor cell,broader,neural progenitor cell is parent of neuroblast
+DRG ... sensory ... neurons,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,,exact_match,LLM prediction matches gold standard exactly
+neuroblast,neuroblast,CL:0000031,CL_0000031,True,,exact_match,LLM prediction matches gold standard exactly
+sensory neurons of ... DRG,sensory neuron of dorsal root ganglion,CL:1001451,CL_1001451,True,,exact_match,LLM prediction matches gold standard exactly
+cerebellar granule cell,cerebellar granule cell,CL:0001031,CL_0001031,True,,exact_match,LLM prediction matches gold standard exactly
+Schwann cells,Schwann cell,CL:0002573,CL_0002573,True,,exact_match,LLM prediction matches gold standard exactly
+Hippocampal neurons,hippocampal neuron,CL:0002608,CL_0002608,True,,exact_match,LLM prediction matches gold standard exactly
+Schwann cell,Schwann cell,CL:0002573,CL_0002573,True,,exact_match,LLM prediction matches gold standard exactly
+myelinating Schwann cells,myelinating Schwann cell,CL:0000218,CL_0000218,True,,exact_match,LLM prediction matches gold standard exactly
+cerebellar granule cells,cerebellar granule cell,CL:0001031,CL_0001031,True,,exact_match,LLM prediction matches gold standard exactly
+spermatozoa,sperm,CL:0000019,CLO_0000019,False,immortal cell line cell,incorrect,no valid semantic relation found
+Schwann-cell,Schwann cell,CL:0002573,CL_0002573,True,,exact_match,LLM prediction matches gold standard exactly
+cultured primary ... cells,primary cultured cell,CL:0000001,CL_0000001,True,,exact_match,LLM prediction matches gold standard exactly
+Purkinje cell,Purkinje cell,CL:0000121,CL_0000121,True,,exact_match,LLM prediction matches gold standard exactly
+Primary ... cell,primary cultured cell,CL:0000001,CL_0000001,True,,exact_match,LLM prediction matches gold standard exactly
+pro-myelinating Schwann cells,myelinating Schwann cell,CL:0000218,CL_0002375,False,Schwann cell precursor,synonym,Schwann cell precursor = pro-myelinating Schwann cell
+pro-myelinating Schwann cell,myelinating Schwann cell,CL:0000218,CL_0002573,False,Schwann cell,broader,Schwann cell is parent of myelinating Schwann cell
+Primary ... cells,primary cultured cell,CL:0000001,CL_0000001,True,,exact_match,LLM prediction matches gold standard exactly
+radial glia,radial glial cell,CL:0000681,CL_0000681,True,,exact_match,LLM prediction matches gold standard exactly
+radial glial,radial glial cell,CL:0000681,CL_0000681,True,,exact_match,LLM prediction matches gold standard exactly
+neural stem cells,neuronal stem cell,CL:0000047,CL_0000047,True,,exact_match,LLM prediction matches gold standard exactly
+Radial Glia,radial glial cell,CL:0000681,CL_0000681,True,,exact_match,LLM prediction matches gold standard exactly
+neural stem cell,neuronal stem cell,CL:0000047,CL_0000047,True,,exact_match,LLM prediction matches gold standard exactly
+Radial Glial,radial glial cell,CL:0000681,CL_0000681,True,,exact_match,LLM prediction matches gold standard exactly
+Stem Cell,stem cell,CL:0000034,CL_0000034,True,,exact_match,LLM prediction matches gold standard exactly
+mast cells,mast cell,CL:0000097,CL_0000097,True,,exact_match,LLM prediction matches gold standard exactly
+mast cell,mast cell,CL:0000097,CL_0000097,True,,exact_match,LLM prediction matches gold standard exactly
+neutrophil,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil,synonym,mature neutrophil is the canonical CL term for neutrophil
+immune cells,leukocyte,CL:0000738,CL_0000738,True,,exact_match,LLM prediction matches gold standard exactly
+Mast cell,mast cell,CL:0000097,CL_0000097,True,,exact_match,LLM prediction matches gold standard exactly
+goblet cell,goblet cell,CL:0000160,CL_0000160,True,,exact_match,LLM prediction matches gold standard exactly
+Hematopoietic cell,hematopoietic cell,CL:0000988,CL_0000988,True,,exact_match,LLM prediction matches gold standard exactly
+goblet cells,goblet cell,CL:0000160,CL_0000160,True,,exact_match,LLM prediction matches gold standard exactly
+Paneth cell,paneth cell,CL:0000510,CL_1000345,False,paneth cell of epithelium of crypt of Lieberkuhn of small intestine,synonym,paneth cell of crypt of Lieberkuhn = paneth cell
+lymphocyte,lymphocyte,CL:0000542,CL_0000542,True,,exact_match,LLM prediction matches gold standard exactly
+taste receptor cells,taste receptor cell,CL:0000209,CL_0000209,True,,exact_match,LLM prediction matches gold standard exactly
+natural killer cell,natural killer cell,CL:0000623,CL_0000623,True,,exact_match,LLM prediction matches gold standard exactly
+taste cells,taste receptor cell,CL:0000209,CL_0002286,False,type II taste cell,broader,type II taste cell is a subtype of taste receptor cell
+TRCs,taste receptor cell,CL:0000209,CL_0009105,False,T cell zone reticular cell,incorrect,no valid semantic relation found
+PMNs,granulocyte,CL:0000094,CL_0000096,False,mature neutrophil,broader,mature neutrophil is subtype of granulocyte; PMN specifically refers to neutrophil
+polymorphonuclear leukocytes,granulocyte,CL:0000094,CL_0000094,True,,exact_match,LLM prediction matches gold standard exactly
+PMN,granulocyte,CL:0000094,CL_0000096,False,mature neutrophil,broader,mature neutrophil is subtype of granulocyte; PMN specifically refers to neutrophil
+dendritic cells,dendritic cell,CL:0000451,CL_0000451,True,,exact_match,LLM prediction matches gold standard exactly
+T cells,T cell,CL:0000084,CL_0002419,False,mature T cell,synonym,mature T cell = T cell
+inflammatory cell,inflammatory cell,CL:0009002,CL_0009002,True,,exact_match,LLM prediction matches gold standard exactly
+Reticulocyte,reticulocyte,CL:0000558,CL_0000558,True,,exact_match,LLM prediction matches gold standard exactly
+neurones,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+neural cell,neural cell,CL:0002319,CL_0000126,False,macroglial cell,broader,macroglial cell is a subtype of neural cell
+Hepatocyte,hepatocyte,CL:0000182,CL_0000182,True,,exact_match,LLM prediction matches gold standard exactly
+myotubules,myotube,CL:0002372,CL_0008003,False,somatic muscle myotube,synonym,"myotubule = myotube, spelling variant"
+muscle precursor cell,muscle precursor cell,CL:0000680,CL_0000056,False,myoblast,broader,myoblast is subtype of muscle precursor cell
+Myotubules,myotube,CL:0002372,CL_0008003,False,somatic muscle myotube,synonym,"myotubule = myotube, spelling variant"
+muscle precursor cells,muscle precursor cell,CL:0000680,CL_0000515,False,skeletal muscle myoblast,broader,skeletal muscle myoblast is subtype of muscle precursor cell
+PCGs,primordial germ cell,CL:0000670,-,False,-,incorrect,LLM returned no prediction
+Primordial Germ Cells,primordial germ cell,CL:0000670,CL_0000670,True,,exact_match,LLM prediction matches gold standard exactly
+extraembryonic cells,extraembryonic cell,CL:0000349,CL_0000349,True,,exact_match,LLM prediction matches gold standard exactly
+PGCs,primordial germ cell,CL:0000670,CL_0000670,True,,exact_match,LLM prediction matches gold standard exactly
+Primitive germ cells,primordial germ cell,CL:0000670,CL_0000670,True,,exact_match,LLM prediction matches gold standard exactly
+blue ... photoreceptors,blue sensitive photoreceptor cell,CL:0000495,CL_0000488,False,visible light photoreceptor cell,broader,visible light photoreceptor cell is parent of blue sensitive photoreceptor cell
+Rod Photoreceptor,retinal rod cell,CL:0000604,CL_0000489,False,scotopic photoreceptor cell,synonym,scotopic photoreceptor cell = retinal rod cell
+Rod ... photoreceptors,retinal rod cell,CL:0000604,CL_0000490,False,photopic photoreceptor cell,incorrect,no valid semantic relation found
+cone cells,retinal cone cell,CL:0000573,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of retinal cone cell
+cone,crystallin accumulating cell,CL:0000306,CL_0000490,False,photopic photoreceptor cell,incorrect,no valid semantic relation found
+Cones,retinal cone cell,CL:0000573,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of retinal cone cell
+photoreceptor cell,photoreceptor cell,CL:0000210,CL_0000210,True,,exact_match,LLM prediction matches gold standard exactly
+Rods,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+cells of ... retina,retinal cell,CL:0009004,CL_0009004,True,,exact_match,LLM prediction matches gold standard exactly
+immature astrocytes,immature astrocyte,CL:0002626,CL_0002626,True,,exact_match,LLM prediction matches gold standard exactly
+BP,bipolar neuron,CL:0000103,CL_0011020,False,neural progenitor cell,incorrect,no valid semantic relation found
+Photoreceptor Cell,photoreceptor cell,CL:0000210,CL_0000210,True,,exact_match,LLM prediction matches gold standard exactly
+rod photoreceptor,retinal rod cell,CL:0000604,CL_0000489,False,scotopic photoreceptor cell,synonym,scotopic photoreceptor cell = retinal rod cell
+rod photoreceptor cells,retinal rod cell,CL:0000604,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of retinal rod cell
+photoreceptors,eye photoreceptor cell,CL:0000287,CL_0000210,False,photoreceptor cell,synonym,photoreceptor cell = eye photoreceptor cell
+Müller glia,Muller cell,CL:0011107,CL_0000125,False,glial cell,broader,glial cell is parent of Muller cell
+Müller Glial,Muller cell,CL:0011107,CL_0000636,False,Mueller cell,synonym,"Mueller cell = Muller cell, spelling variant"
+MG,Muller cell,CL:0011107,CL_0000129,False,microglial cell,incorrect,no valid semantic relation found
+Müller glial,Muller cell,CL:0011107,CL_0000125,False,glial cell,broader,glial cell is parent of Muller cell
+collecting duct cells,kidney collecting duct cell,CL:1001225,CL_1001431,False,kidney collecting duct principal cell,broader,kidney collecting duct principal cell is subtype of kidney collecting duct cell
+renal collecting-duct cells,kidney collecting duct cell,CL:1001225,CL_1000454,False,kidney collecting duct epithelial cell,synonym,kidney collecting duct epithelial cell = kidney collecting duct cell
+kidney cells,kidney cell,CL:1000497,CL_1000497,True,,exact_match,LLM prediction matches gold standard exactly
+collecting-duct principal cells,kidney collecting duct principal cell,CL:1001431,CL_1001431,True,,exact_match,LLM prediction matches gold standard exactly
+renal cell,kidney cell,CL:1000497,CL_0002584,False,renal cortical epithelial cell,broader,renal cortical epithelial cell is subtype of kidney cell
+kidney cell,kidney cell,CL:1000497,CL_0002518,False,kidney epithelial cell,broader,kidney epithelial cell is subtype of kidney cell
+kidney ... cell,kidney cell,CL:1000497,CL_1000497,True,,exact_match,LLM prediction matches gold standard exactly
+eosinophilic,eosinophil,CL:0000771,CL_0000771,True,,exact_match,LLM prediction matches gold standard exactly
+MC,mitral cell,CL:1001502,CL_0000097,False,mast cell,incorrect,no valid semantic relation found
+GC,granule cell,CL:0000120,CL_0000844,False,germinal center B cell,incorrect,no valid semantic relation found
+mitral cells,mitral cell,CL:1001502,-,False,-,incorrect,LLM returned no prediction
+olfactory sensory neurons,olfactory receptor cell,CL:0000207,CL_0000847,False,ciliated olfactory receptor neuron,synonym,ciliated olfactory receptor neuron = olfactory receptor cell
+granule cells,granule cell,CL:0000120,CL_0001031,False,cerebellar granule cell,broader,cerebellar granule cell is subtype of granule cell
+output neurons,efferent neuron,CL:0000527,CL_0000540,False,neuron,broader,neuron is parent of efferent neuron
+pyramidal cells,pyramidal cell,CL:0000598,CL_0000598,True,,exact_match,LLM prediction matches gold standard exactly
+olfactory bulb mitral ... cells,mitral cell,CL:1001502,CL_1001502,True,,exact_match,LLM prediction matches gold standard exactly
+neurons of forebrain areas,neuron of the forebrain,CL:0012001,CL_0012001,True,,exact_match,LLM prediction matches gold standard exactly
+forebrain neurons,neuron of the forebrain,CL:0012001,CL_0012001,True,,exact_match,LLM prediction matches gold standard exactly
+neurons of ... forebrain,neuron of the forebrain,CL:0012001,CL_0012001,True,,exact_match,LLM prediction matches gold standard exactly
+hippocampal ... neurons,hippocampal neuron,CL:0002608,CL_0002608,True,,exact_match,LLM prediction matches gold standard exactly
+hippocampal pyramidal neurons,hippocampal pyramidal neuron,CL:1001571,CL_1001571,True,,exact_match,LLM prediction matches gold standard exactly
+mitral ... cells,mitral cell,CL:1001502,CLO_0000626,False,immortal ferret brain-derived cell line cell,incorrect,no valid semantic relation found
+bronchial epithelial cells,bronchial epithelial cell,CL:0002328,CL_0002328,True,,exact_match,LLM prediction matches gold standard exactly
+epidermal cells,epidermal cell,CL:0000362,CL_0000312,False,keratinocyte,broader,keratinocyte is the main subtype of epidermal cell
+B cell,B cell,CL:0000236,CL_0000236,True,,exact_match,LLM prediction matches gold standard exactly
+microglia,microglial cell,CL:0000129,CL_0000129,True,,exact_match,LLM prediction matches gold standard exactly
+Glial,glial cell,CL:0000125,CL_0000125,True,,exact_match,LLM prediction matches gold standard exactly
+activated astrocytes,mature astrocyte,CL:0002627,CL_0000127,False,astrocyte,broader,astrocyte is parent of mature astrocyte
+activated microglia,mature microglial cell,CL:0002629,CL_0002629,True,,exact_match,LLM prediction matches gold standard exactly
+bone marrow mesenchymal cells,mesenchymal stem cell of the bone marrow,CL:0002540,CL_0002540,True,,exact_match,LLM prediction matches gold standard exactly
+bone marrow mesenchymal stem cells,mesenchymal stem cell of the bone marrow,CL:0002540,CL_0002540,True,,exact_match,LLM prediction matches gold standard exactly
+osteoclasts,osteoclast,CL:0000092,CL_0000092,True,,exact_match,LLM prediction matches gold standard exactly
+bone marrow stromal cells,stromal cell of bone marrow,CL:0010001,CL_0002540,False,mesenchymal stem cell of the bone marrow,broader,mesenchymal stem cell of bone marrow is subtype of stromal cell of bone marrow
+bone marrow ... cells,bone marrow cell,CL:0002092,CL_0002092,True,,exact_match,LLM prediction matches gold standard exactly
+osteoblast,osteoblast,CL:0000062,CL_0000062,True,,exact_match,LLM prediction matches gold standard exactly
+osteoclast,osteoclast,CL:0000092,CL_0000092,True,,exact_match,LLM prediction matches gold standard exactly
+primary ... cells,primary cultured cell,CL:0000001,CL_0000001,True,,exact_match,LLM prediction matches gold standard exactly
+bone marrow mesenchymal stem cell,mesenchymal stem cell of the bone marrow,CL:0002540,CL_0002540,True,,exact_match,LLM prediction matches gold standard exactly
+Osteoclasts,osteoclast,CL:0000092,CL_0000092,True,,exact_match,LLM prediction matches gold standard exactly
+Marrow stromal cells,stromal cell of bone marrow,CL:0010001,CL_0002540,False,mesenchymal stem cell of the bone marrow,broader,mesenchymal stem cell of bone marrow is subtype of stromal cell of bone marrow
+Osteoblast,osteoblast,CL:0000062,CL_0000062,True,,exact_match,LLM prediction matches gold standard exactly
+Cultured ... Cells,cultured cell,CL:0000010,CL_0000010,True,,exact_match,LLM prediction matches gold standard exactly
+Osteoclast,osteoclast,CL:0000092,CL_0000092,True,,exact_match,LLM prediction matches gold standard exactly
+cells with ... nuclei,nucleate cell,CL:0002242,-,False,-,incorrect,LLM returned no prediction
+Embryonic Cell,embryonic cell,CL:0002321,CL_0002321,True,,exact_match,LLM prediction matches gold standard exactly
+Adipocyte,fat cell,CL:0000136,CL_0000136,True,,exact_match,LLM prediction matches gold standard exactly
+adipocytes,fat cell,CL:0000136,CL_0000136,True,,exact_match,LLM prediction matches gold standard exactly
+bone marrow ... cell,bone marrow cell,CL:0002092,CL_0002092,True,,exact_match,LLM prediction matches gold standard exactly
+Fibroblasts,fibroblast,CL:0000057,CL_0000057,True,,exact_match,LLM prediction matches gold standard exactly
+stromal cells,stromal cell,CL:0000499,CL_0000499,True,,exact_match,LLM prediction matches gold standard exactly
+Osteoblasts,osteoblast,CL:0000062,CL_0000062,True,,exact_match,LLM prediction matches gold standard exactly
+Stromal Cells,stromal cell,CL:0000499,CL_0000499,True,,exact_match,LLM prediction matches gold standard exactly
+bone marrow mesenchymal cell,mesenchymal stem cell of the bone marrow,CL:0002540,CL_0002540,True,,exact_match,LLM prediction matches gold standard exactly
+bone cells,bone cell,CL:0001035,CL_0001035,True,,exact_match,LLM prediction matches gold standard exactly
+bone cell,bone cell,CL:0001035,CL_0000062,False,osteoblast,broader,osteoblast is a subtype of bone cell
+oligodendrocytes,oligodendrocyte,CL:0000128,CL_0000128,True,,exact_match,LLM prediction matches gold standard exactly
+F,fibroblast,CL:0000057,CL_0000057,True,,exact_match,LLM prediction matches gold standard exactly
+Hair cell,sensory hair cell,CL:0000855,CL_0000855,True,,exact_match,LLM prediction matches gold standard exactly
+Hair Cell,sensory hair cell,CL:0000855,CL_0000589,False,cochlear inner hair cell,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+inner phalangeal cells,inner phalangeal cell,CL:0005015,CL_0002490,False,organ of Corti supporting cell,broader,organ of Corti supporting cell is parent of inner phalangeal cell
+inner phalangeal supporting cells,inner phalangeal cell,CL:0005015,CL_0002490,False,organ of Corti supporting cell,broader,organ of Corti supporting cell is parent of inner phalangeal cell
+Fibroblast,fibroblast,CL:0000057,CL_0000057,True,,exact_match,LLM prediction matches gold standard exactly
+SCs,supportive cell,CL:0000630,CL_0000034,False,stem cell,incorrect,no valid semantic relation found
+IHCs,cochlear inner hair cell,CL:0000589,CL_0000589,True,,exact_match,LLM prediction matches gold standard exactly
+OHCs,outer hair cell,CL:0000601,CL_0000601,True,,exact_match,LLM prediction matches gold standard exactly
+hair ... cell,sensory hair cell,CL:0000855,CL_0000589,False,cochlear inner hair cell,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+Deiter's supporting cells,Deiter's cell,CL:0000635,CL_0000635,True,,exact_match,LLM prediction matches gold standard exactly
+Hair ... Cell,sensory hair cell,CL:0000855,CL_0000589,False,cochlear inner hair cell,incorrect,LLM predicted a more specific term but specificity cannot be inferred from the label alone
+Supporting Cell,supportive cell,CL:0000630,CL_0000630,True,,exact_match,LLM prediction matches gold standard exactly
+Deiter's cells,Deiter's cell,CL:0000635,CL_0000635,True,,exact_match,LLM prediction matches gold standard exactly
+Outer hair cells,outer hair cell,CL:0000601,CL_0000601,True,,exact_match,LLM prediction matches gold standard exactly
+Dieter's cells,Deiter's cell,CL:0000635,CL_0000001,False,primary cultured cell,incorrect,no valid semantic relation found
+Platelets,platelet,CL:0000233,CL_0000233,True,,exact_match,LLM prediction matches gold standard exactly
+Sperm,sperm,CL:0000019,CL_0011013,False,motile sperm cell,synonym,motile sperm cell = sperm
+embryonic stems cells,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+early embryonic cells,early embryonic cell,CL:0000007,CL_0000007,True,,exact_match,LLM prediction matches gold standard exactly
+granular cells,granule cell,CL:0000120,CL_0000501,False,granulosa cell,incorrect,no valid semantic relation found
+multipotent ... stem cells,multi fate stem cell,CL:0000048,CL_0000048,True,,exact_match,LLM prediction matches gold standard exactly
+Embryonic stem ... cells,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+germcells,germ cell,CL:0000586,CL_0000586,True,,exact_match,LLM prediction matches gold standard exactly
+somatic cells,somatic cell,CL:0002371,-,False,-,incorrect,LLM returned no prediction
+germline stem cells,germ line stem cell,CL:0000014,CL_0000014,True,,exact_match,LLM prediction matches gold standard exactly
+Embryonic stem cell,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+primary ... cell,primary cultured cell,CL:0000001,CL_0000001,True,,exact_match,LLM prediction matches gold standard exactly
+gastric epithelial cells,epithelial cell of stomach,CL:0002178,CL_0002178,True,,exact_match,LLM prediction matches gold standard exactly
+leukocyte,leukocyte,CL:0000738,CL_0000738,True,,exact_match,LLM prediction matches gold standard exactly
+cultured cell,cultured cell,CL:0000010,CL_0000010,True,,exact_match,LLM prediction matches gold standard exactly
+male germ cell,male germ cell,CL:0000015,CL_0000015,True,,exact_match,LLM prediction matches gold standard exactly
+amacrine,amacrine cell,CL:0000561,CL_0000561,True,,exact_match,LLM prediction matches gold standard exactly
+multipotent ... cells,multi fate stem cell,CL:0000048,CL_0000837,False,hematopoietic multipotent progenitor cell,incorrect,no valid semantic relation found
+retinal progenitor cells,retinal progenitor cell,CL:0002672,CL_0002672,True,,exact_match,LLM prediction matches gold standard exactly
+neuroblastic,neuroblast,CL:0000031,CL_0000031,True,,exact_match,LLM prediction matches gold standard exactly
+retinal photoreceptor cells,camera type eye photoreceptor cell,CL:0010009,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of camera type eye photoreceptor cell
+retinal photoreceptors,camera type eye photoreceptor cell,CL:0010009,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of camera type eye photoreceptor cell
+retinal photoreceptor,camera type eye photoreceptor cell,CL:0010009,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of camera type eye photoreceptor cell
+ganglion cells,retinal ganglion cell,CL:0000740,CL_0000740,True,,exact_match,LLM prediction matches gold standard exactly
+ganglion cell,retinal ganglion cell,CL:0000740,CL_0000740,True,,exact_match,LLM prediction matches gold standard exactly
+Rod photoreceptor,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+Cone photoreceptors,retinal cone cell,CL:0000573,CL_0000490,False,photopic photoreceptor cell,incorrect,no valid semantic relation found
+pinealocytes,pinealocyte,CL:0000652,CL_0000652,True,,exact_match,LLM prediction matches gold standard exactly
+cone photoreceptor,retinal cone cell,CL:0000573,CL_0000490,False,photopic photoreceptor cell,incorrect,no valid semantic relation found
+amacrine cells,amacrine cell,CL:0000561,CL_0000561,True,,exact_match,LLM prediction matches gold standard exactly
+epithelial cells of ... intestine,intestinal epithelial cell,CL:0002563,CL_0002563,True,,exact_match,LLM prediction matches gold standard exactly
+epithelial cells ... of ... intestines,intestinal epithelial cell,CL:0002563,CL_0002563,True,,exact_match,LLM prediction matches gold standard exactly
+epithelial cells of ... small intestine,epithelial cell of small intestine,CL:0002254,CL_0002563,False,intestinal epithelial cell,incorrect,no valid semantic relation found
+epithelial cells of ... intestines,intestinal epithelial cell,CL:0002563,CL_0002563,True,,exact_match,LLM prediction matches gold standard exactly
+trophoblast giant cell,trophoblast giant cell,CL:0002488,CL_0002497,False,primary trophoblast giant cell,broader,primary trophoblast giant cell is subtype of trophoblast giant cell
+ES Cells,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+tgc,trophoblast giant cell,CL:0002488,CL_0002497,False,primary trophoblast giant cell,broader,primary trophoblast giant cell is subtype of trophoblast giant cell
+TGCs,trophoblast giant cell,CL:0002488,CL_0002497,False,primary trophoblast giant cell,broader,primary trophoblast giant cell is subtype of trophoblast giant cell
+TGC,trophoblast giant cell,CL:0002488,CL_0002497,False,primary trophoblast giant cell,broader,primary trophoblast giant cell is subtype of trophoblast giant cell
+diploid ... cell,diploid cell,CL:0000415,CL_0000415,True,,exact_match,LLM prediction matches gold standard exactly
+trophoblast ... cells,trophoblast cell,CL:0000351,CL_0000351,True,,exact_match,LLM prediction matches gold standard exactly
+trophoblast ... cell,trophoblast cell,CL:0000351,CL_0000351,True,,exact_match,LLM prediction matches gold standard exactly
+secondary TGCs,secondary trophoblast giant cell,CL:0002498,CL_0002498,True,,exact_match,LLM prediction matches gold standard exactly
+primary TGCs,primary trophoblast giant cell,CL:0002497,CL_0002497,True,,exact_match,LLM prediction matches gold standard exactly
+secondary giant cell,secondary trophoblast giant cell,CL:0002498,CL_0000647,False,multinucleated giant cell,incorrect,no valid semantic relation found
+giant cell,trophoblast giant cell,CL:0002488,CL_0000647,False,multinucleated giant cell,incorrect,no valid semantic relation found
+pancreatic beta cell,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell,synonym,"insulin secreting cell = type B pancreatic cell, functional synonym"
+Sertoli cells,Sertoli cell,CL:0000216,CL_0000216,True,,exact_match,LLM prediction matches gold standard exactly
+Sertoli,Sertoli cell,CL:0000216,CL_0000216,True,,exact_match,LLM prediction matches gold standard exactly
+Sertoli Cell,Sertoli cell,CL:0000216,CL_0000216,True,,exact_match,LLM prediction matches gold standard exactly
+vascular endothelial cells,blood vessel endothelial cell,CL:0000071,CL_0000115,False,endothelial cell,broader,endothelial cell is parent of blood vessel endothelial cell
+follicle cells,follicle cell,CL:0000477,CL_0000501,False,granulosa cell,broader,granulosa cell is a subtype of follicle cell
+chondrocyte,chondrocyte,CL:0000138,CL_0000138,True,,exact_match,LLM prediction matches gold standard exactly
+endothelial ... cells,endothelial cell,CL:0000115,CL_0000115,True,,exact_match,LLM prediction matches gold standard exactly
+somatic cell,somatic cell,CL:0002371,-,False,-,incorrect,LLM returned no prediction
+in vitro cell,cell in vitro,CL:0001034,CL_0000010,False,cultured cell,synonym,cultured cell = cell in vitro
+Somatic cells,somatic cell,CL:0002371,CL_0000066,False,epithelial cell,incorrect,no valid semantic relation found
+gametic,gamete,CL:0000300,CL_0000019,False,sperm,broader,sperm is a subtype of gamete
+polygonal cells,polygonal cell,CL:0000398,CL_0000066,False,epithelial cell,broader,epithelial cell is parent of polygonal cell
+Blood cells,blood cell,CL:0000081,CL_0000081,True,,exact_match,LLM prediction matches gold standard exactly
+absorptive ... cells,absorptive cell,CL:0000212,CL_1000334,False,enterocyte of epithelium of small intestine,broader,enterocyte of epithelium of small intestine is subtype of absorptive cell
+squamous cells,squamous epithelial cell,CL:0000076,CL_0000076,True,,exact_match,LLM prediction matches gold standard exactly
+epiblast cells,epiblast cell,CL:0000352,CL_0000352,True,,exact_match,LLM prediction matches gold standard exactly
+Clara cell,Clara cell,CL:0000158,CL_1000272,False,lung secretory cell,synonym,"lung secretory cell = Clara cell, official CL synonym"
+hematopoietic cell,hematopoietic cell,CL:0000988,CL_0000988,True,,exact_match,LLM prediction matches gold standard exactly
+gamete,gamete,CL:0000300,CLO_0000019,False,immortal cell line cell,incorrect,no valid semantic relation found
+fibroblastic cell,fibroblast,CL:0000057,CL_0000057,True,,exact_match,LLM prediction matches gold standard exactly
+cap cells,cap cell,CL:0000676,CL_0000676,True,,exact_match,LLM prediction matches gold standard exactly
+animal ... cells,animal cell,CL:0000548,CL_0001034,False,cell in vitro,broader,cell in vitro is subtype of animal cell
+osteoprogenitor cells,preosteoblast,CL:0007010,CL_0001040,False,non-terminally differentiated osteoblast,synonym,non-terminally differentiated osteoblast = preosteoblast
+osteoblastic,osteoblast,CL:0000062,CL_0000062,True,,exact_match,LLM prediction matches gold standard exactly
+keratinizing ... cells,keratin accumulating cell,CL:0000311,CL_0000312,False,keratinocyte,synonym,keratinocyte = keratin accumulating cell
+TEC,epithelial cell of thymus,CL:0002293,CL_0002293,True,,exact_match,LLM prediction matches gold standard exactly
+basal cells of ... epidermis,basal cell of epidermis,CL:0002187,CL_0000646,False,basal cell,broader,basal cell is parent of basal cell of epidermis
+cells of ... ORS of hair follicles,outer root sheath cell,CL:0002561,CL_0002561,True,,exact_match,LLM prediction matches gold standard exactly
+TECs,epithelial cell of thymus,CL:0002293,CL_0002293,True,,exact_match,LLM prediction matches gold standard exactly
+embryonic ... stem cells,embryonic stem cell,CL:0002322,CL_0002322,True,,exact_match,LLM prediction matches gold standard exactly
+thymocyte,thymocyte,CL:0000893,CL_0002420,False,immature T cell,synonym,"immature T cell = thymocyte, canonical CL synonym"
+medullary TECs,medullary thymic epithelial cell,CL:0002365,CL_0002365,True,,exact_match,LLM prediction matches gold standard exactly
+medullary ... TECs,medullary thymic epithelial cell,CL:0002365,CL_0002365,True,,exact_match,LLM prediction matches gold standard exactly
+cells of ... stratified epithelia,stratified epithelial cell,CL:0000079,CL_0000079,True,,exact_match,LLM prediction matches gold standard exactly
+cortical TECs,cortical thymic epithelial cell,CL:0002364,CL_0002364,True,,exact_match,LLM prediction matches gold standard exactly
+cortical ... TECs,cortical thymic epithelial cell,CL:0002364,CL_0002364,True,,exact_match,LLM prediction matches gold standard exactly
+ectodermal ... cells,ectodermal cell,CL:0000221,CL_0000221,True,,exact_match,LLM prediction matches gold standard exactly
+cells of ... epidermis,epidermal cell,CL:0000362,CL_0000312,False,keratinocyte,broader,keratinocyte is the main subtype of epidermal cell
+TECs of cortex,cortical thymic epithelial cell,CL:0002364,CL_0002364,True,,exact_match,LLM prediction matches gold standard exactly
+thymic epithelial cell,epithelial cell of thymus,CL:0002293,CL_0002293,True,,exact_match,LLM prediction matches gold standard exactly
+TECs of ... medulla,medullary thymic epithelial cell,CL:0002365,CL_0002365,True,,exact_match,LLM prediction matches gold standard exactly
+basal cells of epidermis,basal cell of epidermis,CL:0002187,CL_0000646,False,basal cell,broader,basal cell is parent of basal cell of epidermis
+epidermal cell,epidermal cell,CL:0000362,CL_0000312,False,keratinocyte,broader,keratinocyte is the main subtype of epidermal cell
+ameloblasts,ameloblast,CL:0000059,CL_0000059,True,,exact_match,LLM prediction matches gold standard exactly
+thymic epithelial cells,epithelial cell of thymus,CL:0002293,CL_0002293,True,,exact_match,LLM prediction matches gold standard exactly
+basal ... cells,basal cell,CL:0000646,CL_0000646,True,,exact_match,LLM prediction matches gold standard exactly
+Cortical ... TEC,cortical thymic epithelial cell,CL:0002364,CL_0002364,True,,exact_match,LLM prediction matches gold standard exactly
+ORS cells,outer root sheath cell,CL:0002561,CL_0002561,True,,exact_match,LLM prediction matches gold standard exactly
+medullary TEC,medullary thymic epithelial cell,CL:0002365,CL_0002365,True,,exact_match,LLM prediction matches gold standard exactly
+enucleating ... cells,anucleate cell,CL:0000225,CL_0000765,False,erythroblast,incorrect,no valid semantic relation found
+hair-shaft ... cells,hair follicle cell,CL:0002559,CL_0010000,False,keratinized cell of hair follicle,incorrect,no valid semantic relation found
+T,T cell,CL:0000084,CL_0000542,False,lymphocyte,broader,lymphocyte is parent of T cell
+mature neutrophil,mature neutrophil,CL:0000096,CL_0000775,False,neutrophil,incorrect,no valid semantic relation found
+eosinophil leukocytes,eosinophil,CL:0000771,CL_0000041,False,mature eosinophil,synonym,mature eosinophil = eosinophil
+immature neutrophils,immature neutrophil,CL:0000776,CL_0000776,True,,exact_match,LLM prediction matches gold standard exactly
+granulocytes,granulocyte,CL:0000094,CL_0000766,False,myeloid leukocyte,broader,myeloid leukocyte is parent of granulocyte
+granulocyte,granulocyte,CL:0000094,CL_0000094,True,,exact_match,LLM prediction matches gold standard exactly
+B,basal cell,CL:0000646,CL_0000236,False,B cell,incorrect,no valid semantic relation found
+MC,fibroblast,CL:0000057,CL_0000097,False,mast cell,incorrect,no valid semantic relation found
+N,neutrophil,CL:0000775,-,False,-,incorrect,LLM returned no prediction
+C,chondrocyte,CL:0000138,CL_0000236,False,B cell,incorrect,no valid semantic relation found
+O,osteocyte,CL:0000137,-,False,-,incorrect,LLM returned no prediction
+neutrophil leucocytes,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil,synonym,neutrophil leukocyte = neutrophil
+neutrophil leukocytes,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil,synonym,neutrophil leukocyte = neutrophil
+neutrophil leukocyte,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil,synonym,neutrophil leukocyte = neutrophil
+mucous cells,mucus secreting cell,CL:0000319,CL_0000651,False,obsolete mucous neck cell,incorrect,no valid semantic relation found
+ciliated epithelial cells,ciliated epithelial cell,CL:0000067,CL_0000067,True,,exact_match,LLM prediction matches gold standard exactly
+basal epithelial cell,basal cell,CL:0000646,CL_0002187,False,basal cell of epidermis,synonym,basal cell of epidermis = basal cell
+basal epithelial cells,basal cell,CL:0000646,CL_0000646,True,,exact_match,LLM prediction matches gold standard exactly
+ciliated ... cells,ciliated cell,CL:0000064,CL_0000067,False,ciliated epithelial cell,broader,ciliated epithelial cell is subtype of ciliated cell
+Granulocytes,granulocyte,CL:0000094,CL_0000094,True,,exact_match,LLM prediction matches gold standard exactly
+chrondrocyte,chondrocyte,CL:0000138,CL_0000138,True,,exact_match,LLM prediction matches gold standard exactly
+eosinophil,eosinophil,CL:0000771,CL_0000771,True,,exact_match,LLM prediction matches gold standard exactly
+immature ... neutrophil,immature neutrophil,CL:0000776,CL_0000776,True,,exact_match,LLM prediction matches gold standard exactly
+osteocytes,osteocyte,CL:0000137,CL_0000137,True,,exact_match,LLM prediction matches gold standard exactly
+eosiniphilic,eosinophil,CL:0000771,CL_0000041,False,mature eosinophil,synonym,"typo of eosinophilic, mature eosinophil = eosinophil"
+osteocyte,osteocyte,CL:0000137,CL_0000137,True,,exact_match,LLM prediction matches gold standard exactly
+inflammatory cells,inflammatory cell,CL:0009002,CL_0000738,False,leukocyte,broader,leukocyte is parent of inflammatory cell
+myeloid cell,myeloid cell,CL:0000763,CL_0000763,True,,exact_match,LLM prediction matches gold standard exactly
+Neutrophils,neutrophil,CL:0000775,CL_0000096,False,mature neutrophil,synonym,Neutrophil = mature neutrophil
+photosensory neurons,photoreceptor cell,CL:0000210,CL_0000210,True,,exact_match,LLM prediction matches gold standard exactly
+cerebral cortex neurons,cerebral cortex neuron,CL:0010012,CL_0010012,True,,exact_match,LLM prediction matches gold standard exactly
+photosensory ... neurons,photoreceptor cell,CL:0000210,CL_0000210,True,,exact_match,LLM prediction matches gold standard exactly
+GC,retinal ganglion cell,CL:0000740,CL_0000844,False,germinal center B cell,incorrect,no valid semantic relation found
+Primary cells,primary cultured cell,CL:0000001,CL_0000001,True,,exact_match,LLM prediction matches gold standard exactly
+photosensory neurons of ... retina,camera type eye photoreceptor cell,CL:0010009,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of camera type eye photoreceptor cell
+receptoral ... neurons,neuronal receptor cell,CL:0000006,CL_0000101,False,sensory neuron,broader,sensory neuron is parent of neuronal receptor cell
+rod photoreceptor neuronal,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+receptoral neurons,neuronal receptor cell,CL:0000006,CL_0000101,False,sensory neuron,broader,sensory neuron is parent of neuronal receptor cell
+photosensory ... neurons of ... retina,camera type eye photoreceptor cell,CL:0010009,CL_0000573,False,retinal cone cell,incorrect,no valid semantic relation found
+Receptoral ... Neurons,neuronal receptor cell,CL:0000006,CL_0000101,False,sensory neuron,broader,sensory neuron is parent of neuronal receptor cell
+photosensory neuron,photoreceptor cell,CL:0000210,CL_0000573,False,retinal cone cell,incorrect,no valid semantic relation found
+photoreceptor neurons,photoreceptor cell,CL:0000210,CL_0000210,True,,exact_match,LLM prediction matches gold standard exactly
+dopaminergic neurons,dopaminergic neuron,CL:0000700,CL_0000700,True,,exact_match,LLM prediction matches gold standard exactly
+rod photosensory neurons,retinal rod cell,CL:0000604,CL_0000604,True,,exact_match,LLM prediction matches gold standard exactly
+ganglion cells of ... retina,retinal ganglion cell,CL:0000740,CL_0000740,True,,exact_match,LLM prediction matches gold standard exactly
+rod ... photoreceptor,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+dopaminergic neuronal,dopaminergic neuron,CL:0000700,CL_0000700,True,,exact_match,LLM prediction matches gold standard exactly
+cone ... photoreceptor,retinal cone cell,CL:0000573,CL_0000210,False,photoreceptor cell,broader,photoreceptor cell is parent of retinal cone cell
+pluripotent ... stem cells,pluripotent stem cell,CL:0002248,CL_0002248,True,,exact_match,LLM prediction matches gold standard exactly
+pluripotent ... cells,pluripotent stem cell,CL:0002248,CL_0002248,True,,exact_match,LLM prediction matches gold standard exactly
+Embryonic Cells,embryonic cell,CL:0002321,CL_0002321,True,,exact_match,LLM prediction matches gold standard exactly
+Pluripotent ... Cells,pluripotent stem cell,CL:0002248,CL_0002248,True,,exact_match,LLM prediction matches gold standard exactly
+pluripotent cells,pluripotent stem cell,CL:0002248,CL_0002248,True,,exact_match,LLM prediction matches gold standard exactly
+embryonic cell,embryonic cell,CL:0002321,CL_0002321,True,,exact_match,LLM prediction matches gold standard exactly
+osteoblast cells,osteoblast,CL:0000062,CL_0000062,True,,exact_match,LLM prediction matches gold standard exactly
+fibroblastic,fibroblast,CL:0000057,CL_0000057,True,,exact_match,LLM prediction matches gold standard exactly
+fibroblastic cells,fibroblast,CL:0000057,CL_0000057,True,,exact_match,LLM prediction matches gold standard exactly
+Osteoprogenitor cells,preosteoblast,CL:0007010,CL_0000062,False,osteoblast,broader,osteoblast is parent of preosteoblast
+ductal epithelial cells,duct epithelial cell,CL:0000068,CL_0000068,True,,exact_match,LLM prediction matches gold standard exactly
+Mammary epithelial cell,mammary epithelial cell,CL:0002327,CL_0002327,True,,exact_match,LLM prediction matches gold standard exactly
+ductal epithelial cell,duct epithelial cell,CL:0000068,CL_0000068,True,,exact_match,LLM prediction matches gold standard exactly
+stromal cell,stromal cell,CL:0000499,CL_0000499,True,,exact_match,LLM prediction matches gold standard exactly
+secretory ... cells,secretory cell,CL:0000151,CL_0000151,True,,exact_match,LLM prediction matches gold standard exactly
+mammary epithelial cells,mammary epithelial cell,CL:0002327,CL_0002327,True,,exact_match,LLM prediction matches gold standard exactly
+mammary epithelial cell,mammary epithelial cell,CL:0002327,CL_0002326,False,luminal epithelial cell of mammary gland,broader,luminal epithelial cell of mammary gland is subtype of mammary epithelial cell
+alveolar epithelial cells,epithelial cell of alveolus of lung,CL:0010003,CL_0010003,True,,exact_match,LLM prediction matches gold standard exactly
+Apoptotic ... cells,apoptosis fated cell,CL:0000445,CL_0000445,True,,exact_match,LLM prediction matches gold standard exactly
+S,stromal cell,CL:0000499,CL_0002281,False,type S enteroendocrine cell,incorrect,no valid semantic relation found
+alveolar epithelial cell,epithelial cell of alveolus of lung,CL:0010003,CL_0010003,True,,exact_match,LLM prediction matches gold standard exactly
+DEC,duct epithelial cell,CL:0000068,CL_2000002,False,decidual cell,incorrect,no valid semantic relation found
+ductal ... epithelial cells,duct epithelial cell,CL:0000068,CL_0000068,True,,exact_match,LLM prediction matches gold standard exactly
+mammary stem cells,mammary stem cell,CL:0002451,CL_0002451,True,,exact_match,LLM prediction matches gold standard exactly
+kidney epithelial cells,kidney epithelial cell,CL:0002518,CL_0002584,False,renal cortical epithelial cell,broader,renal cortical epithelial cell is subtype of kidney epithelial cell
+Kidney Cells,kidney cell,CL:1000497,CL_1000497,True,,exact_match,LLM prediction matches gold standard exactly
+dermal fibroblasts,fibroblast of dermis,CL:0002551,CL_0002620,False,skin fibroblast,synonym,skin fibroblast = fibroblast of dermis
+kidney collecting duct epithelial cells,kidney collecting duct epithelial cell,CL:1000454,CL_1000454,True,,exact_match,LLM prediction matches gold standard exactly
+inner medullary ... cells,kidney inner medulla cell,CL:1000617,CL_1000547,False,kidney inner medulla collecting duct epithelial cell,broader,kidney inner medulla collecting duct epithelial cell is subtype of kidney inner medulla cell
+collecting duct ... cells,kidney collecting duct cell,CL:1001225,CL_1000454,False,kidney collecting duct epithelial cell,synonym,kidney collecting duct epithelial cell = kidney collecting duct cell
+tubule cells,kidney tubule cell,CL:1000507,CL_1000507,True,,exact_match,LLM prediction matches gold standard exactly
+kidney epithelial cell,kidney epithelial cell,CL:0002518,CL_0002584,False,renal cortical epithelial cell,broader,renal cortical epithelial cell is subtype of kidney epithelial cell
+kidney cortical ... cells,kidney cortical cell,CL:0002681,CL_0002584,False,renal cortical epithelial cell,broader,renal cortical epithelial cell is subtype of kidney cortical cell
+kidney epithelial cellular,kidney epithelial cell,CL:0002518,CL_0002518,True,,exact_match,LLM prediction matches gold standard exactly
+Kidney Epithelial Cells,kidney epithelial cell,CL:0002518,CL_0002518,True,,exact_match,LLM prediction matches gold standard exactly
+kidney cortex epithelial cells,renal cortical epithelial cell,CL:0002584,CL_0002584,True,,exact_match,LLM prediction matches gold standard exactly
+ciliated cells,ciliated cell,CL:0000064,CL_0005012,False,multiciliated epithelial cell,broader,multiciliated epithelial cell is subtype of ciliated cell
+brown fat adipocytes,brown fat cell,CL:0000449,CL_0000449,True,,exact_match,LLM prediction matches gold standard exactly
+white ... fat adipocytes,white fat cell,CL:0000448,CL_0000448,True,,exact_match,LLM prediction matches gold standard exactly
+regulatory T cell,regulatory T cell,CL:0000815,CL_0000815,True,,exact_match,LLM prediction matches gold standard exactly
+Epithelial cells,epithelial cell,CL:0000066,CL_0000066,True,,exact_match,LLM prediction matches gold standard exactly
+cells of ... kidney,kidney cell,CL:1000497,CL_0002518,False,kidney epithelial cell,broader,kidney epithelial cell is subtype of kidney cell
+Sertoli Cells,Sertoli cell,CL:0000216,CL_0000216,True,,exact_match,LLM prediction matches gold standard exactly
+Spermatocytes,spermatocyte,CL:0000017,CL_0000017,True,,exact_match,LLM prediction matches gold standard exactly
+Spermatocyte,spermatocyte,CL:0000017,CL_0000017,True,,exact_match,LLM prediction matches gold standard exactly
+male ... germ cells,male germ cell,CL:0000015,CL_0000015,True,,exact_match,LLM prediction matches gold standard exactly
+Gametes,gamete,CL:0000300,CLO_0000019,False,immortal cell line cell,incorrect,no valid semantic relation found
+zygote,zygote,CL:0000365,CL_0000365,True,,exact_match,LLM prediction matches gold standard exactly
+gonocytes,primordial germ cell,CL:0000670,CL_0002238,False,male gonocyte,broader,male gonocyte is subtype of primordial germ cell
+gametes,gamete,CL:0000300,CLO_0000019,False,immortal cell line cell,incorrect,no valid semantic relation found
+ovular,egg cell,CL:0000025,CL_0000023,False,oocyte,synonym,oocyte = egg cell
+Leydig cells,Leydig cell,CL:0000178,CL_0000178,True,,exact_match,LLM prediction matches gold standard exactly
+spermatids,spermatid,CL:0000018,CL_4030036,False,early spermatid,synonym,early spermatid = spermatid
+primary spermatocytes,primary spermatocyte,CL:0000656,CL_0000656,True,,exact_match,LLM prediction matches gold standard exactly
+multinucleate cells,multinucleate cell,CL:0000228,CL_0000647,False,multinucleated giant cell,broader,multinucleated giant cell is subtype of multinucleate cell
+Germ Cell,germ cell,CL:0000586,CL_0000586,True,,exact_match,LLM prediction matches gold standard exactly
+Germ Cells,germ cell,CL:0000586,CL_0000586,True,,exact_match,LLM prediction matches gold standard exactly
+multinucleated cells,multinucleate cell,CL:0000228,CL_0000647,False,multinucleated giant cell,broader,multinucleated giant cell is subtype of multinucleate cell
+spermatocyte,spermatocyte,CL:0000017,CL_0000017,True,,exact_match,LLM prediction matches gold standard exactly
+germ-cell,germ cell,CL:0000586,CL_0000586,True,,exact_match,LLM prediction matches gold standard exactly
+peritubular myoid cells,peritubular myoid cell,CL:0002481,CL_0002481,True,,exact_match,LLM prediction matches gold standard exactly
+SC,Sertoli cell,CL:0000216,CL_0000034,False,stem cell,incorrect,no valid semantic relation found
+peritubular myoid cell,peritubular myoid cell,CL:0002481,CL_0002481,True,,exact_match,LLM prediction matches gold standard exactly
+β-cell,type B pancreatic cell,CL:0000169,CL_0000169,True,,exact_match,LLM prediction matches gold standard exactly
+β-cells,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell,synonym,"insulin secreting cell = type B pancreatic cell, functional synonym"
+beta cells,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell,synonym,"insulin secreting cell = type B pancreatic cell, functional synonym"
+Beta-Cell,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell,synonym,"insulin secreting cell = type B pancreatic cell, functional synonym"
+pancreatic β-cells,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell,synonym,"insulin secreting cell = type B pancreatic cell, functional synonym"
+α-cells,pancreatic A cell,CL:0000171,CL_0000170,False,glucagon secreting cell,synonym,"glucagon secreting cell = pancreatic A cell, functional synonym"
+pancreatic β-cell,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell,synonym,"insulin secreting cell = type B pancreatic cell, functional synonym"
+β-Cell,type B pancreatic cell,CL:0000169,CL_0000169,True,,exact_match,LLM prediction matches gold standard exactly
+WAT adipocytes,white fat cell,CL:0000448,CL_0000448,True,,exact_match,LLM prediction matches gold standard exactly
+β cell,type B pancreatic cell,CL:0000169,CL_0000169,True,,exact_match,LLM prediction matches gold standard exactly
+β cells,type B pancreatic cell,CL:0000169,CL_0000168,False,insulin secreting cell,synonym,"insulin secreting cell = type B pancreatic cell, functional synonym"
+β ... cells,type B pancreatic cell,CL:0000169,CL_0000169,True,,exact_match,LLM prediction matches gold standard exactly
+α cells,pancreatic A cell,CL:0000171,CL_0000170,False,glucagon secreting cell,synonym,"glucagon secreting cell = pancreatic A cell, functional synonym"
+α Cells,pancreatic A cell,CL:0000171,CL_0000171,True,,exact_match,LLM prediction matches gold standard exactly
+α-cell,pancreatic A cell,CL:0000171,CL_0000171,True,,exact_match,LLM prediction matches gold standard exactly
+pancreatic islet α cells,pancreatic A cell,CL:0000171,CL_0000171,True,,exact_match,LLM prediction matches gold standard exactly
+α- ... cell,pancreatic A cell,CL:0000171,CL_0000170,False,glucagon secreting cell,synonym,"glucagon secreting cell = pancreatic A cell, functional synonym"
+α cells of ... pancreatic islets of Langerhans,pancreatic A cell,CL:0000171,CL_0000171,True,,exact_match,LLM prediction matches gold standard exactly
+β- ... cell,type B pancreatic cell,CL:0000169,CL_0000169,True,,exact_match,LLM prediction matches gold standard exactly
+Islet α cells,pancreatic A cell,CL:0000171,CL_0000171,True,,exact_match,LLM prediction matches gold standard exactly
+pancreatic δ cells,pancreatic D cell,CL:0000173,CL_0000173,True,,exact_match,LLM prediction matches gold standard exactly
+α ... cells,pancreatic A cell,CL:0000171,CL_0000171,True,,exact_match,LLM prediction matches gold standard exactly
+δ cells,pancreatic D cell,CL:0000173,CL_0000172,False,somatostatin secreting cell,synonym,"somatostatin secreting cell = pancreatic D cell, functional synonym"
+pancreatic α cells,pancreatic A cell,CL:0000171,CL_0000171,True,,exact_match,LLM prediction matches gold standard exactly
+α-Cell,pancreatic A cell,CL:0000171,CL_0000171,True,,exact_match,LLM prediction matches gold standard exactly
+α cells of ... islets,pancreatic A cell,CL:0000171,CL_0000171,True,,exact_match,LLM prediction matches gold standard exactly
+α cell,pancreatic A cell,CL:0000171,CL_0000170,False,glucagon secreting cell,synonym,"glucagon secreting cell = pancreatic A cell, functional synonym"
+insulin-secreting ... cells,insulin secreting cell,CL:0000168,CL_0000169,False,type B pancreatic cell,synonym,"type B pancreatic cell = insulin secreting cell, functional synonym"
+Islet β cells,type B pancreatic cell,CL:0000169,CL_0000169,True,,exact_match,LLM prediction matches gold standard exactly
+naïve ... T-cells,naive T cell,CL:0000898,CL_0000898,True,,exact_match,LLM prediction matches gold standard exactly
+naive ... T-cells,naive T cell,CL:0000898,CL_0000898,True,,exact_match,LLM prediction matches gold standard exactly
+regulatory ... T-cells,regulatory T cell,CL:0000815,CL_0000815,True,,exact_match,LLM prediction matches gold standard exactly
+memory T-cells,memory T cell,CL:0000813,CL_0000897,False,"CD4-positive, alpha-beta memory T cell",synonym,CD4-positive alpha-beta memory T cell = memory T cell
+B- ... cells,B cell,CL:0000236,CL_0000236,True,,exact_match,LLM prediction matches gold standard exactly
+T- ... cells,T cell,CL:0000084,CL_0000542,False,lymphocyte,broader,lymphocyte is parent of T cell
+B-cells,B cell,CL:0000236,CL_0000236,True,,exact_match,LLM prediction matches gold standard exactly
+polymorphonuclear neutrophils,mature neutrophil,CL:0000096,CL_0000096,True,,exact_match,LLM prediction matches gold standard exactly
+Th1,T-helper 1 cell,CL:0000545,CL_0000545,True,,exact_match,LLM prediction matches gold standard exactly
+M cells,M cell of gut,CL:0000682,CL_0000682,True,,exact_match,LLM prediction matches gold standard exactly
+M-cell,M cell of gut,CL:0000682,CL_1000353,False,microfold cell of epithelium of small intestine,synonym,microfold cell of epithelium of small intestine = M cell of gut
+PMN,mature neutrophil,CL:0000096,CL_0000096,True,mature neutrophil,exact_match,LLM prediction matches gold standard exactly
+T helper ... 1,T-helper 1 cell,CL:0000545,CL_0000545,True,,exact_match,LLM prediction matches gold standard exactly
+M cell,M cell of gut,CL:0000682,CL_1000353,False,microfold cell of epithelium of small intestine,synonym,microfold cell of epithelium of small intestine = M cell of gut
+memory ... T-cells,memory T cell,CL:0000813,CL_0000813,True,,exact_match,LLM prediction matches gold standard exactly
+Th2,T-helper 2 cell,CL:0000546,CL_0000546,True,,exact_match,LLM prediction matches gold standard exactly
+B-cell,B cell,CL:0000236,CL_0000945,False,lymphocyte of B lineage,synonym,B cell = lymphocyte of B lineage
+T -cells,T cell,CL:0000084,CL_0002419,False,mature T cell,synonym,mature T cell = T cell
+antigen presenting cells,professional antigen presenting cell,CL:0000145,CL_0000451,False,dendritic cell,broader,dendritic cell is subtype of professional antigen presenting cell
+Purkinje cells of ... cerebellum,Purkinje cell,CL:0000121,CL_0000121,True,,exact_match,LLM prediction matches gold standard exactly
+cerebellar Purkinje cells,Purkinje cell,CL:0000121,CL_0000121,True,,exact_match,LLM prediction matches gold standard exactly
+ganglion ... cells,retinal ganglion cell,CL:0000740,CL_0000740,True,,exact_match,LLM prediction matches gold standard exactly
+rod ... cells,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+amacrine ... cells,amacrine cell,CL:0000561,CL_0000561,True,,exact_match,LLM prediction matches gold standard exactly
+Ganglion ... Cells,retinal ganglion cell,CL:0000740,CL_0000740,True,,exact_match,LLM prediction matches gold standard exactly
+Rod ... Cells,retinal rod cell,CL:0000604,CL_0000490,False,photopic photoreceptor cell,incorrect,no valid semantic relation found
+ganglion neurons,retinal ganglion cell,CL:0000740,CL_1001451,False,sensory neuron of dorsal root ganglion,incorrect,no valid semantic relation found
+Bipolar Cells,retinal bipolar neuron,CL:0000748,CL_0000748,True,,exact_match,LLM prediction matches gold standard exactly
+retinal bipolar ... cells,retinal bipolar neuron,CL:0000748,CL_0000748,True,,exact_match,LLM prediction matches gold standard exactly
+RPC,retinal progenitor cell,CL:0002672,CL_0002672,True,,exact_match,LLM prediction matches gold standard exactly
+retinal ... ganglion ... cells,retinal ganglion cell,CL:0000740,CL_0000740,True,,exact_match,LLM prediction matches gold standard exactly
+RPCs,retinal progenitor cell,CL:0002672,CL_0002672,True,,exact_match,LLM prediction matches gold standard exactly
+retinal progenitor cell,retinal progenitor cell,CL:0002672,CL_0002672,True,,exact_match,LLM prediction matches gold standard exactly
+retinal ... rod cells,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+cone bipolar cells,cone retinal bipolar cell,CL:0000752,CL_0004213,False,type 3a cone bipolar cell,broader,type 3a cone bipolar cell is subtype of cone retinal bipolar cell
+ON bipolar cells,ON-bipolar cell,CL:0000749,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = ON-bipolar cell
+gangion cells,retinal ganglion cell,CL:0000740,CL_0000740,True,,exact_match,LLM prediction matches gold standard exactly
+rod ... bipolar cells,rod bipolar cell,CL:0000751,CL_0000751,True,,exact_match,LLM prediction matches gold standard exactly
+Retinal Cell,retinal cell,CL:0009004,CL_0009004,True,,exact_match,LLM prediction matches gold standard exactly
+rod ... cell,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+lens fibres,lens fiber cell,CL:0011004,CL_0011004,True,,exact_match,LLM prediction matches gold standard exactly
+amacrine ... cell,amacrine cell,CL:0000561,CL_0000561,True,,exact_match,LLM prediction matches gold standard exactly
+horizontal ... neurons,horizontal cell,CL:0000745,CL_0000745,True,,exact_match,LLM prediction matches gold standard exactly
+CNS Neurons,CNS neuron (sensu Vertebrata),CL:0000117,CL_2000029,False,central nervous system neuron,synonym,central nervous system neuron = CNS neuron (sensu Vertebrata)
+cholinergic ... neurons,cholinergic neuron,CL:0000108,CL_0000108,True,,exact_match,LLM prediction matches gold standard exactly
+amacrine neurons,amacrine cell,CL:0000561,CL_0000561,True,,exact_match,LLM prediction matches gold standard exactly
+Ganglion ... Cell,retinal ganglion cell,CL:0000740,CL_0000740,True,,exact_match,LLM prediction matches gold standard exactly
+Rod ... Cell,retinal rod cell,CL:0000604,CL_0000687,False,R1 photoreceptor cell,incorrect,no valid semantic relation found
+rod bipolar ... cells,rod bipolar cell,CL:0000751,CL_0000751,True,,exact_match,LLM prediction matches gold standard exactly
+amacrine cell,amacrine cell,CL:0000561,CL_0000561,True,,exact_match,LLM prediction matches gold standard exactly
+bipolar ... cells,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = bipolar neuron in retinal context
+bipolar ... neurons,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = bipolar neuron in retinal context
+bipolar neurons,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = bipolar neuron in retinal context
+bipolars,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = bipolar neuron in retinal context
+Bipolar cell,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = bipolar neuron in retinal context
+m,Muller cell,CL:0011107,CL_0000682,False,M cell of gut,incorrect,no valid semantic relation found
+Müller cells,Muller cell,CL:0011107,CL_0000125,False,glial cell,broader,glial cell is parent of Mueller cell
+Müller glia cell,Muller cell,CL:0011107,CL_0000636,False,Mueller cell,synonym,"Mueller cell = Muller cell, spelling variant"
+bipolar,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = bipolar neuron in retinal context
+Müller ... cells,Muller cell,CL:0011107,CL_0000125,False,glial cell,broader,glial cell is parent of Muller cell
+bipolar ... cell,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = bipolar neuron in retinal context
+c,retinal cone cell,CL:0000573,CL_0000236,False,B cell,incorrect,no valid semantic relation found
+Bipolar Cell,bipolar neuron,CL:0000103,CL_0000748,False,retinal bipolar neuron,synonym,retinal bipolar neuron = bipolar neuron in retinal context
+a,amacrine cell,CL:0000561,-,False,-,incorrect,LLM returned no prediction
+g ... cells,retinal ganglion cell,CL:0000740,-,False,-,incorrect,LLM returned no prediction
+b,bipolar neuron,CL:0000103,CL_0000236,False,B cell,incorrect,no valid semantic relation found
+nerve cell,neuron,CL:0000540,CL_0000540,True,,exact_match,LLM prediction matches gold standard exactly
+spermatagonial,spermatogonium,CL:0000020,CL_0000020,True,,exact_match,LLM prediction matches gold standard exactly
+Sg,spermatogonium,CL:0000020,CL_0000020,True,,exact_match,LLM prediction matches gold standard exactly
+spore,fungal spore,CL:0002369,CL_0002369,True,,exact_match,LLM prediction matches gold standard exactly
+primordial oocytes,primary oocyte,CL:0000654,CL_0000654,True,,exact_match,LLM prediction matches gold standard exactly
+spermatocyes,spermatocyte,CL:0000017,CL_0000656,False,primary spermatocyte,synonym,"typo of spermatocytes, primary spermatocyte = spermatocyte"
+Oocytes,oocyte,CL:0000023,CL_0000023,True,,exact_match,LLM prediction matches gold standard exactly
+Oocyte,oocyte,CL:0000023,CL_0000023,True,,exact_match,LLM prediction matches gold standard exactly
