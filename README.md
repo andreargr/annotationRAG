@@ -32,6 +32,10 @@ analysis/
 │   └── Scripts for metric computation and performance evaluation.
 │── method_comparison/
 │   └── Tools for comparing the proposed method with other approaches.
+│── CRAFT benchmark/
+│   └── Files for CRAFT benchmarking.
+│── text2term/
+│   └── File with the comparison of text2term with our RAG approach.
 
 k_candidates/
 │── 5K/
